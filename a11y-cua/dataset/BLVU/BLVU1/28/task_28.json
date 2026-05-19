@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756559635.8828459,
+            "started_at": 1756559637.8828459,
             "ended_at": 1756559859.0758207,
             "started_time": "00:00.000",
-            "ended_time": "03:20.829",
+            "ended_time": "03:18.829",
             "duration": 223.19
         },
         "statistics": {
@@ -106,7 +106,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -164,8 +164,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.1092,
-            "time": "00:00.109",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -222,8 +222,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.4898,
-            "time": "00:00.490",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -286,8 +286,8 @@
             "index": 2
         },
         {
-            "timestamp": 2.7786,
-            "time": "00:02.779",
+            "timestamp": 0.7786,
+            "time": "00:00.779",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -341,8 +341,8 @@
             "index": 3
         },
         {
-            "timestamp": 3.713,
-            "time": "00:03.713",
+            "timestamp": 1.713,
+            "time": "00:01.713",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -396,8 +396,8 @@
             "index": 4
         },
         {
-            "timestamp": 4.5103,
-            "time": "00:04.510",
+            "timestamp": 2.5103,
+            "time": "00:02.510",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -451,8 +451,8 @@
             "index": 5
         },
         {
-            "timestamp": 6.6345,
-            "time": "00:06.635",
+            "timestamp": 4.6345,
+            "time": "00:04.635",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -506,8 +506,8 @@
             "index": 6
         },
         {
-            "timestamp": 6.7543,
-            "time": "00:06.754",
+            "timestamp": 4.7543,
+            "time": "00:04.754",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -561,8 +561,8 @@
             "index": 7
         },
         {
-            "timestamp": 7.8779,
-            "time": "00:07.878",
+            "timestamp": 5.8779,
+            "time": "00:05.878",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -616,8 +616,8 @@
             "index": 8
         },
         {
-            "timestamp": 7.99,
-            "time": "00:07.990",
+            "timestamp": 5.99,
+            "time": "00:05.990",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -671,8 +671,8 @@
             "index": 9
         },
         {
-            "timestamp": 9.1498,
-            "time": "00:09.150",
+            "timestamp": 7.1498,
+            "time": "00:07.150",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -726,8 +726,8 @@
             "index": 10
         },
         {
-            "timestamp": 10.1702,
-            "time": "00:10.170",
+            "timestamp": 8.1702,
+            "time": "00:08.170",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -781,8 +781,8 @@
             "index": 11
         },
         {
-            "timestamp": 11.2586,
-            "time": "00:11.259",
+            "timestamp": 9.2586,
+            "time": "00:09.259",
             "application": "explorer.exe",
             "window_title": "Downloads - File Explorer",
             "focused_element": {
@@ -836,8 +836,8 @@
             "index": 12
         },
         {
-            "timestamp": 11.5437,
-            "time": "00:11.544",
+            "timestamp": 9.5437,
+            "time": "00:09.544",
             "application": "explorer.exe",
             "window_title": "Downloads - File Explorer",
             "focused_element": {
@@ -891,8 +891,8 @@
             "index": 13
         },
         {
-            "timestamp": 13.1134,
-            "time": "00:13.113",
+            "timestamp": 11.1134,
+            "time": "00:11.113",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -946,8 +946,8 @@
             "index": 14
         },
         {
-            "timestamp": 14.9459,
-            "time": "00:14.946",
+            "timestamp": 12.9459,
+            "time": "00:12.946",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -1001,8 +1001,8 @@
             "index": 15
         },
         {
-            "timestamp": 16.0011,
-            "time": "00:16.001",
+            "timestamp": 14.0011,
+            "time": "00:14.001",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -1056,8 +1056,8 @@
             "index": 16
         },
         {
-            "timestamp": 17.2271,
-            "time": "00:17.227",
+            "timestamp": 15.2271,
+            "time": "00:15.227",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -1111,8 +1111,8 @@
             "index": 17
         },
         {
-            "timestamp": 19.6074,
-            "time": "00:19.607",
+            "timestamp": 17.6074,
+            "time": "00:17.607",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1166,8 +1166,8 @@
             "index": 18
         },
         {
-            "timestamp": 19.7275,
-            "time": "00:19.727",
+            "timestamp": 17.7275,
+            "time": "00:17.727",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1221,8 +1221,8 @@
             "index": 19
         },
         {
-            "timestamp": 20.6252,
-            "time": "00:20.625",
+            "timestamp": 18.6252,
+            "time": "00:18.625",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1276,8 +1276,8 @@
             "index": 20
         },
         {
-            "timestamp": 20.7432,
-            "time": "00:20.743",
+            "timestamp": 18.7432,
+            "time": "00:18.743",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1331,8 +1331,8 @@
             "index": 21
         },
         {
-            "timestamp": 21.1588,
-            "time": "00:21.159",
+            "timestamp": 19.1588,
+            "time": "00:19.159",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1386,8 +1386,8 @@
             "index": 22
         },
         {
-            "timestamp": 21.2568,
-            "time": "00:21.257",
+            "timestamp": 19.2568,
+            "time": "00:19.257",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1441,8 +1441,8 @@
             "index": 23
         },
         {
-            "timestamp": 21.5549,
-            "time": "00:21.555",
+            "timestamp": 19.5549,
+            "time": "00:19.555",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1496,8 +1496,8 @@
             "index": 24
         },
         {
-            "timestamp": 21.6497,
-            "time": "00:21.650",
+            "timestamp": 19.6497,
+            "time": "00:19.650",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1551,8 +1551,8 @@
             "index": 25
         },
         {
-            "timestamp": 22.9582,
-            "time": "00:22.958",
+            "timestamp": 20.9582,
+            "time": "00:20.958",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1606,8 +1606,8 @@
             "index": 26
         },
         {
-            "timestamp": 23.066,
-            "time": "00:23.066",
+            "timestamp": 21.066,
+            "time": "00:21.066",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1661,8 +1661,8 @@
             "index": 27
         },
         {
-            "timestamp": 24.1432,
-            "time": "00:24.143",
+            "timestamp": 22.1432,
+            "time": "00:22.143",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1716,8 +1716,8 @@
             "index": 28
         },
         {
-            "timestamp": 24.2602,
-            "time": "00:24.260",
+            "timestamp": 22.2602,
+            "time": "00:22.260",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1771,8 +1771,8 @@
             "index": 29
         },
         {
-            "timestamp": 25.9047,
-            "time": "00:25.905",
+            "timestamp": 23.9047,
+            "time": "00:23.905",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1826,8 +1826,8 @@
             "index": 30
         },
         {
-            "timestamp": 27.3849,
-            "time": "00:27.385",
+            "timestamp": 25.3849,
+            "time": "00:25.385",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1881,8 +1881,8 @@
             "index": 31
         },
         {
-            "timestamp": 27.503,
-            "time": "00:27.503",
+            "timestamp": 25.503,
+            "time": "00:25.503",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1936,8 +1936,8 @@
             "index": 32
         },
         {
-            "timestamp": 28.3923,
-            "time": "00:28.392",
+            "timestamp": 26.3923,
+            "time": "00:26.392",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1991,8 +1991,8 @@
             "index": 33
         },
         {
-            "timestamp": 28.5213,
-            "time": "00:28.521",
+            "timestamp": 26.5213,
+            "time": "00:26.521",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -2046,8 +2046,8 @@
             "index": 34
         },
         {
-            "timestamp": 28.9285,
-            "time": "00:28.928",
+            "timestamp": 26.9285,
+            "time": "00:26.928",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -2101,8 +2101,8 @@
             "index": 35
         },
         {
-            "timestamp": 29.0126,
-            "time": "00:29.013",
+            "timestamp": 27.0126,
+            "time": "00:27.013",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -2156,8 +2156,8 @@
             "index": 36
         },
         {
-            "timestamp": 30.1443,
-            "time": "00:30.144",
+            "timestamp": 28.1443,
+            "time": "00:28.144",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -2211,8 +2211,8 @@
             "index": 37
         },
         {
-            "timestamp": 36.6676,
-            "time": "00:36.668",
+            "timestamp": 34.6676,
+            "time": "00:34.668",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -2266,8 +2266,8 @@
             "index": 38
         },
         {
-            "timestamp": 37.0427,
-            "time": "00:37.043",
+            "timestamp": 35.0427,
+            "time": "00:35.043",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -2321,8 +2321,8 @@
             "index": 39
         },
         {
-            "timestamp": 38.5133,
-            "time": "00:38.513",
+            "timestamp": 36.5133,
+            "time": "00:36.513",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -2379,8 +2379,8 @@
             "index": 40
         },
         {
-            "timestamp": 38.8402,
-            "time": "00:38.840",
+            "timestamp": 36.8402,
+            "time": "00:36.840",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -2437,8 +2437,8 @@
             "index": 41
         },
         {
-            "timestamp": 38.9818,
-            "time": "00:38.982",
+            "timestamp": 36.9818,
+            "time": "00:36.982",
             "application": "POWERPNT.EXE",
             "window_title": "Microsoft PowerPoint",
             "focused_element": {
@@ -2501,8 +2501,8 @@
             "index": 42
         },
         {
-            "timestamp": 39.9537,
-            "time": "00:39.954",
+            "timestamp": 37.9537,
+            "time": "00:37.954",
             "application": "POWERPNT.EXE",
             "window_title": "Microsoft PowerPoint",
             "focused_element": {
@@ -2556,8 +2556,8 @@
             "index": 43
         },
         {
-            "timestamp": 40.0658,
-            "time": "00:40.066",
+            "timestamp": 38.0658,
+            "time": "00:38.066",
             "application": "POWERPNT.EXE",
             "window_title": "Microsoft PowerPoint",
             "focused_element": {
@@ -2611,8 +2611,8 @@
             "index": 44
         },
         {
-            "timestamp": 41.1087,
-            "time": "00:41.109",
+            "timestamp": 39.1087,
+            "time": "00:39.109",
             "application": "POWERPNT.EXE",
             "window_title": "Microsoft PowerPoint",
             "focused_element": {
@@ -2666,8 +2666,8 @@
             "index": 45
         },
         {
-            "timestamp": 42.7542,
-            "time": "00:42.754",
+            "timestamp": 40.7542,
+            "time": "00:40.754",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -2720,8 +2720,8 @@
             "index": 46
         },
         {
-            "timestamp": 44.9083,
-            "time": "00:44.908",
+            "timestamp": 42.9083,
+            "time": "00:42.908",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -2778,8 +2778,8 @@
             "index": 47
         },
         {
-            "timestamp": 54.4411,
-            "time": "00:54.441",
+            "timestamp": 52.4411,
+            "time": "00:52.441",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2833,8 +2833,8 @@
             "index": 48
         },
         {
-            "timestamp": 55.6747,
-            "time": "00:55.675",
+            "timestamp": 53.6747,
+            "time": "00:53.675",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2888,8 +2888,8 @@
             "index": 49
         },
         {
-            "timestamp": 55.9731,
-            "time": "00:55.973",
+            "timestamp": 53.9731,
+            "time": "00:53.973",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2943,8 +2943,8 @@
             "index": 50
         },
         {
-            "timestamp": 56.2191,
-            "time": "00:56.219",
+            "timestamp": 54.2191,
+            "time": "00:54.219",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2998,8 +2998,8 @@
             "index": 51
         },
         {
-            "timestamp": 56.4714,
-            "time": "00:56.471",
+            "timestamp": 54.4714,
+            "time": "00:54.471",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3053,8 +3053,8 @@
             "index": 52
         },
         {
-            "timestamp": 56.6239,
-            "time": "00:56.624",
+            "timestamp": 54.6239,
+            "time": "00:54.624",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3108,8 +3108,8 @@
             "index": 53
         },
         {
-            "timestamp": 56.7379,
-            "time": "00:56.738",
+            "timestamp": 54.7379,
+            "time": "00:54.738",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3163,8 +3163,8 @@
             "index": 54
         },
         {
-            "timestamp": 56.9184,
-            "time": "00:56.918",
+            "timestamp": 54.9184,
+            "time": "00:54.918",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3218,8 +3218,8 @@
             "index": 55
         },
         {
-            "timestamp": 57.0103,
-            "time": "00:57.010",
+            "timestamp": 55.0103,
+            "time": "00:55.010",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3273,8 +3273,8 @@
             "index": 56
         },
         {
-            "timestamp": 57.1085,
-            "time": "00:57.108",
+            "timestamp": 55.1085,
+            "time": "00:55.108",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3328,8 +3328,8 @@
             "index": 57
         },
         {
-            "timestamp": 57.1809,
-            "time": "00:57.181",
+            "timestamp": 55.1809,
+            "time": "00:55.181",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3383,8 +3383,8 @@
             "index": 58
         },
         {
-            "timestamp": 57.263,
-            "time": "00:57.263",
+            "timestamp": 55.263,
+            "time": "00:55.263",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3438,8 +3438,8 @@
             "index": 59
         },
         {
-            "timestamp": 57.3281,
-            "time": "00:57.328",
+            "timestamp": 55.3281,
+            "time": "00:55.328",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3493,8 +3493,8 @@
             "index": 60
         },
         {
-            "timestamp": 57.4612,
-            "time": "00:57.461",
+            "timestamp": 55.4612,
+            "time": "00:55.461",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3548,8 +3548,8 @@
             "index": 61
         },
         {
-            "timestamp": 57.677,
-            "time": "00:57.677",
+            "timestamp": 55.677,
+            "time": "00:55.677",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3603,8 +3603,8 @@
             "index": 62
         },
         {
-            "timestamp": 57.892,
-            "time": "00:57.892",
+            "timestamp": 55.892,
+            "time": "00:55.892",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3658,8 +3658,8 @@
             "index": 63
         },
         {
-            "timestamp": 58.0919,
-            "time": "00:58.092",
+            "timestamp": 56.0919,
+            "time": "00:56.092",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3713,8 +3713,8 @@
             "index": 64
         },
         {
-            "timestamp": 58.308,
-            "time": "00:58.308",
+            "timestamp": 56.308,
+            "time": "00:56.308",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3768,8 +3768,8 @@
             "index": 65
         },
         {
-            "timestamp": 58.4992,
-            "time": "00:58.499",
+            "timestamp": 56.4992,
+            "time": "00:56.499",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3823,8 +3823,8 @@
             "index": 66
         },
         {
-            "timestamp": 58.7256,
-            "time": "00:58.726",
+            "timestamp": 56.7256,
+            "time": "00:56.726",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3878,8 +3878,8 @@
             "index": 67
         },
         {
-            "timestamp": 58.9665,
-            "time": "00:58.967",
+            "timestamp": 56.9665,
+            "time": "00:56.967",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3933,8 +3933,8 @@
             "index": 68
         },
         {
-            "timestamp": 59.1898,
-            "time": "00:59.190",
+            "timestamp": 57.1898,
+            "time": "00:57.190",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -3988,8 +3988,8 @@
             "index": 69
         },
         {
-            "timestamp": 59.4102,
-            "time": "00:59.410",
+            "timestamp": 57.4102,
+            "time": "00:57.410",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4043,8 +4043,8 @@
             "index": 70
         },
         {
-            "timestamp": 59.5874,
-            "time": "00:59.587",
+            "timestamp": 57.5874,
+            "time": "00:57.587",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4098,8 +4098,8 @@
             "index": 71
         },
         {
-            "timestamp": 59.757,
-            "time": "00:59.757",
+            "timestamp": 57.757,
+            "time": "00:57.757",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4153,8 +4153,8 @@
             "index": 72
         },
         {
-            "timestamp": 59.9449,
-            "time": "00:59.945",
+            "timestamp": 57.9449,
+            "time": "00:57.945",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4208,8 +4208,8 @@
             "index": 73
         },
         {
-            "timestamp": 60.1218,
-            "time": "01:00.122",
+            "timestamp": 58.1218,
+            "time": "00:58.122",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4263,8 +4263,8 @@
             "index": 74
         },
         {
-            "timestamp": 60.41,
-            "time": "01:00.410",
+            "timestamp": 58.41,
+            "time": "00:58.410",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4318,8 +4318,8 @@
             "index": 75
         },
         {
-            "timestamp": 60.6766,
-            "time": "01:00.677",
+            "timestamp": 58.6766,
+            "time": "00:58.677",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4373,8 +4373,8 @@
             "index": 76
         },
         {
-            "timestamp": 60.9135,
-            "time": "01:00.913",
+            "timestamp": 58.9135,
+            "time": "00:58.913",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4428,8 +4428,8 @@
             "index": 77
         },
         {
-            "timestamp": 61.1424,
-            "time": "01:01.142",
+            "timestamp": 59.1424,
+            "time": "00:59.142",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4483,8 +4483,8 @@
             "index": 78
         },
         {
-            "timestamp": 61.4453,
-            "time": "01:01.445",
+            "timestamp": 59.4453,
+            "time": "00:59.445",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4538,8 +4538,8 @@
             "index": 79
         },
         {
-            "timestamp": 61.661,
-            "time": "01:01.661",
+            "timestamp": 59.661,
+            "time": "00:59.661",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -4593,8 +4593,8 @@
             "index": 80
         },
         {
-            "timestamp": 61.8443,
-            "time": "01:01.844",
+            "timestamp": 59.8443,
+            "time": "00:59.844",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4648,8 +4648,8 @@
             "index": 81
         },
         {
-            "timestamp": 62.3595,
-            "time": "01:02.359",
+            "timestamp": 60.3595,
+            "time": "01:00.359",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4703,8 +4703,8 @@
             "index": 82
         },
         {
-            "timestamp": 62.8156,
-            "time": "01:02.816",
+            "timestamp": 60.8156,
+            "time": "01:00.816",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4758,8 +4758,8 @@
             "index": 83
         },
         {
-            "timestamp": 63.4526,
-            "time": "01:03.453",
+            "timestamp": 61.4526,
+            "time": "01:01.453",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4813,8 +4813,8 @@
             "index": 84
         },
         {
-            "timestamp": 63.6767,
-            "time": "01:03.677",
+            "timestamp": 61.6767,
+            "time": "01:01.677",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4868,8 +4868,8 @@
             "index": 85
         },
         {
-            "timestamp": 63.8304,
-            "time": "01:03.830",
+            "timestamp": 61.8304,
+            "time": "01:01.830",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4923,8 +4923,8 @@
             "index": 86
         },
         {
-            "timestamp": 64.0209,
-            "time": "01:04.021",
+            "timestamp": 62.0209,
+            "time": "01:02.021",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -4978,8 +4978,8 @@
             "index": 87
         },
         {
-            "timestamp": 64.22,
-            "time": "01:04.220",
+            "timestamp": 62.22,
+            "time": "01:02.220",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5033,8 +5033,8 @@
             "index": 88
         },
         {
-            "timestamp": 64.3608,
-            "time": "01:04.361",
+            "timestamp": 62.3608,
+            "time": "01:02.361",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5088,8 +5088,8 @@
             "index": 89
         },
         {
-            "timestamp": 64.4607,
-            "time": "01:04.461",
+            "timestamp": 62.4607,
+            "time": "01:02.461",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5143,8 +5143,8 @@
             "index": 90
         },
         {
-            "timestamp": 64.6239,
-            "time": "01:04.624",
+            "timestamp": 62.6239,
+            "time": "01:02.624",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5198,8 +5198,8 @@
             "index": 91
         },
         {
-            "timestamp": 64.7285,
-            "time": "01:04.728",
+            "timestamp": 62.7285,
+            "time": "01:02.728",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5253,8 +5253,8 @@
             "index": 92
         },
         {
-            "timestamp": 64.8269,
-            "time": "01:04.827",
+            "timestamp": 62.8269,
+            "time": "01:02.827",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5308,8 +5308,8 @@
             "index": 93
         },
         {
-            "timestamp": 64.9283,
-            "time": "01:04.928",
+            "timestamp": 62.9283,
+            "time": "01:02.928",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5363,8 +5363,8 @@
             "index": 94
         },
         {
-            "timestamp": 65.0247,
-            "time": "01:05.025",
+            "timestamp": 63.0247,
+            "time": "01:03.025",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5418,8 +5418,8 @@
             "index": 95
         },
         {
-            "timestamp": 65.1233,
-            "time": "01:05.123",
+            "timestamp": 63.1233,
+            "time": "01:03.123",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5473,8 +5473,8 @@
             "index": 96
         },
         {
-            "timestamp": 65.2302,
-            "time": "01:05.230",
+            "timestamp": 63.2302,
+            "time": "01:03.230",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5528,8 +5528,8 @@
             "index": 97
         },
         {
-            "timestamp": 65.3371,
-            "time": "01:05.337",
+            "timestamp": 63.3371,
+            "time": "01:03.337",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5583,8 +5583,8 @@
             "index": 98
         },
         {
-            "timestamp": 65.4442,
-            "time": "01:05.444",
+            "timestamp": 63.4442,
+            "time": "01:03.444",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5638,8 +5638,8 @@
             "index": 99
         },
         {
-            "timestamp": 65.6262,
-            "time": "01:05.626",
+            "timestamp": 63.6262,
+            "time": "01:03.626",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5693,8 +5693,8 @@
             "index": 100
         },
         {
-            "timestamp": 65.7452,
-            "time": "01:05.745",
+            "timestamp": 63.7452,
+            "time": "01:03.745",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5748,8 +5748,8 @@
             "index": 101
         },
         {
-            "timestamp": 65.844,
-            "time": "01:05.844",
+            "timestamp": 63.844,
+            "time": "01:03.844",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5803,8 +5803,8 @@
             "index": 102
         },
         {
-            "timestamp": 65.943,
-            "time": "01:05.943",
+            "timestamp": 63.943,
+            "time": "01:03.943",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5858,8 +5858,8 @@
             "index": 103
         },
         {
-            "timestamp": 66.0411,
-            "time": "01:06.041",
+            "timestamp": 64.0411,
+            "time": "01:04.041",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5913,8 +5913,8 @@
             "index": 104
         },
         {
-            "timestamp": 66.4446,
-            "time": "01:06.445",
+            "timestamp": 64.4446,
+            "time": "01:04.445",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -5971,8 +5971,8 @@
             "index": 105
         },
         {
-            "timestamp": 66.8188,
-            "time": "01:06.819",
+            "timestamp": 64.8188,
+            "time": "01:04.819",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6026,8 +6026,8 @@
             "index": 106
         },
         {
-            "timestamp": 67.3837,
-            "time": "01:07.384",
+            "timestamp": 65.3837,
+            "time": "01:05.384",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6081,8 +6081,8 @@
             "index": 107
         },
         {
-            "timestamp": 67.8012,
-            "time": "01:07.801",
+            "timestamp": 65.8012,
+            "time": "01:05.801",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6136,8 +6136,8 @@
             "index": 108
         },
         {
-            "timestamp": 68.7243,
-            "time": "01:08.724",
+            "timestamp": 66.7243,
+            "time": "01:06.724",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6191,8 +6191,8 @@
             "index": 109
         },
         {
-            "timestamp": 69.3952,
-            "time": "01:09.395",
+            "timestamp": 67.3952,
+            "time": "01:07.395",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6246,8 +6246,8 @@
             "index": 110
         },
         {
-            "timestamp": 71.2647,
-            "time": "01:11.265",
+            "timestamp": 69.2647,
+            "time": "01:09.265",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6301,8 +6301,8 @@
             "index": 111
         },
         {
-            "timestamp": 75.1886,
-            "time": "01:15.189",
+            "timestamp": 73.1886,
+            "time": "01:13.189",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6359,8 +6359,8 @@
             "index": 112
         },
         {
-            "timestamp": 75.3146,
-            "time": "01:15.315",
+            "timestamp": 73.3146,
+            "time": "01:13.315",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6417,8 +6417,8 @@
             "index": 113
         },
         {
-            "timestamp": 75.4332,
-            "time": "01:15.433",
+            "timestamp": 73.4332,
+            "time": "01:13.433",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6481,8 +6481,8 @@
             "index": 114
         },
         {
-            "timestamp": 75.6417,
-            "time": "01:15.642",
+            "timestamp": 73.6417,
+            "time": "01:13.642",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6539,8 +6539,8 @@
             "index": 115
         },
         {
-            "timestamp": 75.7552,
-            "time": "01:15.755",
+            "timestamp": 73.7552,
+            "time": "01:13.755",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6603,8 +6603,8 @@
             "index": 116
         },
         {
-            "timestamp": 75.8992,
-            "time": "01:15.899",
+            "timestamp": 73.8992,
+            "time": "01:13.899",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6661,8 +6661,8 @@
             "index": 117
         },
         {
-            "timestamp": 76.0035,
-            "time": "01:16.004",
+            "timestamp": 74.0035,
+            "time": "01:14.004",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6725,8 +6725,8 @@
             "index": 118
         },
         {
-            "timestamp": 76.1337,
-            "time": "01:16.134",
+            "timestamp": 74.1337,
+            "time": "01:14.134",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6783,8 +6783,8 @@
             "index": 119
         },
         {
-            "timestamp": 76.2522,
-            "time": "01:16.252",
+            "timestamp": 74.2522,
+            "time": "01:14.252",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6847,8 +6847,8 @@
             "index": 120
         },
         {
-            "timestamp": 76.3931,
-            "time": "01:16.393",
+            "timestamp": 74.3931,
+            "time": "01:14.393",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6905,8 +6905,8 @@
             "index": 121
         },
         {
-            "timestamp": 76.4933,
-            "time": "01:16.493",
+            "timestamp": 74.4933,
+            "time": "01:14.493",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -6969,8 +6969,8 @@
             "index": 122
         },
         {
-            "timestamp": 76.6223,
-            "time": "01:16.622",
+            "timestamp": 74.6223,
+            "time": "01:14.622",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7027,8 +7027,8 @@
             "index": 123
         },
         {
-            "timestamp": 76.7666,
-            "time": "01:16.767",
+            "timestamp": 74.7666,
+            "time": "01:14.767",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7091,8 +7091,8 @@
             "index": 124
         },
         {
-            "timestamp": 76.8635,
-            "time": "01:16.864",
+            "timestamp": 74.8635,
+            "time": "01:14.864",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7149,8 +7149,8 @@
             "index": 125
         },
         {
-            "timestamp": 76.98,
-            "time": "01:16.980",
+            "timestamp": 74.98,
+            "time": "01:14.980",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7213,8 +7213,8 @@
             "index": 126
         },
         {
-            "timestamp": 77.0757,
-            "time": "01:17.076",
+            "timestamp": 75.0757,
+            "time": "01:15.076",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7271,8 +7271,8 @@
             "index": 127
         },
         {
-            "timestamp": 77.1779,
-            "time": "01:17.178",
+            "timestamp": 75.1779,
+            "time": "01:15.178",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7335,8 +7335,8 @@
             "index": 128
         },
         {
-            "timestamp": 77.282,
-            "time": "01:17.282",
+            "timestamp": 75.282,
+            "time": "01:15.282",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7393,8 +7393,8 @@
             "index": 129
         },
         {
-            "timestamp": 77.4284,
-            "time": "01:17.428",
+            "timestamp": 75.4284,
+            "time": "01:15.428",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7457,8 +7457,8 @@
             "index": 130
         },
         {
-            "timestamp": 77.5411,
-            "time": "01:17.541",
+            "timestamp": 75.5411,
+            "time": "01:15.541",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7515,8 +7515,8 @@
             "index": 131
         },
         {
-            "timestamp": 77.6459,
-            "time": "01:17.646",
+            "timestamp": 75.6459,
+            "time": "01:15.646",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7579,8 +7579,8 @@
             "index": 132
         },
         {
-            "timestamp": 77.7641,
-            "time": "01:17.764",
+            "timestamp": 75.7641,
+            "time": "01:15.764",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7637,8 +7637,8 @@
             "index": 133
         },
         {
-            "timestamp": 77.8713,
-            "time": "01:17.871",
+            "timestamp": 75.8713,
+            "time": "01:15.871",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7701,8 +7701,8 @@
             "index": 134
         },
         {
-            "timestamp": 78.0078,
-            "time": "01:18.008",
+            "timestamp": 76.0078,
+            "time": "01:16.008",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7759,8 +7759,8 @@
             "index": 135
         },
         {
-            "timestamp": 78.1542,
-            "time": "01:18.154",
+            "timestamp": 76.1542,
+            "time": "01:16.154",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7823,8 +7823,8 @@
             "index": 136
         },
         {
-            "timestamp": 78.2822,
-            "time": "01:18.282",
+            "timestamp": 76.2822,
+            "time": "01:16.282",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7881,8 +7881,8 @@
             "index": 137
         },
         {
-            "timestamp": 78.4373,
-            "time": "01:18.437",
+            "timestamp": 76.4373,
+            "time": "01:16.437",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -7945,8 +7945,8 @@
             "index": 138
         },
         {
-            "timestamp": 78.5706,
-            "time": "01:18.571",
+            "timestamp": 76.5706,
+            "time": "01:16.571",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8003,8 +8003,8 @@
             "index": 139
         },
         {
-            "timestamp": 78.7163,
-            "time": "01:18.716",
+            "timestamp": 76.7163,
+            "time": "01:16.716",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8067,8 +8067,8 @@
             "index": 140
         },
         {
-            "timestamp": 78.824,
-            "time": "01:18.824",
+            "timestamp": 76.824,
+            "time": "01:16.824",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8125,8 +8125,8 @@
             "index": 141
         },
         {
-            "timestamp": 78.9373,
-            "time": "01:18.937",
+            "timestamp": 76.9373,
+            "time": "01:16.937",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8189,8 +8189,8 @@
             "index": 142
         },
         {
-            "timestamp": 79.0373,
-            "time": "01:19.037",
+            "timestamp": 77.0373,
+            "time": "01:17.037",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8247,8 +8247,8 @@
             "index": 143
         },
         {
-            "timestamp": 79.1356,
-            "time": "01:19.136",
+            "timestamp": 77.1356,
+            "time": "01:17.136",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8311,8 +8311,8 @@
             "index": 144
         },
         {
-            "timestamp": 79.4711,
-            "time": "01:19.471",
+            "timestamp": 77.4711,
+            "time": "01:17.471",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8369,8 +8369,8 @@
             "index": 145
         },
         {
-            "timestamp": 79.6038,
-            "time": "01:19.604",
+            "timestamp": 77.6038,
+            "time": "01:17.604",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8433,8 +8433,8 @@
             "index": 146
         },
         {
-            "timestamp": 80.0398,
-            "time": "01:20.040",
+            "timestamp": 78.0398,
+            "time": "01:18.040",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8491,8 +8491,8 @@
             "index": 147
         },
         {
-            "timestamp": 80.1602,
-            "time": "01:20.160",
+            "timestamp": 78.1602,
+            "time": "01:18.160",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8555,8 +8555,8 @@
             "index": 148
         },
         {
-            "timestamp": 80.4444,
-            "time": "01:20.444",
+            "timestamp": 78.4444,
+            "time": "01:18.444",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8613,8 +8613,8 @@
             "index": 149
         },
         {
-            "timestamp": 80.5855,
-            "time": "01:20.585",
+            "timestamp": 78.5855,
+            "time": "01:18.585",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8677,8 +8677,8 @@
             "index": 150
         },
         {
-            "timestamp": 81.0548,
-            "time": "01:21.055",
+            "timestamp": 79.0548,
+            "time": "01:19.055",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8735,8 +8735,8 @@
             "index": 151
         },
         {
-            "timestamp": 81.1719,
-            "time": "01:21.172",
+            "timestamp": 79.1719,
+            "time": "01:19.172",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8799,8 +8799,8 @@
             "index": 152
         },
         {
-            "timestamp": 81.3702,
-            "time": "01:21.370",
+            "timestamp": 79.3702,
+            "time": "01:19.370",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8857,8 +8857,8 @@
             "index": 153
         },
         {
-            "timestamp": 81.477,
-            "time": "01:21.477",
+            "timestamp": 79.477,
+            "time": "01:19.477",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8921,8 +8921,8 @@
             "index": 154
         },
         {
-            "timestamp": 81.6913,
-            "time": "01:21.691",
+            "timestamp": 79.6913,
+            "time": "01:19.691",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -8979,8 +8979,8 @@
             "index": 155
         },
         {
-            "timestamp": 81.846,
-            "time": "01:21.846",
+            "timestamp": 79.846,
+            "time": "01:19.846",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9043,8 +9043,8 @@
             "index": 156
         },
         {
-            "timestamp": 81.9868,
-            "time": "01:21.987",
+            "timestamp": 79.9868,
+            "time": "01:19.987",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9101,8 +9101,8 @@
             "index": 157
         },
         {
-            "timestamp": 82.1052,
-            "time": "01:22.105",
+            "timestamp": 80.1052,
+            "time": "01:20.105",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9165,8 +9165,8 @@
             "index": 158
         },
         {
-            "timestamp": 82.3166,
-            "time": "01:22.317",
+            "timestamp": 80.3166,
+            "time": "01:20.317",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9223,8 +9223,8 @@
             "index": 159
         },
         {
-            "timestamp": 82.4207,
-            "time": "01:22.421",
+            "timestamp": 80.4207,
+            "time": "01:20.421",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9287,8 +9287,8 @@
             "index": 160
         },
         {
-            "timestamp": 82.6445,
-            "time": "01:22.644",
+            "timestamp": 80.6445,
+            "time": "01:20.644",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9345,8 +9345,8 @@
             "index": 161
         },
         {
-            "timestamp": 82.754,
-            "time": "01:22.754",
+            "timestamp": 80.754,
+            "time": "01:20.754",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9409,8 +9409,8 @@
             "index": 162
         },
         {
-            "timestamp": 82.9193,
-            "time": "01:22.919",
+            "timestamp": 80.9193,
+            "time": "01:20.919",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9467,8 +9467,8 @@
             "index": 163
         },
         {
-            "timestamp": 83.0399,
-            "time": "01:23.040",
+            "timestamp": 81.0399,
+            "time": "01:21.040",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9531,8 +9531,8 @@
             "index": 164
         },
         {
-            "timestamp": 83.1787,
-            "time": "01:23.179",
+            "timestamp": 81.1787,
+            "time": "01:21.179",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9589,8 +9589,8 @@
             "index": 165
         },
         {
-            "timestamp": 83.2972,
-            "time": "01:23.297",
+            "timestamp": 81.2972,
+            "time": "01:21.297",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9653,8 +9653,8 @@
             "index": 166
         },
         {
-            "timestamp": 83.4727,
-            "time": "01:23.473",
+            "timestamp": 81.4727,
+            "time": "01:21.473",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9711,8 +9711,8 @@
             "index": 167
         },
         {
-            "timestamp": 83.5795,
-            "time": "01:23.579",
+            "timestamp": 81.5795,
+            "time": "01:21.579",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9775,8 +9775,8 @@
             "index": 168
         },
         {
-            "timestamp": 83.7928,
-            "time": "01:23.793",
+            "timestamp": 81.7928,
+            "time": "01:21.793",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9833,8 +9833,8 @@
             "index": 169
         },
         {
-            "timestamp": 83.94,
-            "time": "01:23.940",
+            "timestamp": 81.94,
+            "time": "01:21.940",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9897,8 +9897,8 @@
             "index": 170
         },
         {
-            "timestamp": 84.091,
-            "time": "01:24.091",
+            "timestamp": 82.091,
+            "time": "01:22.091",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -9955,8 +9955,8 @@
             "index": 171
         },
         {
-            "timestamp": 84.2118,
-            "time": "01:24.212",
+            "timestamp": 82.2118,
+            "time": "01:22.212",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10019,8 +10019,8 @@
             "index": 172
         },
         {
-            "timestamp": 84.3434,
-            "time": "01:24.343",
+            "timestamp": 82.3434,
+            "time": "01:22.343",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10077,8 +10077,8 @@
             "index": 173
         },
         {
-            "timestamp": 84.474,
-            "time": "01:24.474",
+            "timestamp": 82.474,
+            "time": "01:22.474",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10141,8 +10141,8 @@
             "index": 174
         },
         {
-            "timestamp": 84.6357,
-            "time": "01:24.636",
+            "timestamp": 82.6357,
+            "time": "01:22.636",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10199,8 +10199,8 @@
             "index": 175
         },
         {
-            "timestamp": 84.7526,
-            "time": "01:24.753",
+            "timestamp": 82.7526,
+            "time": "01:22.753",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10263,8 +10263,8 @@
             "index": 176
         },
         {
-            "timestamp": 84.8792,
-            "time": "01:24.879",
+            "timestamp": 82.8792,
+            "time": "01:22.879",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10321,8 +10321,8 @@
             "index": 177
         },
         {
-            "timestamp": 85.0291,
-            "time": "01:25.029",
+            "timestamp": 83.0291,
+            "time": "01:23.029",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10385,8 +10385,8 @@
             "index": 178
         },
         {
-            "timestamp": 85.1558,
-            "time": "01:25.156",
+            "timestamp": 83.1558,
+            "time": "01:23.156",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10443,8 +10443,8 @@
             "index": 179
         },
         {
-            "timestamp": 85.2766,
-            "time": "01:25.277",
+            "timestamp": 83.2766,
+            "time": "01:23.277",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10507,8 +10507,8 @@
             "index": 180
         },
         {
-            "timestamp": 85.3884,
-            "time": "01:25.388",
+            "timestamp": 83.3884,
+            "time": "01:23.388",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10565,8 +10565,8 @@
             "index": 181
         },
         {
-            "timestamp": 85.5092,
-            "time": "01:25.509",
+            "timestamp": 83.5092,
+            "time": "01:23.509",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10629,8 +10629,8 @@
             "index": 182
         },
         {
-            "timestamp": 85.6257,
-            "time": "01:25.626",
+            "timestamp": 83.6257,
+            "time": "01:23.626",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10687,8 +10687,8 @@
             "index": 183
         },
         {
-            "timestamp": 85.7575,
-            "time": "01:25.757",
+            "timestamp": 83.7575,
+            "time": "01:23.757",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10751,8 +10751,8 @@
             "index": 184
         },
         {
-            "timestamp": 85.894,
-            "time": "01:25.894",
+            "timestamp": 83.894,
+            "time": "01:23.894",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10809,8 +10809,8 @@
             "index": 185
         },
         {
-            "timestamp": 86.0517,
-            "time": "01:26.052",
+            "timestamp": 84.0517,
+            "time": "01:24.052",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10873,8 +10873,8 @@
             "index": 186
         },
         {
-            "timestamp": 86.1992,
-            "time": "01:26.199",
+            "timestamp": 84.1992,
+            "time": "01:24.199",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10931,8 +10931,8 @@
             "index": 187
         },
         {
-            "timestamp": 86.3125,
-            "time": "01:26.312",
+            "timestamp": 84.3125,
+            "time": "01:24.312",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -10995,8 +10995,8 @@
             "index": 188
         },
         {
-            "timestamp": 86.4186,
-            "time": "01:26.419",
+            "timestamp": 84.4186,
+            "time": "01:24.419",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11053,8 +11053,8 @@
             "index": 189
         },
         {
-            "timestamp": 86.5446,
-            "time": "01:26.545",
+            "timestamp": 84.5446,
+            "time": "01:24.545",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11117,8 +11117,8 @@
             "index": 190
         },
         {
-            "timestamp": 86.8748,
-            "time": "01:26.875",
+            "timestamp": 84.8748,
+            "time": "01:24.875",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11172,8 +11172,8 @@
             "index": 191
         },
         {
-            "timestamp": 88.7412,
-            "time": "01:28.741",
+            "timestamp": 86.7412,
+            "time": "01:26.741",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11227,8 +11227,8 @@
             "index": 192
         },
         {
-            "timestamp": 89.8287,
-            "time": "01:29.829",
+            "timestamp": 87.8287,
+            "time": "01:27.829",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11282,8 +11282,8 @@
             "index": 193
         },
         {
-            "timestamp": 91.4997,
-            "time": "01:31.500",
+            "timestamp": 89.4997,
+            "time": "01:29.500",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11337,8 +11337,8 @@
             "index": 194
         },
         {
-            "timestamp": 92.6624,
-            "time": "01:32.662",
+            "timestamp": 90.6624,
+            "time": "01:30.662",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11392,8 +11392,8 @@
             "index": 195
         },
         {
-            "timestamp": 94.1583,
-            "time": "01:34.158",
+            "timestamp": 92.1583,
+            "time": "01:32.158",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11447,8 +11447,8 @@
             "index": 196
         },
         {
-            "timestamp": 95.2686,
-            "time": "01:35.269",
+            "timestamp": 93.2686,
+            "time": "01:33.269",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11505,8 +11505,8 @@
             "index": 197
         },
         {
-            "timestamp": 95.7703,
-            "time": "01:35.770",
+            "timestamp": 93.7703,
+            "time": "01:33.770",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11563,8 +11563,8 @@
             "index": 198
         },
         {
-            "timestamp": 95.9328,
-            "time": "01:35.933",
+            "timestamp": 93.9328,
+            "time": "01:33.933",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11622,8 +11622,8 @@
             "index": 199
         },
         {
-            "timestamp": 96.1835,
-            "time": "01:36.183",
+            "timestamp": 94.1835,
+            "time": "01:34.183",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11681,8 +11681,8 @@
             "index": 200
         },
         {
-            "timestamp": 96.3053,
-            "time": "01:36.305",
+            "timestamp": 94.3053,
+            "time": "01:34.305",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11746,8 +11746,8 @@
             "index": 201
         },
         {
-            "timestamp": 98.019,
-            "time": "01:38.019",
+            "timestamp": 96.019,
+            "time": "01:36.019",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11804,8 +11804,8 @@
             "index": 202
         },
         {
-            "timestamp": 98.1596,
-            "time": "01:38.160",
+            "timestamp": 96.1596,
+            "time": "01:36.160",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11862,8 +11862,8 @@
             "index": 203
         },
         {
-            "timestamp": 98.2878,
-            "time": "01:38.288",
+            "timestamp": 96.2878,
+            "time": "01:36.288",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11926,8 +11926,8 @@
             "index": 204
         },
         {
-            "timestamp": 98.4061,
-            "time": "01:38.406",
+            "timestamp": 96.4061,
+            "time": "01:36.406",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -11984,8 +11984,8 @@
             "index": 205
         },
         {
-            "timestamp": 98.5013,
-            "time": "01:38.501",
+            "timestamp": 96.5013,
+            "time": "01:36.501",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12048,8 +12048,8 @@
             "index": 206
         },
         {
-            "timestamp": 102.1247,
-            "time": "01:42.125",
+            "timestamp": 100.1247,
+            "time": "01:40.125",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12103,8 +12103,8 @@
             "index": 207
         },
         {
-            "timestamp": 102.8584,
-            "time": "01:42.858",
+            "timestamp": 100.8584,
+            "time": "01:40.858",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12161,8 +12161,8 @@
             "index": 208
         },
         {
-            "timestamp": 103.0479,
-            "time": "01:43.048",
+            "timestamp": 101.0479,
+            "time": "01:41.048",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12219,8 +12219,8 @@
             "index": 209
         },
         {
-            "timestamp": 103.1741,
-            "time": "01:43.174",
+            "timestamp": 101.1741,
+            "time": "01:41.174",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12283,8 +12283,8 @@
             "index": 210
         },
         {
-            "timestamp": 103.9729,
-            "time": "01:43.973",
+            "timestamp": 101.9729,
+            "time": "01:41.973",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12341,8 +12341,8 @@
             "index": 211
         },
         {
-            "timestamp": 104.1029,
-            "time": "01:44.103",
+            "timestamp": 102.1029,
+            "time": "01:42.103",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12405,8 +12405,8 @@
             "index": 212
         },
         {
-            "timestamp": 104.9454,
-            "time": "01:44.945",
+            "timestamp": 102.9454,
+            "time": "01:42.945",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12463,8 +12463,8 @@
             "index": 213
         },
         {
-            "timestamp": 105.1089,
-            "time": "01:45.109",
+            "timestamp": 103.1089,
+            "time": "01:43.109",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12527,8 +12527,8 @@
             "index": 214
         },
         {
-            "timestamp": 105.697,
-            "time": "01:45.697",
+            "timestamp": 103.697,
+            "time": "01:43.697",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12585,8 +12585,8 @@
             "index": 215
         },
         {
-            "timestamp": 105.8283,
-            "time": "01:45.828",
+            "timestamp": 103.8283,
+            "time": "01:43.828",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12649,8 +12649,8 @@
             "index": 216
         },
         {
-            "timestamp": 106.6444,
-            "time": "01:46.644",
+            "timestamp": 104.6444,
+            "time": "01:44.644",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12707,8 +12707,8 @@
             "index": 217
         },
         {
-            "timestamp": 106.8105,
-            "time": "01:46.811",
+            "timestamp": 104.8105,
+            "time": "01:44.811",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12771,8 +12771,8 @@
             "index": 218
         },
         {
-            "timestamp": 107.2235,
-            "time": "01:47.224",
+            "timestamp": 105.2235,
+            "time": "01:45.224",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12829,8 +12829,8 @@
             "index": 219
         },
         {
-            "timestamp": 107.3443,
-            "time": "01:47.344",
+            "timestamp": 105.3443,
+            "time": "01:45.344",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12893,8 +12893,8 @@
             "index": 220
         },
         {
-            "timestamp": 108.9768,
-            "time": "01:48.977",
+            "timestamp": 106.9768,
+            "time": "01:46.977",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -12948,8 +12948,8 @@
             "index": 221
         },
         {
-            "timestamp": 110.0216,
-            "time": "01:50.022",
+            "timestamp": 108.0216,
+            "time": "01:48.022",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13003,8 +13003,8 @@
             "index": 222
         },
         {
-            "timestamp": 112.0541,
-            "time": "01:52.054",
+            "timestamp": 110.0541,
+            "time": "01:50.054",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13061,8 +13061,8 @@
             "index": 223
         },
         {
-            "timestamp": 112.2416,
-            "time": "01:52.242",
+            "timestamp": 110.2416,
+            "time": "01:50.242",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13119,8 +13119,8 @@
             "index": 224
         },
         {
-            "timestamp": 112.3706,
-            "time": "01:52.371",
+            "timestamp": 110.3706,
+            "time": "01:50.371",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13183,8 +13183,8 @@
             "index": 225
         },
         {
-            "timestamp": 112.4868,
-            "time": "01:52.487",
+            "timestamp": 110.4868,
+            "time": "01:50.487",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13241,8 +13241,8 @@
             "index": 226
         },
         {
-            "timestamp": 112.612,
-            "time": "01:52.612",
+            "timestamp": 110.612,
+            "time": "01:50.612",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13305,8 +13305,8 @@
             "index": 227
         },
         {
-            "timestamp": 112.7415,
-            "time": "01:52.742",
+            "timestamp": 110.7415,
+            "time": "01:50.742",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13360,8 +13360,8 @@
             "index": 228
         },
         {
-            "timestamp": 112.8341,
-            "time": "01:52.834",
+            "timestamp": 110.8341,
+            "time": "01:50.834",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13415,8 +13415,8 @@
             "index": 229
         },
         {
-            "timestamp": 113.2942,
-            "time": "01:53.294",
+            "timestamp": 111.2942,
+            "time": "01:51.294",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13473,8 +13473,8 @@
             "index": 230
         },
         {
-            "timestamp": 113.4473,
-            "time": "01:53.447",
+            "timestamp": 111.4473,
+            "time": "01:51.447",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13532,8 +13532,8 @@
             "index": 231
         },
         {
-            "timestamp": 113.6668,
-            "time": "01:53.667",
+            "timestamp": 111.6668,
+            "time": "01:51.667",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13591,8 +13591,8 @@
             "index": 232
         },
         {
-            "timestamp": 113.7856,
-            "time": "01:53.786",
+            "timestamp": 111.7856,
+            "time": "01:51.786",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13656,8 +13656,8 @@
             "index": 233
         },
         {
-            "timestamp": 113.9075,
-            "time": "01:53.907",
+            "timestamp": 111.9075,
+            "time": "01:51.907",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13715,8 +13715,8 @@
             "index": 234
         },
         {
-            "timestamp": 114.0211,
-            "time": "01:54.021",
+            "timestamp": 112.0211,
+            "time": "01:52.021",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13780,8 +13780,8 @@
             "index": 235
         },
         {
-            "timestamp": 114.1282,
-            "time": "01:54.128",
+            "timestamp": 112.1282,
+            "time": "01:52.128",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13839,8 +13839,8 @@
             "index": 236
         },
         {
-            "timestamp": 114.2161,
-            "time": "01:54.216",
+            "timestamp": 112.2161,
+            "time": "01:52.216",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13904,8 +13904,8 @@
             "index": 237
         },
         {
-            "timestamp": 114.3789,
-            "time": "01:54.379",
+            "timestamp": 112.3789,
+            "time": "01:52.379",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -13963,8 +13963,8 @@
             "index": 238
         },
         {
-            "timestamp": 114.5278,
-            "time": "01:54.528",
+            "timestamp": 112.5278,
+            "time": "01:52.528",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14028,8 +14028,8 @@
             "index": 239
         },
         {
-            "timestamp": 114.6292,
-            "time": "01:54.629",
+            "timestamp": 112.6292,
+            "time": "01:52.629",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14087,8 +14087,8 @@
             "index": 240
         },
         {
-            "timestamp": 114.7232,
-            "time": "01:54.723",
+            "timestamp": 112.7232,
+            "time": "01:52.723",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14152,8 +14152,8 @@
             "index": 241
         },
         {
-            "timestamp": 114.8484,
-            "time": "01:54.848",
+            "timestamp": 112.8484,
+            "time": "01:52.848",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14211,8 +14211,8 @@
             "index": 242
         },
         {
-            "timestamp": 114.9565,
-            "time": "01:54.957",
+            "timestamp": 112.9565,
+            "time": "01:52.957",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14276,8 +14276,8 @@
             "index": 243
         },
         {
-            "timestamp": 115.2732,
-            "time": "01:55.273",
+            "timestamp": 113.2732,
+            "time": "01:53.273",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14331,8 +14331,8 @@
             "index": 244
         },
         {
-            "timestamp": 115.3955,
-            "time": "01:55.395",
+            "timestamp": 113.3955,
+            "time": "01:53.395",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14386,8 +14386,8 @@
             "index": 245
         },
         {
-            "timestamp": 116.0721,
-            "time": "01:56.072",
+            "timestamp": 114.0721,
+            "time": "01:54.072",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14444,8 +14444,8 @@
             "index": 246
         },
         {
-            "timestamp": 116.2136,
-            "time": "01:56.214",
+            "timestamp": 114.2136,
+            "time": "01:54.214",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14502,8 +14502,8 @@
             "index": 247
         },
         {
-            "timestamp": 116.3258,
-            "time": "01:56.326",
+            "timestamp": 114.3258,
+            "time": "01:54.326",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14566,8 +14566,8 @@
             "index": 248
         },
         {
-            "timestamp": 116.4322,
-            "time": "01:56.432",
+            "timestamp": 114.4322,
+            "time": "01:54.432",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14624,8 +14624,8 @@
             "index": 249
         },
         {
-            "timestamp": 116.5862,
-            "time": "01:56.586",
+            "timestamp": 114.5862,
+            "time": "01:54.586",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14688,8 +14688,8 @@
             "index": 250
         },
         {
-            "timestamp": 116.9336,
-            "time": "01:56.934",
+            "timestamp": 114.9336,
+            "time": "01:54.934",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14746,8 +14746,8 @@
             "index": 251
         },
         {
-            "timestamp": 117.0665,
-            "time": "01:57.067",
+            "timestamp": 115.0665,
+            "time": "01:55.067",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14810,8 +14810,8 @@
             "index": 252
         },
         {
-            "timestamp": 117.1738,
-            "time": "01:57.174",
+            "timestamp": 115.1738,
+            "time": "01:55.174",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14868,8 +14868,8 @@
             "index": 253
         },
         {
-            "timestamp": 117.2949,
-            "time": "01:57.295",
+            "timestamp": 115.2949,
+            "time": "01:55.295",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14932,8 +14932,8 @@
             "index": 254
         },
         {
-            "timestamp": 117.8857,
-            "time": "01:57.886",
+            "timestamp": 115.8857,
+            "time": "01:55.886",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -14990,8 +14990,8 @@
             "index": 255
         },
         {
-            "timestamp": 118.029,
-            "time": "01:58.029",
+            "timestamp": 116.029,
+            "time": "01:56.029",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15048,8 +15048,8 @@
             "index": 256
         },
         {
-            "timestamp": 118.1125,
-            "time": "01:58.112",
+            "timestamp": 116.1125,
+            "time": "01:56.112",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15112,8 +15112,8 @@
             "index": 257
         },
         {
-            "timestamp": 118.2297,
-            "time": "01:58.230",
+            "timestamp": 116.2297,
+            "time": "01:56.230",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15170,8 +15170,8 @@
             "index": 258
         },
         {
-            "timestamp": 118.3454,
-            "time": "01:58.345",
+            "timestamp": 116.3454,
+            "time": "01:56.345",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15234,8 +15234,8 @@
             "index": 259
         },
         {
-            "timestamp": 118.6195,
-            "time": "01:58.620",
+            "timestamp": 116.6195,
+            "time": "01:56.620",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15292,8 +15292,8 @@
             "index": 260
         },
         {
-            "timestamp": 118.7713,
-            "time": "01:58.771",
+            "timestamp": 116.7713,
+            "time": "01:56.771",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15356,8 +15356,8 @@
             "index": 261
         },
         {
-            "timestamp": 118.8787,
-            "time": "01:58.879",
+            "timestamp": 116.8787,
+            "time": "01:56.879",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15414,8 +15414,8 @@
             "index": 262
         },
         {
-            "timestamp": 119.0001,
-            "time": "01:59.000",
+            "timestamp": 117.0001,
+            "time": "01:57.000",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15478,8 +15478,8 @@
             "index": 263
         },
         {
-            "timestamp": 119.6051,
-            "time": "01:59.605",
+            "timestamp": 117.6051,
+            "time": "01:57.605",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15536,8 +15536,8 @@
             "index": 264
         },
         {
-            "timestamp": 119.718,
-            "time": "01:59.718",
+            "timestamp": 117.718,
+            "time": "01:57.718",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15594,8 +15594,8 @@
             "index": 265
         },
         {
-            "timestamp": 119.8434,
-            "time": "01:59.843",
+            "timestamp": 117.8434,
+            "time": "01:57.843",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15658,8 +15658,8 @@
             "index": 266
         },
         {
-            "timestamp": 119.9594,
-            "time": "01:59.959",
+            "timestamp": 117.9594,
+            "time": "01:57.959",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15716,8 +15716,8 @@
             "index": 267
         },
         {
-            "timestamp": 120.0592,
-            "time": "02:00.059",
+            "timestamp": 118.0592,
+            "time": "01:58.059",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15780,8 +15780,8 @@
             "index": 268
         },
         {
-            "timestamp": 120.4225,
-            "time": "02:00.422",
+            "timestamp": 118.4225,
+            "time": "01:58.422",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15835,8 +15835,8 @@
             "index": 269
         },
         {
-            "timestamp": 120.5383,
-            "time": "02:00.538",
+            "timestamp": 118.5383,
+            "time": "01:58.538",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15890,8 +15890,8 @@
             "index": 270
         },
         {
-            "timestamp": 121.3526,
-            "time": "02:01.353",
+            "timestamp": 119.3526,
+            "time": "01:59.353",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -15945,8 +15945,8 @@
             "index": 271
         },
         {
-            "timestamp": 121.5578,
-            "time": "02:01.558",
+            "timestamp": 119.5578,
+            "time": "01:59.558",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16000,8 +16000,8 @@
             "index": 272
         },
         {
-            "timestamp": 121.7597,
-            "time": "02:01.760",
+            "timestamp": 119.7597,
+            "time": "01:59.760",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16055,8 +16055,8 @@
             "index": 273
         },
         {
-            "timestamp": 121.9586,
-            "time": "02:01.959",
+            "timestamp": 119.9586,
+            "time": "01:59.959",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16110,8 +16110,8 @@
             "index": 274
         },
         {
-            "timestamp": 122.1128,
-            "time": "02:02.113",
+            "timestamp": 120.1128,
+            "time": "02:00.113",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16165,8 +16165,8 @@
             "index": 275
         },
         {
-            "timestamp": 122.2389,
-            "time": "02:02.239",
+            "timestamp": 120.2389,
+            "time": "02:00.239",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16220,8 +16220,8 @@
             "index": 276
         },
         {
-            "timestamp": 122.4051,
-            "time": "02:02.405",
+            "timestamp": 120.4051,
+            "time": "02:00.405",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16275,8 +16275,8 @@
             "index": 277
         },
         {
-            "timestamp": 122.7084,
-            "time": "02:02.708",
+            "timestamp": 120.7084,
+            "time": "02:00.708",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16333,8 +16333,8 @@
             "index": 278
         },
         {
-            "timestamp": 122.86,
-            "time": "02:02.860",
+            "timestamp": 120.86,
+            "time": "02:00.860",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16391,8 +16391,8 @@
             "index": 279
         },
         {
-            "timestamp": 122.9769,
-            "time": "02:02.977",
+            "timestamp": 120.9769,
+            "time": "02:00.977",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16455,8 +16455,8 @@
             "index": 280
         },
         {
-            "timestamp": 123.0929,
-            "time": "02:03.093",
+            "timestamp": 121.0929,
+            "time": "02:01.093",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16513,8 +16513,8 @@
             "index": 281
         },
         {
-            "timestamp": 123.2459,
-            "time": "02:03.246",
+            "timestamp": 121.2459,
+            "time": "02:01.246",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16577,8 +16577,8 @@
             "index": 282
         },
         {
-            "timestamp": 123.3779,
-            "time": "02:03.378",
+            "timestamp": 121.3779,
+            "time": "02:01.378",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16635,8 +16635,8 @@
             "index": 283
         },
         {
-            "timestamp": 123.5106,
-            "time": "02:03.511",
+            "timestamp": 121.5106,
+            "time": "02:01.511",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16699,8 +16699,8 @@
             "index": 284
         },
         {
-            "timestamp": 123.6675,
-            "time": "02:03.668",
+            "timestamp": 121.6675,
+            "time": "02:01.668",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16757,8 +16757,8 @@
             "index": 285
         },
         {
-            "timestamp": 123.7909,
-            "time": "02:03.791",
+            "timestamp": 121.7909,
+            "time": "02:01.791",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16821,8 +16821,8 @@
             "index": 286
         },
         {
-            "timestamp": 123.889,
-            "time": "02:03.889",
+            "timestamp": 121.889,
+            "time": "02:01.889",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16879,8 +16879,8 @@
             "index": 287
         },
         {
-            "timestamp": 124.0114,
-            "time": "02:04.011",
+            "timestamp": 122.0114,
+            "time": "02:02.011",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -16943,8 +16943,8 @@
             "index": 288
         },
         {
-            "timestamp": 124.1801,
-            "time": "02:04.180",
+            "timestamp": 122.1801,
+            "time": "02:02.180",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17001,8 +17001,8 @@
             "index": 289
         },
         {
-            "timestamp": 124.2908,
-            "time": "02:04.291",
+            "timestamp": 122.2908,
+            "time": "02:02.291",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17065,8 +17065,8 @@
             "index": 290
         },
         {
-            "timestamp": 124.4203,
-            "time": "02:04.420",
+            "timestamp": 122.4203,
+            "time": "02:02.420",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17123,8 +17123,8 @@
             "index": 291
         },
         {
-            "timestamp": 124.5449,
-            "time": "02:04.545",
+            "timestamp": 122.5449,
+            "time": "02:02.545",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17187,8 +17187,8 @@
             "index": 292
         },
         {
-            "timestamp": 124.7082,
-            "time": "02:04.708",
+            "timestamp": 122.7082,
+            "time": "02:02.708",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17245,8 +17245,8 @@
             "index": 293
         },
         {
-            "timestamp": 124.8377,
-            "time": "02:04.838",
+            "timestamp": 122.8377,
+            "time": "02:02.838",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17309,8 +17309,8 @@
             "index": 294
         },
         {
-            "timestamp": 125.0007,
-            "time": "02:05.001",
+            "timestamp": 123.0007,
+            "time": "02:03.001",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17367,8 +17367,8 @@
             "index": 295
         },
         {
-            "timestamp": 125.1234,
-            "time": "02:05.123",
+            "timestamp": 123.1234,
+            "time": "02:03.123",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17431,8 +17431,8 @@
             "index": 296
         },
         {
-            "timestamp": 125.23,
-            "time": "02:05.230",
+            "timestamp": 123.23,
+            "time": "02:03.230",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17489,8 +17489,8 @@
             "index": 297
         },
         {
-            "timestamp": 125.3606,
-            "time": "02:05.361",
+            "timestamp": 123.3606,
+            "time": "02:03.361",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17553,8 +17553,8 @@
             "index": 298
         },
         {
-            "timestamp": 125.5674,
-            "time": "02:05.567",
+            "timestamp": 123.5674,
+            "time": "02:03.567",
             "application": "chrome.exe",
             "window_title": "keyboard shortcut change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17608,8 +17608,8 @@
             "index": 299
         },
         {
-            "timestamp": 128.341,
-            "time": "02:08.341",
+            "timestamp": 126.341,
+            "time": "02:06.341",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17663,8 +17663,8 @@
             "index": 300
         },
         {
-            "timestamp": 128.536,
-            "time": "02:08.536",
+            "timestamp": 126.536,
+            "time": "02:06.536",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17718,8 +17718,8 @@
             "index": 301
         },
         {
-            "timestamp": 129.4039,
-            "time": "02:09.404",
+            "timestamp": 127.4039,
+            "time": "02:07.404",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17776,8 +17776,8 @@
             "index": 302
         },
         {
-            "timestamp": 129.7188,
-            "time": "02:09.719",
+            "timestamp": 127.7188,
+            "time": "02:07.719",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17831,8 +17831,8 @@
             "index": 303
         },
         {
-            "timestamp": 130.6573,
-            "time": "02:10.657",
+            "timestamp": 128.6573,
+            "time": "02:08.657",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17889,8 +17889,8 @@
             "index": 304
         },
         {
-            "timestamp": 131.0295,
-            "time": "02:11.030",
+            "timestamp": 129.0295,
+            "time": "02:09.030",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17944,8 +17944,8 @@
             "index": 305
         },
         {
-            "timestamp": 132.0714,
-            "time": "02:12.071",
+            "timestamp": 130.0714,
+            "time": "02:10.071",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -17999,8 +17999,8 @@
             "index": 306
         },
         {
-            "timestamp": 133.0773,
-            "time": "02:13.077",
+            "timestamp": 131.0773,
+            "time": "02:11.077",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18054,8 +18054,8 @@
             "index": 307
         },
         {
-            "timestamp": 134.0495,
-            "time": "02:14.049",
+            "timestamp": 132.0495,
+            "time": "02:12.049",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18109,8 +18109,8 @@
             "index": 308
         },
         {
-            "timestamp": 134.9877,
-            "time": "02:14.988",
+            "timestamp": 132.9877,
+            "time": "02:12.988",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18164,8 +18164,8 @@
             "index": 309
         },
         {
-            "timestamp": 135.9408,
-            "time": "02:15.941",
+            "timestamp": 133.9408,
+            "time": "02:13.941",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18219,8 +18219,8 @@
             "index": 310
         },
         {
-            "timestamp": 136.8006,
-            "time": "02:16.801",
+            "timestamp": 134.8006,
+            "time": "02:14.801",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18274,8 +18274,8 @@
             "index": 311
         },
         {
-            "timestamp": 138.4887,
-            "time": "02:18.489",
+            "timestamp": 136.4887,
+            "time": "02:16.489",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18329,8 +18329,8 @@
             "index": 312
         },
         {
-            "timestamp": 142.3837,
-            "time": "02:22.384",
+            "timestamp": 140.3837,
+            "time": "02:20.384",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18387,8 +18387,8 @@
             "index": 313
         },
         {
-            "timestamp": 142.5695,
-            "time": "02:22.570",
+            "timestamp": 140.5695,
+            "time": "02:20.570",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18445,8 +18445,8 @@
             "index": 314
         },
         {
-            "timestamp": 142.7422,
-            "time": "02:22.742",
+            "timestamp": 140.7422,
+            "time": "02:20.742",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18509,8 +18509,8 @@
             "index": 315
         },
         {
-            "timestamp": 142.8736,
-            "time": "02:22.874",
+            "timestamp": 140.8736,
+            "time": "02:20.874",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18567,8 +18567,8 @@
             "index": 316
         },
         {
-            "timestamp": 143.0192,
-            "time": "02:23.019",
+            "timestamp": 141.0192,
+            "time": "02:21.019",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18631,8 +18631,8 @@
             "index": 317
         },
         {
-            "timestamp": 143.1291,
-            "time": "02:23.129",
+            "timestamp": 141.1291,
+            "time": "02:21.129",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18689,8 +18689,8 @@
             "index": 318
         },
         {
-            "timestamp": 143.2609,
-            "time": "02:23.261",
+            "timestamp": 141.2609,
+            "time": "02:21.261",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18753,8 +18753,8 @@
             "index": 319
         },
         {
-            "timestamp": 143.386,
-            "time": "02:23.386",
+            "timestamp": 141.386,
+            "time": "02:21.386",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18811,8 +18811,8 @@
             "index": 320
         },
         {
-            "timestamp": 143.5391,
-            "time": "02:23.539",
+            "timestamp": 141.5391,
+            "time": "02:21.539",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18875,8 +18875,8 @@
             "index": 321
         },
         {
-            "timestamp": 143.7153,
-            "time": "02:23.715",
+            "timestamp": 141.7153,
+            "time": "02:21.715",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18933,8 +18933,8 @@
             "index": 322
         },
         {
-            "timestamp": 143.8677,
-            "time": "02:23.868",
+            "timestamp": 141.8677,
+            "time": "02:21.868",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -18997,8 +18997,8 @@
             "index": 323
         },
         {
-            "timestamp": 144.0095,
-            "time": "02:24.010",
+            "timestamp": 142.0095,
+            "time": "02:22.010",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19055,8 +19055,8 @@
             "index": 324
         },
         {
-            "timestamp": 144.1551,
-            "time": "02:24.155",
+            "timestamp": 142.1551,
+            "time": "02:22.155",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19119,8 +19119,8 @@
             "index": 325
         },
         {
-            "timestamp": 144.3322,
-            "time": "02:24.332",
+            "timestamp": 142.3322,
+            "time": "02:22.332",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19177,8 +19177,8 @@
             "index": 326
         },
         {
-            "timestamp": 144.4832,
-            "time": "02:24.483",
+            "timestamp": 142.4832,
+            "time": "02:22.483",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19241,8 +19241,8 @@
             "index": 327
         },
         {
-            "timestamp": 144.6839,
-            "time": "02:24.684",
+            "timestamp": 142.6839,
+            "time": "02:22.684",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19299,8 +19299,8 @@
             "index": 328
         },
         {
-            "timestamp": 144.8228,
-            "time": "02:24.823",
+            "timestamp": 142.8228,
+            "time": "02:22.823",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19363,8 +19363,8 @@
             "index": 329
         },
         {
-            "timestamp": 144.9604,
-            "time": "02:24.960",
+            "timestamp": 142.9604,
+            "time": "02:22.960",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19421,8 +19421,8 @@
             "index": 330
         },
         {
-            "timestamp": 145.1067,
-            "time": "02:25.107",
+            "timestamp": 143.1067,
+            "time": "02:23.107",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19485,8 +19485,8 @@
             "index": 331
         },
         {
-            "timestamp": 145.2748,
-            "time": "02:25.275",
+            "timestamp": 143.2748,
+            "time": "02:23.275",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19543,8 +19543,8 @@
             "index": 332
         },
         {
-            "timestamp": 145.4284,
-            "time": "02:25.428",
+            "timestamp": 143.4284,
+            "time": "02:23.428",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19607,8 +19607,8 @@
             "index": 333
         },
         {
-            "timestamp": 145.5628,
-            "time": "02:25.563",
+            "timestamp": 143.5628,
+            "time": "02:23.563",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19665,8 +19665,8 @@
             "index": 334
         },
         {
-            "timestamp": 145.7555,
-            "time": "02:25.756",
+            "timestamp": 143.7555,
+            "time": "02:23.756",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19729,8 +19729,8 @@
             "index": 335
         },
         {
-            "timestamp": 145.8902,
-            "time": "02:25.890",
+            "timestamp": 143.8902,
+            "time": "02:23.890",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19787,8 +19787,8 @@
             "index": 336
         },
         {
-            "timestamp": 146.0003,
-            "time": "02:26.000",
+            "timestamp": 144.0003,
+            "time": "02:24.000",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19851,8 +19851,8 @@
             "index": 337
         },
         {
-            "timestamp": 146.1731,
-            "time": "02:26.173",
+            "timestamp": 144.1731,
+            "time": "02:24.173",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19909,8 +19909,8 @@
             "index": 338
         },
         {
-            "timestamp": 146.2765,
-            "time": "02:26.276",
+            "timestamp": 144.2765,
+            "time": "02:24.276",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -19973,8 +19973,8 @@
             "index": 339
         },
         {
-            "timestamp": 146.3954,
-            "time": "02:26.395",
+            "timestamp": 144.3954,
+            "time": "02:24.395",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20031,8 +20031,8 @@
             "index": 340
         },
         {
-            "timestamp": 146.5115,
-            "time": "02:26.512",
+            "timestamp": 144.5115,
+            "time": "02:24.512",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20095,8 +20095,8 @@
             "index": 341
         },
         {
-            "timestamp": 146.6473,
-            "time": "02:26.647",
+            "timestamp": 144.6473,
+            "time": "02:24.647",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20153,8 +20153,8 @@
             "index": 342
         },
         {
-            "timestamp": 146.8218,
-            "time": "02:26.822",
+            "timestamp": 144.8218,
+            "time": "02:24.822",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20217,8 +20217,8 @@
             "index": 343
         },
         {
-            "timestamp": 146.9954,
-            "time": "02:26.995",
+            "timestamp": 144.9954,
+            "time": "02:24.995",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20275,8 +20275,8 @@
             "index": 344
         },
         {
-            "timestamp": 147.1242,
-            "time": "02:27.124",
+            "timestamp": 145.1242,
+            "time": "02:25.124",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20339,8 +20339,8 @@
             "index": 345
         },
         {
-            "timestamp": 147.2734,
-            "time": "02:27.273",
+            "timestamp": 145.2734,
+            "time": "02:25.273",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20397,8 +20397,8 @@
             "index": 346
         },
         {
-            "timestamp": 147.4061,
-            "time": "02:27.406",
+            "timestamp": 145.4061,
+            "time": "02:25.406",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20461,8 +20461,8 @@
             "index": 347
         },
         {
-            "timestamp": 147.5301,
-            "time": "02:27.530",
+            "timestamp": 145.5301,
+            "time": "02:25.530",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20519,8 +20519,8 @@
             "index": 348
         },
         {
-            "timestamp": 147.6755,
-            "time": "02:27.675",
+            "timestamp": 145.6755,
+            "time": "02:25.675",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20583,8 +20583,8 @@
             "index": 349
         },
         {
-            "timestamp": 147.8638,
-            "time": "02:27.864",
+            "timestamp": 145.8638,
+            "time": "02:25.864",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20641,8 +20641,8 @@
             "index": 350
         },
         {
-            "timestamp": 148.0196,
-            "time": "02:28.020",
+            "timestamp": 146.0196,
+            "time": "02:26.020",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20705,8 +20705,8 @@
             "index": 351
         },
         {
-            "timestamp": 148.1246,
-            "time": "02:28.125",
+            "timestamp": 146.1246,
+            "time": "02:26.125",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20763,8 +20763,8 @@
             "index": 352
         },
         {
-            "timestamp": 148.2763,
-            "time": "02:28.276",
+            "timestamp": 146.2763,
+            "time": "02:26.276",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20827,8 +20827,8 @@
             "index": 353
         },
         {
-            "timestamp": 148.444,
-            "time": "02:28.444",
+            "timestamp": 146.444,
+            "time": "02:26.444",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20885,8 +20885,8 @@
             "index": 354
         },
         {
-            "timestamp": 148.6236,
-            "time": "02:28.624",
+            "timestamp": 146.6236,
+            "time": "02:26.624",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -20949,8 +20949,8 @@
             "index": 355
         },
         {
-            "timestamp": 148.7605,
-            "time": "02:28.761",
+            "timestamp": 146.7605,
+            "time": "02:26.761",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21007,8 +21007,8 @@
             "index": 356
         },
         {
-            "timestamp": 148.8886,
-            "time": "02:28.889",
+            "timestamp": 146.8886,
+            "time": "02:26.889",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21071,8 +21071,8 @@
             "index": 357
         },
         {
-            "timestamp": 149.0329,
-            "time": "02:29.033",
+            "timestamp": 147.0329,
+            "time": "02:27.033",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21129,8 +21129,8 @@
             "index": 358
         },
         {
-            "timestamp": 149.1803,
-            "time": "02:29.180",
+            "timestamp": 147.1803,
+            "time": "02:27.180",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21193,8 +21193,8 @@
             "index": 359
         },
         {
-            "timestamp": 149.792,
-            "time": "02:29.792",
+            "timestamp": 147.792,
+            "time": "02:27.792",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21251,8 +21251,8 @@
             "index": 360
         },
         {
-            "timestamp": 149.9554,
-            "time": "02:29.955",
+            "timestamp": 147.9554,
+            "time": "02:27.955",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21315,8 +21315,8 @@
             "index": 361
         },
         {
-            "timestamp": 150.1236,
-            "time": "02:30.124",
+            "timestamp": 148.1236,
+            "time": "02:28.124",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21373,8 +21373,8 @@
             "index": 362
         },
         {
-            "timestamp": 150.2783,
-            "time": "02:30.278",
+            "timestamp": 148.2783,
+            "time": "02:28.278",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21437,8 +21437,8 @@
             "index": 363
         },
         {
-            "timestamp": 150.4353,
-            "time": "02:30.435",
+            "timestamp": 148.4353,
+            "time": "02:28.435",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21495,8 +21495,8 @@
             "index": 364
         },
         {
-            "timestamp": 150.5708,
-            "time": "02:30.571",
+            "timestamp": 148.5708,
+            "time": "02:28.571",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21559,8 +21559,8 @@
             "index": 365
         },
         {
-            "timestamp": 150.7355,
-            "time": "02:30.736",
+            "timestamp": 148.7355,
+            "time": "02:28.736",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21617,8 +21617,8 @@
             "index": 366
         },
         {
-            "timestamp": 150.887,
-            "time": "02:30.887",
+            "timestamp": 148.887,
+            "time": "02:28.887",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21681,8 +21681,8 @@
             "index": 367
         },
         {
-            "timestamp": 151.0743,
-            "time": "02:31.074",
+            "timestamp": 149.0743,
+            "time": "02:29.074",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21739,8 +21739,8 @@
             "index": 368
         },
         {
-            "timestamp": 151.2223,
-            "time": "02:31.222",
+            "timestamp": 149.2223,
+            "time": "02:29.222",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21803,8 +21803,8 @@
             "index": 369
         },
         {
-            "timestamp": 151.3719,
-            "time": "02:31.372",
+            "timestamp": 149.3719,
+            "time": "02:29.372",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21861,8 +21861,8 @@
             "index": 370
         },
         {
-            "timestamp": 151.5289,
-            "time": "02:31.529",
+            "timestamp": 149.5289,
+            "time": "02:29.529",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21925,8 +21925,8 @@
             "index": 371
         },
         {
-            "timestamp": 151.658,
-            "time": "02:31.658",
+            "timestamp": 149.658,
+            "time": "02:29.658",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -21983,8 +21983,8 @@
             "index": 372
         },
         {
-            "timestamp": 151.7976,
-            "time": "02:31.798",
+            "timestamp": 149.7976,
+            "time": "02:29.798",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22047,8 +22047,8 @@
             "index": 373
         },
         {
-            "timestamp": 151.9612,
-            "time": "02:31.961",
+            "timestamp": 149.9612,
+            "time": "02:29.961",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22105,8 +22105,8 @@
             "index": 374
         },
         {
-            "timestamp": 152.1627,
-            "time": "02:32.163",
+            "timestamp": 150.1627,
+            "time": "02:30.163",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22169,8 +22169,8 @@
             "index": 375
         },
         {
-            "timestamp": 152.3018,
-            "time": "02:32.302",
+            "timestamp": 150.3018,
+            "time": "02:30.302",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22227,8 +22227,8 @@
             "index": 376
         },
         {
-            "timestamp": 152.4683,
-            "time": "02:32.468",
+            "timestamp": 150.4683,
+            "time": "02:30.468",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22291,8 +22291,8 @@
             "index": 377
         },
         {
-            "timestamp": 152.6351,
-            "time": "02:32.635",
+            "timestamp": 150.6351,
+            "time": "02:30.635",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22349,8 +22349,8 @@
             "index": 378
         },
         {
-            "timestamp": 152.7901,
-            "time": "02:32.790",
+            "timestamp": 150.7901,
+            "time": "02:30.790",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22413,8 +22413,8 @@
             "index": 379
         },
         {
-            "timestamp": 152.929,
-            "time": "02:32.929",
+            "timestamp": 150.929,
+            "time": "02:30.929",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22471,8 +22471,8 @@
             "index": 380
         },
         {
-            "timestamp": 153.0598,
-            "time": "02:33.060",
+            "timestamp": 151.0598,
+            "time": "02:31.060",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22535,8 +22535,8 @@
             "index": 381
         },
         {
-            "timestamp": 153.2403,
-            "time": "02:33.240",
+            "timestamp": 151.2403,
+            "time": "02:31.240",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22593,8 +22593,8 @@
             "index": 382
         },
         {
-            "timestamp": 153.3724,
-            "time": "02:33.372",
+            "timestamp": 151.3724,
+            "time": "02:31.372",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22657,8 +22657,8 @@
             "index": 383
         },
         {
-            "timestamp": 153.5065,
-            "time": "02:33.506",
+            "timestamp": 151.5065,
+            "time": "02:31.506",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22715,8 +22715,8 @@
             "index": 384
         },
         {
-            "timestamp": 153.6543,
-            "time": "02:33.654",
+            "timestamp": 151.6543,
+            "time": "02:31.654",
             "application": "chrome.exe",
             "window_title": "how to change presentation style powerpoint - Google Search - Google Chrome",
             "focused_element": {
@@ -22779,8 +22779,8 @@
             "index": 385
         },
         {
-            "timestamp": 154.0331,
-            "time": "02:34.033",
+            "timestamp": 152.0331,
+            "time": "02:32.033",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -22837,8 +22837,8 @@
             "index": 386
         },
         {
-            "timestamp": 154.2801,
-            "time": "02:34.280",
+            "timestamp": 152.2801,
+            "time": "02:32.280",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -22895,8 +22895,8 @@
             "index": 387
         },
         {
-            "timestamp": 154.3995,
-            "time": "02:34.399",
+            "timestamp": 152.3995,
+            "time": "02:32.399",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -22959,8 +22959,8 @@
             "index": 388
         },
         {
-            "timestamp": 157.2243,
-            "time": "02:37.224",
+            "timestamp": 155.2243,
+            "time": "02:35.224",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23017,8 +23017,8 @@
             "index": 389
         },
         {
-            "timestamp": 159.1583,
-            "time": "02:39.158",
+            "timestamp": 157.1583,
+            "time": "02:37.158",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23072,8 +23072,8 @@
             "index": 390
         },
         {
-            "timestamp": 159.3339,
-            "time": "02:39.334",
+            "timestamp": 157.3339,
+            "time": "02:37.334",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23127,8 +23127,8 @@
             "index": 391
         },
         {
-            "timestamp": 160.0301,
-            "time": "02:40.030",
+            "timestamp": 158.0301,
+            "time": "02:38.030",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23182,8 +23182,8 @@
             "index": 392
         },
         {
-            "timestamp": 160.1242,
-            "time": "02:40.124",
+            "timestamp": 158.1242,
+            "time": "02:38.124",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23237,8 +23237,8 @@
             "index": 393
         },
         {
-            "timestamp": 162.1733,
-            "time": "02:42.173",
+            "timestamp": 160.1733,
+            "time": "02:40.173",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23292,8 +23292,8 @@
             "index": 394
         },
         {
-            "timestamp": 162.2622,
-            "time": "02:42.262",
+            "timestamp": 160.2622,
+            "time": "02:40.262",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23347,8 +23347,8 @@
             "index": 395
         },
         {
-            "timestamp": 163.4876,
-            "time": "02:43.488",
+            "timestamp": 161.4876,
+            "time": "02:41.488",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23402,8 +23402,8 @@
             "index": 396
         },
         {
-            "timestamp": 163.617,
-            "time": "02:43.617",
+            "timestamp": 161.617,
+            "time": "02:41.617",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23457,8 +23457,8 @@
             "index": 397
         },
         {
-            "timestamp": 165.0916,
-            "time": "02:45.092",
+            "timestamp": 163.0916,
+            "time": "02:43.092",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23512,8 +23512,8 @@
             "index": 398
         },
         {
-            "timestamp": 165.2747,
-            "time": "02:45.275",
+            "timestamp": 163.2747,
+            "time": "02:43.275",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23567,8 +23567,8 @@
             "index": 399
         },
         {
-            "timestamp": 166.2274,
-            "time": "02:46.227",
+            "timestamp": 164.2274,
+            "time": "02:44.227",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23622,8 +23622,8 @@
             "index": 400
         },
         {
-            "timestamp": 166.3605,
-            "time": "02:46.361",
+            "timestamp": 164.3605,
+            "time": "02:44.361",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23677,8 +23677,8 @@
             "index": 401
         },
         {
-            "timestamp": 172.4055,
-            "time": "02:52.405",
+            "timestamp": 170.4055,
+            "time": "02:50.405",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23732,8 +23732,8 @@
             "index": 402
         },
         {
-            "timestamp": 172.7076,
-            "time": "02:52.708",
+            "timestamp": 170.7076,
+            "time": "02:50.708",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -23787,8 +23787,8 @@
             "index": 403
         },
         {
-            "timestamp": 174.3277,
-            "time": "02:54.328",
+            "timestamp": 172.3277,
+            "time": "02:52.328",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -23842,8 +23842,8 @@
             "index": 404
         },
         {
-            "timestamp": 174.5338,
-            "time": "02:54.534",
+            "timestamp": 172.5338,
+            "time": "02:52.534",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -23897,8 +23897,8 @@
             "index": 405
         },
         {
-            "timestamp": 175.5717,
-            "time": "02:55.572",
+            "timestamp": 173.5717,
+            "time": "02:53.572",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -23952,8 +23952,8 @@
             "index": 406
         },
         {
-            "timestamp": 175.8772,
-            "time": "02:55.877",
+            "timestamp": 173.8772,
+            "time": "02:53.877",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24007,8 +24007,8 @@
             "index": 407
         },
         {
-            "timestamp": 177.024,
-            "time": "02:57.024",
+            "timestamp": 175.024,
+            "time": "02:55.024",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24062,8 +24062,8 @@
             "index": 408
         },
         {
-            "timestamp": 177.2543,
-            "time": "02:57.254",
+            "timestamp": 175.2543,
+            "time": "02:55.254",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24117,8 +24117,8 @@
             "index": 409
         },
         {
-            "timestamp": 178.6884,
-            "time": "02:58.688",
+            "timestamp": 176.6884,
+            "time": "02:56.688",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24172,8 +24172,8 @@
             "index": 410
         },
         {
-            "timestamp": 178.9512,
-            "time": "02:58.951",
+            "timestamp": 176.9512,
+            "time": "02:56.951",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24227,8 +24227,8 @@
             "index": 411
         },
         {
-            "timestamp": 180.4065,
-            "time": "03:00.406",
+            "timestamp": 178.4065,
+            "time": "02:58.406",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24282,8 +24282,8 @@
             "index": 412
         },
         {
-            "timestamp": 180.6339,
-            "time": "03:00.634",
+            "timestamp": 178.6339,
+            "time": "02:58.634",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24337,8 +24337,8 @@
             "index": 413
         },
         {
-            "timestamp": 181.5445,
-            "time": "03:01.544",
+            "timestamp": 179.5445,
+            "time": "02:59.544",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24392,8 +24392,8 @@
             "index": 414
         },
         {
-            "timestamp": 181.8046,
-            "time": "03:01.805",
+            "timestamp": 179.8046,
+            "time": "02:59.805",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24447,8 +24447,8 @@
             "index": 415
         },
         {
-            "timestamp": 182.858,
-            "time": "03:02.858",
+            "timestamp": 180.858,
+            "time": "03:00.858",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24502,8 +24502,8 @@
             "index": 416
         },
         {
-            "timestamp": 183.1496,
-            "time": "03:03.150",
+            "timestamp": 181.1496,
+            "time": "03:01.150",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24557,8 +24557,8 @@
             "index": 417
         },
         {
-            "timestamp": 184.0084,
-            "time": "03:04.008",
+            "timestamp": 182.0084,
+            "time": "03:02.008",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24612,8 +24612,8 @@
             "index": 418
         },
         {
-            "timestamp": 184.2855,
-            "time": "03:04.286",
+            "timestamp": 182.2855,
+            "time": "03:02.286",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24667,8 +24667,8 @@
             "index": 419
         },
         {
-            "timestamp": 185.4072,
-            "time": "03:05.407",
+            "timestamp": 183.4072,
+            "time": "03:03.407",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24722,8 +24722,8 @@
             "index": 420
         },
         {
-            "timestamp": 185.652,
-            "time": "03:05.652",
+            "timestamp": 183.652,
+            "time": "03:03.652",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24777,8 +24777,8 @@
             "index": 421
         },
         {
-            "timestamp": 186.7107,
-            "time": "03:06.711",
+            "timestamp": 184.7107,
+            "time": "03:04.711",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24832,8 +24832,8 @@
             "index": 422
         },
         {
-            "timestamp": 186.9457,
-            "time": "03:06.946",
+            "timestamp": 184.9457,
+            "time": "03:04.946",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24887,8 +24887,8 @@
             "index": 423
         },
         {
-            "timestamp": 187.8347,
-            "time": "03:07.835",
+            "timestamp": 185.8347,
+            "time": "03:05.835",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24942,8 +24942,8 @@
             "index": 424
         },
         {
-            "timestamp": 188.0765,
-            "time": "03:08.077",
+            "timestamp": 186.0765,
+            "time": "03:06.077",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -24997,8 +24997,8 @@
             "index": 425
         },
         {
-            "timestamp": 189.0691,
-            "time": "03:09.069",
+            "timestamp": 187.0691,
+            "time": "03:07.069",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25052,8 +25052,8 @@
             "index": 426
         },
         {
-            "timestamp": 189.2055,
-            "time": "03:09.206",
+            "timestamp": 187.2055,
+            "time": "03:07.206",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25107,8 +25107,8 @@
             "index": 427
         },
         {
-            "timestamp": 190.9803,
-            "time": "03:10.980",
+            "timestamp": 188.9803,
+            "time": "03:08.980",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25162,8 +25162,8 @@
             "index": 428
         },
         {
-            "timestamp": 191.206,
-            "time": "03:11.206",
+            "timestamp": 189.206,
+            "time": "03:09.206",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25217,8 +25217,8 @@
             "index": 429
         },
         {
-            "timestamp": 192.1689,
-            "time": "03:12.169",
+            "timestamp": 190.1689,
+            "time": "03:10.169",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25272,8 +25272,8 @@
             "index": 430
         },
         {
-            "timestamp": 192.4097,
-            "time": "03:12.410",
+            "timestamp": 190.4097,
+            "time": "03:10.410",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25327,8 +25327,8 @@
             "index": 431
         },
         {
-            "timestamp": 193.1002,
-            "time": "03:13.100",
+            "timestamp": 191.1002,
+            "time": "03:11.100",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25382,8 +25382,8 @@
             "index": 432
         },
         {
-            "timestamp": 193.3224,
-            "time": "03:13.322",
+            "timestamp": 191.3224,
+            "time": "03:11.322",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25437,8 +25437,8 @@
             "index": 433
         },
         {
-            "timestamp": 194.0411,
-            "time": "03:14.041",
+            "timestamp": 192.0411,
+            "time": "03:12.041",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25492,8 +25492,8 @@
             "index": 434
         },
         {
-            "timestamp": 194.2803,
-            "time": "03:14.280",
+            "timestamp": 192.2803,
+            "time": "03:12.280",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25547,8 +25547,8 @@
             "index": 435
         },
         {
-            "timestamp": 195.0533,
-            "time": "03:15.053",
+            "timestamp": 193.0533,
+            "time": "03:13.053",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25602,8 +25602,8 @@
             "index": 436
         },
         {
-            "timestamp": 195.3518,
-            "time": "03:15.352",
+            "timestamp": 193.3518,
+            "time": "03:13.352",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25657,8 +25657,8 @@
             "index": 437
         },
         {
-            "timestamp": 196.5567,
-            "time": "03:16.557",
+            "timestamp": 194.5567,
+            "time": "03:14.557",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25712,8 +25712,8 @@
             "index": 438
         },
         {
-            "timestamp": 196.8295,
-            "time": "03:16.829",
+            "timestamp": 194.8295,
+            "time": "03:14.829",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25767,8 +25767,8 @@
             "index": 439
         },
         {
-            "timestamp": 197.4534,
-            "time": "03:17.453",
+            "timestamp": 195.4534,
+            "time": "03:15.453",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25822,8 +25822,8 @@
             "index": 440
         },
         {
-            "timestamp": 197.6928,
-            "time": "03:17.693",
+            "timestamp": 195.6928,
+            "time": "03:15.693",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25877,8 +25877,8 @@
             "index": 441
         },
         {
-            "timestamp": 198.6301,
-            "time": "03:18.630",
+            "timestamp": 196.6301,
+            "time": "03:16.630",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25932,8 +25932,8 @@
             "index": 442
         },
         {
-            "timestamp": 198.8434,
-            "time": "03:18.843",
+            "timestamp": 196.8434,
+            "time": "03:16.843",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -25987,8 +25987,8 @@
             "index": 443
         },
         {
-            "timestamp": 200.3213,
-            "time": "03:20.321",
+            "timestamp": 198.3213,
+            "time": "03:18.321",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -26042,8 +26042,8 @@
             "index": 444
         },
         {
-            "timestamp": 200.8288,
-            "time": "03:20.829",
+            "timestamp": 198.8288,
+            "time": "03:18.829",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {

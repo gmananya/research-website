@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1757161343.7199876,
+            "started_at": 1757161345.7199876,
             "ended_at": 1757161452.3009548,
             "started_time": "00:00.000",
-            "ended_time": "01:29.838",
+            "ended_time": "01:27.838",
             "duration": 108.58
         },
         "statistics": {
@@ -95,7 +95,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -153,8 +153,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.5391,
-            "time": "00:00.539",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -211,8 +211,8 @@
             "index": 1
         },
         {
-            "timestamp": 4.6141,
-            "time": "00:04.614",
+            "timestamp": 2.6141,
+            "time": "00:02.614",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -269,8 +269,8 @@
             "index": 2
         },
         {
-            "timestamp": 11.712,
-            "time": "00:11.712",
+            "timestamp": 9.712,
+            "time": "00:09.712",
             "application": "chrome.exe",
             "window_title": "Restore pages?",
             "focused_element": {
@@ -323,8 +323,8 @@
             "index": 3
         },
         {
-            "timestamp": 11.8496,
-            "time": "00:11.850",
+            "timestamp": 9.8496,
+            "time": "00:09.850",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -378,8 +378,8 @@
             "index": 4
         },
         {
-            "timestamp": 13.9767,
-            "time": "00:13.977",
+            "timestamp": 11.9767,
+            "time": "00:11.977",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -433,8 +433,8 @@
             "index": 5
         },
         {
-            "timestamp": 14.3605,
-            "time": "00:14.361",
+            "timestamp": 12.3605,
+            "time": "00:12.361",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -488,8 +488,8 @@
             "index": 6
         },
         {
-            "timestamp": 14.5777,
-            "time": "00:14.578",
+            "timestamp": 12.5777,
+            "time": "00:12.578",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -543,8 +543,8 @@
             "index": 7
         },
         {
-            "timestamp": 14.8628,
-            "time": "00:14.863",
+            "timestamp": 12.8628,
+            "time": "00:12.863",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -598,8 +598,8 @@
             "index": 8
         },
         {
-            "timestamp": 15.1068,
-            "time": "00:15.107",
+            "timestamp": 13.1068,
+            "time": "00:13.107",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -653,8 +653,8 @@
             "index": 9
         },
         {
-            "timestamp": 15.2521,
-            "time": "00:15.252",
+            "timestamp": 13.2521,
+            "time": "00:13.252",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -708,8 +708,8 @@
             "index": 10
         },
         {
-            "timestamp": 15.4185,
-            "time": "00:15.418",
+            "timestamp": 13.4185,
+            "time": "00:13.418",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -763,8 +763,8 @@
             "index": 11
         },
         {
-            "timestamp": 15.574,
-            "time": "00:15.574",
+            "timestamp": 13.574,
+            "time": "00:13.574",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -818,8 +818,8 @@
             "index": 12
         },
         {
-            "timestamp": 15.7609,
-            "time": "00:15.761",
+            "timestamp": 13.7609,
+            "time": "00:13.761",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -873,8 +873,8 @@
             "index": 13
         },
         {
-            "timestamp": 16.0385,
-            "time": "00:16.038",
+            "timestamp": 14.0385,
+            "time": "00:14.038",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -928,8 +928,8 @@
             "index": 14
         },
         {
-            "timestamp": 16.4665,
-            "time": "00:16.466",
+            "timestamp": 14.4665,
+            "time": "00:14.466",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -983,8 +983,8 @@
             "index": 15
         },
         {
-            "timestamp": 16.6347,
-            "time": "00:16.635",
+            "timestamp": 14.6347,
+            "time": "00:14.635",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1038,8 +1038,8 @@
             "index": 16
         },
         {
-            "timestamp": 16.7456,
-            "time": "00:16.746",
+            "timestamp": 14.7456,
+            "time": "00:14.746",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1093,8 +1093,8 @@
             "index": 17
         },
         {
-            "timestamp": 17.1691,
-            "time": "00:17.169",
+            "timestamp": 15.1691,
+            "time": "00:15.169",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1148,8 +1148,8 @@
             "index": 18
         },
         {
-            "timestamp": 17.2908,
-            "time": "00:17.291",
+            "timestamp": 15.2908,
+            "time": "00:15.291",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1203,8 +1203,8 @@
             "index": 19
         },
         {
-            "timestamp": 17.4251,
-            "time": "00:17.425",
+            "timestamp": 15.4251,
+            "time": "00:15.425",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1258,8 +1258,8 @@
             "index": 20
         },
         {
-            "timestamp": 17.7262,
-            "time": "00:17.726",
+            "timestamp": 15.7262,
+            "time": "00:15.726",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1313,8 +1313,8 @@
             "index": 21
         },
         {
-            "timestamp": 17.8569,
-            "time": "00:17.857",
+            "timestamp": 15.8569,
+            "time": "00:15.857",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1368,8 +1368,8 @@
             "index": 22
         },
         {
-            "timestamp": 18.6388,
-            "time": "00:18.639",
+            "timestamp": 16.6388,
+            "time": "00:16.639",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1423,8 +1423,8 @@
             "index": 23
         },
         {
-            "timestamp": 18.8182,
-            "time": "00:18.818",
+            "timestamp": 16.8182,
+            "time": "00:16.818",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1478,8 +1478,8 @@
             "index": 24
         },
         {
-            "timestamp": 19.8879,
-            "time": "00:19.888",
+            "timestamp": 17.8879,
+            "time": "00:17.888",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1533,8 +1533,8 @@
             "index": 25
         },
         {
-            "timestamp": 20.4916,
-            "time": "00:20.492",
+            "timestamp": 18.4916,
+            "time": "00:18.492",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1588,8 +1588,8 @@
             "index": 26
         },
         {
-            "timestamp": 20.7099,
-            "time": "00:20.710",
+            "timestamp": 18.7099,
+            "time": "00:18.710",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1643,8 +1643,8 @@
             "index": 27
         },
         {
-            "timestamp": 20.9276,
-            "time": "00:20.928",
+            "timestamp": 18.9276,
+            "time": "00:18.928",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1698,8 +1698,8 @@
             "index": 28
         },
         {
-            "timestamp": 21.4757,
-            "time": "00:21.476",
+            "timestamp": 19.4757,
+            "time": "00:19.476",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1753,8 +1753,8 @@
             "index": 29
         },
         {
-            "timestamp": 22.5662,
-            "time": "00:22.566",
+            "timestamp": 20.5662,
+            "time": "00:20.566",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1808,8 +1808,8 @@
             "index": 30
         },
         {
-            "timestamp": 23.9361,
-            "time": "00:23.936",
+            "timestamp": 21.9361,
+            "time": "00:21.936",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1863,8 +1863,8 @@
             "index": 31
         },
         {
-            "timestamp": 25.4038,
-            "time": "00:25.404",
+            "timestamp": 23.4038,
+            "time": "00:23.404",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1918,8 +1918,8 @@
             "index": 32
         },
         {
-            "timestamp": 26.4814,
-            "time": "00:26.481",
+            "timestamp": 24.4814,
+            "time": "00:24.481",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1973,8 +1973,8 @@
             "index": 33
         },
         {
-            "timestamp": 30.3281,
-            "time": "00:30.328",
+            "timestamp": 28.3281,
+            "time": "00:28.328",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2031,8 +2031,8 @@
             "index": 34
         },
         {
-            "timestamp": 30.8438,
-            "time": "00:30.844",
+            "timestamp": 28.8438,
+            "time": "00:28.844",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2086,8 +2086,8 @@
             "index": 35
         },
         {
-            "timestamp": 31.9254,
-            "time": "00:31.925",
+            "timestamp": 29.9254,
+            "time": "00:29.925",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2141,8 +2141,8 @@
             "index": 36
         },
         {
-            "timestamp": 33.3488,
-            "time": "00:33.349",
+            "timestamp": 31.3488,
+            "time": "00:31.349",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2199,8 +2199,8 @@
             "index": 37
         },
         {
-            "timestamp": 40.0103,
-            "time": "00:40.010",
+            "timestamp": 38.0103,
+            "time": "00:38.010",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2254,8 +2254,8 @@
             "index": 38
         },
         {
-            "timestamp": 40.2244,
-            "time": "00:40.224",
+            "timestamp": 38.2244,
+            "time": "00:38.224",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2309,8 +2309,8 @@
             "index": 39
         },
         {
-            "timestamp": 41.7033,
-            "time": "00:41.703",
+            "timestamp": 39.7033,
+            "time": "00:39.703",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2364,8 +2364,8 @@
             "index": 40
         },
         {
-            "timestamp": 41.925,
-            "time": "00:41.925",
+            "timestamp": 39.925,
+            "time": "00:39.925",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2419,8 +2419,8 @@
             "index": 41
         },
         {
-            "timestamp": 43.4171,
-            "time": "00:43.417",
+            "timestamp": 41.4171,
+            "time": "00:41.417",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2474,8 +2474,8 @@
             "index": 42
         },
         {
-            "timestamp": 43.6036,
-            "time": "00:43.604",
+            "timestamp": 41.6036,
+            "time": "00:41.604",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2529,8 +2529,8 @@
             "index": 43
         },
         {
-            "timestamp": 44.6064,
-            "time": "00:44.606",
+            "timestamp": 42.6064,
+            "time": "00:42.606",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2587,8 +2587,8 @@
             "index": 44
         },
         {
-            "timestamp": 44.8091,
-            "time": "00:44.809",
+            "timestamp": 42.8091,
+            "time": "00:42.809",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2645,8 +2645,8 @@
             "index": 45
         },
         {
-            "timestamp": 44.9598,
-            "time": "00:44.960",
+            "timestamp": 42.9598,
+            "time": "00:42.960",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2709,8 +2709,8 @@
             "index": 46
         },
         {
-            "timestamp": 45.2081,
-            "time": "00:45.208",
+            "timestamp": 43.2081,
+            "time": "00:43.208",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2767,8 +2767,8 @@
             "index": 47
         },
         {
-            "timestamp": 45.3705,
-            "time": "00:45.370",
+            "timestamp": 43.3705,
+            "time": "00:43.370",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2831,8 +2831,8 @@
             "index": 48
         },
         {
-            "timestamp": 45.5048,
-            "time": "00:45.505",
+            "timestamp": 43.5048,
+            "time": "00:43.505",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2889,8 +2889,8 @@
             "index": 49
         },
         {
-            "timestamp": 45.6204,
-            "time": "00:45.620",
+            "timestamp": 43.6204,
+            "time": "00:43.620",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -2953,8 +2953,8 @@
             "index": 50
         },
         {
-            "timestamp": 45.7756,
-            "time": "00:45.776",
+            "timestamp": 43.7756,
+            "time": "00:43.776",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3011,8 +3011,8 @@
             "index": 51
         },
         {
-            "timestamp": 45.9699,
-            "time": "00:45.970",
+            "timestamp": 43.9699,
+            "time": "00:43.970",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3075,8 +3075,8 @@
             "index": 52
         },
         {
-            "timestamp": 46.1294,
-            "time": "00:46.129",
+            "timestamp": 44.1294,
+            "time": "00:44.129",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3133,8 +3133,8 @@
             "index": 53
         },
         {
-            "timestamp": 46.2654,
-            "time": "00:46.265",
+            "timestamp": 44.2654,
+            "time": "00:44.265",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3197,8 +3197,8 @@
             "index": 54
         },
         {
-            "timestamp": 46.3885,
-            "time": "00:46.389",
+            "timestamp": 44.3885,
+            "time": "00:44.389",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3255,8 +3255,8 @@
             "index": 55
         },
         {
-            "timestamp": 46.5104,
-            "time": "00:46.510",
+            "timestamp": 44.5104,
+            "time": "00:44.510",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3319,8 +3319,8 @@
             "index": 56
         },
         {
-            "timestamp": 47.4061,
-            "time": "00:47.406",
+            "timestamp": 45.4061,
+            "time": "00:45.406",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3377,8 +3377,8 @@
             "index": 57
         },
         {
-            "timestamp": 47.6245,
-            "time": "00:47.624",
+            "timestamp": 45.6245,
+            "time": "00:45.624",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3441,8 +3441,8 @@
             "index": 58
         },
         {
-            "timestamp": 47.7379,
-            "time": "00:47.738",
+            "timestamp": 45.7379,
+            "time": "00:45.738",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3499,8 +3499,8 @@
             "index": 59
         },
         {
-            "timestamp": 47.8829,
-            "time": "00:47.883",
+            "timestamp": 45.8829,
+            "time": "00:45.883",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3563,8 +3563,8 @@
             "index": 60
         },
         {
-            "timestamp": 48.7669,
-            "time": "00:48.767",
+            "timestamp": 46.7669,
+            "time": "00:46.767",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3621,8 +3621,8 @@
             "index": 61
         },
         {
-            "timestamp": 48.9411,
-            "time": "00:48.941",
+            "timestamp": 46.9411,
+            "time": "00:46.941",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3685,8 +3685,8 @@
             "index": 62
         },
         {
-            "timestamp": 49.0857,
-            "time": "00:49.086",
+            "timestamp": 47.0857,
+            "time": "00:47.086",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3743,8 +3743,8 @@
             "index": 63
         },
         {
-            "timestamp": 49.183,
-            "time": "00:49.183",
+            "timestamp": 47.183,
+            "time": "00:47.183",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3807,8 +3807,8 @@
             "index": 64
         },
         {
-            "timestamp": 50.6117,
-            "time": "00:50.612",
+            "timestamp": 48.6117,
+            "time": "00:48.612",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3865,8 +3865,8 @@
             "index": 65
         },
         {
-            "timestamp": 50.7754,
-            "time": "00:50.775",
+            "timestamp": 48.7754,
+            "time": "00:48.775",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3929,8 +3929,8 @@
             "index": 66
         },
         {
-            "timestamp": 50.9274,
-            "time": "00:50.927",
+            "timestamp": 48.9274,
+            "time": "00:48.927",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -3987,8 +3987,8 @@
             "index": 67
         },
         {
-            "timestamp": 51.0761,
-            "time": "00:51.076",
+            "timestamp": 49.0761,
+            "time": "00:49.076",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4051,8 +4051,8 @@
             "index": 68
         },
         {
-            "timestamp": 52.0874,
-            "time": "00:52.087",
+            "timestamp": 50.0874,
+            "time": "00:50.087",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4109,8 +4109,8 @@
             "index": 69
         },
         {
-            "timestamp": 52.2875,
-            "time": "00:52.288",
+            "timestamp": 50.2875,
+            "time": "00:50.288",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4173,8 +4173,8 @@
             "index": 70
         },
         {
-            "timestamp": 52.4044,
-            "time": "00:52.404",
+            "timestamp": 50.4044,
+            "time": "00:50.404",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4231,8 +4231,8 @@
             "index": 71
         },
         {
-            "timestamp": 52.5547,
-            "time": "00:52.555",
+            "timestamp": 50.5547,
+            "time": "00:50.555",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4295,8 +4295,8 @@
             "index": 72
         },
         {
-            "timestamp": 54.5682,
-            "time": "00:54.568",
+            "timestamp": 52.5682,
+            "time": "00:52.568",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4353,8 +4353,8 @@
             "index": 73
         },
         {
-            "timestamp": 54.838,
-            "time": "00:54.838",
+            "timestamp": 52.838,
+            "time": "00:52.838",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4417,8 +4417,8 @@
             "index": 74
         },
         {
-            "timestamp": 55.0349,
-            "time": "00:55.035",
+            "timestamp": 53.0349,
+            "time": "00:53.035",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4475,8 +4475,8 @@
             "index": 75
         },
         {
-            "timestamp": 55.1864,
-            "time": "00:55.186",
+            "timestamp": 53.1864,
+            "time": "00:53.186",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4539,8 +4539,8 @@
             "index": 76
         },
         {
-            "timestamp": 56.3531,
-            "time": "00:56.353",
+            "timestamp": 54.3531,
+            "time": "00:54.353",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4594,8 +4594,8 @@
             "index": 77
         },
         {
-            "timestamp": 56.6016,
-            "time": "00:56.602",
+            "timestamp": 54.6016,
+            "time": "00:54.602",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4649,8 +4649,8 @@
             "index": 78
         },
         {
-            "timestamp": 58.6711,
-            "time": "00:58.671",
+            "timestamp": 56.6711,
+            "time": "00:56.671",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4707,8 +4707,8 @@
             "index": 79
         },
         {
-            "timestamp": 58.8191,
-            "time": "00:58.819",
+            "timestamp": 56.8191,
+            "time": "00:56.819",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4765,8 +4765,8 @@
             "index": 80
         },
         {
-            "timestamp": 58.9014,
-            "time": "00:58.901",
+            "timestamp": 56.9014,
+            "time": "00:56.901",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4829,8 +4829,8 @@
             "index": 81
         },
         {
-            "timestamp": 66.7366,
-            "time": "01:06.737",
+            "timestamp": 64.7366,
+            "time": "01:04.737",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4884,8 +4884,8 @@
             "index": 82
         },
         {
-            "timestamp": 72.1627,
-            "time": "01:12.163",
+            "timestamp": 70.1627,
+            "time": "01:10.163",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4939,8 +4939,8 @@
             "index": 83
         },
         {
-            "timestamp": 73.0534,
-            "time": "01:13.053",
+            "timestamp": 71.0534,
+            "time": "01:11.053",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -4997,8 +4997,8 @@
             "index": 84
         },
         {
-            "timestamp": 73.4536,
-            "time": "01:13.454",
+            "timestamp": 71.4536,
+            "time": "01:11.454",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5055,8 +5055,8 @@
             "index": 85
         },
         {
-            "timestamp": 73.8169,
-            "time": "01:13.817",
+            "timestamp": 71.8169,
+            "time": "01:11.817",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5119,8 +5119,8 @@
             "index": 86
         },
         {
-            "timestamp": 74.1668,
-            "time": "01:14.167",
+            "timestamp": 72.1668,
+            "time": "01:12.167",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5177,8 +5177,8 @@
             "index": 87
         },
         {
-            "timestamp": 74.4706,
-            "time": "01:14.471",
+            "timestamp": 72.4706,
+            "time": "01:12.471",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5241,8 +5241,8 @@
             "index": 88
         },
         {
-            "timestamp": 74.7458,
-            "time": "01:14.746",
+            "timestamp": 72.7458,
+            "time": "01:12.746",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5299,8 +5299,8 @@
             "index": 89
         },
         {
-            "timestamp": 75.0386,
-            "time": "01:15.039",
+            "timestamp": 73.0386,
+            "time": "01:13.039",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5363,8 +5363,8 @@
             "index": 90
         },
         {
-            "timestamp": 75.3227,
-            "time": "01:15.323",
+            "timestamp": 73.3227,
+            "time": "01:13.323",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5421,8 +5421,8 @@
             "index": 91
         },
         {
-            "timestamp": 75.6423,
-            "time": "01:15.642",
+            "timestamp": 73.6423,
+            "time": "01:13.642",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5485,8 +5485,8 @@
             "index": 92
         },
         {
-            "timestamp": 75.9165,
-            "time": "01:15.916",
+            "timestamp": 73.9165,
+            "time": "01:13.916",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5543,8 +5543,8 @@
             "index": 93
         },
         {
-            "timestamp": 76.0617,
-            "time": "01:16.062",
+            "timestamp": 74.0617,
+            "time": "01:14.062",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5607,8 +5607,8 @@
             "index": 94
         },
         {
-            "timestamp": 76.3108,
-            "time": "01:16.311",
+            "timestamp": 74.3108,
+            "time": "01:14.311",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5665,8 +5665,8 @@
             "index": 95
         },
         {
-            "timestamp": 76.5959,
-            "time": "01:16.596",
+            "timestamp": 74.5959,
+            "time": "01:14.596",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5729,8 +5729,8 @@
             "index": 96
         },
         {
-            "timestamp": 76.7821,
-            "time": "01:16.782",
+            "timestamp": 74.7821,
+            "time": "01:14.782",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5787,8 +5787,8 @@
             "index": 97
         },
         {
-            "timestamp": 77.0097,
-            "time": "01:17.010",
+            "timestamp": 75.0097,
+            "time": "01:15.010",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5851,8 +5851,8 @@
             "index": 98
         },
         {
-            "timestamp": 77.263,
-            "time": "01:17.263",
+            "timestamp": 75.263,
+            "time": "01:15.263",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5909,8 +5909,8 @@
             "index": 99
         },
         {
-            "timestamp": 77.6099,
-            "time": "01:17.610",
+            "timestamp": 75.6099,
+            "time": "01:15.610",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -5973,8 +5973,8 @@
             "index": 100
         },
         {
-            "timestamp": 77.9429,
-            "time": "01:17.943",
+            "timestamp": 75.9429,
+            "time": "01:15.943",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6031,8 +6031,8 @@
             "index": 101
         },
         {
-            "timestamp": 78.2855,
-            "time": "01:18.285",
+            "timestamp": 76.2855,
+            "time": "01:16.285",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6095,8 +6095,8 @@
             "index": 102
         },
         {
-            "timestamp": 78.5833,
-            "time": "01:18.583",
+            "timestamp": 76.5833,
+            "time": "01:16.583",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6153,8 +6153,8 @@
             "index": 103
         },
         {
-            "timestamp": 78.7779,
-            "time": "01:18.778",
+            "timestamp": 76.7779,
+            "time": "01:16.778",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6217,8 +6217,8 @@
             "index": 104
         },
         {
-            "timestamp": 78.9408,
-            "time": "01:18.941",
+            "timestamp": 76.9408,
+            "time": "01:16.941",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6275,8 +6275,8 @@
             "index": 105
         },
         {
-            "timestamp": 79.231,
-            "time": "01:19.231",
+            "timestamp": 77.231,
+            "time": "01:17.231",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6339,8 +6339,8 @@
             "index": 106
         },
         {
-            "timestamp": 79.4762,
-            "time": "01:19.476",
+            "timestamp": 77.4762,
+            "time": "01:17.476",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6397,8 +6397,8 @@
             "index": 107
         },
         {
-            "timestamp": 79.7088,
-            "time": "01:19.709",
+            "timestamp": 77.7088,
+            "time": "01:17.709",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6461,8 +6461,8 @@
             "index": 108
         },
         {
-            "timestamp": 79.956,
-            "time": "01:19.956",
+            "timestamp": 77.956,
+            "time": "01:17.956",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6516,8 +6516,8 @@
             "index": 109
         },
         {
-            "timestamp": 80.1974,
-            "time": "01:20.197",
+            "timestamp": 78.1974,
+            "time": "01:18.197",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6571,8 +6571,8 @@
             "index": 110
         },
         {
-            "timestamp": 80.5331,
-            "time": "01:20.533",
+            "timestamp": 78.5331,
+            "time": "01:18.533",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6626,8 +6626,8 @@
             "index": 111
         },
         {
-            "timestamp": 87.3385,
-            "time": "01:27.338",
+            "timestamp": 85.3385,
+            "time": "01:25.338",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -6684,8 +6684,8 @@
             "index": 112
         },
         {
-            "timestamp": 88.7568,
-            "time": "01:28.757",
+            "timestamp": 86.7568,
+            "time": "01:26.757",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {
@@ -6742,8 +6742,8 @@
             "index": 113
         },
         {
-            "timestamp": 89.8378,
-            "time": "01:29.838",
+            "timestamp": 87.8378,
+            "time": "01:27.838",
             "application": "chrome.exe",
             "window_title": "Pinkfong\u00a0(\ud551\ud06c\ud401) \u2013 Baby Shark Lyrics | Genius Lyrics - Google Chrome",
             "focused_element": {

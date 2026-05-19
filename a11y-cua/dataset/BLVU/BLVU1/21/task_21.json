@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1755704145.6109555,
+            "started_at": 1755704147.6109555,
             "ended_at": 1755704216.7841933,
             "started_time": "00:00.000",
-            "ended_time": "00:54.534",
+            "ended_time": "00:52.534",
             "duration": 71.17
         },
         "statistics": {
@@ -61,7 +61,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -116,8 +116,8 @@
             "index": 0
         },
         {
-            "timestamp": 1.1453,
-            "time": "00:01.145",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "cursor_position": [
@@ -171,8 +171,8 @@
             "index": 1
         },
         {
-            "timestamp": 3.6672,
-            "time": "00:03.667",
+            "timestamp": 1.6672,
+            "time": "00:01.667",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -226,8 +226,8 @@
             "index": 2
         },
         {
-            "timestamp": 4.2205,
-            "time": "00:04.221",
+            "timestamp": 2.2205,
+            "time": "00:02.221",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -281,8 +281,8 @@
             "index": 3
         },
         {
-            "timestamp": 5.1271,
-            "time": "00:05.127",
+            "timestamp": 3.1271,
+            "time": "00:03.127",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -336,8 +336,8 @@
             "index": 4
         },
         {
-            "timestamp": 5.2159,
-            "time": "00:05.216",
+            "timestamp": 3.2159,
+            "time": "00:03.216",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -391,8 +391,8 @@
             "index": 5
         },
         {
-            "timestamp": 6.5306,
-            "time": "00:06.531",
+            "timestamp": 4.5306,
+            "time": "00:04.531",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -446,8 +446,8 @@
             "index": 6
         },
         {
-            "timestamp": 8.2159,
-            "time": "00:08.216",
+            "timestamp": 6.2159,
+            "time": "00:06.216",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -501,8 +501,8 @@
             "index": 7
         },
         {
-            "timestamp": 8.3139,
-            "time": "00:08.314",
+            "timestamp": 6.3139,
+            "time": "00:06.314",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -556,8 +556,8 @@
             "index": 8
         },
         {
-            "timestamp": 8.7637,
-            "time": "00:08.764",
+            "timestamp": 6.7637,
+            "time": "00:06.764",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -611,8 +611,8 @@
             "index": 9
         },
         {
-            "timestamp": 8.8333,
-            "time": "00:08.833",
+            "timestamp": 6.8333,
+            "time": "00:06.833",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -666,8 +666,8 @@
             "index": 10
         },
         {
-            "timestamp": 12.8005,
-            "time": "00:12.800",
+            "timestamp": 10.8005,
+            "time": "00:10.800",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -721,8 +721,8 @@
             "index": 11
         },
         {
-            "timestamp": 13.705,
-            "time": "00:13.705",
+            "timestamp": 11.705,
+            "time": "00:11.705",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -776,8 +776,8 @@
             "index": 12
         },
         {
-            "timestamp": 13.7826,
-            "time": "00:13.783",
+            "timestamp": 11.7826,
+            "time": "00:11.783",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -831,8 +831,8 @@
             "index": 13
         },
         {
-            "timestamp": 15.0829,
-            "time": "00:15.083",
+            "timestamp": 13.0829,
+            "time": "00:13.083",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -886,8 +886,8 @@
             "index": 14
         },
         {
-            "timestamp": 15.1862,
-            "time": "00:15.186",
+            "timestamp": 13.1862,
+            "time": "00:13.186",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -941,8 +941,8 @@
             "index": 15
         },
         {
-            "timestamp": 16.1247,
-            "time": "00:16.125",
+            "timestamp": 14.1247,
+            "time": "00:14.125",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -996,8 +996,8 @@
             "index": 16
         },
         {
-            "timestamp": 16.223,
-            "time": "00:16.223",
+            "timestamp": 14.223,
+            "time": "00:14.223",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1051,8 +1051,8 @@
             "index": 17
         },
         {
-            "timestamp": 16.6491,
-            "time": "00:16.649",
+            "timestamp": 14.6491,
+            "time": "00:14.649",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1106,8 +1106,8 @@
             "index": 18
         },
         {
-            "timestamp": 16.7187,
-            "time": "00:16.719",
+            "timestamp": 14.7187,
+            "time": "00:14.719",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1161,8 +1161,8 @@
             "index": 19
         },
         {
-            "timestamp": 17.5422,
-            "time": "00:17.542",
+            "timestamp": 15.5422,
+            "time": "00:15.542",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1216,8 +1216,8 @@
             "index": 20
         },
         {
-            "timestamp": 17.6531,
-            "time": "00:17.653",
+            "timestamp": 15.6531,
+            "time": "00:15.653",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1271,8 +1271,8 @@
             "index": 21
         },
         {
-            "timestamp": 18.6127,
-            "time": "00:18.613",
+            "timestamp": 16.6127,
+            "time": "00:16.613",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1326,8 +1326,8 @@
             "index": 22
         },
         {
-            "timestamp": 18.7151,
-            "time": "00:18.715",
+            "timestamp": 16.7151,
+            "time": "00:16.715",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1381,8 +1381,8 @@
             "index": 23
         },
         {
-            "timestamp": 20.5052,
-            "time": "00:20.505",
+            "timestamp": 18.5052,
+            "time": "00:18.505",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1436,8 +1436,8 @@
             "index": 24
         },
         {
-            "timestamp": 23.1809,
-            "time": "00:23.181",
+            "timestamp": 21.1809,
+            "time": "00:21.181",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1491,8 +1491,8 @@
             "index": 25
         },
         {
-            "timestamp": 23.2865,
-            "time": "00:23.287",
+            "timestamp": 21.2865,
+            "time": "00:21.287",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1546,8 +1546,8 @@
             "index": 26
         },
         {
-            "timestamp": 24.4215,
-            "time": "00:24.422",
+            "timestamp": 22.4215,
+            "time": "00:22.422",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1601,8 +1601,8 @@
             "index": 27
         },
         {
-            "timestamp": 24.519,
-            "time": "00:24.519",
+            "timestamp": 22.519,
+            "time": "00:22.519",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1656,8 +1656,8 @@
             "index": 28
         },
         {
-            "timestamp": 25.4491,
-            "time": "00:25.449",
+            "timestamp": 23.4491,
+            "time": "00:23.449",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1711,8 +1711,8 @@
             "index": 29
         },
         {
-            "timestamp": 25.5671,
-            "time": "00:25.567",
+            "timestamp": 23.5671,
+            "time": "00:23.567",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1766,8 +1766,8 @@
             "index": 30
         },
         {
-            "timestamp": 27.0548,
-            "time": "00:27.055",
+            "timestamp": 25.0548,
+            "time": "00:25.055",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1824,8 +1824,8 @@
             "index": 31
         },
         {
-            "timestamp": 27.1707,
-            "time": "00:27.171",
+            "timestamp": 25.1707,
+            "time": "00:25.171",
             "application": "explorer.exe",
             "window_title": "Recycle Bin - File Explorer",
             "cursor_position": [
@@ -1882,8 +1882,8 @@
             "index": 32
         },
         {
-            "timestamp": 27.5762,
-            "time": "00:27.576",
+            "timestamp": 25.5762,
+            "time": "00:25.576",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "cursor_position": [
@@ -1946,8 +1946,8 @@
             "index": 33
         },
         {
-            "timestamp": 29.9173,
-            "time": "00:29.917",
+            "timestamp": 27.9173,
+            "time": "00:27.917",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2004,8 +2004,8 @@
             "index": 34
         },
         {
-            "timestamp": 30.0927,
-            "time": "00:30.093",
+            "timestamp": 28.0927,
+            "time": "00:28.093",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2062,8 +2062,8 @@
             "index": 35
         },
         {
-            "timestamp": 30.1764,
-            "time": "00:30.176",
+            "timestamp": 28.1764,
+            "time": "00:28.176",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2126,8 +2126,8 @@
             "index": 36
         },
         {
-            "timestamp": 30.2498,
-            "time": "00:30.250",
+            "timestamp": 28.2498,
+            "time": "00:28.250",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2184,8 +2184,8 @@
             "index": 37
         },
         {
-            "timestamp": 30.302,
-            "time": "00:30.302",
+            "timestamp": 28.302,
+            "time": "00:28.302",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2248,8 +2248,8 @@
             "index": 38
         },
         {
-            "timestamp": 31.4157,
-            "time": "00:31.416",
+            "timestamp": 29.4157,
+            "time": "00:29.416",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2303,8 +2303,8 @@
             "index": 39
         },
         {
-            "timestamp": 32.4562,
-            "time": "00:32.456",
+            "timestamp": 30.4562,
+            "time": "00:30.456",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2358,8 +2358,8 @@
             "index": 40
         },
         {
-            "timestamp": 33.4695,
-            "time": "00:33.469",
+            "timestamp": 31.4695,
+            "time": "00:31.469",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2413,8 +2413,8 @@
             "index": 41
         },
         {
-            "timestamp": 34.7286,
-            "time": "00:34.729",
+            "timestamp": 32.7286,
+            "time": "00:32.729",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "cursor_position": [
@@ -2468,8 +2468,8 @@
             "index": 42
         },
         {
-            "timestamp": 35.38,
-            "time": "00:35.380",
+            "timestamp": 33.38,
+            "time": "00:33.380",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2523,8 +2523,8 @@
             "index": 43
         },
         {
-            "timestamp": 35.4532,
-            "time": "00:35.453",
+            "timestamp": 33.4532,
+            "time": "00:33.453",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2578,8 +2578,8 @@
             "index": 44
         },
         {
-            "timestamp": 36.3634,
-            "time": "00:36.363",
+            "timestamp": 34.3634,
+            "time": "00:34.363",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2636,8 +2636,8 @@
             "index": 45
         },
         {
-            "timestamp": 36.549,
-            "time": "00:36.549",
+            "timestamp": 34.549,
+            "time": "00:34.549",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2694,8 +2694,8 @@
             "index": 46
         },
         {
-            "timestamp": 36.6255,
-            "time": "00:36.626",
+            "timestamp": 34.6255,
+            "time": "00:34.626",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2758,8 +2758,8 @@
             "index": 47
         },
         {
-            "timestamp": 36.7071,
-            "time": "00:36.707",
+            "timestamp": 34.7071,
+            "time": "00:34.707",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2816,8 +2816,8 @@
             "index": 48
         },
         {
-            "timestamp": 36.784,
-            "time": "00:36.784",
+            "timestamp": 34.784,
+            "time": "00:34.784",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2880,8 +2880,8 @@
             "index": 49
         },
         {
-            "timestamp": 37.9315,
-            "time": "00:37.931",
+            "timestamp": 35.9315,
+            "time": "00:35.931",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2935,8 +2935,8 @@
             "index": 50
         },
         {
-            "timestamp": 38.0354,
-            "time": "00:38.035",
+            "timestamp": 36.0354,
+            "time": "00:36.035",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -2990,8 +2990,8 @@
             "index": 51
         },
         {
-            "timestamp": 39.1152,
-            "time": "00:39.115",
+            "timestamp": 37.1152,
+            "time": "00:37.115",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3045,8 +3045,8 @@
             "index": 52
         },
         {
-            "timestamp": 39.2316,
-            "time": "00:39.232",
+            "timestamp": 37.2316,
+            "time": "00:37.232",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3100,8 +3100,8 @@
             "index": 53
         },
         {
-            "timestamp": 39.772,
-            "time": "00:39.772",
+            "timestamp": 37.772,
+            "time": "00:37.772",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3155,8 +3155,8 @@
             "index": 54
         },
         {
-            "timestamp": 39.8639,
-            "time": "00:39.864",
+            "timestamp": 37.8639,
+            "time": "00:37.864",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3210,8 +3210,8 @@
             "index": 55
         },
         {
-            "timestamp": 40.4178,
-            "time": "00:40.418",
+            "timestamp": 38.4178,
+            "time": "00:38.418",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3265,8 +3265,8 @@
             "index": 56
         },
         {
-            "timestamp": 40.5301,
-            "time": "00:40.530",
+            "timestamp": 38.5301,
+            "time": "00:38.530",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3320,8 +3320,8 @@
             "index": 57
         },
         {
-            "timestamp": 41.6345,
-            "time": "00:41.635",
+            "timestamp": 39.6345,
+            "time": "00:39.635",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3375,8 +3375,8 @@
             "index": 58
         },
         {
-            "timestamp": 41.7339,
-            "time": "00:41.734",
+            "timestamp": 39.7339,
+            "time": "00:39.734",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3430,8 +3430,8 @@
             "index": 59
         },
         {
-            "timestamp": 42.7561,
-            "time": "00:42.756",
+            "timestamp": 40.7561,
+            "time": "00:40.756",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3485,8 +3485,8 @@
             "index": 60
         },
         {
-            "timestamp": 42.8626,
-            "time": "00:42.863",
+            "timestamp": 40.8626,
+            "time": "00:40.863",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3540,8 +3540,8 @@
             "index": 61
         },
         {
-            "timestamp": 43.881,
-            "time": "00:43.881",
+            "timestamp": 41.881,
+            "time": "00:41.881",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3595,8 +3595,8 @@
             "index": 62
         },
         {
-            "timestamp": 43.9965,
-            "time": "00:43.996",
+            "timestamp": 41.9965,
+            "time": "00:41.996",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3650,8 +3650,8 @@
             "index": 63
         },
         {
-            "timestamp": 45.0005,
-            "time": "00:45.001",
+            "timestamp": 43.0005,
+            "time": "00:43.001",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3705,8 +3705,8 @@
             "index": 64
         },
         {
-            "timestamp": 45.121,
-            "time": "00:45.121",
+            "timestamp": 43.121,
+            "time": "00:43.121",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3760,8 +3760,8 @@
             "index": 65
         },
         {
-            "timestamp": 46.3584,
-            "time": "00:46.358",
+            "timestamp": 44.3584,
+            "time": "00:44.358",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "cursor_position": [
@@ -3815,8 +3815,8 @@
             "index": 66
         },
         {
-            "timestamp": 47.3353,
-            "time": "00:47.335",
+            "timestamp": 45.3353,
+            "time": "00:45.335",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -3870,8 +3870,8 @@
             "index": 67
         },
         {
-            "timestamp": 47.4205,
-            "time": "00:47.420",
+            "timestamp": 45.4205,
+            "time": "00:45.420",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -3925,8 +3925,8 @@
             "index": 68
         },
         {
-            "timestamp": 48.5342,
-            "time": "00:48.534",
+            "timestamp": 46.5342,
+            "time": "00:46.534",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -3980,8 +3980,8 @@
             "index": 69
         },
         {
-            "timestamp": 48.6494,
-            "time": "00:48.649",
+            "timestamp": 46.6494,
+            "time": "00:46.649",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4035,8 +4035,8 @@
             "index": 70
         },
         {
-            "timestamp": 49.2942,
-            "time": "00:49.294",
+            "timestamp": 47.2942,
+            "time": "00:47.294",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4090,8 +4090,8 @@
             "index": 71
         },
         {
-            "timestamp": 49.3753,
-            "time": "00:49.375",
+            "timestamp": 47.3753,
+            "time": "00:47.375",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4145,8 +4145,8 @@
             "index": 72
         },
         {
-            "timestamp": 50.0503,
-            "time": "00:50.050",
+            "timestamp": 48.0503,
+            "time": "00:48.050",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4200,8 +4200,8 @@
             "index": 73
         },
         {
-            "timestamp": 50.1663,
-            "time": "00:50.166",
+            "timestamp": 48.1663,
+            "time": "00:48.166",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4255,8 +4255,8 @@
             "index": 74
         },
         {
-            "timestamp": 50.6255,
-            "time": "00:50.626",
+            "timestamp": 48.6255,
+            "time": "00:48.626",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4310,8 +4310,8 @@
             "index": 75
         },
         {
-            "timestamp": 50.7208,
-            "time": "00:50.721",
+            "timestamp": 48.7208,
+            "time": "00:48.721",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4365,8 +4365,8 @@
             "index": 76
         },
         {
-            "timestamp": 51.1485,
-            "time": "00:51.148",
+            "timestamp": 49.1485,
+            "time": "00:49.148",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4423,8 +4423,8 @@
             "index": 77
         },
         {
-            "timestamp": 51.2667,
-            "time": "00:51.267",
+            "timestamp": 49.2667,
+            "time": "00:49.267",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4481,8 +4481,8 @@
             "index": 78
         },
         {
-            "timestamp": 51.3494,
-            "time": "00:51.349",
+            "timestamp": 49.3494,
+            "time": "00:49.349",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4545,8 +4545,8 @@
             "index": 79
         },
         {
-            "timestamp": 53.0294,
-            "time": "00:53.029",
+            "timestamp": 51.0294,
+            "time": "00:51.029",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4603,8 +4603,8 @@
             "index": 80
         },
         {
-            "timestamp": 53.1359,
-            "time": "00:53.136",
+            "timestamp": 51.1359,
+            "time": "00:51.136",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4661,8 +4661,8 @@
             "index": 81
         },
         {
-            "timestamp": 53.2139,
-            "time": "00:53.214",
+            "timestamp": 51.2139,
+            "time": "00:51.214",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [
@@ -4725,8 +4725,8 @@
             "index": 82
         },
         {
-            "timestamp": 54.534,
-            "time": "00:54.534",
+            "timestamp": 52.534,
+            "time": "00:52.534",
             "application": "explorer.exe",
             "window_title": "Task 79 - File Explorer",
             "cursor_position": [

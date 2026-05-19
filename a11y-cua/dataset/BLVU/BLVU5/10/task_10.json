@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756665406.9028459,
+            "started_at": 1756665408.9028459,
             "ended_at": 1756665565.1792269,
             "started_time": "00:00.000",
-            "ended_time": "02:19.738",
+            "ended_time": "02:17.738",
             "duration": 158.28
         },
         "statistics": {
@@ -92,7 +92,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -147,8 +147,8 @@
             "index": 0
         },
         {
-            "timestamp": 3.0209,
-            "time": "00:03.021",
+            "timestamp": 1.0209,
+            "time": "00:01.021",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -205,8 +205,8 @@
             "index": 1
         },
         {
-            "timestamp": 3.3296,
-            "time": "00:03.330",
+            "timestamp": 1.3296,
+            "time": "00:01.330",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -263,8 +263,8 @@
             "index": 2
         },
         {
-            "timestamp": 3.3986,
-            "time": "00:03.399",
+            "timestamp": 1.3986,
+            "time": "00:01.399",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -327,8 +327,8 @@
             "index": 3
         },
         {
-            "timestamp": 3.4476,
-            "time": "00:03.448",
+            "timestamp": 1.4476,
+            "time": "00:01.448",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -385,8 +385,8 @@
             "index": 4
         },
         {
-            "timestamp": 3.5211,
-            "time": "00:03.521",
+            "timestamp": 1.5211,
+            "time": "00:01.521",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -449,8 +449,8 @@
             "index": 5
         },
         {
-            "timestamp": 4.3852,
-            "time": "00:04.385",
+            "timestamp": 2.3852,
+            "time": "00:02.385",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -504,8 +504,8 @@
             "index": 6
         },
         {
-            "timestamp": 4.5679,
-            "time": "00:04.568",
+            "timestamp": 2.5679,
+            "time": "00:02.568",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -559,8 +559,8 @@
             "index": 7
         },
         {
-            "timestamp": 4.7435,
-            "time": "00:04.744",
+            "timestamp": 2.7435,
+            "time": "00:02.744",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -614,8 +614,8 @@
             "index": 8
         },
         {
-            "timestamp": 4.9558,
-            "time": "00:04.956",
+            "timestamp": 2.9558,
+            "time": "00:02.956",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -669,8 +669,8 @@
             "index": 9
         },
         {
-            "timestamp": 5.2739,
-            "time": "00:05.274",
+            "timestamp": 3.2739,
+            "time": "00:03.274",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -727,8 +727,8 @@
             "index": 10
         },
         {
-            "timestamp": 5.3509,
-            "time": "00:05.351",
+            "timestamp": 3.3509,
+            "time": "00:03.351",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -785,8 +785,8 @@
             "index": 11
         },
         {
-            "timestamp": 5.4924,
-            "time": "00:05.492",
+            "timestamp": 3.4924,
+            "time": "00:03.492",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -849,8 +849,8 @@
             "index": 12
         },
         {
-            "timestamp": 5.5836,
-            "time": "00:05.584",
+            "timestamp": 3.5836,
+            "time": "00:03.584",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -907,8 +907,8 @@
             "index": 13
         },
         {
-            "timestamp": 5.646,
-            "time": "00:05.646",
+            "timestamp": 3.646,
+            "time": "00:03.646",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -971,8 +971,8 @@
             "index": 14
         },
         {
-            "timestamp": 5.7215,
-            "time": "00:05.721",
+            "timestamp": 3.7215,
+            "time": "00:03.721",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1029,8 +1029,8 @@
             "index": 15
         },
         {
-            "timestamp": 5.7973,
-            "time": "00:05.797",
+            "timestamp": 3.7973,
+            "time": "00:03.797",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1093,8 +1093,8 @@
             "index": 16
         },
         {
-            "timestamp": 5.8829,
-            "time": "00:05.883",
+            "timestamp": 3.8829,
+            "time": "00:03.883",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1151,8 +1151,8 @@
             "index": 17
         },
         {
-            "timestamp": 6.0196,
-            "time": "00:06.020",
+            "timestamp": 4.0196,
+            "time": "00:04.020",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1215,8 +1215,8 @@
             "index": 18
         },
         {
-            "timestamp": 6.1508,
-            "time": "00:06.151",
+            "timestamp": 4.1508,
+            "time": "00:04.151",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1273,8 +1273,8 @@
             "index": 19
         },
         {
-            "timestamp": 6.2293,
-            "time": "00:06.229",
+            "timestamp": 4.2293,
+            "time": "00:04.229",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1337,8 +1337,8 @@
             "index": 20
         },
         {
-            "timestamp": 6.3161,
-            "time": "00:06.316",
+            "timestamp": 4.3161,
+            "time": "00:04.316",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1392,8 +1392,8 @@
             "index": 21
         },
         {
-            "timestamp": 6.422,
-            "time": "00:06.422",
+            "timestamp": 4.422,
+            "time": "00:04.422",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1447,8 +1447,8 @@
             "index": 22
         },
         {
-            "timestamp": 6.5235,
-            "time": "00:06.524",
+            "timestamp": 4.5235,
+            "time": "00:04.524",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1502,8 +1502,8 @@
             "index": 23
         },
         {
-            "timestamp": 6.6173,
-            "time": "00:06.617",
+            "timestamp": 4.6173,
+            "time": "00:04.617",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1557,8 +1557,8 @@
             "index": 24
         },
         {
-            "timestamp": 6.6992,
-            "time": "00:06.699",
+            "timestamp": 4.6992,
+            "time": "00:04.699",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1612,8 +1612,8 @@
             "index": 25
         },
         {
-            "timestamp": 6.8819,
-            "time": "00:06.882",
+            "timestamp": 4.8819,
+            "time": "00:04.882",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1667,8 +1667,8 @@
             "index": 26
         },
         {
-            "timestamp": 7.0139,
-            "time": "00:07.014",
+            "timestamp": 5.0139,
+            "time": "00:05.014",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1722,8 +1722,8 @@
             "index": 27
         },
         {
-            "timestamp": 7.1704,
-            "time": "00:07.170",
+            "timestamp": 5.1704,
+            "time": "00:05.170",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1777,8 +1777,8 @@
             "index": 28
         },
         {
-            "timestamp": 7.3071,
-            "time": "00:07.307",
+            "timestamp": 5.3071,
+            "time": "00:05.307",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1832,8 +1832,8 @@
             "index": 29
         },
         {
-            "timestamp": 7.4272,
-            "time": "00:07.427",
+            "timestamp": 5.4272,
+            "time": "00:05.427",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1887,8 +1887,8 @@
             "index": 30
         },
         {
-            "timestamp": 7.5742,
-            "time": "00:07.574",
+            "timestamp": 5.5742,
+            "time": "00:05.574",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1942,8 +1942,8 @@
             "index": 31
         },
         {
-            "timestamp": 10.516,
-            "time": "00:10.516",
+            "timestamp": 8.516,
+            "time": "00:08.516",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1997,8 +1997,8 @@
             "index": 32
         },
         {
-            "timestamp": 10.6721,
-            "time": "00:10.672",
+            "timestamp": 8.6721,
+            "time": "00:08.672",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2052,8 +2052,8 @@
             "index": 33
         },
         {
-            "timestamp": 12.3067,
-            "time": "00:12.307",
+            "timestamp": 10.3067,
+            "time": "00:10.307",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2107,8 +2107,8 @@
             "index": 34
         },
         {
-            "timestamp": 12.7768,
-            "time": "00:12.777",
+            "timestamp": 10.7768,
+            "time": "00:10.777",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2162,8 +2162,8 @@
             "index": 35
         },
         {
-            "timestamp": 12.916,
-            "time": "00:12.916",
+            "timestamp": 10.916,
+            "time": "00:10.916",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2217,8 +2217,8 @@
             "index": 36
         },
         {
-            "timestamp": 13.0492,
-            "time": "00:13.049",
+            "timestamp": 11.0492,
+            "time": "00:11.049",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2272,8 +2272,8 @@
             "index": 37
         },
         {
-            "timestamp": 13.8759,
-            "time": "00:13.876",
+            "timestamp": 11.8759,
+            "time": "00:11.876",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2327,8 +2327,8 @@
             "index": 38
         },
         {
-            "timestamp": 14.7897,
-            "time": "00:14.790",
+            "timestamp": 12.7897,
+            "time": "00:12.790",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2382,8 +2382,8 @@
             "index": 39
         },
         {
-            "timestamp": 15.1133,
-            "time": "00:15.113",
+            "timestamp": 13.1133,
+            "time": "00:13.113",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2437,8 +2437,8 @@
             "index": 40
         },
         {
-            "timestamp": 16.1166,
-            "time": "00:16.117",
+            "timestamp": 14.1166,
+            "time": "00:14.117",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2492,8 +2492,8 @@
             "index": 41
         },
         {
-            "timestamp": 24.5051,
-            "time": "00:24.505",
+            "timestamp": 22.5051,
+            "time": "00:22.505",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2547,8 +2547,8 @@
             "index": 42
         },
         {
-            "timestamp": 27.6805,
-            "time": "00:27.680",
+            "timestamp": 25.6805,
+            "time": "00:25.680",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2602,8 +2602,8 @@
             "index": 43
         },
         {
-            "timestamp": 29.3642,
-            "time": "00:29.364",
+            "timestamp": 27.3642,
+            "time": "00:27.364",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2657,8 +2657,8 @@
             "index": 44
         },
         {
-            "timestamp": 30.998,
-            "time": "00:30.998",
+            "timestamp": 28.998,
+            "time": "00:28.998",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2712,8 +2712,8 @@
             "index": 45
         },
         {
-            "timestamp": 31.1039,
-            "time": "00:31.104",
+            "timestamp": 29.1039,
+            "time": "00:29.104",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2770,8 +2770,8 @@
             "index": 46
         },
         {
-            "timestamp": 31.2023,
-            "time": "00:31.202",
+            "timestamp": 29.2023,
+            "time": "00:29.202",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2828,8 +2828,8 @@
             "index": 47
         },
         {
-            "timestamp": 31.2904,
-            "time": "00:31.290",
+            "timestamp": 29.2904,
+            "time": "00:29.290",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2892,8 +2892,8 @@
             "index": 48
         },
         {
-            "timestamp": 33.9888,
-            "time": "00:33.989",
+            "timestamp": 31.9888,
+            "time": "00:31.989",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -2947,8 +2947,8 @@
             "index": 49
         },
         {
-            "timestamp": 35.633,
-            "time": "00:35.633",
+            "timestamp": 33.633,
+            "time": "00:33.633",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3005,8 +3005,8 @@
             "index": 50
         },
         {
-            "timestamp": 35.9199,
-            "time": "00:35.920",
+            "timestamp": 33.9199,
+            "time": "00:33.920",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3063,8 +3063,8 @@
             "index": 51
         },
         {
-            "timestamp": 36.0772,
-            "time": "00:36.077",
+            "timestamp": 34.0772,
+            "time": "00:34.077",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3127,8 +3127,8 @@
             "index": 52
         },
         {
-            "timestamp": 37.0339,
-            "time": "00:37.034",
+            "timestamp": 35.0339,
+            "time": "00:35.034",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3182,8 +3182,8 @@
             "index": 53
         },
         {
-            "timestamp": 37.1595,
-            "time": "00:37.160",
+            "timestamp": 35.1595,
+            "time": "00:35.160",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3240,8 +3240,8 @@
             "index": 54
         },
         {
-            "timestamp": 37.2468,
-            "time": "00:37.247",
+            "timestamp": 35.2468,
+            "time": "00:35.247",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3298,8 +3298,8 @@
             "index": 55
         },
         {
-            "timestamp": 37.3385,
-            "time": "00:37.339",
+            "timestamp": 35.3385,
+            "time": "00:35.339",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3362,8 +3362,8 @@
             "index": 56
         },
         {
-            "timestamp": 38.2153,
-            "time": "00:38.215",
+            "timestamp": 36.2153,
+            "time": "00:36.215",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3417,8 +3417,8 @@
             "index": 57
         },
         {
-            "timestamp": 38.7619,
-            "time": "00:38.762",
+            "timestamp": 36.7619,
+            "time": "00:36.762",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3472,8 +3472,8 @@
             "index": 58
         },
         {
-            "timestamp": 39.8724,
-            "time": "00:39.872",
+            "timestamp": 37.8724,
+            "time": "00:37.872",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3527,8 +3527,8 @@
             "index": 59
         },
         {
-            "timestamp": 43.0008,
-            "time": "00:43.001",
+            "timestamp": 41.0008,
+            "time": "00:41.001",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3582,8 +3582,8 @@
             "index": 60
         },
         {
-            "timestamp": 47.9811,
-            "time": "00:47.981",
+            "timestamp": 45.9811,
+            "time": "00:45.981",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3640,8 +3640,8 @@
             "index": 61
         },
         {
-            "timestamp": 48.745,
-            "time": "00:48.745",
+            "timestamp": 46.745,
+            "time": "00:46.745",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3695,8 +3695,8 @@
             "index": 62
         },
         {
-            "timestamp": 48.9982,
-            "time": "00:48.998",
+            "timestamp": 46.9982,
+            "time": "00:46.998",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3750,8 +3750,8 @@
             "index": 63
         },
         {
-            "timestamp": 49.6894,
-            "time": "00:49.689",
+            "timestamp": 47.6894,
+            "time": "00:47.689",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3805,8 +3805,8 @@
             "index": 64
         },
         {
-            "timestamp": 50.8129,
-            "time": "00:50.813",
+            "timestamp": 48.8129,
+            "time": "00:48.813",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3860,8 +3860,8 @@
             "index": 65
         },
         {
-            "timestamp": 51.028,
-            "time": "00:51.028",
+            "timestamp": 49.028,
+            "time": "00:49.028",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3915,8 +3915,8 @@
             "index": 66
         },
         {
-            "timestamp": 51.1803,
-            "time": "00:51.180",
+            "timestamp": 49.1803,
+            "time": "00:49.180",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -3970,8 +3970,8 @@
             "index": 67
         },
         {
-            "timestamp": 51.3432,
-            "time": "00:51.343",
+            "timestamp": 49.3432,
+            "time": "00:49.343",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4025,8 +4025,8 @@
             "index": 68
         },
         {
-            "timestamp": 51.5311,
-            "time": "00:51.531",
+            "timestamp": 49.5311,
+            "time": "00:49.531",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4080,8 +4080,8 @@
             "index": 69
         },
         {
-            "timestamp": 51.8608,
-            "time": "00:51.861",
+            "timestamp": 49.8608,
+            "time": "00:49.861",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4135,8 +4135,8 @@
             "index": 70
         },
         {
-            "timestamp": 52.3776,
-            "time": "00:52.378",
+            "timestamp": 50.3776,
+            "time": "00:50.378",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4190,8 +4190,8 @@
             "index": 71
         },
         {
-            "timestamp": 52.7719,
-            "time": "00:52.772",
+            "timestamp": 50.7719,
+            "time": "00:50.772",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4245,8 +4245,8 @@
             "index": 72
         },
         {
-            "timestamp": 53.0774,
-            "time": "00:53.077",
+            "timestamp": 51.0774,
+            "time": "00:51.077",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4300,8 +4300,8 @@
             "index": 73
         },
         {
-            "timestamp": 53.3694,
-            "time": "00:53.369",
+            "timestamp": 51.3694,
+            "time": "00:51.369",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4355,8 +4355,8 @@
             "index": 74
         },
         {
-            "timestamp": 53.8546,
-            "time": "00:53.855",
+            "timestamp": 51.8546,
+            "time": "00:51.855",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4410,8 +4410,8 @@
             "index": 75
         },
         {
-            "timestamp": 54.1158,
-            "time": "00:54.116",
+            "timestamp": 52.1158,
+            "time": "00:52.116",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4465,8 +4465,8 @@
             "index": 76
         },
         {
-            "timestamp": 54.3565,
-            "time": "00:54.356",
+            "timestamp": 52.3565,
+            "time": "00:52.356",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4520,8 +4520,8 @@
             "index": 77
         },
         {
-            "timestamp": 54.6919,
-            "time": "00:54.692",
+            "timestamp": 52.6919,
+            "time": "00:52.692",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4575,8 +4575,8 @@
             "index": 78
         },
         {
-            "timestamp": 54.9524,
-            "time": "00:54.952",
+            "timestamp": 52.9524,
+            "time": "00:52.952",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4630,8 +4630,8 @@
             "index": 79
         },
         {
-            "timestamp": 55.3989,
-            "time": "00:55.399",
+            "timestamp": 53.3989,
+            "time": "00:53.399",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4685,8 +4685,8 @@
             "index": 80
         },
         {
-            "timestamp": 55.988,
-            "time": "00:55.988",
+            "timestamp": 53.988,
+            "time": "00:53.988",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4740,8 +4740,8 @@
             "index": 81
         },
         {
-            "timestamp": 57.1225,
-            "time": "00:57.123",
+            "timestamp": 55.1225,
+            "time": "00:55.123",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4795,8 +4795,8 @@
             "index": 82
         },
         {
-            "timestamp": 57.9559,
-            "time": "00:57.956",
+            "timestamp": 55.9559,
+            "time": "00:55.956",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4850,8 +4850,8 @@
             "index": 83
         },
         {
-            "timestamp": 58.8148,
-            "time": "00:58.815",
+            "timestamp": 56.8148,
+            "time": "00:56.815",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4905,8 +4905,8 @@
             "index": 84
         },
         {
-            "timestamp": 59.6582,
-            "time": "00:59.658",
+            "timestamp": 57.6582,
+            "time": "00:57.658",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -4960,8 +4960,8 @@
             "index": 85
         },
         {
-            "timestamp": 61.4629,
-            "time": "01:01.463",
+            "timestamp": 59.4629,
+            "time": "00:59.463",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5015,8 +5015,8 @@
             "index": 86
         },
         {
-            "timestamp": 61.7274,
-            "time": "01:01.727",
+            "timestamp": 59.7274,
+            "time": "00:59.727",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5070,8 +5070,8 @@
             "index": 87
         },
         {
-            "timestamp": 61.926,
-            "time": "01:01.926",
+            "timestamp": 59.926,
+            "time": "00:59.926",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5125,8 +5125,8 @@
             "index": 88
         },
         {
-            "timestamp": 62.1146,
-            "time": "01:02.115",
+            "timestamp": 60.1146,
+            "time": "01:00.115",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5180,8 +5180,8 @@
             "index": 89
         },
         {
-            "timestamp": 63.3525,
-            "time": "01:03.352",
+            "timestamp": 61.3525,
+            "time": "01:01.352",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5235,8 +5235,8 @@
             "index": 90
         },
         {
-            "timestamp": 63.6401,
-            "time": "01:03.640",
+            "timestamp": 61.6401,
+            "time": "01:01.640",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5290,8 +5290,8 @@
             "index": 91
         },
         {
-            "timestamp": 63.8449,
-            "time": "01:03.845",
+            "timestamp": 61.8449,
+            "time": "01:01.845",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5345,8 +5345,8 @@
             "index": 92
         },
         {
-            "timestamp": 64.056,
-            "time": "01:04.056",
+            "timestamp": 62.056,
+            "time": "01:02.056",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5400,8 +5400,8 @@
             "index": 93
         },
         {
-            "timestamp": 64.6081,
-            "time": "01:04.608",
+            "timestamp": 62.6081,
+            "time": "01:02.608",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5458,8 +5458,8 @@
             "index": 94
         },
         {
-            "timestamp": 73.0279,
-            "time": "01:13.028",
+            "timestamp": 71.0279,
+            "time": "01:11.028",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5513,8 +5513,8 @@
             "index": 95
         },
         {
-            "timestamp": 74.7941,
-            "time": "01:14.794",
+            "timestamp": 72.7941,
+            "time": "01:12.794",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5568,8 +5568,8 @@
             "index": 96
         },
         {
-            "timestamp": 76.7252,
-            "time": "01:16.725",
+            "timestamp": 74.7252,
+            "time": "01:14.725",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5623,8 +5623,8 @@
             "index": 97
         },
         {
-            "timestamp": 77.4971,
-            "time": "01:17.497",
+            "timestamp": 75.4971,
+            "time": "01:15.497",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5678,8 +5678,8 @@
             "index": 98
         },
         {
-            "timestamp": 79.1136,
-            "time": "01:19.114",
+            "timestamp": 77.1136,
+            "time": "01:17.114",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5736,8 +5736,8 @@
             "index": 99
         },
         {
-            "timestamp": 79.9127,
-            "time": "01:19.913",
+            "timestamp": 77.9127,
+            "time": "01:17.913",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5794,8 +5794,8 @@
             "index": 100
         },
         {
-            "timestamp": 80.412,
-            "time": "01:20.412",
+            "timestamp": 78.412,
+            "time": "01:18.412",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5852,8 +5852,8 @@
             "index": 101
         },
         {
-            "timestamp": 80.5329,
-            "time": "01:20.533",
+            "timestamp": 78.5329,
+            "time": "01:18.533",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5910,8 +5910,8 @@
             "index": 102
         },
         {
-            "timestamp": 80.6495,
-            "time": "01:20.650",
+            "timestamp": 78.6495,
+            "time": "01:18.650",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -5968,8 +5968,8 @@
             "index": 103
         },
         {
-            "timestamp": 80.7752,
-            "time": "01:20.775",
+            "timestamp": 78.7752,
+            "time": "01:18.775",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6026,8 +6026,8 @@
             "index": 104
         },
         {
-            "timestamp": 80.8697,
-            "time": "01:20.870",
+            "timestamp": 78.8697,
+            "time": "01:18.870",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6090,8 +6090,8 @@
             "index": 105
         },
         {
-            "timestamp": 81.9039,
-            "time": "01:21.904",
+            "timestamp": 79.9039,
+            "time": "01:19.904",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6145,8 +6145,8 @@
             "index": 106
         },
         {
-            "timestamp": 82.9435,
-            "time": "01:22.944",
+            "timestamp": 80.9435,
+            "time": "01:20.944",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6200,8 +6200,8 @@
             "index": 107
         },
         {
-            "timestamp": 84.9273,
-            "time": "01:24.927",
+            "timestamp": 82.9273,
+            "time": "01:22.927",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6255,8 +6255,8 @@
             "index": 108
         },
         {
-            "timestamp": 85.9069,
-            "time": "01:25.907",
+            "timestamp": 83.9069,
+            "time": "01:23.907",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6310,8 +6310,8 @@
             "index": 109
         },
         {
-            "timestamp": 86.1954,
-            "time": "01:26.195",
+            "timestamp": 84.1954,
+            "time": "01:24.195",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6365,8 +6365,8 @@
             "index": 110
         },
         {
-            "timestamp": 86.6578,
-            "time": "01:26.658",
+            "timestamp": 84.6578,
+            "time": "01:24.658",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6420,8 +6420,8 @@
             "index": 111
         },
         {
-            "timestamp": 86.8546,
-            "time": "01:26.855",
+            "timestamp": 84.8546,
+            "time": "01:24.855",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6475,8 +6475,8 @@
             "index": 112
         },
         {
-            "timestamp": 87.4619,
-            "time": "01:27.462",
+            "timestamp": 85.4619,
+            "time": "01:25.462",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6530,8 +6530,8 @@
             "index": 113
         },
         {
-            "timestamp": 87.5813,
-            "time": "01:27.581",
+            "timestamp": 85.5813,
+            "time": "01:25.581",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6585,8 +6585,8 @@
             "index": 114
         },
         {
-            "timestamp": 88.1168,
-            "time": "01:28.117",
+            "timestamp": 86.1168,
+            "time": "01:26.117",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6640,8 +6640,8 @@
             "index": 115
         },
         {
-            "timestamp": 88.8041,
-            "time": "01:28.804",
+            "timestamp": 86.8041,
+            "time": "01:26.804",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6695,8 +6695,8 @@
             "index": 116
         },
         {
-            "timestamp": 89.9595,
-            "time": "01:29.960",
+            "timestamp": 87.9595,
+            "time": "01:27.960",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6750,8 +6750,8 @@
             "index": 117
         },
         {
-            "timestamp": 91.0804,
-            "time": "01:31.080",
+            "timestamp": 89.0804,
+            "time": "01:29.080",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6805,8 +6805,8 @@
             "index": 118
         },
         {
-            "timestamp": 91.5539,
-            "time": "01:31.554",
+            "timestamp": 89.5539,
+            "time": "01:29.554",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6860,8 +6860,8 @@
             "index": 119
         },
         {
-            "timestamp": 92.3876,
-            "time": "01:32.388",
+            "timestamp": 90.3876,
+            "time": "01:30.388",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6918,8 +6918,8 @@
             "index": 120
         },
         {
-            "timestamp": 92.5469,
-            "time": "01:32.547",
+            "timestamp": 90.5469,
+            "time": "01:30.547",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -6976,8 +6976,8 @@
             "index": 121
         },
         {
-            "timestamp": 92.6389,
-            "time": "01:32.639",
+            "timestamp": 90.6389,
+            "time": "01:30.639",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7040,8 +7040,8 @@
             "index": 122
         },
         {
-            "timestamp": 94.7235,
-            "time": "01:34.724",
+            "timestamp": 92.7235,
+            "time": "01:32.724",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7095,8 +7095,8 @@
             "index": 123
         },
         {
-            "timestamp": 94.8625,
-            "time": "01:34.862",
+            "timestamp": 92.8625,
+            "time": "01:32.862",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7150,8 +7150,8 @@
             "index": 124
         },
         {
-            "timestamp": 95.6106,
-            "time": "01:35.611",
+            "timestamp": 93.6106,
+            "time": "01:33.611",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7208,8 +7208,8 @@
             "index": 125
         },
         {
-            "timestamp": 95.7084,
-            "time": "01:35.708",
+            "timestamp": 93.7084,
+            "time": "01:33.708",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7266,8 +7266,8 @@
             "index": 126
         },
         {
-            "timestamp": 95.8282,
-            "time": "01:35.828",
+            "timestamp": 93.8282,
+            "time": "01:33.828",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7330,8 +7330,8 @@
             "index": 127
         },
         {
-            "timestamp": 97.0087,
-            "time": "01:37.009",
+            "timestamp": 95.0087,
+            "time": "01:35.009",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7385,8 +7385,8 @@
             "index": 128
         },
         {
-            "timestamp": 97.2319,
-            "time": "01:37.232",
+            "timestamp": 95.2319,
+            "time": "01:35.232",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7440,8 +7440,8 @@
             "index": 129
         },
         {
-            "timestamp": 97.8453,
-            "time": "01:37.845",
+            "timestamp": 95.8453,
+            "time": "01:35.845",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7495,8 +7495,8 @@
             "index": 130
         },
         {
-            "timestamp": 98.0621,
-            "time": "01:38.062",
+            "timestamp": 96.0621,
+            "time": "01:36.062",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7550,8 +7550,8 @@
             "index": 131
         },
         {
-            "timestamp": 99.3618,
-            "time": "01:39.362",
+            "timestamp": 97.3618,
+            "time": "01:37.362",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7605,8 +7605,8 @@
             "index": 132
         },
         {
-            "timestamp": 100.5701,
-            "time": "01:40.570",
+            "timestamp": 98.5701,
+            "time": "01:38.570",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7663,8 +7663,8 @@
             "index": 133
         },
         {
-            "timestamp": 102.2316,
-            "time": "01:42.232",
+            "timestamp": 100.2316,
+            "time": "01:40.232",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7718,8 +7718,8 @@
             "index": 134
         },
         {
-            "timestamp": 103.5062,
-            "time": "01:43.506",
+            "timestamp": 101.5062,
+            "time": "01:41.506",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7773,8 +7773,8 @@
             "index": 135
         },
         {
-            "timestamp": 105.2222,
-            "time": "01:45.222",
+            "timestamp": 103.2222,
+            "time": "01:43.222",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -7828,8 +7828,8 @@
             "index": 136
         },
         {
-            "timestamp": 109.7245,
-            "time": "01:49.725",
+            "timestamp": 107.7245,
+            "time": "01:47.725",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -7883,8 +7883,8 @@
             "index": 137
         },
         {
-            "timestamp": 111.0261,
-            "time": "01:51.026",
+            "timestamp": 109.0261,
+            "time": "01:49.026",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -7938,8 +7938,8 @@
             "index": 138
         },
         {
-            "timestamp": 112.0458,
-            "time": "01:52.046",
+            "timestamp": 110.0458,
+            "time": "01:50.046",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -7993,8 +7993,8 @@
             "index": 139
         },
         {
-            "timestamp": 113.951,
-            "time": "01:53.951",
+            "timestamp": 111.951,
+            "time": "01:51.951",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8048,8 +8048,8 @@
             "index": 140
         },
         {
-            "timestamp": 116.6634,
-            "time": "01:56.663",
+            "timestamp": 114.6634,
+            "time": "01:54.663",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8103,8 +8103,8 @@
             "index": 141
         },
         {
-            "timestamp": 118.4285,
-            "time": "01:58.428",
+            "timestamp": 116.4285,
+            "time": "01:56.428",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8158,8 +8158,8 @@
             "index": 142
         },
         {
-            "timestamp": 120.277,
-            "time": "02:00.277",
+            "timestamp": 118.277,
+            "time": "01:58.277",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8213,8 +8213,8 @@
             "index": 143
         },
         {
-            "timestamp": 120.5754,
-            "time": "02:00.575",
+            "timestamp": 118.5754,
+            "time": "01:58.575",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8268,8 +8268,8 @@
             "index": 144
         },
         {
-            "timestamp": 121.2457,
-            "time": "02:01.246",
+            "timestamp": 119.2457,
+            "time": "01:59.246",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8323,8 +8323,8 @@
             "index": 145
         },
         {
-            "timestamp": 123.1053,
-            "time": "02:03.105",
+            "timestamp": 121.1053,
+            "time": "02:01.105",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8378,8 +8378,8 @@
             "index": 146
         },
         {
-            "timestamp": 128.7974,
-            "time": "02:08.797",
+            "timestamp": 126.7974,
+            "time": "02:06.797",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -8433,8 +8433,8 @@
             "index": 147
         },
         {
-            "timestamp": 129.7609,
-            "time": "02:09.761",
+            "timestamp": 127.7609,
+            "time": "02:07.761",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -8491,8 +8491,8 @@
             "index": 148
         },
         {
-            "timestamp": 129.8983,
-            "time": "02:09.898",
+            "timestamp": 127.8983,
+            "time": "02:07.898",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -8549,8 +8549,8 @@
             "index": 149
         },
         {
-            "timestamp": 130.0004,
-            "time": "02:10.000",
+            "timestamp": 128.0004,
+            "time": "02:08.000",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -8613,8 +8613,8 @@
             "index": 150
         },
         {
-            "timestamp": 131.2003,
-            "time": "02:11.200",
+            "timestamp": 129.2003,
+            "time": "02:09.200",
             "application": "chrome.exe",
             "window_title": "France 24 - Infos, news & actualit\u00e9s - L'information internationale en direct - Google Chrome",
             "focused_element": {
@@ -8668,8 +8668,8 @@
             "index": 151
         },
         {
-            "timestamp": 135.1808,
-            "time": "02:15.181",
+            "timestamp": 133.1808,
+            "time": "02:13.181",
             "application": "chrome.exe",
             "window_title": "Translate this page?",
             "focused_element": {
@@ -8723,8 +8723,8 @@
             "index": 152
         },
         {
-            "timestamp": 138.3125,
-            "time": "02:18.312",
+            "timestamp": 136.3125,
+            "time": "02:16.312",
             "application": "chrome.exe",
             "window_title": "Translated",
             "focused_element": {
@@ -8778,8 +8778,8 @@
             "index": 153
         },
         {
-            "timestamp": 139.738,
-            "time": "02:19.738",
+            "timestamp": 137.738,
+            "time": "02:17.738",
             "application": "chrome.exe",
             "window_title": "Translated",
             "focused_element": {

@@ -16,7 +16,7 @@
             "started_at": 1755755476.6167424,
             "ended_at": 1755755497.3382533,
             "started_time": "00:00.000",
-            "ended_time": "00:53.827",
+            "ended_time": "00:15.577",
             "duration": 20.72
         },
         "statistics": {
@@ -110,7 +110,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
@@ -165,8 +165,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.1294,
-            "time": "00:00.129",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -220,8 +220,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.2299,
-            "time": "00:00.230",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -275,8 +275,8 @@
             "index": 2
         },
         {
-            "timestamp": 0.4616,
-            "time": "00:00.462",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -330,8 +330,8 @@
             "index": 3
         },
         {
-            "timestamp": 0.5417,
-            "time": "00:00.542",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -385,8 +385,8 @@
             "index": 4
         },
         {
-            "timestamp": 0.624,
-            "time": "00:00.624",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -440,8 +440,8 @@
             "index": 5
         },
         {
-            "timestamp": 0.7827,
-            "time": "00:00.783",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -495,8 +495,8 @@
             "index": 6
         },
         {
-            "timestamp": 0.8908,
-            "time": "00:00.891",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -550,8 +550,8 @@
             "index": 7
         },
         {
-            "timestamp": 1.0607,
-            "time": "00:01.061",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -605,8 +605,8 @@
             "index": 8
         },
         {
-            "timestamp": 1.1511,
-            "time": "00:01.151",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -660,8 +660,8 @@
             "index": 9
         },
         {
-            "timestamp": 1.2166,
-            "time": "00:01.217",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -715,8 +715,8 @@
             "index": 10
         },
         {
-            "timestamp": 1.484,
-            "time": "00:01.484",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "cursor_position": [
@@ -770,8 +770,8 @@
             "index": 11
         },
         {
-            "timestamp": 2.5622,
-            "time": "00:02.562",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Robot or human? - Google Chrome",
             "cursor_position": [
@@ -828,8 +828,8 @@
             "index": 12
         },
         {
-            "timestamp": 3.8223,
-            "time": "00:03.822",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Robot or human? - Google Chrome",
             "cursor_position": [
@@ -887,8 +887,8 @@
             "index": 13
         },
         {
-            "timestamp": 4.2538,
-            "time": "00:04.254",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Robot or human? - Google Chrome",
             "cursor_position": [
@@ -945,8 +945,8 @@
             "index": 14
         },
         {
-            "timestamp": 7.2763,
-            "time": "00:07.276",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Robot or human? - Google Chrome",
             "cursor_position": [
@@ -1004,8 +1004,8 @@
             "index": 15
         },
         {
-            "timestamp": 16.7876,
-            "time": "00:16.788",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Robot or human? - Google Chrome",
             "cursor_position": [
@@ -1062,8 +1062,8 @@
             "index": 16
         },
         {
-            "timestamp": 21.4977,
-            "time": "00:21.498",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1121,8 +1121,8 @@
             "index": 17
         },
         {
-            "timestamp": 22.2692,
-            "time": "00:22.269",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1176,8 +1176,8 @@
             "index": 18
         },
         {
-            "timestamp": 22.3862,
-            "time": "00:22.386",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1231,8 +1231,8 @@
             "index": 19
         },
         {
-            "timestamp": 22.5991,
-            "time": "00:22.599",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1286,8 +1286,8 @@
             "index": 20
         },
         {
-            "timestamp": 22.7227,
-            "time": "00:22.723",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1341,8 +1341,8 @@
             "index": 21
         },
         {
-            "timestamp": 22.8409,
-            "time": "00:22.841",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1396,8 +1396,8 @@
             "index": 22
         },
         {
-            "timestamp": 22.9363,
-            "time": "00:22.936",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1451,8 +1451,8 @@
             "index": 23
         },
         {
-            "timestamp": 23.0158,
-            "time": "00:23.016",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1506,8 +1506,8 @@
             "index": 24
         },
         {
-            "timestamp": 23.1284,
-            "time": "00:23.128",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1561,8 +1561,8 @@
             "index": 25
         },
         {
-            "timestamp": 23.2346,
-            "time": "00:23.235",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1616,8 +1616,8 @@
             "index": 26
         },
         {
-            "timestamp": 23.3497,
-            "time": "00:23.350",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1671,8 +1671,8 @@
             "index": 27
         },
         {
-            "timestamp": 23.5864,
-            "time": "00:23.586",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "cursor_position": [
@@ -1726,8 +1726,8 @@
             "index": 28
         },
         {
-            "timestamp": 24.408,
-            "time": "00:24.408",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "walmart.com/search?q=frying+pan - Google Chrome",
             "cursor_position": [
@@ -1784,8 +1784,8 @@
             "index": 29
         },
         {
-            "timestamp": 25.7644,
-            "time": "00:25.764",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -1842,8 +1842,8 @@
             "index": 30
         },
         {
-            "timestamp": 25.8799,
-            "time": "00:25.880",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -1900,8 +1900,8 @@
             "index": 31
         },
         {
-            "timestamp": 25.9238,
-            "time": "00:25.924",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -1958,8 +1958,8 @@
             "index": 32
         },
         {
-            "timestamp": 25.9714,
-            "time": "00:25.971",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2016,8 +2016,8 @@
             "index": 33
         },
         {
-            "timestamp": 26.0286,
-            "time": "00:26.029",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2074,8 +2074,8 @@
             "index": 34
         },
         {
-            "timestamp": 27.2512,
-            "time": "00:27.251",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2132,8 +2132,8 @@
             "index": 35
         },
         {
-            "timestamp": 27.8116,
-            "time": "00:27.812",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2190,8 +2190,8 @@
             "index": 36
         },
         {
-            "timestamp": 27.85,
-            "time": "00:27.850",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2248,8 +2248,8 @@
             "index": 37
         },
         {
-            "timestamp": 27.9559,
-            "time": "00:27.956",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2306,8 +2306,8 @@
             "index": 38
         },
         {
-            "timestamp": 28.5374,
-            "time": "00:28.537",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2364,8 +2364,8 @@
             "index": 39
         },
         {
-            "timestamp": 28.8653,
-            "time": "00:28.865",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2422,8 +2422,8 @@
             "index": 40
         },
         {
-            "timestamp": 28.9307,
-            "time": "00:28.931",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2480,8 +2480,8 @@
             "index": 41
         },
         {
-            "timestamp": 29.12,
-            "time": "00:29.120",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2538,8 +2538,8 @@
             "index": 42
         },
         {
-            "timestamp": 29.9172,
-            "time": "00:29.917",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2597,8 +2597,8 @@
             "index": 43
         },
         {
-            "timestamp": 30.1202,
-            "time": "00:30.120",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2655,8 +2655,8 @@
             "index": 44
         },
         {
-            "timestamp": 31.2043,
-            "time": "00:31.204",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2714,8 +2714,8 @@
             "index": 45
         },
         {
-            "timestamp": 31.4121,
-            "time": "00:31.412",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2772,8 +2772,8 @@
             "index": 46
         },
         {
-            "timestamp": 31.5489,
-            "time": "00:31.549",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2831,8 +2831,8 @@
             "index": 47
         },
         {
-            "timestamp": 31.8109,
-            "time": "00:31.811",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2889,8 +2889,8 @@
             "index": 48
         },
         {
-            "timestamp": 32.7874,
-            "time": "00:32.787",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -2948,8 +2948,8 @@
             "index": 49
         },
         {
-            "timestamp": 32.9322,
-            "time": "00:32.932",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3006,8 +3006,8 @@
             "index": 50
         },
         {
-            "timestamp": 35.5589,
-            "time": "00:35.559",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3064,8 +3064,8 @@
             "index": 51
         },
         {
-            "timestamp": 35.6025,
-            "time": "00:35.602",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3122,8 +3122,8 @@
             "index": 52
         },
         {
-            "timestamp": 35.6585,
-            "time": "00:35.658",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3180,8 +3180,8 @@
             "index": 53
         },
         {
-            "timestamp": 35.7392,
-            "time": "00:35.739",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3238,8 +3238,8 @@
             "index": 54
         },
         {
-            "timestamp": 36.0783,
-            "time": "00:36.078",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3296,8 +3296,8 @@
             "index": 55
         },
         {
-            "timestamp": 36.1765,
-            "time": "00:36.176",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3354,8 +3354,8 @@
             "index": 56
         },
         {
-            "timestamp": 36.2214,
-            "time": "00:36.221",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3412,8 +3412,8 @@
             "index": 57
         },
         {
-            "timestamp": 36.286,
-            "time": "00:36.286",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3470,8 +3470,8 @@
             "index": 58
         },
         {
-            "timestamp": 36.3402,
-            "time": "00:36.340",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3528,8 +3528,8 @@
             "index": 59
         },
         {
-            "timestamp": 36.4513,
-            "time": "00:36.451",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3586,8 +3586,8 @@
             "index": 60
         },
         {
-            "timestamp": 36.6011,
-            "time": "00:36.601",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3644,8 +3644,8 @@
             "index": 61
         },
         {
-            "timestamp": 36.7554,
-            "time": "00:36.755",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3702,8 +3702,8 @@
             "index": 62
         },
         {
-            "timestamp": 36.8485,
-            "time": "00:36.849",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3760,8 +3760,8 @@
             "index": 63
         },
         {
-            "timestamp": 36.919,
-            "time": "00:36.919",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3818,8 +3818,8 @@
             "index": 64
         },
         {
-            "timestamp": 36.9983,
-            "time": "00:36.998",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3876,8 +3876,8 @@
             "index": 65
         },
         {
-            "timestamp": 37.0571,
-            "time": "00:37.057",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3934,8 +3934,8 @@
             "index": 66
         },
         {
-            "timestamp": 37.1189,
-            "time": "00:37.119",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -3992,8 +3992,8 @@
             "index": 67
         },
         {
-            "timestamp": 37.348,
-            "time": "00:37.348",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4050,8 +4050,8 @@
             "index": 68
         },
         {
-            "timestamp": 38.0306,
-            "time": "00:38.031",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4108,8 +4108,8 @@
             "index": 69
         },
         {
-            "timestamp": 38.088,
-            "time": "00:38.088",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4166,8 +4166,8 @@
             "index": 70
         },
         {
-            "timestamp": 38.1531,
-            "time": "00:38.153",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4224,8 +4224,8 @@
             "index": 71
         },
         {
-            "timestamp": 38.2072,
-            "time": "00:38.207",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4282,8 +4282,8 @@
             "index": 72
         },
         {
-            "timestamp": 38.8647,
-            "time": "00:38.865",
+            "timestamp": 0.61415,
+            "time": "00:00.614",
             "application": "chrome.exe",
             "window_title": "frying pan - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4341,8 +4341,8 @@
             "index": 73
         },
         {
-            "timestamp": 39.9733,
-            "time": "00:39.973",
+            "timestamp": 1.72275,
+            "time": "00:01.723",
             "application": "chrome.exe",
             "window_title": "Blue Diamond Toxin Free Ceramic Nonstick Safe Open Frypan/Skillet, 10\" - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4399,8 +4399,8 @@
             "index": 74
         },
         {
-            "timestamp": 43.2122,
-            "time": "00:43.212",
+            "timestamp": 4.96165,
+            "time": "00:04.962",
             "application": "chrome.exe",
             "window_title": "Blue Diamond Toxin Free Ceramic Nonstick Safe Open Frypan/Skillet, 10\" - Walmart.com - Google Chrome",
             "cursor_position": [
@@ -4458,8 +4458,8 @@
             "index": 75
         },
         {
-            "timestamp": 44.5194,
-            "time": "00:44.519",
+            "timestamp": 6.26885,
+            "time": "00:06.269",
             "application": "chrome.exe",
             "window_title": "Added to cart | Relevant recommendations - Google Chrome",
             "cursor_position": [
@@ -4516,8 +4516,8 @@
             "index": 76
         },
         {
-            "timestamp": 46.1384,
-            "time": "00:46.138",
+            "timestamp": 7.88785,
+            "time": "00:07.888",
             "application": "chrome.exe",
             "window_title": "Added to cart | Relevant recommendations - Google Chrome",
             "cursor_position": [
@@ -4575,8 +4575,8 @@
             "index": 77
         },
         {
-            "timestamp": 46.9737,
-            "time": "00:46.974",
+            "timestamp": 8.72315,
+            "time": "00:08.723",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [
@@ -4633,8 +4633,8 @@
             "index": 78
         },
         {
-            "timestamp": 48.2409,
-            "time": "00:48.241",
+            "timestamp": 9.99035,
+            "time": "00:09.990",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [
@@ -4691,8 +4691,8 @@
             "index": 79
         },
         {
-            "timestamp": 48.3744,
-            "time": "00:48.374",
+            "timestamp": 10.12385,
+            "time": "00:10.124",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [
@@ -4749,8 +4749,8 @@
             "index": 80
         },
         {
-            "timestamp": 48.4461,
-            "time": "00:48.446",
+            "timestamp": 10.19555,
+            "time": "00:10.196",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [
@@ -4807,8 +4807,8 @@
             "index": 81
         },
         {
-            "timestamp": 48.5368,
-            "time": "00:48.537",
+            "timestamp": 10.28625,
+            "time": "00:10.286",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [
@@ -4865,8 +4865,8 @@
             "index": 82
         },
         {
-            "timestamp": 53.8274,
-            "time": "00:53.827",
+            "timestamp": 15.57685,
+            "time": "00:15.577",
             "application": "chrome.exe",
             "window_title": "walmart.com/cart - Google Chrome",
             "cursor_position": [

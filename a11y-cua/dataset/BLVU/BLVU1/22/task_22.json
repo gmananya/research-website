@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1755703544.5393093,
+            "started_at": 1755703546.5393093,
             "ended_at": 1755703760.1293993,
             "started_time": "00:00.000",
-            "ended_time": "02:54.371",
+            "ended_time": "02:52.371",
             "duration": 215.59
         },
         "statistics": {
@@ -62,7 +62,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
@@ -117,8 +117,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.1893,
-            "time": "00:00.189",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -172,8 +172,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.2487,
-            "time": "00:00.249",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -227,8 +227,8 @@
             "index": 2
         },
         {
-            "timestamp": 0.3083,
-            "time": "00:00.308",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -282,8 +282,8 @@
             "index": 3
         },
         {
-            "timestamp": 0.3668,
-            "time": "00:00.367",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -337,8 +337,8 @@
             "index": 4
         },
         {
-            "timestamp": 0.6795,
-            "time": "00:00.679",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -392,8 +392,8 @@
             "index": 5
         },
         {
-            "timestamp": 0.7516,
-            "time": "00:00.752",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -447,8 +447,8 @@
             "index": 6
         },
         {
-            "timestamp": 0.8118,
-            "time": "00:00.812",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -502,8 +502,8 @@
             "index": 7
         },
         {
-            "timestamp": 0.8708,
-            "time": "00:00.871",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -557,8 +557,8 @@
             "index": 8
         },
         {
-            "timestamp": 0.9174,
-            "time": "00:00.917",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -612,8 +612,8 @@
             "index": 9
         },
         {
-            "timestamp": 1.3185,
-            "time": "00:01.319",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -667,8 +667,8 @@
             "index": 10
         },
         {
-            "timestamp": 1.3959,
-            "time": "00:01.396",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -722,8 +722,8 @@
             "index": 11
         },
         {
-            "timestamp": 1.454,
-            "time": "00:01.454",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -777,8 +777,8 @@
             "index": 12
         },
         {
-            "timestamp": 1.4984,
-            "time": "00:01.498",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -832,8 +832,8 @@
             "index": 13
         },
         {
-            "timestamp": 1.5575,
-            "time": "00:01.558",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -887,8 +887,8 @@
             "index": 14
         },
         {
-            "timestamp": 3.7731,
-            "time": "00:03.773",
+            "timestamp": 1.7731,
+            "time": "00:01.773",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -942,8 +942,8 @@
             "index": 15
         },
         {
-            "timestamp": 17.798,
-            "time": "00:17.798",
+            "timestamp": 15.798,
+            "time": "00:15.798",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -997,8 +997,8 @@
             "index": 16
         },
         {
-            "timestamp": 17.8712,
-            "time": "00:17.871",
+            "timestamp": 15.8712,
+            "time": "00:15.871",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1052,8 +1052,8 @@
             "index": 17
         },
         {
-            "timestamp": 19.0985,
-            "time": "00:19.099",
+            "timestamp": 17.0985,
+            "time": "00:17.099",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1107,8 +1107,8 @@
             "index": 18
         },
         {
-            "timestamp": 19.2036,
-            "time": "00:19.204",
+            "timestamp": 17.2036,
+            "time": "00:17.204",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1162,8 +1162,8 @@
             "index": 19
         },
         {
-            "timestamp": 20.251,
-            "time": "00:20.251",
+            "timestamp": 18.251,
+            "time": "00:18.251",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1217,8 +1217,8 @@
             "index": 20
         },
         {
-            "timestamp": 20.3504,
-            "time": "00:20.350",
+            "timestamp": 18.3504,
+            "time": "00:18.350",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1272,8 +1272,8 @@
             "index": 21
         },
         {
-            "timestamp": 21.3519,
-            "time": "00:21.352",
+            "timestamp": 19.3519,
+            "time": "00:19.352",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1327,8 +1327,8 @@
             "index": 22
         },
         {
-            "timestamp": 21.4493,
-            "time": "00:21.449",
+            "timestamp": 19.4493,
+            "time": "00:19.449",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1382,8 +1382,8 @@
             "index": 23
         },
         {
-            "timestamp": 22.42,
-            "time": "00:22.420",
+            "timestamp": 20.42,
+            "time": "00:20.420",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1437,8 +1437,8 @@
             "index": 24
         },
         {
-            "timestamp": 22.5147,
-            "time": "00:22.515",
+            "timestamp": 20.5147,
+            "time": "00:20.515",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1492,8 +1492,8 @@
             "index": 25
         },
         {
-            "timestamp": 23.6004,
-            "time": "00:23.600",
+            "timestamp": 21.6004,
+            "time": "00:21.600",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1547,8 +1547,8 @@
             "index": 26
         },
         {
-            "timestamp": 23.7036,
-            "time": "00:23.704",
+            "timestamp": 21.7036,
+            "time": "00:21.704",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1602,8 +1602,8 @@
             "index": 27
         },
         {
-            "timestamp": 24.9613,
-            "time": "00:24.961",
+            "timestamp": 22.9613,
+            "time": "00:22.961",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1657,8 +1657,8 @@
             "index": 28
         },
         {
-            "timestamp": 25.0577,
-            "time": "00:25.058",
+            "timestamp": 23.0577,
+            "time": "00:23.058",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1712,8 +1712,8 @@
             "index": 29
         },
         {
-            "timestamp": 27.1984,
-            "time": "00:27.198",
+            "timestamp": 25.1984,
+            "time": "00:25.198",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1767,8 +1767,8 @@
             "index": 30
         },
         {
-            "timestamp": 27.2877,
-            "time": "00:27.288",
+            "timestamp": 25.2877,
+            "time": "00:25.288",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1822,8 +1822,8 @@
             "index": 31
         },
         {
-            "timestamp": 28.3212,
-            "time": "00:28.321",
+            "timestamp": 26.3212,
+            "time": "00:26.321",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1880,8 +1880,8 @@
             "index": 32
         },
         {
-            "timestamp": 28.5007,
-            "time": "00:28.501",
+            "timestamp": 26.5007,
+            "time": "00:26.501",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -1938,8 +1938,8 @@
             "index": 33
         },
         {
-            "timestamp": 28.5791,
-            "time": "00:28.579",
+            "timestamp": 26.5791,
+            "time": "00:26.579",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2002,8 +2002,8 @@
             "index": 34
         },
         {
-            "timestamp": 28.6515,
-            "time": "00:28.651",
+            "timestamp": 26.6515,
+            "time": "00:26.651",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2060,8 +2060,8 @@
             "index": 35
         },
         {
-            "timestamp": 28.7256,
-            "time": "00:28.726",
+            "timestamp": 26.7256,
+            "time": "00:26.726",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2124,8 +2124,8 @@
             "index": 36
         },
         {
-            "timestamp": 29.0782,
-            "time": "00:29.078",
+            "timestamp": 27.0782,
+            "time": "00:27.078",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2182,8 +2182,8 @@
             "index": 37
         },
         {
-            "timestamp": 29.1565,
-            "time": "00:29.157",
+            "timestamp": 27.1565,
+            "time": "00:27.157",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2246,8 +2246,8 @@
             "index": 38
         },
         {
-            "timestamp": 29.2261,
-            "time": "00:29.226",
+            "timestamp": 27.2261,
+            "time": "00:27.226",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2304,8 +2304,8 @@
             "index": 39
         },
         {
-            "timestamp": 29.3023,
-            "time": "00:29.302",
+            "timestamp": 27.3023,
+            "time": "00:27.302",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2368,8 +2368,8 @@
             "index": 40
         },
         {
-            "timestamp": 29.8579,
-            "time": "00:29.858",
+            "timestamp": 27.8579,
+            "time": "00:27.858",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2426,8 +2426,8 @@
             "index": 41
         },
         {
-            "timestamp": 29.9601,
-            "time": "00:29.960",
+            "timestamp": 27.9601,
+            "time": "00:27.960",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2490,8 +2490,8 @@
             "index": 42
         },
         {
-            "timestamp": 30.0318,
-            "time": "00:30.032",
+            "timestamp": 28.0318,
+            "time": "00:28.032",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2548,8 +2548,8 @@
             "index": 43
         },
         {
-            "timestamp": 30.1157,
-            "time": "00:30.116",
+            "timestamp": 28.1157,
+            "time": "00:28.116",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2612,8 +2612,8 @@
             "index": 44
         },
         {
-            "timestamp": 30.9528,
-            "time": "00:30.953",
+            "timestamp": 28.9528,
+            "time": "00:28.953",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2670,8 +2670,8 @@
             "index": 45
         },
         {
-            "timestamp": 31.0526,
-            "time": "00:31.053",
+            "timestamp": 29.0526,
+            "time": "00:29.053",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2734,8 +2734,8 @@
             "index": 46
         },
         {
-            "timestamp": 31.1327,
-            "time": "00:31.133",
+            "timestamp": 29.1327,
+            "time": "00:29.133",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2792,8 +2792,8 @@
             "index": 47
         },
         {
-            "timestamp": 31.2116,
-            "time": "00:31.212",
+            "timestamp": 29.2116,
+            "time": "00:29.212",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2856,8 +2856,8 @@
             "index": 48
         },
         {
-            "timestamp": 32.085,
-            "time": "00:32.085",
+            "timestamp": 30.085,
+            "time": "00:30.085",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2914,8 +2914,8 @@
             "index": 49
         },
         {
-            "timestamp": 32.1908,
-            "time": "00:32.191",
+            "timestamp": 30.1908,
+            "time": "00:30.191",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -2978,8 +2978,8 @@
             "index": 50
         },
         {
-            "timestamp": 32.2783,
-            "time": "00:32.278",
+            "timestamp": 30.2783,
+            "time": "00:30.278",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3036,8 +3036,8 @@
             "index": 51
         },
         {
-            "timestamp": 32.3636,
-            "time": "00:32.364",
+            "timestamp": 30.3636,
+            "time": "00:30.364",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3100,8 +3100,8 @@
             "index": 52
         },
         {
-            "timestamp": 33.4662,
-            "time": "00:33.466",
+            "timestamp": 31.4662,
+            "time": "00:31.466",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3158,8 +3158,8 @@
             "index": 53
         },
         {
-            "timestamp": 33.5755,
-            "time": "00:33.575",
+            "timestamp": 31.5755,
+            "time": "00:31.575",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3222,8 +3222,8 @@
             "index": 54
         },
         {
-            "timestamp": 33.6603,
-            "time": "00:33.660",
+            "timestamp": 31.6603,
+            "time": "00:31.660",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3280,8 +3280,8 @@
             "index": 55
         },
         {
-            "timestamp": 33.7475,
-            "time": "00:33.748",
+            "timestamp": 31.7475,
+            "time": "00:31.748",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3344,8 +3344,8 @@
             "index": 56
         },
         {
-            "timestamp": 34.2701,
-            "time": "00:34.270",
+            "timestamp": 32.2701,
+            "time": "00:32.270",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3402,8 +3402,8 @@
             "index": 57
         },
         {
-            "timestamp": 34.3412,
-            "time": "00:34.341",
+            "timestamp": 32.3412,
+            "time": "00:32.341",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3466,8 +3466,8 @@
             "index": 58
         },
         {
-            "timestamp": 34.4168,
-            "time": "00:34.417",
+            "timestamp": 32.4168,
+            "time": "00:32.417",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3524,8 +3524,8 @@
             "index": 59
         },
         {
-            "timestamp": 34.4933,
-            "time": "00:34.493",
+            "timestamp": 32.4933,
+            "time": "00:32.493",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3588,8 +3588,8 @@
             "index": 60
         },
         {
-            "timestamp": 35.4002,
-            "time": "00:35.400",
+            "timestamp": 33.4002,
+            "time": "00:33.400",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3646,8 +3646,8 @@
             "index": 61
         },
         {
-            "timestamp": 35.4783,
-            "time": "00:35.478",
+            "timestamp": 33.4783,
+            "time": "00:33.478",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3710,8 +3710,8 @@
             "index": 62
         },
         {
-            "timestamp": 35.5592,
-            "time": "00:35.559",
+            "timestamp": 33.5592,
+            "time": "00:33.559",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3768,8 +3768,8 @@
             "index": 63
         },
         {
-            "timestamp": 35.6617,
-            "time": "00:35.662",
+            "timestamp": 33.6617,
+            "time": "00:33.662",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3832,8 +3832,8 @@
             "index": 64
         },
         {
-            "timestamp": 36.8617,
-            "time": "00:36.862",
+            "timestamp": 34.8617,
+            "time": "00:34.862",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3890,8 +3890,8 @@
             "index": 65
         },
         {
-            "timestamp": 36.9708,
-            "time": "00:36.971",
+            "timestamp": 34.9708,
+            "time": "00:34.971",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -3954,8 +3954,8 @@
             "index": 66
         },
         {
-            "timestamp": 37.0437,
-            "time": "00:37.044",
+            "timestamp": 35.0437,
+            "time": "00:35.044",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4012,8 +4012,8 @@
             "index": 67
         },
         {
-            "timestamp": 37.1218,
-            "time": "00:37.122",
+            "timestamp": 35.1218,
+            "time": "00:35.122",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4076,8 +4076,8 @@
             "index": 68
         },
         {
-            "timestamp": 37.9405,
-            "time": "00:37.941",
+            "timestamp": 35.9405,
+            "time": "00:35.941",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4134,8 +4134,8 @@
             "index": 69
         },
         {
-            "timestamp": 38.0461,
-            "time": "00:38.046",
+            "timestamp": 36.0461,
+            "time": "00:36.046",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4198,8 +4198,8 @@
             "index": 70
         },
         {
-            "timestamp": 38.1344,
-            "time": "00:38.134",
+            "timestamp": 36.1344,
+            "time": "00:36.134",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4256,8 +4256,8 @@
             "index": 71
         },
         {
-            "timestamp": 38.2168,
-            "time": "00:38.217",
+            "timestamp": 36.2168,
+            "time": "00:36.217",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4320,8 +4320,8 @@
             "index": 72
         },
         {
-            "timestamp": 40.0363,
-            "time": "00:40.036",
+            "timestamp": 38.0363,
+            "time": "00:38.036",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4378,8 +4378,8 @@
             "index": 73
         },
         {
-            "timestamp": 40.171,
-            "time": "00:40.171",
+            "timestamp": 38.171,
+            "time": "00:38.171",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4436,8 +4436,8 @@
             "index": 74
         },
         {
-            "timestamp": 40.2508,
-            "time": "00:40.251",
+            "timestamp": 38.2508,
+            "time": "00:38.251",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4500,8 +4500,8 @@
             "index": 75
         },
         {
-            "timestamp": 40.3095,
-            "time": "00:40.309",
+            "timestamp": 38.3095,
+            "time": "00:38.309",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4558,8 +4558,8 @@
             "index": 76
         },
         {
-            "timestamp": 40.3912,
-            "time": "00:40.391",
+            "timestamp": 38.3912,
+            "time": "00:38.391",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4622,8 +4622,8 @@
             "index": 77
         },
         {
-            "timestamp": 41.2272,
-            "time": "00:41.227",
+            "timestamp": 39.2272,
+            "time": "00:39.227",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4680,8 +4680,8 @@
             "index": 78
         },
         {
-            "timestamp": 41.3353,
-            "time": "00:41.335",
+            "timestamp": 39.3353,
+            "time": "00:39.335",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4744,8 +4744,8 @@
             "index": 79
         },
         {
-            "timestamp": 41.4082,
-            "time": "00:41.408",
+            "timestamp": 39.4082,
+            "time": "00:39.408",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4802,8 +4802,8 @@
             "index": 80
         },
         {
-            "timestamp": 41.5021,
-            "time": "00:41.502",
+            "timestamp": 39.5021,
+            "time": "00:39.502",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4866,8 +4866,8 @@
             "index": 81
         },
         {
-            "timestamp": 41.6558,
-            "time": "00:41.656",
+            "timestamp": 39.6558,
+            "time": "00:39.656",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4924,8 +4924,8 @@
             "index": 82
         },
         {
-            "timestamp": 41.7499,
-            "time": "00:41.750",
+            "timestamp": 39.7499,
+            "time": "00:39.750",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -4988,8 +4988,8 @@
             "index": 83
         },
         {
-            "timestamp": 41.8454,
-            "time": "00:41.845",
+            "timestamp": 39.8454,
+            "time": "00:39.845",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5046,8 +5046,8 @@
             "index": 84
         },
         {
-            "timestamp": 41.9425,
-            "time": "00:41.943",
+            "timestamp": 39.9425,
+            "time": "00:39.943",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5110,8 +5110,8 @@
             "index": 85
         },
         {
-            "timestamp": 42.1631,
-            "time": "00:42.163",
+            "timestamp": 40.1631,
+            "time": "00:40.163",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5168,8 +5168,8 @@
             "index": 86
         },
         {
-            "timestamp": 42.2268,
-            "time": "00:42.227",
+            "timestamp": 40.2268,
+            "time": "00:40.227",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5232,8 +5232,8 @@
             "index": 87
         },
         {
-            "timestamp": 42.2977,
-            "time": "00:42.298",
+            "timestamp": 40.2977,
+            "time": "00:40.298",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5290,8 +5290,8 @@
             "index": 88
         },
         {
-            "timestamp": 42.4482,
-            "time": "00:42.448",
+            "timestamp": 40.4482,
+            "time": "00:40.448",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5354,8 +5354,8 @@
             "index": 89
         },
         {
-            "timestamp": 42.5155,
-            "time": "00:42.516",
+            "timestamp": 40.5155,
+            "time": "00:40.516",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5412,8 +5412,8 @@
             "index": 90
         },
         {
-            "timestamp": 42.5873,
-            "time": "00:42.587",
+            "timestamp": 40.5873,
+            "time": "00:40.587",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5476,8 +5476,8 @@
             "index": 91
         },
         {
-            "timestamp": 42.6818,
-            "time": "00:42.682",
+            "timestamp": 40.6818,
+            "time": "00:40.682",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5534,8 +5534,8 @@
             "index": 92
         },
         {
-            "timestamp": 42.752,
-            "time": "00:42.752",
+            "timestamp": 40.752,
+            "time": "00:40.752",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5598,8 +5598,8 @@
             "index": 93
         },
         {
-            "timestamp": 42.8266,
-            "time": "00:42.827",
+            "timestamp": 40.8266,
+            "time": "00:40.827",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5656,8 +5656,8 @@
             "index": 94
         },
         {
-            "timestamp": 42.9186,
-            "time": "00:42.919",
+            "timestamp": 40.9186,
+            "time": "00:40.919",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5720,8 +5720,8 @@
             "index": 95
         },
         {
-            "timestamp": 42.9805,
-            "time": "00:42.980",
+            "timestamp": 40.9805,
+            "time": "00:40.980",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5778,8 +5778,8 @@
             "index": 96
         },
         {
-            "timestamp": 43.0511,
-            "time": "00:43.051",
+            "timestamp": 41.0511,
+            "time": "00:41.051",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5842,8 +5842,8 @@
             "index": 97
         },
         {
-            "timestamp": 43.1347,
-            "time": "00:43.135",
+            "timestamp": 41.1347,
+            "time": "00:41.135",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5900,8 +5900,8 @@
             "index": 98
         },
         {
-            "timestamp": 43.2162,
-            "time": "00:43.216",
+            "timestamp": 41.2162,
+            "time": "00:41.216",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -5964,8 +5964,8 @@
             "index": 99
         },
         {
-            "timestamp": 43.2874,
-            "time": "00:43.287",
+            "timestamp": 41.2874,
+            "time": "00:41.287",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6022,8 +6022,8 @@
             "index": 100
         },
         {
-            "timestamp": 43.3676,
-            "time": "00:43.368",
+            "timestamp": 41.3676,
+            "time": "00:41.368",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6086,8 +6086,8 @@
             "index": 101
         },
         {
-            "timestamp": 43.4665,
-            "time": "00:43.467",
+            "timestamp": 41.4665,
+            "time": "00:41.467",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6144,8 +6144,8 @@
             "index": 102
         },
         {
-            "timestamp": 43.5591,
-            "time": "00:43.559",
+            "timestamp": 41.5591,
+            "time": "00:41.559",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6208,8 +6208,8 @@
             "index": 103
         },
         {
-            "timestamp": 43.6401,
-            "time": "00:43.640",
+            "timestamp": 41.6401,
+            "time": "00:41.640",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6266,8 +6266,8 @@
             "index": 104
         },
         {
-            "timestamp": 43.7316,
-            "time": "00:43.732",
+            "timestamp": 41.7316,
+            "time": "00:41.732",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6330,8 +6330,8 @@
             "index": 105
         },
         {
-            "timestamp": 43.8244,
-            "time": "00:43.824",
+            "timestamp": 41.8244,
+            "time": "00:41.824",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6388,8 +6388,8 @@
             "index": 106
         },
         {
-            "timestamp": 43.908,
-            "time": "00:43.908",
+            "timestamp": 41.908,
+            "time": "00:41.908",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6452,8 +6452,8 @@
             "index": 107
         },
         {
-            "timestamp": 43.9875,
-            "time": "00:43.987",
+            "timestamp": 41.9875,
+            "time": "00:41.987",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6510,8 +6510,8 @@
             "index": 108
         },
         {
-            "timestamp": 44.078,
-            "time": "00:44.078",
+            "timestamp": 42.078,
+            "time": "00:42.078",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6574,8 +6574,8 @@
             "index": 109
         },
         {
-            "timestamp": 44.1668,
-            "time": "00:44.167",
+            "timestamp": 42.1668,
+            "time": "00:42.167",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6632,8 +6632,8 @@
             "index": 110
         },
         {
-            "timestamp": 44.2567,
-            "time": "00:44.257",
+            "timestamp": 42.2567,
+            "time": "00:42.257",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6696,8 +6696,8 @@
             "index": 111
         },
         {
-            "timestamp": 44.3467,
-            "time": "00:44.347",
+            "timestamp": 42.3467,
+            "time": "00:42.347",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6754,8 +6754,8 @@
             "index": 112
         },
         {
-            "timestamp": 44.4353,
-            "time": "00:44.435",
+            "timestamp": 42.4353,
+            "time": "00:42.435",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6818,8 +6818,8 @@
             "index": 113
         },
         {
-            "timestamp": 44.5266,
-            "time": "00:44.527",
+            "timestamp": 42.5266,
+            "time": "00:42.527",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6876,8 +6876,8 @@
             "index": 114
         },
         {
-            "timestamp": 44.6039,
-            "time": "00:44.604",
+            "timestamp": 42.6039,
+            "time": "00:42.604",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6940,8 +6940,8 @@
             "index": 115
         },
         {
-            "timestamp": 44.6766,
-            "time": "00:44.677",
+            "timestamp": 42.6766,
+            "time": "00:42.677",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -6998,8 +6998,8 @@
             "index": 116
         },
         {
-            "timestamp": 44.7606,
-            "time": "00:44.761",
+            "timestamp": 42.7606,
+            "time": "00:42.761",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7062,8 +7062,8 @@
             "index": 117
         },
         {
-            "timestamp": 45.5689,
-            "time": "00:45.569",
+            "timestamp": 43.5689,
+            "time": "00:43.569",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7120,8 +7120,8 @@
             "index": 118
         },
         {
-            "timestamp": 45.6739,
-            "time": "00:45.674",
+            "timestamp": 43.6739,
+            "time": "00:43.674",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7184,8 +7184,8 @@
             "index": 119
         },
         {
-            "timestamp": 45.751,
-            "time": "00:45.751",
+            "timestamp": 43.751,
+            "time": "00:43.751",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7242,8 +7242,8 @@
             "index": 120
         },
         {
-            "timestamp": 45.8321,
-            "time": "00:45.832",
+            "timestamp": 43.8321,
+            "time": "00:43.832",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7306,8 +7306,8 @@
             "index": 121
         },
         {
-            "timestamp": 46.7,
-            "time": "00:46.700",
+            "timestamp": 44.7,
+            "time": "00:44.700",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7364,8 +7364,8 @@
             "index": 122
         },
         {
-            "timestamp": 46.8031,
-            "time": "00:46.803",
+            "timestamp": 44.8031,
+            "time": "00:44.803",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7428,8 +7428,8 @@
             "index": 123
         },
         {
-            "timestamp": 46.8704,
-            "time": "00:46.870",
+            "timestamp": 44.8704,
+            "time": "00:44.870",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7486,8 +7486,8 @@
             "index": 124
         },
         {
-            "timestamp": 46.9429,
-            "time": "00:46.943",
+            "timestamp": 44.9429,
+            "time": "00:44.943",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7550,8 +7550,8 @@
             "index": 125
         },
         {
-            "timestamp": 47.8204,
-            "time": "00:47.820",
+            "timestamp": 45.8204,
+            "time": "00:45.820",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7608,8 +7608,8 @@
             "index": 126
         },
         {
-            "timestamp": 47.9196,
-            "time": "00:47.920",
+            "timestamp": 45.9196,
+            "time": "00:45.920",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7672,8 +7672,8 @@
             "index": 127
         },
         {
-            "timestamp": 48.0015,
-            "time": "00:48.002",
+            "timestamp": 46.0015,
+            "time": "00:46.002",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7730,8 +7730,8 @@
             "index": 128
         },
         {
-            "timestamp": 48.0921,
-            "time": "00:48.092",
+            "timestamp": 46.0921,
+            "time": "00:46.092",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7794,8 +7794,8 @@
             "index": 129
         },
         {
-            "timestamp": 48.8078,
-            "time": "00:48.808",
+            "timestamp": 46.8078,
+            "time": "00:46.808",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7852,8 +7852,8 @@
             "index": 130
         },
         {
-            "timestamp": 48.8933,
-            "time": "00:48.893",
+            "timestamp": 46.8933,
+            "time": "00:46.893",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7916,8 +7916,8 @@
             "index": 131
         },
         {
-            "timestamp": 49.0075,
-            "time": "00:49.008",
+            "timestamp": 47.0075,
+            "time": "00:47.008",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -7974,8 +7974,8 @@
             "index": 132
         },
         {
-            "timestamp": 49.0944,
-            "time": "00:49.094",
+            "timestamp": 47.0944,
+            "time": "00:47.094",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8038,8 +8038,8 @@
             "index": 133
         },
         {
-            "timestamp": 50.5952,
-            "time": "00:50.595",
+            "timestamp": 48.5952,
+            "time": "00:48.595",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8093,8 +8093,8 @@
             "index": 134
         },
         {
-            "timestamp": 50.7098,
-            "time": "00:50.710",
+            "timestamp": 48.7098,
+            "time": "00:48.710",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8148,8 +8148,8 @@
             "index": 135
         },
         {
-            "timestamp": 52.3752,
-            "time": "00:52.375",
+            "timestamp": 50.3752,
+            "time": "00:50.375",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8206,8 +8206,8 @@
             "index": 136
         },
         {
-            "timestamp": 52.4756,
-            "time": "00:52.476",
+            "timestamp": 50.4756,
+            "time": "00:50.476",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8264,8 +8264,8 @@
             "index": 137
         },
         {
-            "timestamp": 52.5571,
-            "time": "00:52.557",
+            "timestamp": 50.5571,
+            "time": "00:50.557",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8328,8 +8328,8 @@
             "index": 138
         },
         {
-            "timestamp": 55.5737,
-            "time": "00:55.574",
+            "timestamp": 53.5737,
+            "time": "00:53.574",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8383,8 +8383,8 @@
             "index": 139
         },
         {
-            "timestamp": 58.3846,
-            "time": "00:58.385",
+            "timestamp": 56.3846,
+            "time": "00:56.385",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8438,8 +8438,8 @@
             "index": 140
         },
         {
-            "timestamp": 58.5017,
-            "time": "00:58.502",
+            "timestamp": 56.5017,
+            "time": "00:56.502",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8493,8 +8493,8 @@
             "index": 141
         },
         {
-            "timestamp": 62.1489,
-            "time": "01:02.149",
+            "timestamp": 60.1489,
+            "time": "01:00.149",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8548,8 +8548,8 @@
             "index": 142
         },
         {
-            "timestamp": 62.2753,
-            "time": "01:02.275",
+            "timestamp": 60.2753,
+            "time": "01:00.275",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8603,8 +8603,8 @@
             "index": 143
         },
         {
-            "timestamp": 63.1654,
-            "time": "01:03.165",
+            "timestamp": 61.1654,
+            "time": "01:01.165",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8658,8 +8658,8 @@
             "index": 144
         },
         {
-            "timestamp": 63.277,
-            "time": "01:03.277",
+            "timestamp": 61.277,
+            "time": "01:01.277",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8713,8 +8713,8 @@
             "index": 145
         },
         {
-            "timestamp": 63.7192,
-            "time": "01:03.719",
+            "timestamp": 61.7192,
+            "time": "01:01.719",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8768,8 +8768,8 @@
             "index": 146
         },
         {
-            "timestamp": 63.8058,
-            "time": "01:03.806",
+            "timestamp": 61.8058,
+            "time": "01:01.806",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8823,8 +8823,8 @@
             "index": 147
         },
         {
-            "timestamp": 64.3767,
-            "time": "01:04.377",
+            "timestamp": 62.3767,
+            "time": "01:02.377",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8878,8 +8878,8 @@
             "index": 148
         },
         {
-            "timestamp": 64.4947,
-            "time": "01:04.495",
+            "timestamp": 62.4947,
+            "time": "01:02.495",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8933,8 +8933,8 @@
             "index": 149
         },
         {
-            "timestamp": 64.9022,
-            "time": "01:04.902",
+            "timestamp": 62.9022,
+            "time": "01:02.902",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -8988,8 +8988,8 @@
             "index": 150
         },
         {
-            "timestamp": 64.9713,
-            "time": "01:04.971",
+            "timestamp": 62.9713,
+            "time": "01:02.971",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9043,8 +9043,8 @@
             "index": 151
         },
         {
-            "timestamp": 65.4841,
-            "time": "01:05.484",
+            "timestamp": 63.4841,
+            "time": "01:03.484",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9098,8 +9098,8 @@
             "index": 152
         },
         {
-            "timestamp": 65.6196,
-            "time": "01:05.620",
+            "timestamp": 63.6196,
+            "time": "01:03.620",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9153,8 +9153,8 @@
             "index": 153
         },
         {
-            "timestamp": 66.7652,
-            "time": "01:06.765",
+            "timestamp": 64.7652,
+            "time": "01:04.765",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9208,8 +9208,8 @@
             "index": 154
         },
         {
-            "timestamp": 66.8842,
-            "time": "01:06.884",
+            "timestamp": 64.8842,
+            "time": "01:04.884",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9263,8 +9263,8 @@
             "index": 155
         },
         {
-            "timestamp": 70.6033,
-            "time": "01:10.603",
+            "timestamp": 68.6033,
+            "time": "01:08.603",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9318,8 +9318,8 @@
             "index": 156
         },
         {
-            "timestamp": 70.7257,
-            "time": "01:10.726",
+            "timestamp": 68.7257,
+            "time": "01:08.726",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9373,8 +9373,8 @@
             "index": 157
         },
         {
-            "timestamp": 71.237,
-            "time": "01:11.237",
+            "timestamp": 69.237,
+            "time": "01:09.237",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9428,8 +9428,8 @@
             "index": 158
         },
         {
-            "timestamp": 71.3192,
-            "time": "01:11.319",
+            "timestamp": 69.3192,
+            "time": "01:09.319",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9483,8 +9483,8 @@
             "index": 159
         },
         {
-            "timestamp": 71.7646,
-            "time": "01:11.765",
+            "timestamp": 69.7646,
+            "time": "01:09.765",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9538,8 +9538,8 @@
             "index": 160
         },
         {
-            "timestamp": 71.882,
-            "time": "01:11.882",
+            "timestamp": 69.882,
+            "time": "01:09.882",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9593,8 +9593,8 @@
             "index": 161
         },
         {
-            "timestamp": 72.2531,
-            "time": "01:12.253",
+            "timestamp": 70.2531,
+            "time": "01:10.253",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9648,8 +9648,8 @@
             "index": 162
         },
         {
-            "timestamp": 72.35,
-            "time": "01:12.350",
+            "timestamp": 70.35,
+            "time": "01:10.350",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9703,8 +9703,8 @@
             "index": 163
         },
         {
-            "timestamp": 72.8677,
-            "time": "01:12.868",
+            "timestamp": 70.8677,
+            "time": "01:10.868",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9758,8 +9758,8 @@
             "index": 164
         },
         {
-            "timestamp": 72.9594,
-            "time": "01:12.959",
+            "timestamp": 70.9594,
+            "time": "01:10.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9813,8 +9813,8 @@
             "index": 165
         },
         {
-            "timestamp": 73.2203,
-            "time": "01:13.220",
+            "timestamp": 71.2203,
+            "time": "01:11.220",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9868,8 +9868,8 @@
             "index": 166
         },
         {
-            "timestamp": 73.3033,
-            "time": "01:13.303",
+            "timestamp": 71.3033,
+            "time": "01:11.303",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9923,8 +9923,8 @@
             "index": 167
         },
         {
-            "timestamp": 73.5694,
-            "time": "01:13.569",
+            "timestamp": 71.5694,
+            "time": "01:11.569",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -9978,8 +9978,8 @@
             "index": 168
         },
         {
-            "timestamp": 73.6634,
-            "time": "01:13.663",
+            "timestamp": 71.6634,
+            "time": "01:11.663",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10033,8 +10033,8 @@
             "index": 169
         },
         {
-            "timestamp": 73.9347,
-            "time": "01:13.935",
+            "timestamp": 71.9347,
+            "time": "01:11.935",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10088,8 +10088,8 @@
             "index": 170
         },
         {
-            "timestamp": 74.0525,
-            "time": "01:14.052",
+            "timestamp": 72.0525,
+            "time": "01:12.052",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10143,8 +10143,8 @@
             "index": 171
         },
         {
-            "timestamp": 75.1596,
-            "time": "01:15.160",
+            "timestamp": 73.1596,
+            "time": "01:13.160",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10198,8 +10198,8 @@
             "index": 172
         },
         {
-            "timestamp": 75.259,
-            "time": "01:15.259",
+            "timestamp": 73.259,
+            "time": "01:13.259",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10253,8 +10253,8 @@
             "index": 173
         },
         {
-            "timestamp": 75.8807,
-            "time": "01:15.881",
+            "timestamp": 73.8807,
+            "time": "01:13.881",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10308,8 +10308,8 @@
             "index": 174
         },
         {
-            "timestamp": 75.9718,
-            "time": "01:15.972",
+            "timestamp": 73.9718,
+            "time": "01:13.972",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10363,8 +10363,8 @@
             "index": 175
         },
         {
-            "timestamp": 77.6239,
-            "time": "01:17.624",
+            "timestamp": 75.6239,
+            "time": "01:15.624",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10421,8 +10421,8 @@
             "index": 176
         },
         {
-            "timestamp": 77.7778,
-            "time": "01:17.778",
+            "timestamp": 75.7778,
+            "time": "01:15.778",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10479,8 +10479,8 @@
             "index": 177
         },
         {
-            "timestamp": 77.887,
-            "time": "01:17.887",
+            "timestamp": 75.887,
+            "time": "01:15.887",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10543,8 +10543,8 @@
             "index": 178
         },
         {
-            "timestamp": 77.9908,
-            "time": "01:17.991",
+            "timestamp": 75.9908,
+            "time": "01:15.991",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10601,8 +10601,8 @@
             "index": 179
         },
         {
-            "timestamp": 78.0836,
-            "time": "01:18.084",
+            "timestamp": 76.0836,
+            "time": "01:16.084",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10665,8 +10665,8 @@
             "index": 180
         },
         {
-            "timestamp": 78.3714,
-            "time": "01:18.371",
+            "timestamp": 76.3714,
+            "time": "01:16.371",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10723,8 +10723,8 @@
             "index": 181
         },
         {
-            "timestamp": 78.459,
-            "time": "01:18.459",
+            "timestamp": 76.459,
+            "time": "01:16.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10787,8 +10787,8 @@
             "index": 182
         },
         {
-            "timestamp": 78.5469,
-            "time": "01:18.547",
+            "timestamp": 76.5469,
+            "time": "01:16.547",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10845,8 +10845,8 @@
             "index": 183
         },
         {
-            "timestamp": 78.6438,
-            "time": "01:18.644",
+            "timestamp": 76.6438,
+            "time": "01:16.644",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10909,8 +10909,8 @@
             "index": 184
         },
         {
-            "timestamp": 78.7524,
-            "time": "01:18.752",
+            "timestamp": 76.7524,
+            "time": "01:16.752",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -10967,8 +10967,8 @@
             "index": 185
         },
         {
-            "timestamp": 78.8486,
-            "time": "01:18.849",
+            "timestamp": 76.8486,
+            "time": "01:16.849",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11031,8 +11031,8 @@
             "index": 186
         },
         {
-            "timestamp": 78.9315,
-            "time": "01:18.931",
+            "timestamp": 76.9315,
+            "time": "01:16.931",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11089,8 +11089,8 @@
             "index": 187
         },
         {
-            "timestamp": 79.0238,
-            "time": "01:19.024",
+            "timestamp": 77.0238,
+            "time": "01:17.024",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11153,8 +11153,8 @@
             "index": 188
         },
         {
-            "timestamp": 79.1083,
-            "time": "01:19.108",
+            "timestamp": 77.1083,
+            "time": "01:17.108",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11211,8 +11211,8 @@
             "index": 189
         },
         {
-            "timestamp": 79.2276,
-            "time": "01:19.228",
+            "timestamp": 77.2276,
+            "time": "01:17.228",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11275,8 +11275,8 @@
             "index": 190
         },
         {
-            "timestamp": 79.3178,
-            "time": "01:19.318",
+            "timestamp": 77.3178,
+            "time": "01:17.318",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11333,8 +11333,8 @@
             "index": 191
         },
         {
-            "timestamp": 79.4284,
-            "time": "01:19.428",
+            "timestamp": 77.4284,
+            "time": "01:17.428",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11397,8 +11397,8 @@
             "index": 192
         },
         {
-            "timestamp": 79.5162,
-            "time": "01:19.516",
+            "timestamp": 77.5162,
+            "time": "01:17.516",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11455,8 +11455,8 @@
             "index": 193
         },
         {
-            "timestamp": 79.6167,
-            "time": "01:19.617",
+            "timestamp": 77.6167,
+            "time": "01:17.617",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11519,8 +11519,8 @@
             "index": 194
         },
         {
-            "timestamp": 79.7029,
-            "time": "01:19.703",
+            "timestamp": 77.7029,
+            "time": "01:17.703",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11577,8 +11577,8 @@
             "index": 195
         },
         {
-            "timestamp": 79.8076,
-            "time": "01:19.808",
+            "timestamp": 77.8076,
+            "time": "01:17.808",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11641,8 +11641,8 @@
             "index": 196
         },
         {
-            "timestamp": 79.9199,
-            "time": "01:19.920",
+            "timestamp": 77.9199,
+            "time": "01:17.920",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11699,8 +11699,8 @@
             "index": 197
         },
         {
-            "timestamp": 80.0082,
-            "time": "01:20.008",
+            "timestamp": 78.0082,
+            "time": "01:18.008",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11763,8 +11763,8 @@
             "index": 198
         },
         {
-            "timestamp": 80.0961,
-            "time": "01:20.096",
+            "timestamp": 78.0961,
+            "time": "01:18.096",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11821,8 +11821,8 @@
             "index": 199
         },
         {
-            "timestamp": 80.1983,
-            "time": "01:20.198",
+            "timestamp": 78.1983,
+            "time": "01:18.198",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11885,8 +11885,8 @@
             "index": 200
         },
         {
-            "timestamp": 80.2862,
-            "time": "01:20.286",
+            "timestamp": 78.2862,
+            "time": "01:18.286",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -11943,8 +11943,8 @@
             "index": 201
         },
         {
-            "timestamp": 80.3811,
-            "time": "01:20.381",
+            "timestamp": 78.3811,
+            "time": "01:18.381",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12007,8 +12007,8 @@
             "index": 202
         },
         {
-            "timestamp": 80.4633,
-            "time": "01:20.463",
+            "timestamp": 78.4633,
+            "time": "01:18.463",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12065,8 +12065,8 @@
             "index": 203
         },
         {
-            "timestamp": 80.559,
-            "time": "01:20.559",
+            "timestamp": 78.559,
+            "time": "01:18.559",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12129,8 +12129,8 @@
             "index": 204
         },
         {
-            "timestamp": 80.6585,
-            "time": "01:20.659",
+            "timestamp": 78.6585,
+            "time": "01:18.659",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12187,8 +12187,8 @@
             "index": 205
         },
         {
-            "timestamp": 80.7464,
-            "time": "01:20.746",
+            "timestamp": 78.7464,
+            "time": "01:18.746",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12251,8 +12251,8 @@
             "index": 206
         },
         {
-            "timestamp": 80.8541,
-            "time": "01:20.854",
+            "timestamp": 78.8541,
+            "time": "01:18.854",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12309,8 +12309,8 @@
             "index": 207
         },
         {
-            "timestamp": 80.9805,
-            "time": "01:20.981",
+            "timestamp": 78.9805,
+            "time": "01:18.981",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12373,8 +12373,8 @@
             "index": 208
         },
         {
-            "timestamp": 81.0599,
-            "time": "01:21.060",
+            "timestamp": 79.0599,
+            "time": "01:19.060",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12431,8 +12431,8 @@
             "index": 209
         },
         {
-            "timestamp": 81.1761,
-            "time": "01:21.176",
+            "timestamp": 79.1761,
+            "time": "01:19.176",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12495,8 +12495,8 @@
             "index": 210
         },
         {
-            "timestamp": 81.2707,
-            "time": "01:21.271",
+            "timestamp": 79.2707,
+            "time": "01:19.271",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12553,8 +12553,8 @@
             "index": 211
         },
         {
-            "timestamp": 81.3687,
-            "time": "01:21.369",
+            "timestamp": 79.3687,
+            "time": "01:19.369",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12617,8 +12617,8 @@
             "index": 212
         },
         {
-            "timestamp": 81.4835,
-            "time": "01:21.484",
+            "timestamp": 79.4835,
+            "time": "01:19.484",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12675,8 +12675,8 @@
             "index": 213
         },
         {
-            "timestamp": 81.5799,
-            "time": "01:21.580",
+            "timestamp": 79.5799,
+            "time": "01:19.580",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12739,8 +12739,8 @@
             "index": 214
         },
         {
-            "timestamp": 81.6684,
-            "time": "01:21.668",
+            "timestamp": 79.6684,
+            "time": "01:19.668",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12797,8 +12797,8 @@
             "index": 215
         },
         {
-            "timestamp": 81.7466,
-            "time": "01:21.747",
+            "timestamp": 79.7466,
+            "time": "01:19.747",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12861,8 +12861,8 @@
             "index": 216
         },
         {
-            "timestamp": 81.9257,
-            "time": "01:21.926",
+            "timestamp": 79.9257,
+            "time": "01:19.926",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12919,8 +12919,8 @@
             "index": 217
         },
         {
-            "timestamp": 82.0272,
-            "time": "01:22.027",
+            "timestamp": 80.0272,
+            "time": "01:20.027",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -12983,8 +12983,8 @@
             "index": 218
         },
         {
-            "timestamp": 82.1358,
-            "time": "01:22.136",
+            "timestamp": 80.1358,
+            "time": "01:20.136",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13041,8 +13041,8 @@
             "index": 219
         },
         {
-            "timestamp": 82.2584,
-            "time": "01:22.258",
+            "timestamp": 80.2584,
+            "time": "01:20.258",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13105,8 +13105,8 @@
             "index": 220
         },
         {
-            "timestamp": 82.3621,
-            "time": "01:22.362",
+            "timestamp": 80.3621,
+            "time": "01:20.362",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13163,8 +13163,8 @@
             "index": 221
         },
         {
-            "timestamp": 82.4694,
-            "time": "01:22.469",
+            "timestamp": 80.4694,
+            "time": "01:20.469",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13227,8 +13227,8 @@
             "index": 222
         },
         {
-            "timestamp": 82.5893,
-            "time": "01:22.589",
+            "timestamp": 80.5893,
+            "time": "01:20.589",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13285,8 +13285,8 @@
             "index": 223
         },
         {
-            "timestamp": 82.7045,
-            "time": "01:22.704",
+            "timestamp": 80.7045,
+            "time": "01:20.704",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13349,8 +13349,8 @@
             "index": 224
         },
         {
-            "timestamp": 82.8189,
-            "time": "01:22.819",
+            "timestamp": 80.8189,
+            "time": "01:20.819",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13407,8 +13407,8 @@
             "index": 225
         },
         {
-            "timestamp": 82.9589,
-            "time": "01:22.959",
+            "timestamp": 80.9589,
+            "time": "01:20.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13471,8 +13471,8 @@
             "index": 226
         },
         {
-            "timestamp": 83.0645,
-            "time": "01:23.064",
+            "timestamp": 81.0645,
+            "time": "01:21.064",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13529,8 +13529,8 @@
             "index": 227
         },
         {
-            "timestamp": 83.1522,
-            "time": "01:23.152",
+            "timestamp": 81.1522,
+            "time": "01:21.152",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13593,8 +13593,8 @@
             "index": 228
         },
         {
-            "timestamp": 83.2653,
-            "time": "01:23.265",
+            "timestamp": 81.2653,
+            "time": "01:21.265",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13651,8 +13651,8 @@
             "index": 229
         },
         {
-            "timestamp": 83.3748,
-            "time": "01:23.375",
+            "timestamp": 81.3748,
+            "time": "01:21.375",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13715,8 +13715,8 @@
             "index": 230
         },
         {
-            "timestamp": 83.478,
-            "time": "01:23.478",
+            "timestamp": 81.478,
+            "time": "01:21.478",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13773,8 +13773,8 @@
             "index": 231
         },
         {
-            "timestamp": 83.5907,
-            "time": "01:23.591",
+            "timestamp": 81.5907,
+            "time": "01:21.591",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13837,8 +13837,8 @@
             "index": 232
         },
         {
-            "timestamp": 83.711,
-            "time": "01:23.711",
+            "timestamp": 81.711,
+            "time": "01:21.711",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13892,8 +13892,8 @@
             "index": 233
         },
         {
-            "timestamp": 83.8244,
-            "time": "01:23.824",
+            "timestamp": 81.8244,
+            "time": "01:21.824",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -13947,8 +13947,8 @@
             "index": 234
         },
         {
-            "timestamp": 84.3194,
-            "time": "01:24.319",
+            "timestamp": 82.3194,
+            "time": "01:22.319",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14002,8 +14002,8 @@
             "index": 235
         },
         {
-            "timestamp": 84.4511,
-            "time": "01:24.451",
+            "timestamp": 82.4511,
+            "time": "01:22.451",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14057,8 +14057,8 @@
             "index": 236
         },
         {
-            "timestamp": 86.0992,
-            "time": "01:26.099",
+            "timestamp": 84.0992,
+            "time": "01:24.099",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14112,8 +14112,8 @@
             "index": 237
         },
         {
-            "timestamp": 86.2313,
-            "time": "01:26.231",
+            "timestamp": 84.2313,
+            "time": "01:24.231",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14167,8 +14167,8 @@
             "index": 238
         },
         {
-            "timestamp": 90.7984,
-            "time": "01:30.798",
+            "timestamp": 88.7984,
+            "time": "01:28.798",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14222,8 +14222,8 @@
             "index": 239
         },
         {
-            "timestamp": 90.9262,
-            "time": "01:30.926",
+            "timestamp": 88.9262,
+            "time": "01:28.926",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14277,8 +14277,8 @@
             "index": 240
         },
         {
-            "timestamp": 91.0646,
-            "time": "01:31.065",
+            "timestamp": 89.0646,
+            "time": "01:29.065",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14332,8 +14332,8 @@
             "index": 241
         },
         {
-            "timestamp": 91.1665,
-            "time": "01:31.166",
+            "timestamp": 89.1665,
+            "time": "01:29.166",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14387,8 +14387,8 @@
             "index": 242
         },
         {
-            "timestamp": 91.3311,
-            "time": "01:31.331",
+            "timestamp": 89.3311,
+            "time": "01:29.331",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14442,8 +14442,8 @@
             "index": 243
         },
         {
-            "timestamp": 91.4366,
-            "time": "01:31.437",
+            "timestamp": 89.4366,
+            "time": "01:29.437",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14497,8 +14497,8 @@
             "index": 244
         },
         {
-            "timestamp": 91.6244,
-            "time": "01:31.624",
+            "timestamp": 89.6244,
+            "time": "01:29.624",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14552,8 +14552,8 @@
             "index": 245
         },
         {
-            "timestamp": 91.7316,
-            "time": "01:31.732",
+            "timestamp": 89.7316,
+            "time": "01:29.732",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14607,8 +14607,8 @@
             "index": 246
         },
         {
-            "timestamp": 92.0015,
-            "time": "01:32.001",
+            "timestamp": 90.0015,
+            "time": "01:30.001",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14662,8 +14662,8 @@
             "index": 247
         },
         {
-            "timestamp": 92.104,
-            "time": "01:32.104",
+            "timestamp": 90.104,
+            "time": "01:30.104",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14717,8 +14717,8 @@
             "index": 248
         },
         {
-            "timestamp": 92.2742,
-            "time": "01:32.274",
+            "timestamp": 90.2742,
+            "time": "01:30.274",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14772,8 +14772,8 @@
             "index": 249
         },
         {
-            "timestamp": 92.3761,
-            "time": "01:32.376",
+            "timestamp": 90.3761,
+            "time": "01:30.376",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14827,8 +14827,8 @@
             "index": 250
         },
         {
-            "timestamp": 92.5103,
-            "time": "01:32.510",
+            "timestamp": 90.5103,
+            "time": "01:30.510",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14882,8 +14882,8 @@
             "index": 251
         },
         {
-            "timestamp": 92.637,
-            "time": "01:32.637",
+            "timestamp": 90.637,
+            "time": "01:30.637",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14937,8 +14937,8 @@
             "index": 252
         },
         {
-            "timestamp": 92.8962,
-            "time": "01:32.896",
+            "timestamp": 90.8962,
+            "time": "01:30.896",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -14992,8 +14992,8 @@
             "index": 253
         },
         {
-            "timestamp": 92.9949,
-            "time": "01:32.995",
+            "timestamp": 90.9949,
+            "time": "01:30.995",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15047,8 +15047,8 @@
             "index": 254
         },
         {
-            "timestamp": 93.5283,
-            "time": "01:33.528",
+            "timestamp": 91.5283,
+            "time": "01:31.528",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15102,8 +15102,8 @@
             "index": 255
         },
         {
-            "timestamp": 93.6562,
-            "time": "01:33.656",
+            "timestamp": 91.6562,
+            "time": "01:31.656",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15157,8 +15157,8 @@
             "index": 256
         },
         {
-            "timestamp": 93.8837,
-            "time": "01:33.884",
+            "timestamp": 91.8837,
+            "time": "01:31.884",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15212,8 +15212,8 @@
             "index": 257
         },
         {
-            "timestamp": 93.9832,
-            "time": "01:33.983",
+            "timestamp": 91.9832,
+            "time": "01:31.983",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15267,8 +15267,8 @@
             "index": 258
         },
         {
-            "timestamp": 94.6326,
-            "time": "01:34.633",
+            "timestamp": 92.6326,
+            "time": "01:32.633",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15322,8 +15322,8 @@
             "index": 259
         },
         {
-            "timestamp": 94.7591,
-            "time": "01:34.759",
+            "timestamp": 92.7591,
+            "time": "01:32.759",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15377,8 +15377,8 @@
             "index": 260
         },
         {
-            "timestamp": 98.1179,
-            "time": "01:38.118",
+            "timestamp": 96.1179,
+            "time": "01:36.118",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15435,8 +15435,8 @@
             "index": 261
         },
         {
-            "timestamp": 98.2809,
-            "time": "01:38.281",
+            "timestamp": 96.2809,
+            "time": "01:36.281",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15493,8 +15493,8 @@
             "index": 262
         },
         {
-            "timestamp": 98.3742,
-            "time": "01:38.374",
+            "timestamp": 96.3742,
+            "time": "01:36.374",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15557,8 +15557,8 @@
             "index": 263
         },
         {
-            "timestamp": 98.4955,
-            "time": "01:38.496",
+            "timestamp": 96.4955,
+            "time": "01:36.496",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15615,8 +15615,8 @@
             "index": 264
         },
         {
-            "timestamp": 98.6008,
-            "time": "01:38.601",
+            "timestamp": 96.6008,
+            "time": "01:36.601",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15679,8 +15679,8 @@
             "index": 265
         },
         {
-            "timestamp": 103.5177,
-            "time": "01:43.518",
+            "timestamp": 101.5177,
+            "time": "01:41.518",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15737,8 +15737,8 @@
             "index": 266
         },
         {
-            "timestamp": 104.0188,
-            "time": "01:44.019",
+            "timestamp": 102.0188,
+            "time": "01:42.019",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15795,8 +15795,8 @@
             "index": 267
         },
         {
-            "timestamp": 104.1045,
-            "time": "01:44.105",
+            "timestamp": 102.1045,
+            "time": "01:42.105",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15853,8 +15853,8 @@
             "index": 268
         },
         {
-            "timestamp": 104.2067,
-            "time": "01:44.207",
+            "timestamp": 102.2067,
+            "time": "01:42.207",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15911,8 +15911,8 @@
             "index": 269
         },
         {
-            "timestamp": 104.2935,
-            "time": "01:44.293",
+            "timestamp": 102.2935,
+            "time": "01:42.293",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -15969,8 +15969,8 @@
             "index": 270
         },
         {
-            "timestamp": 104.363,
-            "time": "01:44.363",
+            "timestamp": 102.363,
+            "time": "01:42.363",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16027,8 +16027,8 @@
             "index": 271
         },
         {
-            "timestamp": 104.4546,
-            "time": "01:44.455",
+            "timestamp": 102.4546,
+            "time": "01:42.455",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16085,8 +16085,8 @@
             "index": 272
         },
         {
-            "timestamp": 104.5674,
-            "time": "01:44.567",
+            "timestamp": 102.5674,
+            "time": "01:42.567",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16143,8 +16143,8 @@
             "index": 273
         },
         {
-            "timestamp": 104.6761,
-            "time": "01:44.676",
+            "timestamp": 102.6761,
+            "time": "01:42.676",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16201,8 +16201,8 @@
             "index": 274
         },
         {
-            "timestamp": 104.7728,
-            "time": "01:44.773",
+            "timestamp": 102.7728,
+            "time": "01:42.773",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16259,8 +16259,8 @@
             "index": 275
         },
         {
-            "timestamp": 104.8579,
-            "time": "01:44.858",
+            "timestamp": 102.8579,
+            "time": "01:42.858",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16317,8 +16317,8 @@
             "index": 276
         },
         {
-            "timestamp": 104.9592,
-            "time": "01:44.959",
+            "timestamp": 102.9592,
+            "time": "01:42.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16375,8 +16375,8 @@
             "index": 277
         },
         {
-            "timestamp": 105.0215,
-            "time": "01:45.022",
+            "timestamp": 103.0215,
+            "time": "01:43.022",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16433,8 +16433,8 @@
             "index": 278
         },
         {
-            "timestamp": 105.1197,
-            "time": "01:45.120",
+            "timestamp": 103.1197,
+            "time": "01:43.120",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16491,8 +16491,8 @@
             "index": 279
         },
         {
-            "timestamp": 105.2055,
-            "time": "01:45.206",
+            "timestamp": 103.2055,
+            "time": "01:43.206",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16549,8 +16549,8 @@
             "index": 280
         },
         {
-            "timestamp": 105.3112,
-            "time": "01:45.311",
+            "timestamp": 103.3112,
+            "time": "01:43.311",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16607,8 +16607,8 @@
             "index": 281
         },
         {
-            "timestamp": 105.3926,
-            "time": "01:45.393",
+            "timestamp": 103.3926,
+            "time": "01:43.393",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16665,8 +16665,8 @@
             "index": 282
         },
         {
-            "timestamp": 105.4593,
-            "time": "01:45.459",
+            "timestamp": 103.4593,
+            "time": "01:43.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16723,8 +16723,8 @@
             "index": 283
         },
         {
-            "timestamp": 105.5597,
-            "time": "01:45.560",
+            "timestamp": 103.5597,
+            "time": "01:43.560",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16781,8 +16781,8 @@
             "index": 284
         },
         {
-            "timestamp": 105.6539,
-            "time": "01:45.654",
+            "timestamp": 103.6539,
+            "time": "01:43.654",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16839,8 +16839,8 @@
             "index": 285
         },
         {
-            "timestamp": 105.7899,
-            "time": "01:45.790",
+            "timestamp": 103.7899,
+            "time": "01:43.790",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16897,8 +16897,8 @@
             "index": 286
         },
         {
-            "timestamp": 105.8917,
-            "time": "01:45.892",
+            "timestamp": 103.8917,
+            "time": "01:43.892",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -16955,8 +16955,8 @@
             "index": 287
         },
         {
-            "timestamp": 105.9981,
-            "time": "01:45.998",
+            "timestamp": 103.9981,
+            "time": "01:43.998",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17013,8 +17013,8 @@
             "index": 288
         },
         {
-            "timestamp": 106.102,
-            "time": "01:46.102",
+            "timestamp": 104.102,
+            "time": "01:44.102",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17071,8 +17071,8 @@
             "index": 289
         },
         {
-            "timestamp": 106.1996,
-            "time": "01:46.200",
+            "timestamp": 104.1996,
+            "time": "01:44.200",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17129,8 +17129,8 @@
             "index": 290
         },
         {
-            "timestamp": 106.34,
-            "time": "01:46.340",
+            "timestamp": 104.34,
+            "time": "01:44.340",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17187,8 +17187,8 @@
             "index": 291
         },
         {
-            "timestamp": 106.4322,
-            "time": "01:46.432",
+            "timestamp": 104.4322,
+            "time": "01:44.432",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17245,8 +17245,8 @@
             "index": 292
         },
         {
-            "timestamp": 106.531,
-            "time": "01:46.531",
+            "timestamp": 104.531,
+            "time": "01:44.531",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17303,8 +17303,8 @@
             "index": 293
         },
         {
-            "timestamp": 106.6495,
-            "time": "01:46.650",
+            "timestamp": 104.6495,
+            "time": "01:44.650",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17361,8 +17361,8 @@
             "index": 294
         },
         {
-            "timestamp": 106.7697,
-            "time": "01:46.770",
+            "timestamp": 104.7697,
+            "time": "01:44.770",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17419,8 +17419,8 @@
             "index": 295
         },
         {
-            "timestamp": 106.9075,
-            "time": "01:46.907",
+            "timestamp": 104.9075,
+            "time": "01:44.907",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17477,8 +17477,8 @@
             "index": 296
         },
         {
-            "timestamp": 107.0353,
-            "time": "01:47.035",
+            "timestamp": 105.0353,
+            "time": "01:45.035",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17535,8 +17535,8 @@
             "index": 297
         },
         {
-            "timestamp": 107.1192,
-            "time": "01:47.119",
+            "timestamp": 105.1192,
+            "time": "01:45.119",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17593,8 +17593,8 @@
             "index": 298
         },
         {
-            "timestamp": 107.2411,
-            "time": "01:47.241",
+            "timestamp": 105.2411,
+            "time": "01:45.241",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17651,8 +17651,8 @@
             "index": 299
         },
         {
-            "timestamp": 107.3396,
-            "time": "01:47.340",
+            "timestamp": 105.3396,
+            "time": "01:45.340",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17715,8 +17715,8 @@
             "index": 300
         },
         {
-            "timestamp": 107.4446,
-            "time": "01:47.445",
+            "timestamp": 105.4446,
+            "time": "01:45.445",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17773,8 +17773,8 @@
             "index": 301
         },
         {
-            "timestamp": 107.5529,
-            "time": "01:47.553",
+            "timestamp": 105.5529,
+            "time": "01:45.553",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17837,8 +17837,8 @@
             "index": 302
         },
         {
-            "timestamp": 107.6715,
-            "time": "01:47.671",
+            "timestamp": 105.6715,
+            "time": "01:45.671",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17895,8 +17895,8 @@
             "index": 303
         },
         {
-            "timestamp": 107.7517,
-            "time": "01:47.752",
+            "timestamp": 105.7517,
+            "time": "01:45.752",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -17959,8 +17959,8 @@
             "index": 304
         },
         {
-            "timestamp": 107.8825,
-            "time": "01:47.882",
+            "timestamp": 105.8825,
+            "time": "01:45.882",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18017,8 +18017,8 @@
             "index": 305
         },
         {
-            "timestamp": 108.0004,
-            "time": "01:48.000",
+            "timestamp": 106.0004,
+            "time": "01:46.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18081,8 +18081,8 @@
             "index": 306
         },
         {
-            "timestamp": 108.1278,
-            "time": "01:48.128",
+            "timestamp": 106.1278,
+            "time": "01:46.128",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18139,8 +18139,8 @@
             "index": 307
         },
         {
-            "timestamp": 108.2187,
-            "time": "01:48.219",
+            "timestamp": 106.2187,
+            "time": "01:46.219",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18203,8 +18203,8 @@
             "index": 308
         },
         {
-            "timestamp": 108.3529,
-            "time": "01:48.353",
+            "timestamp": 106.3529,
+            "time": "01:46.353",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18261,8 +18261,8 @@
             "index": 309
         },
         {
-            "timestamp": 108.4559,
-            "time": "01:48.456",
+            "timestamp": 106.4559,
+            "time": "01:46.456",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18325,8 +18325,8 @@
             "index": 310
         },
         {
-            "timestamp": 108.5882,
-            "time": "01:48.588",
+            "timestamp": 106.5882,
+            "time": "01:46.588",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18383,8 +18383,8 @@
             "index": 311
         },
         {
-            "timestamp": 108.7173,
-            "time": "01:48.717",
+            "timestamp": 106.7173,
+            "time": "01:46.717",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18447,8 +18447,8 @@
             "index": 312
         },
         {
-            "timestamp": 108.828,
-            "time": "01:48.828",
+            "timestamp": 106.828,
+            "time": "01:46.828",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18505,8 +18505,8 @@
             "index": 313
         },
         {
-            "timestamp": 108.9274,
-            "time": "01:48.927",
+            "timestamp": 106.9274,
+            "time": "01:46.927",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18569,8 +18569,8 @@
             "index": 314
         },
         {
-            "timestamp": 109.0526,
-            "time": "01:49.053",
+            "timestamp": 107.0526,
+            "time": "01:47.053",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18627,8 +18627,8 @@
             "index": 315
         },
         {
-            "timestamp": 109.1924,
-            "time": "01:49.192",
+            "timestamp": 107.1924,
+            "time": "01:47.192",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18691,8 +18691,8 @@
             "index": 316
         },
         {
-            "timestamp": 109.2937,
-            "time": "01:49.294",
+            "timestamp": 107.2937,
+            "time": "01:47.294",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18749,8 +18749,8 @@
             "index": 317
         },
         {
-            "timestamp": 109.4261,
-            "time": "01:49.426",
+            "timestamp": 107.4261,
+            "time": "01:47.426",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18813,8 +18813,8 @@
             "index": 318
         },
         {
-            "timestamp": 109.5319,
-            "time": "01:49.532",
+            "timestamp": 107.5319,
+            "time": "01:47.532",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18871,8 +18871,8 @@
             "index": 319
         },
         {
-            "timestamp": 109.6463,
-            "time": "01:49.646",
+            "timestamp": 107.6463,
+            "time": "01:47.646",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18935,8 +18935,8 @@
             "index": 320
         },
         {
-            "timestamp": 109.7586,
-            "time": "01:49.759",
+            "timestamp": 107.7586,
+            "time": "01:47.759",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -18993,8 +18993,8 @@
             "index": 321
         },
         {
-            "timestamp": 109.8963,
-            "time": "01:49.896",
+            "timestamp": 107.8963,
+            "time": "01:47.896",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19057,8 +19057,8 @@
             "index": 322
         },
         {
-            "timestamp": 109.9928,
-            "time": "01:49.993",
+            "timestamp": 107.9928,
+            "time": "01:47.993",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19115,8 +19115,8 @@
             "index": 323
         },
         {
-            "timestamp": 110.0817,
-            "time": "01:50.082",
+            "timestamp": 108.0817,
+            "time": "01:48.082",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19179,8 +19179,8 @@
             "index": 324
         },
         {
-            "timestamp": 110.1979,
-            "time": "01:50.198",
+            "timestamp": 108.1979,
+            "time": "01:48.198",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19237,8 +19237,8 @@
             "index": 325
         },
         {
-            "timestamp": 110.3257,
-            "time": "01:50.326",
+            "timestamp": 108.3257,
+            "time": "01:48.326",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19301,8 +19301,8 @@
             "index": 326
         },
         {
-            "timestamp": 110.4593,
-            "time": "01:50.459",
+            "timestamp": 108.4593,
+            "time": "01:48.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19359,8 +19359,8 @@
             "index": 327
         },
         {
-            "timestamp": 110.5839,
-            "time": "01:50.584",
+            "timestamp": 108.5839,
+            "time": "01:48.584",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19423,8 +19423,8 @@
             "index": 328
         },
         {
-            "timestamp": 110.7297,
-            "time": "01:50.730",
+            "timestamp": 108.7297,
+            "time": "01:48.730",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19481,8 +19481,8 @@
             "index": 329
         },
         {
-            "timestamp": 110.8573,
-            "time": "01:50.857",
+            "timestamp": 108.8573,
+            "time": "01:48.857",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19545,8 +19545,8 @@
             "index": 330
         },
         {
-            "timestamp": 110.9698,
-            "time": "01:50.970",
+            "timestamp": 108.9698,
+            "time": "01:48.970",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19603,8 +19603,8 @@
             "index": 331
         },
         {
-            "timestamp": 111.0822,
-            "time": "01:51.082",
+            "timestamp": 109.0822,
+            "time": "01:49.082",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19667,8 +19667,8 @@
             "index": 332
         },
         {
-            "timestamp": 111.2462,
-            "time": "01:51.246",
+            "timestamp": 109.2462,
+            "time": "01:49.246",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19725,8 +19725,8 @@
             "index": 333
         },
         {
-            "timestamp": 111.3495,
-            "time": "01:51.350",
+            "timestamp": 109.3495,
+            "time": "01:49.350",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19789,8 +19789,8 @@
             "index": 334
         },
         {
-            "timestamp": 111.4593,
-            "time": "01:51.459",
+            "timestamp": 109.4593,
+            "time": "01:49.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19847,8 +19847,8 @@
             "index": 335
         },
         {
-            "timestamp": 111.5919,
-            "time": "01:51.592",
+            "timestamp": 109.5919,
+            "time": "01:49.592",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19911,8 +19911,8 @@
             "index": 336
         },
         {
-            "timestamp": 111.7738,
-            "time": "01:51.774",
+            "timestamp": 109.7738,
+            "time": "01:49.774",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -19969,8 +19969,8 @@
             "index": 337
         },
         {
-            "timestamp": 111.9084,
-            "time": "01:51.908",
+            "timestamp": 109.9084,
+            "time": "01:49.908",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20033,8 +20033,8 @@
             "index": 338
         },
         {
-            "timestamp": 112.0263,
-            "time": "01:52.026",
+            "timestamp": 110.0263,
+            "time": "01:50.026",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20091,8 +20091,8 @@
             "index": 339
         },
         {
-            "timestamp": 112.1478,
-            "time": "01:52.148",
+            "timestamp": 110.1478,
+            "time": "01:50.148",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20155,8 +20155,8 @@
             "index": 340
         },
         {
-            "timestamp": 112.335,
-            "time": "01:52.335",
+            "timestamp": 110.335,
+            "time": "01:50.335",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20213,8 +20213,8 @@
             "index": 341
         },
         {
-            "timestamp": 112.4535,
-            "time": "01:52.454",
+            "timestamp": 110.4535,
+            "time": "01:50.454",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20277,8 +20277,8 @@
             "index": 342
         },
         {
-            "timestamp": 112.5886,
-            "time": "01:52.589",
+            "timestamp": 110.5886,
+            "time": "01:50.589",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20335,8 +20335,8 @@
             "index": 343
         },
         {
-            "timestamp": 112.7536,
-            "time": "01:52.754",
+            "timestamp": 110.7536,
+            "time": "01:50.754",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20399,8 +20399,8 @@
             "index": 344
         },
         {
-            "timestamp": 112.8669,
-            "time": "01:52.867",
+            "timestamp": 110.8669,
+            "time": "01:50.867",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20457,8 +20457,8 @@
             "index": 345
         },
         {
-            "timestamp": 113.0142,
-            "time": "01:53.014",
+            "timestamp": 111.0142,
+            "time": "01:51.014",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20521,8 +20521,8 @@
             "index": 346
         },
         {
-            "timestamp": 113.1631,
-            "time": "01:53.163",
+            "timestamp": 111.1631,
+            "time": "01:51.163",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20579,8 +20579,8 @@
             "index": 347
         },
         {
-            "timestamp": 113.3209,
-            "time": "01:53.321",
+            "timestamp": 111.3209,
+            "time": "01:51.321",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20643,8 +20643,8 @@
             "index": 348
         },
         {
-            "timestamp": 113.4778,
-            "time": "01:53.478",
+            "timestamp": 111.4778,
+            "time": "01:51.478",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20701,8 +20701,8 @@
             "index": 349
         },
         {
-            "timestamp": 113.5729,
-            "time": "01:53.573",
+            "timestamp": 111.5729,
+            "time": "01:51.573",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20765,8 +20765,8 @@
             "index": 350
         },
         {
-            "timestamp": 113.6872,
-            "time": "01:53.687",
+            "timestamp": 111.6872,
+            "time": "01:51.687",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20823,8 +20823,8 @@
             "index": 351
         },
         {
-            "timestamp": 113.8094,
-            "time": "01:53.809",
+            "timestamp": 111.8094,
+            "time": "01:51.809",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20887,8 +20887,8 @@
             "index": 352
         },
         {
-            "timestamp": 113.9024,
-            "time": "01:53.902",
+            "timestamp": 111.9024,
+            "time": "01:51.902",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -20945,8 +20945,8 @@
             "index": 353
         },
         {
-            "timestamp": 114.0157,
-            "time": "01:54.016",
+            "timestamp": 112.0157,
+            "time": "01:52.016",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21009,8 +21009,8 @@
             "index": 354
         },
         {
-            "timestamp": 114.1288,
-            "time": "01:54.129",
+            "timestamp": 112.1288,
+            "time": "01:52.129",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21067,8 +21067,8 @@
             "index": 355
         },
         {
-            "timestamp": 114.2427,
-            "time": "01:54.243",
+            "timestamp": 112.2427,
+            "time": "01:52.243",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21131,8 +21131,8 @@
             "index": 356
         },
         {
-            "timestamp": 114.3531,
-            "time": "01:54.353",
+            "timestamp": 112.3531,
+            "time": "01:52.353",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21189,8 +21189,8 @@
             "index": 357
         },
         {
-            "timestamp": 114.482,
-            "time": "01:54.482",
+            "timestamp": 112.482,
+            "time": "01:52.482",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21253,8 +21253,8 @@
             "index": 358
         },
         {
-            "timestamp": 114.5908,
-            "time": "01:54.591",
+            "timestamp": 112.5908,
+            "time": "01:52.591",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21311,8 +21311,8 @@
             "index": 359
         },
         {
-            "timestamp": 114.7078,
-            "time": "01:54.708",
+            "timestamp": 112.7078,
+            "time": "01:52.708",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21375,8 +21375,8 @@
             "index": 360
         },
         {
-            "timestamp": 114.8271,
-            "time": "01:54.827",
+            "timestamp": 112.8271,
+            "time": "01:52.827",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21433,8 +21433,8 @@
             "index": 361
         },
         {
-            "timestamp": 114.9258,
-            "time": "01:54.926",
+            "timestamp": 112.9258,
+            "time": "01:52.926",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21497,8 +21497,8 @@
             "index": 362
         },
         {
-            "timestamp": 115.0402,
-            "time": "01:55.040",
+            "timestamp": 113.0402,
+            "time": "01:53.040",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21555,8 +21555,8 @@
             "index": 363
         },
         {
-            "timestamp": 115.1633,
-            "time": "01:55.163",
+            "timestamp": 113.1633,
+            "time": "01:53.163",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21619,8 +21619,8 @@
             "index": 364
         },
         {
-            "timestamp": 115.2705,
-            "time": "01:55.270",
+            "timestamp": 113.2705,
+            "time": "01:53.270",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21677,8 +21677,8 @@
             "index": 365
         },
         {
-            "timestamp": 115.4013,
-            "time": "01:55.401",
+            "timestamp": 113.4013,
+            "time": "01:53.401",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21741,8 +21741,8 @@
             "index": 366
         },
         {
-            "timestamp": 115.5243,
-            "time": "01:55.524",
+            "timestamp": 113.5243,
+            "time": "01:53.524",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21799,8 +21799,8 @@
             "index": 367
         },
         {
-            "timestamp": 115.6522,
-            "time": "01:55.652",
+            "timestamp": 113.6522,
+            "time": "01:53.652",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21863,8 +21863,8 @@
             "index": 368
         },
         {
-            "timestamp": 115.8246,
-            "time": "01:55.825",
+            "timestamp": 113.8246,
+            "time": "01:53.825",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21921,8 +21921,8 @@
             "index": 369
         },
         {
-            "timestamp": 115.954,
-            "time": "01:55.954",
+            "timestamp": 113.954,
+            "time": "01:53.954",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -21985,8 +21985,8 @@
             "index": 370
         },
         {
-            "timestamp": 116.0864,
-            "time": "01:56.086",
+            "timestamp": 114.0864,
+            "time": "01:54.086",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22043,8 +22043,8 @@
             "index": 371
         },
         {
-            "timestamp": 116.2131,
-            "time": "01:56.213",
+            "timestamp": 114.2131,
+            "time": "01:54.213",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22107,8 +22107,8 @@
             "index": 372
         },
         {
-            "timestamp": 116.3415,
-            "time": "01:56.341",
+            "timestamp": 114.3415,
+            "time": "01:54.341",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22165,8 +22165,8 @@
             "index": 373
         },
         {
-            "timestamp": 116.4871,
-            "time": "01:56.487",
+            "timestamp": 114.4871,
+            "time": "01:54.487",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22229,8 +22229,8 @@
             "index": 374
         },
         {
-            "timestamp": 116.5987,
-            "time": "01:56.599",
+            "timestamp": 114.5987,
+            "time": "01:54.599",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22287,8 +22287,8 @@
             "index": 375
         },
         {
-            "timestamp": 116.7178,
-            "time": "01:56.718",
+            "timestamp": 114.7178,
+            "time": "01:54.718",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22351,8 +22351,8 @@
             "index": 376
         },
         {
-            "timestamp": 116.8384,
-            "time": "01:56.838",
+            "timestamp": 114.8384,
+            "time": "01:54.838",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22409,8 +22409,8 @@
             "index": 377
         },
         {
-            "timestamp": 116.9584,
-            "time": "01:56.958",
+            "timestamp": 114.9584,
+            "time": "01:54.958",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22473,8 +22473,8 @@
             "index": 378
         },
         {
-            "timestamp": 117.0752,
-            "time": "01:57.075",
+            "timestamp": 115.0752,
+            "time": "01:55.075",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22531,8 +22531,8 @@
             "index": 379
         },
         {
-            "timestamp": 117.2042,
-            "time": "01:57.204",
+            "timestamp": 115.2042,
+            "time": "01:55.204",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22595,8 +22595,8 @@
             "index": 380
         },
         {
-            "timestamp": 117.327,
-            "time": "01:57.327",
+            "timestamp": 115.327,
+            "time": "01:55.327",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22653,8 +22653,8 @@
             "index": 381
         },
         {
-            "timestamp": 117.4159,
-            "time": "01:57.416",
+            "timestamp": 115.4159,
+            "time": "01:55.416",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22717,8 +22717,8 @@
             "index": 382
         },
         {
-            "timestamp": 117.562,
-            "time": "01:57.562",
+            "timestamp": 115.562,
+            "time": "01:55.562",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22775,8 +22775,8 @@
             "index": 383
         },
         {
-            "timestamp": 117.6942,
-            "time": "01:57.694",
+            "timestamp": 115.6942,
+            "time": "01:55.694",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22839,8 +22839,8 @@
             "index": 384
         },
         {
-            "timestamp": 117.8048,
-            "time": "01:57.805",
+            "timestamp": 115.8048,
+            "time": "01:55.805",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22897,8 +22897,8 @@
             "index": 385
         },
         {
-            "timestamp": 117.9592,
-            "time": "01:57.959",
+            "timestamp": 115.9592,
+            "time": "01:55.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -22961,8 +22961,8 @@
             "index": 386
         },
         {
-            "timestamp": 118.111,
-            "time": "01:58.111",
+            "timestamp": 116.111,
+            "time": "01:56.111",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23019,8 +23019,8 @@
             "index": 387
         },
         {
-            "timestamp": 118.2545,
-            "time": "01:58.254",
+            "timestamp": 116.2545,
+            "time": "01:56.254",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23083,8 +23083,8 @@
             "index": 388
         },
         {
-            "timestamp": 118.3876,
-            "time": "01:58.388",
+            "timestamp": 116.3876,
+            "time": "01:56.388",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23141,8 +23141,8 @@
             "index": 389
         },
         {
-            "timestamp": 118.5214,
-            "time": "01:58.521",
+            "timestamp": 116.5214,
+            "time": "01:56.521",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23205,8 +23205,8 @@
             "index": 390
         },
         {
-            "timestamp": 118.714,
-            "time": "01:58.714",
+            "timestamp": 116.714,
+            "time": "01:56.714",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23263,8 +23263,8 @@
             "index": 391
         },
         {
-            "timestamp": 118.8709,
-            "time": "01:58.871",
+            "timestamp": 116.8709,
+            "time": "01:56.871",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23327,8 +23327,8 @@
             "index": 392
         },
         {
-            "timestamp": 119.0328,
-            "time": "01:59.033",
+            "timestamp": 117.0328,
+            "time": "01:57.033",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23385,8 +23385,8 @@
             "index": 393
         },
         {
-            "timestamp": 119.1362,
-            "time": "01:59.136",
+            "timestamp": 117.1362,
+            "time": "01:57.136",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23449,8 +23449,8 @@
             "index": 394
         },
         {
-            "timestamp": 119.2483,
-            "time": "01:59.248",
+            "timestamp": 117.2483,
+            "time": "01:57.248",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23507,8 +23507,8 @@
             "index": 395
         },
         {
-            "timestamp": 119.3713,
-            "time": "01:59.371",
+            "timestamp": 117.3713,
+            "time": "01:57.371",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23571,8 +23571,8 @@
             "index": 396
         },
         {
-            "timestamp": 119.4926,
-            "time": "01:59.493",
+            "timestamp": 117.4926,
+            "time": "01:57.493",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23629,8 +23629,8 @@
             "index": 397
         },
         {
-            "timestamp": 119.5955,
-            "time": "01:59.596",
+            "timestamp": 117.5955,
+            "time": "01:57.596",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23693,8 +23693,8 @@
             "index": 398
         },
         {
-            "timestamp": 119.7342,
-            "time": "01:59.734",
+            "timestamp": 117.7342,
+            "time": "01:57.734",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23751,8 +23751,8 @@
             "index": 399
         },
         {
-            "timestamp": 119.849,
-            "time": "01:59.849",
+            "timestamp": 117.849,
+            "time": "01:57.849",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23815,8 +23815,8 @@
             "index": 400
         },
         {
-            "timestamp": 119.9666,
-            "time": "01:59.967",
+            "timestamp": 117.9666,
+            "time": "01:57.967",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23873,8 +23873,8 @@
             "index": 401
         },
         {
-            "timestamp": 120.0768,
-            "time": "02:00.077",
+            "timestamp": 118.0768,
+            "time": "01:58.077",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23937,8 +23937,8 @@
             "index": 402
         },
         {
-            "timestamp": 120.1927,
-            "time": "02:00.193",
+            "timestamp": 118.1927,
+            "time": "01:58.193",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -23995,8 +23995,8 @@
             "index": 403
         },
         {
-            "timestamp": 120.301,
-            "time": "02:00.301",
+            "timestamp": 118.301,
+            "time": "01:58.301",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24059,8 +24059,8 @@
             "index": 404
         },
         {
-            "timestamp": 120.4206,
-            "time": "02:00.421",
+            "timestamp": 118.4206,
+            "time": "01:58.421",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24117,8 +24117,8 @@
             "index": 405
         },
         {
-            "timestamp": 120.5127,
-            "time": "02:00.513",
+            "timestamp": 118.5127,
+            "time": "01:58.513",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24181,8 +24181,8 @@
             "index": 406
         },
         {
-            "timestamp": 120.6402,
-            "time": "02:00.640",
+            "timestamp": 118.6402,
+            "time": "01:58.640",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24239,8 +24239,8 @@
             "index": 407
         },
         {
-            "timestamp": 120.7803,
-            "time": "02:00.780",
+            "timestamp": 118.7803,
+            "time": "01:58.780",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24303,8 +24303,8 @@
             "index": 408
         },
         {
-            "timestamp": 120.9109,
-            "time": "02:00.911",
+            "timestamp": 118.9109,
+            "time": "01:58.911",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24361,8 +24361,8 @@
             "index": 409
         },
         {
-            "timestamp": 121.0192,
-            "time": "02:01.019",
+            "timestamp": 119.0192,
+            "time": "01:59.019",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24425,8 +24425,8 @@
             "index": 410
         },
         {
-            "timestamp": 126.9007,
-            "time": "02:06.901",
+            "timestamp": 124.9007,
+            "time": "02:04.901",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24483,8 +24483,8 @@
             "index": 411
         },
         {
-            "timestamp": 127.0478,
-            "time": "02:07.048",
+            "timestamp": 125.0478,
+            "time": "02:05.048",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24541,8 +24541,8 @@
             "index": 412
         },
         {
-            "timestamp": 127.1687,
-            "time": "02:07.169",
+            "timestamp": 125.1687,
+            "time": "02:05.169",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24605,8 +24605,8 @@
             "index": 413
         },
         {
-            "timestamp": 127.2882,
-            "time": "02:07.288",
+            "timestamp": 125.2882,
+            "time": "02:05.288",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24663,8 +24663,8 @@
             "index": 414
         },
         {
-            "timestamp": 127.3868,
-            "time": "02:07.387",
+            "timestamp": 125.3868,
+            "time": "02:05.387",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24727,8 +24727,8 @@
             "index": 415
         },
         {
-            "timestamp": 128.1141,
-            "time": "02:08.114",
+            "timestamp": 126.1141,
+            "time": "02:06.114",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24785,8 +24785,8 @@
             "index": 416
         },
         {
-            "timestamp": 128.2577,
-            "time": "02:08.258",
+            "timestamp": 126.2577,
+            "time": "02:06.258",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24849,8 +24849,8 @@
             "index": 417
         },
         {
-            "timestamp": 128.3809,
-            "time": "02:08.381",
+            "timestamp": 126.3809,
+            "time": "02:06.381",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24907,8 +24907,8 @@
             "index": 418
         },
         {
-            "timestamp": 128.5019,
-            "time": "02:08.502",
+            "timestamp": 126.5019,
+            "time": "02:06.502",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -24971,8 +24971,8 @@
             "index": 419
         },
         {
-            "timestamp": 128.6319,
-            "time": "02:08.632",
+            "timestamp": 126.6319,
+            "time": "02:06.632",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25029,8 +25029,8 @@
             "index": 420
         },
         {
-            "timestamp": 128.7275,
-            "time": "02:08.727",
+            "timestamp": 126.7275,
+            "time": "02:06.727",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25093,8 +25093,8 @@
             "index": 421
         },
         {
-            "timestamp": 128.8227,
-            "time": "02:08.823",
+            "timestamp": 126.8227,
+            "time": "02:06.823",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25151,8 +25151,8 @@
             "index": 422
         },
         {
-            "timestamp": 128.9431,
-            "time": "02:08.943",
+            "timestamp": 126.9431,
+            "time": "02:06.943",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25215,8 +25215,8 @@
             "index": 423
         },
         {
-            "timestamp": 129.0762,
-            "time": "02:09.076",
+            "timestamp": 127.0762,
+            "time": "02:07.076",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25273,8 +25273,8 @@
             "index": 424
         },
         {
-            "timestamp": 129.1999,
-            "time": "02:09.200",
+            "timestamp": 127.1999,
+            "time": "02:07.200",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25337,8 +25337,8 @@
             "index": 425
         },
         {
-            "timestamp": 129.3346,
-            "time": "02:09.335",
+            "timestamp": 127.3346,
+            "time": "02:07.335",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25395,8 +25395,8 @@
             "index": 426
         },
         {
-            "timestamp": 129.4691,
-            "time": "02:09.469",
+            "timestamp": 127.4691,
+            "time": "02:07.469",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25459,8 +25459,8 @@
             "index": 427
         },
         {
-            "timestamp": 130.2905,
-            "time": "02:10.291",
+            "timestamp": 128.2905,
+            "time": "02:08.291",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25514,8 +25514,8 @@
             "index": 428
         },
         {
-            "timestamp": 130.435,
-            "time": "02:10.435",
+            "timestamp": 128.435,
+            "time": "02:08.435",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25569,8 +25569,8 @@
             "index": 429
         },
         {
-            "timestamp": 131.8446,
-            "time": "02:11.845",
+            "timestamp": 129.8446,
+            "time": "02:09.845",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25624,8 +25624,8 @@
             "index": 430
         },
         {
-            "timestamp": 134.1153,
-            "time": "02:14.115",
+            "timestamp": 132.1153,
+            "time": "02:12.115",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25679,8 +25679,8 @@
             "index": 431
         },
         {
-            "timestamp": 134.2524,
-            "time": "02:14.252",
+            "timestamp": 132.2524,
+            "time": "02:12.252",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25734,8 +25734,8 @@
             "index": 432
         },
         {
-            "timestamp": 134.39,
-            "time": "02:14.390",
+            "timestamp": 132.39,
+            "time": "02:12.390",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25789,8 +25789,8 @@
             "index": 433
         },
         {
-            "timestamp": 134.5013,
-            "time": "02:14.501",
+            "timestamp": 132.5013,
+            "time": "02:12.501",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25844,8 +25844,8 @@
             "index": 434
         },
         {
-            "timestamp": 134.6483,
-            "time": "02:14.648",
+            "timestamp": 132.6483,
+            "time": "02:12.648",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25899,8 +25899,8 @@
             "index": 435
         },
         {
-            "timestamp": 134.7477,
-            "time": "02:14.748",
+            "timestamp": 132.7477,
+            "time": "02:12.748",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -25954,8 +25954,8 @@
             "index": 436
         },
         {
-            "timestamp": 134.9161,
-            "time": "02:14.916",
+            "timestamp": 132.9161,
+            "time": "02:12.916",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26009,8 +26009,8 @@
             "index": 437
         },
         {
-            "timestamp": 135.0255,
-            "time": "02:15.025",
+            "timestamp": 133.0255,
+            "time": "02:13.025",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26064,8 +26064,8 @@
             "index": 438
         },
         {
-            "timestamp": 135.1661,
-            "time": "02:15.166",
+            "timestamp": 133.1661,
+            "time": "02:13.166",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26119,8 +26119,8 @@
             "index": 439
         },
         {
-            "timestamp": 135.3078,
-            "time": "02:15.308",
+            "timestamp": 133.3078,
+            "time": "02:13.308",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26174,8 +26174,8 @@
             "index": 440
         },
         {
-            "timestamp": 135.4245,
-            "time": "02:15.424",
+            "timestamp": 133.4245,
+            "time": "02:13.424",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26229,8 +26229,8 @@
             "index": 441
         },
         {
-            "timestamp": 135.5432,
-            "time": "02:15.543",
+            "timestamp": 133.5432,
+            "time": "02:13.543",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26284,8 +26284,8 @@
             "index": 442
         },
         {
-            "timestamp": 135.8625,
-            "time": "02:15.863",
+            "timestamp": 133.8625,
+            "time": "02:13.863",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26339,8 +26339,8 @@
             "index": 443
         },
         {
-            "timestamp": 135.9953,
-            "time": "02:15.995",
+            "timestamp": 133.9953,
+            "time": "02:13.995",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26394,8 +26394,8 @@
             "index": 444
         },
         {
-            "timestamp": 136.3783,
-            "time": "02:16.378",
+            "timestamp": 134.3783,
+            "time": "02:14.378",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26449,8 +26449,8 @@
             "index": 445
         },
         {
-            "timestamp": 136.5125,
-            "time": "02:16.512",
+            "timestamp": 134.5125,
+            "time": "02:14.512",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26504,8 +26504,8 @@
             "index": 446
         },
         {
-            "timestamp": 136.7656,
-            "time": "02:16.766",
+            "timestamp": 134.7656,
+            "time": "02:14.766",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26559,8 +26559,8 @@
             "index": 447
         },
         {
-            "timestamp": 136.8862,
-            "time": "02:16.886",
+            "timestamp": 134.8862,
+            "time": "02:14.886",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26614,8 +26614,8 @@
             "index": 448
         },
         {
-            "timestamp": 137.0374,
-            "time": "02:17.037",
+            "timestamp": 135.0374,
+            "time": "02:15.037",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26669,8 +26669,8 @@
             "index": 449
         },
         {
-            "timestamp": 137.169,
-            "time": "02:17.169",
+            "timestamp": 135.169,
+            "time": "02:15.169",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26724,8 +26724,8 @@
             "index": 450
         },
         {
-            "timestamp": 137.2871,
-            "time": "02:17.287",
+            "timestamp": 135.2871,
+            "time": "02:15.287",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26779,8 +26779,8 @@
             "index": 451
         },
         {
-            "timestamp": 137.4039,
-            "time": "02:17.404",
+            "timestamp": 135.4039,
+            "time": "02:15.404",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26834,8 +26834,8 @@
             "index": 452
         },
         {
-            "timestamp": 137.5645,
-            "time": "02:17.565",
+            "timestamp": 135.5645,
+            "time": "02:15.565",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26889,8 +26889,8 @@
             "index": 453
         },
         {
-            "timestamp": 137.6456,
-            "time": "02:17.646",
+            "timestamp": 135.6456,
+            "time": "02:15.646",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26944,8 +26944,8 @@
             "index": 454
         },
         {
-            "timestamp": 137.8619,
-            "time": "02:17.862",
+            "timestamp": 135.8619,
+            "time": "02:15.862",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -26999,8 +26999,8 @@
             "index": 455
         },
         {
-            "timestamp": 137.9881,
-            "time": "02:17.988",
+            "timestamp": 135.9881,
+            "time": "02:15.988",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27054,8 +27054,8 @@
             "index": 456
         },
         {
-            "timestamp": 138.1167,
-            "time": "02:18.117",
+            "timestamp": 136.1167,
+            "time": "02:16.117",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27109,8 +27109,8 @@
             "index": 457
         },
         {
-            "timestamp": 138.2342,
-            "time": "02:18.234",
+            "timestamp": 136.2342,
+            "time": "02:16.234",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27164,8 +27164,8 @@
             "index": 458
         },
         {
-            "timestamp": 138.3699,
-            "time": "02:18.370",
+            "timestamp": 136.3699,
+            "time": "02:16.370",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27219,8 +27219,8 @@
             "index": 459
         },
         {
-            "timestamp": 138.482,
-            "time": "02:18.482",
+            "timestamp": 136.482,
+            "time": "02:16.482",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27274,8 +27274,8 @@
             "index": 460
         },
         {
-            "timestamp": 138.6339,
-            "time": "02:18.634",
+            "timestamp": 136.6339,
+            "time": "02:16.634",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27329,8 +27329,8 @@
             "index": 461
         },
         {
-            "timestamp": 138.7536,
-            "time": "02:18.754",
+            "timestamp": 136.7536,
+            "time": "02:16.754",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27384,8 +27384,8 @@
             "index": 462
         },
         {
-            "timestamp": 138.9088,
-            "time": "02:18.909",
+            "timestamp": 136.9088,
+            "time": "02:16.909",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27439,8 +27439,8 @@
             "index": 463
         },
         {
-            "timestamp": 139.0403,
-            "time": "02:19.040",
+            "timestamp": 137.0403,
+            "time": "02:17.040",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27494,8 +27494,8 @@
             "index": 464
         },
         {
-            "timestamp": 144.3237,
-            "time": "02:24.324",
+            "timestamp": 142.3237,
+            "time": "02:22.324",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27549,8 +27549,8 @@
             "index": 465
         },
         {
-            "timestamp": 148.0628,
-            "time": "02:28.063",
+            "timestamp": 146.0628,
+            "time": "02:26.063",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27604,8 +27604,8 @@
             "index": 466
         },
         {
-            "timestamp": 149.0267,
-            "time": "02:29.027",
+            "timestamp": 147.0267,
+            "time": "02:27.027",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27659,8 +27659,8 @@
             "index": 467
         },
         {
-            "timestamp": 150.6169,
-            "time": "02:30.617",
+            "timestamp": 148.6169,
+            "time": "02:28.617",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27717,8 +27717,8 @@
             "index": 468
         },
         {
-            "timestamp": 150.7931,
-            "time": "02:30.793",
+            "timestamp": 148.7931,
+            "time": "02:28.793",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27775,8 +27775,8 @@
             "index": 469
         },
         {
-            "timestamp": 150.8901,
-            "time": "02:30.890",
+            "timestamp": 148.8901,
+            "time": "02:28.890",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27839,8 +27839,8 @@
             "index": 470
         },
         {
-            "timestamp": 150.9826,
-            "time": "02:30.983",
+            "timestamp": 148.9826,
+            "time": "02:28.983",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27897,8 +27897,8 @@
             "index": 471
         },
         {
-            "timestamp": 151.115,
-            "time": "02:31.115",
+            "timestamp": 149.115,
+            "time": "02:29.115",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -27961,8 +27961,8 @@
             "index": 472
         },
         {
-            "timestamp": 151.2371,
-            "time": "02:31.237",
+            "timestamp": 149.2371,
+            "time": "02:29.237",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28019,8 +28019,8 @@
             "index": 473
         },
         {
-            "timestamp": 151.3358,
-            "time": "02:31.336",
+            "timestamp": 149.3358,
+            "time": "02:29.336",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28083,8 +28083,8 @@
             "index": 474
         },
         {
-            "timestamp": 151.4547,
-            "time": "02:31.455",
+            "timestamp": 149.4547,
+            "time": "02:29.455",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28141,8 +28141,8 @@
             "index": 475
         },
         {
-            "timestamp": 151.5766,
-            "time": "02:31.577",
+            "timestamp": 149.5766,
+            "time": "02:29.577",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28205,8 +28205,8 @@
             "index": 476
         },
         {
-            "timestamp": 151.6906,
-            "time": "02:31.691",
+            "timestamp": 149.6906,
+            "time": "02:29.691",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28263,8 +28263,8 @@
             "index": 477
         },
         {
-            "timestamp": 151.8173,
-            "time": "02:31.817",
+            "timestamp": 149.8173,
+            "time": "02:29.817",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28327,8 +28327,8 @@
             "index": 478
         },
         {
-            "timestamp": 151.9305,
-            "time": "02:31.930",
+            "timestamp": 149.9305,
+            "time": "02:29.930",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28385,8 +28385,8 @@
             "index": 479
         },
         {
-            "timestamp": 152.0498,
-            "time": "02:32.050",
+            "timestamp": 150.0498,
+            "time": "02:30.050",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28449,8 +28449,8 @@
             "index": 480
         },
         {
-            "timestamp": 152.1784,
-            "time": "02:32.178",
+            "timestamp": 150.1784,
+            "time": "02:30.178",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28507,8 +28507,8 @@
             "index": 481
         },
         {
-            "timestamp": 152.2598,
-            "time": "02:32.260",
+            "timestamp": 150.2598,
+            "time": "02:30.260",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28571,8 +28571,8 @@
             "index": 482
         },
         {
-            "timestamp": 152.3674,
-            "time": "02:32.367",
+            "timestamp": 150.3674,
+            "time": "02:30.367",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28629,8 +28629,8 @@
             "index": 483
         },
         {
-            "timestamp": 152.4921,
-            "time": "02:32.492",
+            "timestamp": 150.4921,
+            "time": "02:30.492",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28693,8 +28693,8 @@
             "index": 484
         },
         {
-            "timestamp": 152.6157,
-            "time": "02:32.616",
+            "timestamp": 150.6157,
+            "time": "02:30.616",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28751,8 +28751,8 @@
             "index": 485
         },
         {
-            "timestamp": 152.7206,
-            "time": "02:32.721",
+            "timestamp": 150.7206,
+            "time": "02:30.721",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28815,8 +28815,8 @@
             "index": 486
         },
         {
-            "timestamp": 152.8635,
-            "time": "02:32.863",
+            "timestamp": 150.8635,
+            "time": "02:30.863",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28873,8 +28873,8 @@
             "index": 487
         },
         {
-            "timestamp": 152.969,
-            "time": "02:32.969",
+            "timestamp": 150.969,
+            "time": "02:30.969",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28937,8 +28937,8 @@
             "index": 488
         },
         {
-            "timestamp": 153.1855,
-            "time": "02:33.185",
+            "timestamp": 151.1855,
+            "time": "02:31.185",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -28992,8 +28992,8 @@
             "index": 489
         },
         {
-            "timestamp": 153.314,
-            "time": "02:33.314",
+            "timestamp": 151.314,
+            "time": "02:31.314",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29047,8 +29047,8 @@
             "index": 490
         },
         {
-            "timestamp": 153.4512,
-            "time": "02:33.451",
+            "timestamp": 151.4512,
+            "time": "02:31.451",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29102,8 +29102,8 @@
             "index": 491
         },
         {
-            "timestamp": 153.5635,
-            "time": "02:33.564",
+            "timestamp": 151.5635,
+            "time": "02:31.564",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29157,8 +29157,8 @@
             "index": 492
         },
         {
-            "timestamp": 153.9693,
-            "time": "02:33.969",
+            "timestamp": 151.9693,
+            "time": "02:31.969",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29212,8 +29212,8 @@
             "index": 493
         },
         {
-            "timestamp": 154.1171,
-            "time": "02:34.117",
+            "timestamp": 152.1171,
+            "time": "02:32.117",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29267,8 +29267,8 @@
             "index": 494
         },
         {
-            "timestamp": 155.8147,
-            "time": "02:35.815",
+            "timestamp": 153.8147,
+            "time": "02:33.815",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29322,8 +29322,8 @@
             "index": 495
         },
         {
-            "timestamp": 155.961,
-            "time": "02:35.961",
+            "timestamp": 153.961,
+            "time": "02:33.961",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29377,8 +29377,8 @@
             "index": 496
         },
         {
-            "timestamp": 156.9544,
-            "time": "02:36.954",
+            "timestamp": 154.9544,
+            "time": "02:34.954",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29432,8 +29432,8 @@
             "index": 497
         },
         {
-            "timestamp": 158.6107,
-            "time": "02:38.611",
+            "timestamp": 156.6107,
+            "time": "02:36.611",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29487,8 +29487,8 @@
             "index": 498
         },
         {
-            "timestamp": 163.9626,
-            "time": "02:43.963",
+            "timestamp": 161.9626,
+            "time": "02:41.963",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29542,8 +29542,8 @@
             "index": 499
         },
         {
-            "timestamp": 165.1545,
-            "time": "02:45.155",
+            "timestamp": 163.1545,
+            "time": "02:43.155",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29600,8 +29600,8 @@
             "index": 500
         },
         {
-            "timestamp": 165.3269,
-            "time": "02:45.327",
+            "timestamp": 163.3269,
+            "time": "02:43.327",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29658,8 +29658,8 @@
             "index": 501
         },
         {
-            "timestamp": 165.4161,
-            "time": "02:45.416",
+            "timestamp": 163.4161,
+            "time": "02:43.416",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29722,8 +29722,8 @@
             "index": 502
         },
         {
-            "timestamp": 165.5213,
-            "time": "02:45.521",
+            "timestamp": 163.5213,
+            "time": "02:43.521",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29780,8 +29780,8 @@
             "index": 503
         },
         {
-            "timestamp": 165.6458,
-            "time": "02:45.646",
+            "timestamp": 163.6458,
+            "time": "02:43.646",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29844,8 +29844,8 @@
             "index": 504
         },
         {
-            "timestamp": 168.4405,
-            "time": "02:48.440",
+            "timestamp": 166.4405,
+            "time": "02:46.440",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29902,8 +29902,8 @@
             "index": 505
         },
         {
-            "timestamp": 168.6152,
-            "time": "02:48.615",
+            "timestamp": 166.6152,
+            "time": "02:46.615",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -29960,8 +29960,8 @@
             "index": 506
         },
         {
-            "timestamp": 168.7225,
-            "time": "02:48.722",
+            "timestamp": 166.7225,
+            "time": "02:46.722",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30024,8 +30024,8 @@
             "index": 507
         },
         {
-            "timestamp": 168.86,
-            "time": "02:48.860",
+            "timestamp": 166.86,
+            "time": "02:46.860",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30082,8 +30082,8 @@
             "index": 508
         },
         {
-            "timestamp": 169.0067,
-            "time": "02:49.007",
+            "timestamp": 167.0067,
+            "time": "02:47.007",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30146,8 +30146,8 @@
             "index": 509
         },
         {
-            "timestamp": 169.8582,
-            "time": "02:49.858",
+            "timestamp": 167.8582,
+            "time": "02:47.858",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30201,8 +30201,8 @@
             "index": 510
         },
         {
-            "timestamp": 170.0161,
-            "time": "02:50.016",
+            "timestamp": 168.0161,
+            "time": "02:48.016",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30256,8 +30256,8 @@
             "index": 511
         },
         {
-            "timestamp": 170.1359,
-            "time": "02:50.136",
+            "timestamp": 168.1359,
+            "time": "02:48.136",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30311,8 +30311,8 @@
             "index": 512
         },
         {
-            "timestamp": 170.2636,
-            "time": "02:50.264",
+            "timestamp": 168.2636,
+            "time": "02:48.264",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30366,8 +30366,8 @@
             "index": 513
         },
         {
-            "timestamp": 170.4063,
-            "time": "02:50.406",
+            "timestamp": 168.4063,
+            "time": "02:48.406",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30421,8 +30421,8 @@
             "index": 514
         },
         {
-            "timestamp": 170.5383,
-            "time": "02:50.538",
+            "timestamp": 168.5383,
+            "time": "02:48.538",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30476,8 +30476,8 @@
             "index": 515
         },
         {
-            "timestamp": 171.6008,
-            "time": "02:51.601",
+            "timestamp": 169.6008,
+            "time": "02:49.601",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30531,8 +30531,8 @@
             "index": 516
         },
         {
-            "timestamp": 171.7451,
-            "time": "02:51.745",
+            "timestamp": 169.7451,
+            "time": "02:49.745",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30586,8 +30586,8 @@
             "index": 517
         },
         {
-            "timestamp": 172.7266,
-            "time": "02:52.727",
+            "timestamp": 170.7266,
+            "time": "02:50.727",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30641,8 +30641,8 @@
             "index": 518
         },
         {
-            "timestamp": 172.8598,
-            "time": "02:52.860",
+            "timestamp": 170.8598,
+            "time": "02:50.860",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30696,8 +30696,8 @@
             "index": 519
         },
         {
-            "timestamp": 174.2452,
-            "time": "02:54.245",
+            "timestamp": 172.2452,
+            "time": "02:52.245",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [
@@ -30751,8 +30751,8 @@
             "index": 520
         },
         {
-            "timestamp": 174.3713,
-            "time": "02:54.371",
+            "timestamp": 172.3713,
+            "time": "02:52.371",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Calculator",
             "cursor_position": [

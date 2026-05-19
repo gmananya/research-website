@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756902936.7033796,
+            "started_at": 1756902938.7033796,
             "ended_at": 1756903041.8283763,
             "started_time": "00:00.000",
-            "ended_time": "01:29.963",
+            "ended_time": "01:27.963",
             "duration": 105.12
         },
         "statistics": {
@@ -66,7 +66,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -124,8 +124,8 @@
             "index": 0
         },
         {
-            "timestamp": 2.6103,
-            "time": "00:02.610",
+            "timestamp": 0.6103,
+            "time": "00:00.610",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -182,8 +182,8 @@
             "index": 1
         },
         {
-            "timestamp": 2.7415,
-            "time": "00:02.741",
+            "timestamp": 0.7415,
+            "time": "00:00.741",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -240,8 +240,8 @@
             "index": 2
         },
         {
-            "timestamp": 3.1157,
-            "time": "00:03.116",
+            "timestamp": 1.1157,
+            "time": "00:01.116",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -304,8 +304,8 @@
             "index": 3
         },
         {
-            "timestamp": 4.9108,
-            "time": "00:04.911",
+            "timestamp": 2.9108,
+            "time": "00:02.911",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -359,8 +359,8 @@
             "index": 4
         },
         {
-            "timestamp": 5.4863,
-            "time": "00:05.486",
+            "timestamp": 3.4863,
+            "time": "00:03.486",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -414,8 +414,8 @@
             "index": 5
         },
         {
-            "timestamp": 7.7567,
-            "time": "00:07.757",
+            "timestamp": 5.7567,
+            "time": "00:05.757",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -469,8 +469,8 @@
             "index": 6
         },
         {
-            "timestamp": 9.9393,
-            "time": "00:09.939",
+            "timestamp": 7.9393,
+            "time": "00:07.939",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -524,8 +524,8 @@
             "index": 7
         },
         {
-            "timestamp": 11.501,
-            "time": "00:11.501",
+            "timestamp": 9.501,
+            "time": "00:09.501",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -579,8 +579,8 @@
             "index": 8
         },
         {
-            "timestamp": 12.8576,
-            "time": "00:12.858",
+            "timestamp": 10.8576,
+            "time": "00:10.858",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -634,8 +634,8 @@
             "index": 9
         },
         {
-            "timestamp": 12.9708,
-            "time": "00:12.971",
+            "timestamp": 10.9708,
+            "time": "00:10.971",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -689,8 +689,8 @@
             "index": 10
         },
         {
-            "timestamp": 14.1283,
-            "time": "00:14.128",
+            "timestamp": 12.1283,
+            "time": "00:12.128",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -744,8 +744,8 @@
             "index": 11
         },
         {
-            "timestamp": 14.2309,
-            "time": "00:14.231",
+            "timestamp": 12.2309,
+            "time": "00:12.231",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -799,8 +799,8 @@
             "index": 12
         },
         {
-            "timestamp": 14.3511,
-            "time": "00:14.351",
+            "timestamp": 12.3511,
+            "time": "00:12.351",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -854,8 +854,8 @@
             "index": 13
         },
         {
-            "timestamp": 14.4851,
-            "time": "00:14.485",
+            "timestamp": 12.4851,
+            "time": "00:12.485",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -909,8 +909,8 @@
             "index": 14
         },
         {
-            "timestamp": 14.5781,
-            "time": "00:14.578",
+            "timestamp": 12.5781,
+            "time": "00:12.578",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -964,8 +964,8 @@
             "index": 15
         },
         {
-            "timestamp": 14.6958,
-            "time": "00:14.696",
+            "timestamp": 12.6958,
+            "time": "00:12.696",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1019,8 +1019,8 @@
             "index": 16
         },
         {
-            "timestamp": 14.8039,
-            "time": "00:14.804",
+            "timestamp": 12.8039,
+            "time": "00:12.804",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1074,8 +1074,8 @@
             "index": 17
         },
         {
-            "timestamp": 14.8765,
-            "time": "00:14.877",
+            "timestamp": 12.8765,
+            "time": "00:12.877",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1129,8 +1129,8 @@
             "index": 18
         },
         {
-            "timestamp": 14.9618,
-            "time": "00:14.962",
+            "timestamp": 12.9618,
+            "time": "00:12.962",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1184,8 +1184,8 @@
             "index": 19
         },
         {
-            "timestamp": 15.0502,
-            "time": "00:15.050",
+            "timestamp": 13.0502,
+            "time": "00:13.050",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1239,8 +1239,8 @@
             "index": 20
         },
         {
-            "timestamp": 16.2818,
-            "time": "00:16.282",
+            "timestamp": 14.2818,
+            "time": "00:14.282",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1294,8 +1294,8 @@
             "index": 21
         },
         {
-            "timestamp": 16.41,
-            "time": "00:16.410",
+            "timestamp": 14.41,
+            "time": "00:14.410",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1349,8 +1349,8 @@
             "index": 22
         },
         {
-            "timestamp": 17.2355,
-            "time": "00:17.235",
+            "timestamp": 15.2355,
+            "time": "00:15.235",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1404,8 +1404,8 @@
             "index": 23
         },
         {
-            "timestamp": 17.3358,
-            "time": "00:17.336",
+            "timestamp": 15.3358,
+            "time": "00:15.336",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1459,8 +1459,8 @@
             "index": 24
         },
         {
-            "timestamp": 18.222,
-            "time": "00:18.222",
+            "timestamp": 16.222,
+            "time": "00:16.222",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1514,8 +1514,8 @@
             "index": 25
         },
         {
-            "timestamp": 19.4371,
-            "time": "00:19.437",
+            "timestamp": 17.4371,
+            "time": "00:17.437",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1569,8 +1569,8 @@
             "index": 26
         },
         {
-            "timestamp": 19.5525,
-            "time": "00:19.552",
+            "timestamp": 17.5525,
+            "time": "00:17.552",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1624,8 +1624,8 @@
             "index": 27
         },
         {
-            "timestamp": 20.7197,
-            "time": "00:20.720",
+            "timestamp": 18.7197,
+            "time": "00:18.720",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1679,8 +1679,8 @@
             "index": 28
         },
         {
-            "timestamp": 20.8448,
-            "time": "00:20.845",
+            "timestamp": 18.8448,
+            "time": "00:18.845",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1734,8 +1734,8 @@
             "index": 29
         },
         {
-            "timestamp": 21.0682,
-            "time": "00:21.068",
+            "timestamp": 19.0682,
+            "time": "00:19.068",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1789,8 +1789,8 @@
             "index": 30
         },
         {
-            "timestamp": 21.1448,
-            "time": "00:21.145",
+            "timestamp": 19.1448,
+            "time": "00:19.145",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1844,8 +1844,8 @@
             "index": 31
         },
         {
-            "timestamp": 21.9315,
-            "time": "00:21.931",
+            "timestamp": 19.9315,
+            "time": "00:19.931",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1899,8 +1899,8 @@
             "index": 32
         },
         {
-            "timestamp": 22.0476,
-            "time": "00:22.048",
+            "timestamp": 20.0476,
+            "time": "00:20.048",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -1954,8 +1954,8 @@
             "index": 33
         },
         {
-            "timestamp": 22.9346,
-            "time": "00:22.935",
+            "timestamp": 20.9346,
+            "time": "00:20.935",
             "application": "explorer.exe",
             "window_title": "Task 59 - File Explorer",
             "focused_element": {
@@ -2009,8 +2009,8 @@
             "index": 34
         },
         {
-            "timestamp": 28.8311,
-            "time": "00:28.831",
+            "timestamp": 26.8311,
+            "time": "00:26.831",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59  -  Protected View - Excel",
             "focused_element": {
@@ -2064,8 +2064,8 @@
             "index": 35
         },
         {
-            "timestamp": 30.0145,
-            "time": "00:30.015",
+            "timestamp": 28.0145,
+            "time": "00:28.015",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59  -  Protected View - Excel",
             "focused_element": {
@@ -2119,8 +2119,8 @@
             "index": 36
         },
         {
-            "timestamp": 30.1962,
-            "time": "00:30.196",
+            "timestamp": 28.1962,
+            "time": "00:28.196",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2177,8 +2177,8 @@
             "index": 37
         },
         {
-            "timestamp": 30.6056,
-            "time": "00:30.606",
+            "timestamp": 28.6056,
+            "time": "00:28.606",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2235,8 +2235,8 @@
             "index": 38
         },
         {
-            "timestamp": 30.6926,
-            "time": "00:30.693",
+            "timestamp": 28.6926,
+            "time": "00:28.693",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2299,8 +2299,8 @@
             "index": 39
         },
         {
-            "timestamp": 30.8143,
-            "time": "00:30.814",
+            "timestamp": 28.8143,
+            "time": "00:28.814",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2354,8 +2354,8 @@
             "index": 40
         },
         {
-            "timestamp": 30.9168,
-            "time": "00:30.917",
+            "timestamp": 28.9168,
+            "time": "00:28.917",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2409,8 +2409,8 @@
             "index": 41
         },
         {
-            "timestamp": 31.9637,
-            "time": "00:31.964",
+            "timestamp": 29.9637,
+            "time": "00:29.964",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -2464,8 +2464,8 @@
             "index": 42
         },
         {
-            "timestamp": 32.1223,
-            "time": "00:32.122",
+            "timestamp": 30.1223,
+            "time": "00:30.122",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59  -  Protected View - Excel",
             "focused_element": {
@@ -2519,8 +2519,8 @@
             "index": 43
         },
         {
-            "timestamp": 36.2452,
-            "time": "00:36.245",
+            "timestamp": 34.2452,
+            "time": "00:34.245",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59 - Excel",
             "focused_element": {
@@ -2574,8 +2574,8 @@
             "index": 44
         },
         {
-            "timestamp": 42.2262,
-            "time": "00:42.226",
+            "timestamp": 40.2262,
+            "time": "00:40.226",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2632,8 +2632,8 @@
             "index": 45
         },
         {
-            "timestamp": 43.1305,
-            "time": "00:43.130",
+            "timestamp": 41.1305,
+            "time": "00:41.130",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2690,8 +2690,8 @@
             "index": 46
         },
         {
-            "timestamp": 43.2163,
-            "time": "00:43.216",
+            "timestamp": 41.2163,
+            "time": "00:41.216",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2754,8 +2754,8 @@
             "index": 47
         },
         {
-            "timestamp": 43.2996,
-            "time": "00:43.300",
+            "timestamp": 41.2996,
+            "time": "00:41.300",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2812,8 +2812,8 @@
             "index": 48
         },
         {
-            "timestamp": 43.4129,
-            "time": "00:43.413",
+            "timestamp": 41.4129,
+            "time": "00:41.413",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2876,8 +2876,8 @@
             "index": 49
         },
         {
-            "timestamp": 43.4822,
-            "time": "00:43.482",
+            "timestamp": 41.4822,
+            "time": "00:41.482",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2934,8 +2934,8 @@
             "index": 50
         },
         {
-            "timestamp": 43.5654,
-            "time": "00:43.565",
+            "timestamp": 41.5654,
+            "time": "00:41.565",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -2998,8 +2998,8 @@
             "index": 51
         },
         {
-            "timestamp": 43.6501,
-            "time": "00:43.650",
+            "timestamp": 41.6501,
+            "time": "00:41.650",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3056,8 +3056,8 @@
             "index": 52
         },
         {
-            "timestamp": 43.731,
-            "time": "00:43.731",
+            "timestamp": 41.731,
+            "time": "00:41.731",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3120,8 +3120,8 @@
             "index": 53
         },
         {
-            "timestamp": 44.803,
-            "time": "00:44.803",
+            "timestamp": 42.803,
+            "time": "00:42.803",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3178,8 +3178,8 @@
             "index": 54
         },
         {
-            "timestamp": 44.9195,
-            "time": "00:44.919",
+            "timestamp": 42.9195,
+            "time": "00:42.919",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3242,8 +3242,8 @@
             "index": 55
         },
         {
-            "timestamp": 45.0114,
-            "time": "00:45.011",
+            "timestamp": 43.0114,
+            "time": "00:43.011",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3300,8 +3300,8 @@
             "index": 56
         },
         {
-            "timestamp": 45.095,
-            "time": "00:45.095",
+            "timestamp": 43.095,
+            "time": "00:43.095",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3364,8 +3364,8 @@
             "index": 57
         },
         {
-            "timestamp": 46.3538,
-            "time": "00:46.354",
+            "timestamp": 44.3538,
+            "time": "00:44.354",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3419,8 +3419,8 @@
             "index": 58
         },
         {
-            "timestamp": 47.8224,
-            "time": "00:47.822",
+            "timestamp": 45.8224,
+            "time": "00:45.822",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3474,8 +3474,8 @@
             "index": 59
         },
         {
-            "timestamp": 48.071,
-            "time": "00:48.071",
+            "timestamp": 46.071,
+            "time": "00:46.071",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3529,8 +3529,8 @@
             "index": 60
         },
         {
-            "timestamp": 48.8021,
-            "time": "00:48.802",
+            "timestamp": 46.8021,
+            "time": "00:46.802",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3584,8 +3584,8 @@
             "index": 61
         },
         {
-            "timestamp": 48.8972,
-            "time": "00:48.897",
+            "timestamp": 46.8972,
+            "time": "00:46.897",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3639,8 +3639,8 @@
             "index": 62
         },
         {
-            "timestamp": 49.9069,
-            "time": "00:49.907",
+            "timestamp": 47.9069,
+            "time": "00:47.907",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3694,8 +3694,8 @@
             "index": 63
         },
         {
-            "timestamp": 50.0124,
-            "time": "00:50.012",
+            "timestamp": 48.0124,
+            "time": "00:48.012",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3749,8 +3749,8 @@
             "index": 64
         },
         {
-            "timestamp": 51.3802,
-            "time": "00:51.380",
+            "timestamp": 49.3802,
+            "time": "00:49.380",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3807,8 +3807,8 @@
             "index": 65
         },
         {
-            "timestamp": 51.5656,
-            "time": "00:51.566",
+            "timestamp": 49.5656,
+            "time": "00:49.566",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3865,8 +3865,8 @@
             "index": 66
         },
         {
-            "timestamp": 51.6527,
-            "time": "00:51.653",
+            "timestamp": 49.6527,
+            "time": "00:49.653",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3929,8 +3929,8 @@
             "index": 67
         },
         {
-            "timestamp": 51.7436,
-            "time": "00:51.744",
+            "timestamp": 49.7436,
+            "time": "00:49.744",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -3987,8 +3987,8 @@
             "index": 68
         },
         {
-            "timestamp": 51.8134,
-            "time": "00:51.813",
+            "timestamp": 49.8134,
+            "time": "00:49.813",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4051,8 +4051,8 @@
             "index": 69
         },
         {
-            "timestamp": 53.771,
-            "time": "00:53.771",
+            "timestamp": 51.771,
+            "time": "00:51.771",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4106,8 +4106,8 @@
             "index": 70
         },
         {
-            "timestamp": 53.8658,
-            "time": "00:53.866",
+            "timestamp": 51.8658,
+            "time": "00:51.866",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4161,8 +4161,8 @@
             "index": 71
         },
         {
-            "timestamp": 54.2838,
-            "time": "00:54.284",
+            "timestamp": 52.2838,
+            "time": "00:52.284",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4216,8 +4216,8 @@
             "index": 72
         },
         {
-            "timestamp": 54.3541,
-            "time": "00:54.354",
+            "timestamp": 52.3541,
+            "time": "00:52.354",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4271,8 +4271,8 @@
             "index": 73
         },
         {
-            "timestamp": 56.6616,
-            "time": "00:56.662",
+            "timestamp": 54.6616,
+            "time": "00:54.662",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4326,8 +4326,8 @@
             "index": 74
         },
         {
-            "timestamp": 58.399,
-            "time": "00:58.399",
+            "timestamp": 56.399,
+            "time": "00:56.399",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4381,8 +4381,8 @@
             "index": 75
         },
         {
-            "timestamp": 58.537,
-            "time": "00:58.537",
+            "timestamp": 56.537,
+            "time": "00:56.537",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4436,8 +4436,8 @@
             "index": 76
         },
         {
-            "timestamp": 60.0581,
-            "time": "01:00.058",
+            "timestamp": 58.0581,
+            "time": "00:58.058",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4491,8 +4491,8 @@
             "index": 77
         },
         {
-            "timestamp": 60.1783,
-            "time": "01:00.178",
+            "timestamp": 58.1783,
+            "time": "00:58.178",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4546,8 +4546,8 @@
             "index": 78
         },
         {
-            "timestamp": 61.4865,
-            "time": "01:01.486",
+            "timestamp": 59.4865,
+            "time": "00:59.486",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4604,8 +4604,8 @@
             "index": 79
         },
         {
-            "timestamp": 61.5983,
-            "time": "01:01.598",
+            "timestamp": 59.5983,
+            "time": "00:59.598",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4663,8 +4663,8 @@
             "index": 80
         },
         {
-            "timestamp": 61.6815,
-            "time": "01:01.681",
+            "timestamp": 59.6815,
+            "time": "00:59.681",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4722,8 +4722,8 @@
             "index": 81
         },
         {
-            "timestamp": 61.7626,
-            "time": "01:01.763",
+            "timestamp": 59.7626,
+            "time": "00:59.763",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4787,8 +4787,8 @@
             "index": 82
         },
         {
-            "timestamp": 61.8452,
-            "time": "01:01.845",
+            "timestamp": 59.8452,
+            "time": "00:59.845",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4846,8 +4846,8 @@
             "index": 83
         },
         {
-            "timestamp": 61.9312,
-            "time": "01:01.931",
+            "timestamp": 59.9312,
+            "time": "00:59.931",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4911,8 +4911,8 @@
             "index": 84
         },
         {
-            "timestamp": 62.0643,
-            "time": "01:02.064",
+            "timestamp": 60.0643,
+            "time": "01:00.064",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -4970,8 +4970,8 @@
             "index": 85
         },
         {
-            "timestamp": 62.1509,
-            "time": "01:02.151",
+            "timestamp": 60.1509,
+            "time": "01:00.151",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5035,8 +5035,8 @@
             "index": 86
         },
         {
-            "timestamp": 62.257,
-            "time": "01:02.257",
+            "timestamp": 60.257,
+            "time": "01:00.257",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5094,8 +5094,8 @@
             "index": 87
         },
         {
-            "timestamp": 62.3485,
-            "time": "01:02.349",
+            "timestamp": 60.3485,
+            "time": "01:00.349",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5159,8 +5159,8 @@
             "index": 88
         },
         {
-            "timestamp": 62.4871,
-            "time": "01:02.487",
+            "timestamp": 60.4871,
+            "time": "01:00.487",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5218,8 +5218,8 @@
             "index": 89
         },
         {
-            "timestamp": 62.6001,
-            "time": "01:02.600",
+            "timestamp": 60.6001,
+            "time": "01:00.600",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5283,8 +5283,8 @@
             "index": 90
         },
         {
-            "timestamp": 62.744,
-            "time": "01:02.744",
+            "timestamp": 60.744,
+            "time": "01:00.744",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5342,8 +5342,8 @@
             "index": 91
         },
         {
-            "timestamp": 62.8347,
-            "time": "01:02.835",
+            "timestamp": 60.8347,
+            "time": "01:00.835",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5407,8 +5407,8 @@
             "index": 92
         },
         {
-            "timestamp": 63.0294,
-            "time": "01:03.029",
+            "timestamp": 61.0294,
+            "time": "01:01.029",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5462,8 +5462,8 @@
             "index": 93
         },
         {
-            "timestamp": 63.2643,
-            "time": "01:03.264",
+            "timestamp": 61.2643,
+            "time": "01:01.264",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5517,8 +5517,8 @@
             "index": 94
         },
         {
-            "timestamp": 63.3729,
-            "time": "01:03.373",
+            "timestamp": 61.3729,
+            "time": "01:01.373",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5572,8 +5572,8 @@
             "index": 95
         },
         {
-            "timestamp": 65.6111,
-            "time": "01:05.611",
+            "timestamp": 63.6111,
+            "time": "01:03.611",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5627,8 +5627,8 @@
             "index": 96
         },
         {
-            "timestamp": 65.7311,
-            "time": "01:05.731",
+            "timestamp": 63.7311,
+            "time": "01:03.731",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5682,8 +5682,8 @@
             "index": 97
         },
         {
-            "timestamp": 66.8614,
-            "time": "01:06.861",
+            "timestamp": 64.8614,
+            "time": "01:04.861",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5737,8 +5737,8 @@
             "index": 98
         },
         {
-            "timestamp": 67.0052,
-            "time": "01:07.005",
+            "timestamp": 65.0052,
+            "time": "01:05.005",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5792,8 +5792,8 @@
             "index": 99
         },
         {
-            "timestamp": 69.2275,
-            "time": "01:09.228",
+            "timestamp": 67.2275,
+            "time": "01:07.228",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5847,8 +5847,8 @@
             "index": 100
         },
         {
-            "timestamp": 69.3164,
-            "time": "01:09.316",
+            "timestamp": 67.3164,
+            "time": "01:07.316",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5902,8 +5902,8 @@
             "index": 101
         },
         {
-            "timestamp": 71.0429,
-            "time": "01:11.043",
+            "timestamp": 69.0429,
+            "time": "01:09.043",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -5957,8 +5957,8 @@
             "index": 102
         },
         {
-            "timestamp": 71.3486,
-            "time": "01:11.349",
+            "timestamp": 69.3486,
+            "time": "01:09.349",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6012,8 +6012,8 @@
             "index": 103
         },
         {
-            "timestamp": 72.6775,
-            "time": "01:12.677",
+            "timestamp": 70.6775,
+            "time": "01:10.677",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6070,8 +6070,8 @@
             "index": 104
         },
         {
-            "timestamp": 72.7932,
-            "time": "01:12.793",
+            "timestamp": 70.7932,
+            "time": "01:10.793",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6128,8 +6128,8 @@
             "index": 105
         },
         {
-            "timestamp": 73.0642,
-            "time": "01:13.064",
+            "timestamp": 71.0642,
+            "time": "01:11.064",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6192,8 +6192,8 @@
             "index": 106
         },
         {
-            "timestamp": 73.2025,
-            "time": "01:13.203",
+            "timestamp": 71.2025,
+            "time": "01:11.203",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6250,8 +6250,8 @@
             "index": 107
         },
         {
-            "timestamp": 73.3008,
-            "time": "01:13.301",
+            "timestamp": 71.3008,
+            "time": "01:11.301",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6314,8 +6314,8 @@
             "index": 108
         },
         {
-            "timestamp": 73.4614,
-            "time": "01:13.461",
+            "timestamp": 71.4614,
+            "time": "01:11.461",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6372,8 +6372,8 @@
             "index": 109
         },
         {
-            "timestamp": 73.5694,
-            "time": "01:13.569",
+            "timestamp": 71.5694,
+            "time": "01:11.569",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6436,8 +6436,8 @@
             "index": 110
         },
         {
-            "timestamp": 73.6504,
-            "time": "01:13.650",
+            "timestamp": 71.6504,
+            "time": "01:11.650",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6494,8 +6494,8 @@
             "index": 111
         },
         {
-            "timestamp": 73.7446,
-            "time": "01:13.745",
+            "timestamp": 71.7446,
+            "time": "01:11.745",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6558,8 +6558,8 @@
             "index": 112
         },
         {
-            "timestamp": 73.9788,
-            "time": "01:13.979",
+            "timestamp": 71.9788,
+            "time": "01:11.979",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6616,8 +6616,8 @@
             "index": 113
         },
         {
-            "timestamp": 74.1056,
-            "time": "01:14.106",
+            "timestamp": 72.1056,
+            "time": "01:12.106",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6680,8 +6680,8 @@
             "index": 114
         },
         {
-            "timestamp": 74.2036,
-            "time": "01:14.204",
+            "timestamp": 72.2036,
+            "time": "01:12.204",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6738,8 +6738,8 @@
             "index": 115
         },
         {
-            "timestamp": 74.2964,
-            "time": "01:14.296",
+            "timestamp": 72.2964,
+            "time": "01:12.296",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6802,8 +6802,8 @@
             "index": 116
         },
         {
-            "timestamp": 74.385,
-            "time": "01:14.385",
+            "timestamp": 72.385,
+            "time": "01:12.385",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6860,8 +6860,8 @@
             "index": 117
         },
         {
-            "timestamp": 74.476,
-            "time": "01:14.476",
+            "timestamp": 72.476,
+            "time": "01:12.476",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6924,8 +6924,8 @@
             "index": 118
         },
         {
-            "timestamp": 74.5688,
-            "time": "01:14.569",
+            "timestamp": 72.5688,
+            "time": "01:12.569",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -6982,8 +6982,8 @@
             "index": 119
         },
         {
-            "timestamp": 74.6598,
-            "time": "01:14.660",
+            "timestamp": 72.6598,
+            "time": "01:12.660",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -7046,8 +7046,8 @@
             "index": 120
         },
         {
-            "timestamp": 77.5805,
-            "time": "01:17.581",
+            "timestamp": 75.5805,
+            "time": "01:15.581",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -7104,8 +7104,8 @@
             "index": 121
         },
         {
-            "timestamp": 79.2144,
-            "time": "01:19.214",
+            "timestamp": 77.2144,
+            "time": "01:17.214",
             "application": "EXCEL.EXE",
             "window_title": "Save As",
             "focused_element": {
@@ -7162,8 +7162,8 @@
             "index": 122
         },
         {
-            "timestamp": 79.4161,
-            "time": "01:19.416",
+            "timestamp": 77.4161,
+            "time": "01:17.416",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59 - Excel",
             "focused_element": {
@@ -7226,8 +7226,8 @@
             "index": 123
         },
         {
-            "timestamp": 88.4788,
-            "time": "01:28.479",
+            "timestamp": 86.4788,
+            "time": "01:26.479",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59 - Excel",
             "focused_element": {
@@ -7284,8 +7284,8 @@
             "index": 124
         },
         {
-            "timestamp": 88.6678,
-            "time": "01:28.668",
+            "timestamp": 86.6678,
+            "time": "01:26.668",
             "application": "EXCEL.EXE",
             "window_title": "Task ID 59 - Excel",
             "focused_element": {
@@ -7342,8 +7342,8 @@
             "index": 125
         },
         {
-            "timestamp": 88.993,
-            "time": "01:28.993",
+            "timestamp": 86.993,
+            "time": "01:26.993",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -7406,8 +7406,8 @@
             "index": 126
         },
         {
-            "timestamp": 89.9635,
-            "time": "01:29.963",
+            "timestamp": 87.9635,
+            "time": "01:27.963",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {

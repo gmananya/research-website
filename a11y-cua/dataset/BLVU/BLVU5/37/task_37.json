@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756745737.9342456,
+            "started_at": 1756745739.9342456,
             "ended_at": 1756745855.9423013,
             "started_time": "00:00.000",
-            "ended_time": "01:42.812",
+            "ended_time": "01:40.812",
             "duration": 118.01
         },
         "statistics": {
@@ -66,7 +66,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -124,8 +124,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.1152,
-            "time": "00:00.115",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -182,8 +182,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.2478,
-            "time": "00:00.248",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -246,8 +246,8 @@
             "index": 2
         },
         {
-            "timestamp": 1.5828,
-            "time": "00:01.583",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -304,8 +304,8 @@
             "index": 3
         },
         {
-            "timestamp": 1.7372,
-            "time": "00:01.737",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -362,8 +362,8 @@
             "index": 4
         },
         {
-            "timestamp": 1.8038,
-            "time": "00:01.804",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -426,8 +426,8 @@
             "index": 5
         },
         {
-            "timestamp": 1.8732,
-            "time": "00:01.873",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -484,8 +484,8 @@
             "index": 6
         },
         {
-            "timestamp": 1.9444,
-            "time": "00:01.944",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -548,8 +548,8 @@
             "index": 7
         },
         {
-            "timestamp": 2.6898,
-            "time": "00:02.690",
+            "timestamp": 0.6898,
+            "time": "00:00.690",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -603,8 +603,8 @@
             "index": 8
         },
         {
-            "timestamp": 3.052,
-            "time": "00:03.052",
+            "timestamp": 1.052,
+            "time": "00:01.052",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -658,8 +658,8 @@
             "index": 9
         },
         {
-            "timestamp": 5.5055,
-            "time": "00:05.505",
+            "timestamp": 3.5055,
+            "time": "00:03.505",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -713,8 +713,8 @@
             "index": 10
         },
         {
-            "timestamp": 6.744,
-            "time": "00:06.744",
+            "timestamp": 4.744,
+            "time": "00:04.744",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -768,8 +768,8 @@
             "index": 11
         },
         {
-            "timestamp": 6.9195,
-            "time": "00:06.920",
+            "timestamp": 4.9195,
+            "time": "00:04.920",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -823,8 +823,8 @@
             "index": 12
         },
         {
-            "timestamp": 7.0561,
-            "time": "00:07.056",
+            "timestamp": 5.0561,
+            "time": "00:05.056",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -878,8 +878,8 @@
             "index": 13
         },
         {
-            "timestamp": 7.1848,
-            "time": "00:07.185",
+            "timestamp": 5.1848,
+            "time": "00:05.185",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -933,8 +933,8 @@
             "index": 14
         },
         {
-            "timestamp": 7.3231,
-            "time": "00:07.323",
+            "timestamp": 5.3231,
+            "time": "00:05.323",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -988,8 +988,8 @@
             "index": 15
         },
         {
-            "timestamp": 7.488,
-            "time": "00:07.488",
+            "timestamp": 5.488,
+            "time": "00:05.488",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1043,8 +1043,8 @@
             "index": 16
         },
         {
-            "timestamp": 8.9313,
-            "time": "00:08.931",
+            "timestamp": 6.9313,
+            "time": "00:06.931",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1098,8 +1098,8 @@
             "index": 17
         },
         {
-            "timestamp": 12.9532,
-            "time": "00:12.953",
+            "timestamp": 10.9532,
+            "time": "00:10.953",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1153,8 +1153,8 @@
             "index": 18
         },
         {
-            "timestamp": 14.387,
-            "time": "00:14.387",
+            "timestamp": 12.387,
+            "time": "00:12.387",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1208,8 +1208,8 @@
             "index": 19
         },
         {
-            "timestamp": 17.1779,
-            "time": "00:17.178",
+            "timestamp": 15.1779,
+            "time": "00:15.178",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1263,8 +1263,8 @@
             "index": 20
         },
         {
-            "timestamp": 17.536,
-            "time": "00:17.536",
+            "timestamp": 15.536,
+            "time": "00:15.536",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1318,8 +1318,8 @@
             "index": 21
         },
         {
-            "timestamp": 17.7911,
-            "time": "00:17.791",
+            "timestamp": 15.7911,
+            "time": "00:15.791",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1373,8 +1373,8 @@
             "index": 22
         },
         {
-            "timestamp": 19.2689,
-            "time": "00:19.269",
+            "timestamp": 17.2689,
+            "time": "00:17.269",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1428,8 +1428,8 @@
             "index": 23
         },
         {
-            "timestamp": 19.5316,
-            "time": "00:19.532",
+            "timestamp": 17.5316,
+            "time": "00:17.532",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1483,8 +1483,8 @@
             "index": 24
         },
         {
-            "timestamp": 19.7363,
-            "time": "00:19.736",
+            "timestamp": 17.7363,
+            "time": "00:17.736",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1538,8 +1538,8 @@
             "index": 25
         },
         {
-            "timestamp": 22.1238,
-            "time": "00:22.124",
+            "timestamp": 20.1238,
+            "time": "00:20.124",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1593,8 +1593,8 @@
             "index": 26
         },
         {
-            "timestamp": 26.38,
-            "time": "00:26.380",
+            "timestamp": 24.38,
+            "time": "00:24.380",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -1651,8 +1651,8 @@
             "index": 27
         },
         {
-            "timestamp": 27.992,
-            "time": "00:27.992",
+            "timestamp": 25.992,
+            "time": "00:25.992",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1709,8 +1709,8 @@
             "index": 28
         },
         {
-            "timestamp": 28.8545,
-            "time": "00:28.855",
+            "timestamp": 26.8545,
+            "time": "00:26.855",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1773,8 +1773,8 @@
             "index": 29
         },
         {
-            "timestamp": 28.9549,
-            "time": "00:28.955",
+            "timestamp": 26.9549,
+            "time": "00:26.955",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1828,8 +1828,8 @@
             "index": 30
         },
         {
-            "timestamp": 31.3688,
-            "time": "00:31.369",
+            "timestamp": 29.3688,
+            "time": "00:29.369",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -1883,8 +1883,8 @@
             "index": 31
         },
         {
-            "timestamp": 41.2172,
-            "time": "00:41.217",
+            "timestamp": 39.2172,
+            "time": "00:39.217",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -1941,8 +1941,8 @@
             "index": 32
         },
         {
-            "timestamp": 41.7714,
-            "time": "00:41.771",
+            "timestamp": 39.7714,
+            "time": "00:39.771",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -1999,8 +1999,8 @@
             "index": 33
         },
         {
-            "timestamp": 41.9519,
-            "time": "00:41.952",
+            "timestamp": 39.9519,
+            "time": "00:39.952",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -2063,8 +2063,8 @@
             "index": 34
         },
         {
-            "timestamp": 43.9824,
-            "time": "00:43.982",
+            "timestamp": 41.9824,
+            "time": "00:41.982",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -2121,8 +2121,8 @@
             "index": 35
         },
         {
-            "timestamp": 44.4066,
-            "time": "00:44.407",
+            "timestamp": 42.4066,
+            "time": "00:42.407",
             "application": "explorer.exe",
             "window_title": "Task 55 - File Explorer",
             "focused_element": {
@@ -2179,8 +2179,8 @@
             "index": 36
         },
         {
-            "timestamp": 44.5118,
-            "time": "00:44.512",
+            "timestamp": 42.5118,
+            "time": "00:42.512",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -2243,8 +2243,8 @@
             "index": 37
         },
         {
-            "timestamp": 47.1718,
-            "time": "00:47.172",
+            "timestamp": 45.1718,
+            "time": "00:45.172",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -2301,8 +2301,8 @@
             "index": 38
         },
         {
-            "timestamp": 47.2772,
-            "time": "00:47.277",
+            "timestamp": 45.2772,
+            "time": "00:45.277",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -2365,8 +2365,8 @@
             "index": 39
         },
         {
-            "timestamp": 53.2795,
-            "time": "00:53.279",
+            "timestamp": 51.2795,
+            "time": "00:51.279",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2420,8 +2420,8 @@
             "index": 40
         },
         {
-            "timestamp": 54.8901,
-            "time": "00:54.890",
+            "timestamp": 52.8901,
+            "time": "00:52.890",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2475,8 +2475,8 @@
             "index": 41
         },
         {
-            "timestamp": 54.9962,
-            "time": "00:54.996",
+            "timestamp": 52.9962,
+            "time": "00:52.996",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2530,8 +2530,8 @@
             "index": 42
         },
         {
-            "timestamp": 55.8786,
-            "time": "00:55.879",
+            "timestamp": 53.8786,
+            "time": "00:53.879",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2585,8 +2585,8 @@
             "index": 43
         },
         {
-            "timestamp": 55.9557,
-            "time": "00:55.956",
+            "timestamp": 53.9557,
+            "time": "00:53.956",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2640,8 +2640,8 @@
             "index": 44
         },
         {
-            "timestamp": 56.7037,
-            "time": "00:56.704",
+            "timestamp": 54.7037,
+            "time": "00:54.704",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2695,8 +2695,8 @@
             "index": 45
         },
         {
-            "timestamp": 59.0593,
-            "time": "00:59.059",
+            "timestamp": 57.0593,
+            "time": "00:57.059",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2750,8 +2750,8 @@
             "index": 46
         },
         {
-            "timestamp": 59.1838,
-            "time": "00:59.184",
+            "timestamp": 57.1838,
+            "time": "00:57.184",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2805,8 +2805,8 @@
             "index": 47
         },
         {
-            "timestamp": 60.4737,
-            "time": "01:00.474",
+            "timestamp": 58.4737,
+            "time": "00:58.474",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2860,8 +2860,8 @@
             "index": 48
         },
         {
-            "timestamp": 60.9016,
-            "time": "01:00.902",
+            "timestamp": 58.9016,
+            "time": "00:58.902",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2918,8 +2918,8 @@
             "index": 49
         },
         {
-            "timestamp": 60.9873,
-            "time": "01:00.987",
+            "timestamp": 58.9873,
+            "time": "00:58.987",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -2976,8 +2976,8 @@
             "index": 50
         },
         {
-            "timestamp": 61.0595,
-            "time": "01:01.059",
+            "timestamp": 59.0595,
+            "time": "00:59.059",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -3040,8 +3040,8 @@
             "index": 51
         },
         {
-            "timestamp": 61.1662,
-            "time": "01:01.166",
+            "timestamp": 59.1662,
+            "time": "00:59.166",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -3098,8 +3098,8 @@
             "index": 52
         },
         {
-            "timestamp": 61.2469,
-            "time": "01:01.247",
+            "timestamp": 59.2469,
+            "time": "00:59.247",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -3162,8 +3162,8 @@
             "index": 53
         },
         {
-            "timestamp": 62.3933,
-            "time": "01:02.393",
+            "timestamp": 60.3933,
+            "time": "01:00.393",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55  -  Protected View - Word",
             "focused_element": {
@@ -3217,8 +3217,8 @@
             "index": 54
         },
         {
-            "timestamp": 66.6652,
-            "time": "01:06.665",
+            "timestamp": 64.6652,
+            "time": "01:04.665",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3275,8 +3275,8 @@
             "index": 55
         },
         {
-            "timestamp": 67.2988,
-            "time": "01:07.299",
+            "timestamp": 65.2988,
+            "time": "01:05.299",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3333,8 +3333,8 @@
             "index": 56
         },
         {
-            "timestamp": 67.3849,
-            "time": "01:07.385",
+            "timestamp": 65.3849,
+            "time": "01:05.385",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3397,8 +3397,8 @@
             "index": 57
         },
         {
-            "timestamp": 67.4707,
-            "time": "01:07.471",
+            "timestamp": 65.4707,
+            "time": "01:05.471",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3455,8 +3455,8 @@
             "index": 58
         },
         {
-            "timestamp": 67.5508,
-            "time": "01:07.551",
+            "timestamp": 65.5508,
+            "time": "01:05.551",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3519,8 +3519,8 @@
             "index": 59
         },
         {
-            "timestamp": 67.7679,
-            "time": "01:07.768",
+            "timestamp": 65.7679,
+            "time": "01:05.768",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3577,8 +3577,8 @@
             "index": 60
         },
         {
-            "timestamp": 67.878,
-            "time": "01:07.878",
+            "timestamp": 65.878,
+            "time": "01:05.878",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3635,8 +3635,8 @@
             "index": 61
         },
         {
-            "timestamp": 67.973,
-            "time": "01:07.973",
+            "timestamp": 65.973,
+            "time": "01:05.973",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3699,8 +3699,8 @@
             "index": 62
         },
         {
-            "timestamp": 68.8139,
-            "time": "01:08.814",
+            "timestamp": 66.8139,
+            "time": "01:06.814",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3757,8 +3757,8 @@
             "index": 63
         },
         {
-            "timestamp": 69.1271,
-            "time": "01:09.127",
+            "timestamp": 67.1271,
+            "time": "01:07.127",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3815,8 +3815,8 @@
             "index": 64
         },
         {
-            "timestamp": 69.2006,
-            "time": "01:09.201",
+            "timestamp": 67.2006,
+            "time": "01:07.201",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3879,8 +3879,8 @@
             "index": 65
         },
         {
-            "timestamp": 69.9019,
-            "time": "01:09.902",
+            "timestamp": 67.9019,
+            "time": "01:07.902",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3937,8 +3937,8 @@
             "index": 66
         },
         {
-            "timestamp": 70.3118,
-            "time": "01:10.312",
+            "timestamp": 68.3118,
+            "time": "01:08.312",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 55 - Word",
             "focused_element": {
@@ -3995,8 +3995,8 @@
             "index": 67
         },
         {
-            "timestamp": 70.4539,
-            "time": "01:10.454",
+            "timestamp": 68.4539,
+            "time": "01:08.454",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -4059,8 +4059,8 @@
             "index": 68
         },
         {
-            "timestamp": 72.3616,
-            "time": "01:12.362",
+            "timestamp": 70.3616,
+            "time": "01:10.362",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -4117,8 +4117,8 @@
             "index": 69
         },
         {
-            "timestamp": 72.4895,
-            "time": "01:12.490",
+            "timestamp": 70.4895,
+            "time": "01:10.490",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -4181,8 +4181,8 @@
             "index": 70
         },
         {
-            "timestamp": 75.8543,
-            "time": "01:15.854",
+            "timestamp": 73.8543,
+            "time": "01:13.854",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4236,8 +4236,8 @@
             "index": 71
         },
         {
-            "timestamp": 77.8472,
-            "time": "01:17.847",
+            "timestamp": 75.8472,
+            "time": "01:15.847",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4291,8 +4291,8 @@
             "index": 72
         },
         {
-            "timestamp": 80.0732,
-            "time": "01:20.073",
+            "timestamp": 78.0732,
+            "time": "01:18.073",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4346,8 +4346,8 @@
             "index": 73
         },
         {
-            "timestamp": 81.3245,
-            "time": "01:21.325",
+            "timestamp": 79.3245,
+            "time": "01:19.325",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4401,8 +4401,8 @@
             "index": 74
         },
         {
-            "timestamp": 82.9469,
-            "time": "01:22.947",
+            "timestamp": 80.9469,
+            "time": "01:20.947",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4456,8 +4456,8 @@
             "index": 75
         },
         {
-            "timestamp": 84.1956,
-            "time": "01:24.196",
+            "timestamp": 82.1956,
+            "time": "01:22.196",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55  -  Protected View - PowerPoint",
             "focused_element": {
@@ -4511,8 +4511,8 @@
             "index": 76
         },
         {
-            "timestamp": 88.4777,
-            "time": "01:28.478",
+            "timestamp": 86.4777,
+            "time": "01:26.478",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4566,8 +4566,8 @@
             "index": 77
         },
         {
-            "timestamp": 89.302,
-            "time": "01:29.302",
+            "timestamp": 87.302,
+            "time": "01:27.302",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4621,8 +4621,8 @@
             "index": 78
         },
         {
-            "timestamp": 90.6763,
-            "time": "01:30.676",
+            "timestamp": 88.6763,
+            "time": "01:28.676",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4676,8 +4676,8 @@
             "index": 79
         },
         {
-            "timestamp": 95.268,
-            "time": "01:35.268",
+            "timestamp": 93.268,
+            "time": "01:33.268",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4731,8 +4731,8 @@
             "index": 80
         },
         {
-            "timestamp": 97.5536,
-            "time": "01:37.554",
+            "timestamp": 95.5536,
+            "time": "01:35.554",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4786,8 +4786,8 @@
             "index": 81
         },
         {
-            "timestamp": 100.8541,
-            "time": "01:40.854",
+            "timestamp": 98.8541,
+            "time": "01:38.854",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4841,8 +4841,8 @@
             "index": 82
         },
         {
-            "timestamp": 100.9545,
-            "time": "01:40.954",
+            "timestamp": 98.9545,
+            "time": "01:38.954",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4896,8 +4896,8 @@
             "index": 83
         },
         {
-            "timestamp": 101.1184,
-            "time": "01:41.118",
+            "timestamp": 99.1184,
+            "time": "01:39.118",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -4954,8 +4954,8 @@
             "index": 84
         },
         {
-            "timestamp": 101.3387,
-            "time": "01:41.339",
+            "timestamp": 99.3387,
+            "time": "01:39.339",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5012,8 +5012,8 @@
             "index": 85
         },
         {
-            "timestamp": 101.4428,
-            "time": "01:41.443",
+            "timestamp": 99.4428,
+            "time": "01:39.443",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5076,8 +5076,8 @@
             "index": 86
         },
         {
-            "timestamp": 102.4266,
-            "time": "01:42.427",
+            "timestamp": 100.4266,
+            "time": "01:40.427",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5134,8 +5134,8 @@
             "index": 87
         },
         {
-            "timestamp": 102.5594,
-            "time": "01:42.559",
+            "timestamp": 100.5594,
+            "time": "01:40.559",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5192,8 +5192,8 @@
             "index": 88
         },
         {
-            "timestamp": 102.648,
-            "time": "01:42.648",
+            "timestamp": 100.648,
+            "time": "01:40.648",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5256,8 +5256,8 @@
             "index": 89
         },
         {
-            "timestamp": 102.7229,
-            "time": "01:42.723",
+            "timestamp": 100.7229,
+            "time": "01:40.723",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {
@@ -5314,8 +5314,8 @@
             "index": 90
         },
         {
-            "timestamp": 102.8122,
-            "time": "01:42.812",
+            "timestamp": 100.8122,
+            "time": "01:40.812",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 55 - PowerPoint",
             "focused_element": {

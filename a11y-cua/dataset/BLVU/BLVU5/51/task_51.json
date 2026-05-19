@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756912016.4524562,
+            "started_at": 1756912018.4524562,
             "ended_at": 1756912393.1311035,
             "started_time": "00:00.000",
-            "ended_time": "05:49.788",
+            "ended_time": "05:47.788",
             "duration": 376.68
         },
         "statistics": {
@@ -80,7 +80,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
@@ -135,8 +135,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.9857,
-            "time": "00:00.986",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -190,8 +190,8 @@
             "index": 1
         },
         {
-            "timestamp": 2.7163,
-            "time": "00:02.716",
+            "timestamp": 0.7163,
+            "time": "00:00.716",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -245,8 +245,8 @@
             "index": 2
         },
         {
-            "timestamp": 3.897,
-            "time": "00:03.897",
+            "timestamp": 1.897,
+            "time": "00:01.897",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -300,8 +300,8 @@
             "index": 3
         },
         {
-            "timestamp": 5.2162,
-            "time": "00:05.216",
+            "timestamp": 3.2162,
+            "time": "00:03.216",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -355,8 +355,8 @@
             "index": 4
         },
         {
-            "timestamp": 6.7843,
-            "time": "00:06.784",
+            "timestamp": 4.7843,
+            "time": "00:04.784",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -410,8 +410,8 @@
             "index": 5
         },
         {
-            "timestamp": 7.9867,
-            "time": "00:07.987",
+            "timestamp": 5.9867,
+            "time": "00:05.987",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -465,8 +465,8 @@
             "index": 6
         },
         {
-            "timestamp": 9.8902,
-            "time": "00:09.890",
+            "timestamp": 7.8902,
+            "time": "00:07.890",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -520,8 +520,8 @@
             "index": 7
         },
         {
-            "timestamp": 11.0113,
-            "time": "00:11.011",
+            "timestamp": 9.0113,
+            "time": "00:09.011",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -575,8 +575,8 @@
             "index": 8
         },
         {
-            "timestamp": 12.1543,
-            "time": "00:12.154",
+            "timestamp": 10.1543,
+            "time": "00:10.154",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -630,8 +630,8 @@
             "index": 9
         },
         {
-            "timestamp": 13.2078,
-            "time": "00:13.208",
+            "timestamp": 11.2078,
+            "time": "00:11.208",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -685,8 +685,8 @@
             "index": 10
         },
         {
-            "timestamp": 14.376,
-            "time": "00:14.376",
+            "timestamp": 12.376,
+            "time": "00:12.376",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -740,8 +740,8 @@
             "index": 11
         },
         {
-            "timestamp": 15.554,
-            "time": "00:15.554",
+            "timestamp": 13.554,
+            "time": "00:13.554",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -795,8 +795,8 @@
             "index": 12
         },
         {
-            "timestamp": 16.5427,
-            "time": "00:16.543",
+            "timestamp": 14.5427,
+            "time": "00:14.543",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -850,8 +850,8 @@
             "index": 13
         },
         {
-            "timestamp": 18.0532,
-            "time": "00:18.053",
+            "timestamp": 16.0532,
+            "time": "00:16.053",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -905,8 +905,8 @@
             "index": 14
         },
         {
-            "timestamp": 19.1075,
-            "time": "00:19.108",
+            "timestamp": 17.1075,
+            "time": "00:17.108",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -960,8 +960,8 @@
             "index": 15
         },
         {
-            "timestamp": 21.8282,
-            "time": "00:21.828",
+            "timestamp": 19.8282,
+            "time": "00:19.828",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1015,8 +1015,8 @@
             "index": 16
         },
         {
-            "timestamp": 23.4589,
-            "time": "00:23.459",
+            "timestamp": 21.4589,
+            "time": "00:21.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1070,8 +1070,8 @@
             "index": 17
         },
         {
-            "timestamp": 25.0575,
-            "time": "00:25.058",
+            "timestamp": 23.0575,
+            "time": "00:23.058",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1125,8 +1125,8 @@
             "index": 18
         },
         {
-            "timestamp": 26.5695,
-            "time": "00:26.570",
+            "timestamp": 24.5695,
+            "time": "00:24.570",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1183,8 +1183,8 @@
             "index": 19
         },
         {
-            "timestamp": 26.691,
-            "time": "00:26.691",
+            "timestamp": 24.691,
+            "time": "00:24.691",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1241,8 +1241,8 @@
             "index": 20
         },
         {
-            "timestamp": 26.7835,
-            "time": "00:26.784",
+            "timestamp": 24.7835,
+            "time": "00:24.784",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1305,8 +1305,8 @@
             "index": 21
         },
         {
-            "timestamp": 26.8864,
-            "time": "00:26.886",
+            "timestamp": 24.8864,
+            "time": "00:24.886",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1363,8 +1363,8 @@
             "index": 22
         },
         {
-            "timestamp": 26.9797,
-            "time": "00:26.980",
+            "timestamp": 24.9797,
+            "time": "00:24.980",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1427,8 +1427,8 @@
             "index": 23
         },
         {
-            "timestamp": 28.8754,
-            "time": "00:28.875",
+            "timestamp": 26.8754,
+            "time": "00:26.875",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1482,8 +1482,8 @@
             "index": 24
         },
         {
-            "timestamp": 29.9376,
-            "time": "00:29.938",
+            "timestamp": 27.9376,
+            "time": "00:27.938",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1537,8 +1537,8 @@
             "index": 25
         },
         {
-            "timestamp": 30.1005,
-            "time": "00:30.101",
+            "timestamp": 28.1005,
+            "time": "00:28.101",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1592,8 +1592,8 @@
             "index": 26
         },
         {
-            "timestamp": 31.7213,
-            "time": "00:31.721",
+            "timestamp": 29.7213,
+            "time": "00:29.721",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1650,8 +1650,8 @@
             "index": 27
         },
         {
-            "timestamp": 31.8583,
-            "time": "00:31.858",
+            "timestamp": 29.8583,
+            "time": "00:29.858",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1708,8 +1708,8 @@
             "index": 28
         },
         {
-            "timestamp": 31.9589,
-            "time": "00:31.959",
+            "timestamp": 29.9589,
+            "time": "00:29.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1772,8 +1772,8 @@
             "index": 29
         },
         {
-            "timestamp": 33.4871,
-            "time": "00:33.487",
+            "timestamp": 31.4871,
+            "time": "00:31.487",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1830,8 +1830,8 @@
             "index": 30
         },
         {
-            "timestamp": 33.6242,
-            "time": "00:33.624",
+            "timestamp": 31.6242,
+            "time": "00:31.624",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1894,8 +1894,8 @@
             "index": 31
         },
         {
-            "timestamp": 34.9696,
-            "time": "00:34.970",
+            "timestamp": 32.9696,
+            "time": "00:32.970",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -1949,8 +1949,8 @@
             "index": 32
         },
         {
-            "timestamp": 35.7685,
-            "time": "00:35.769",
+            "timestamp": 33.7685,
+            "time": "00:33.769",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2004,8 +2004,8 @@
             "index": 33
         },
         {
-            "timestamp": 37.0626,
-            "time": "00:37.063",
+            "timestamp": 35.0626,
+            "time": "00:35.063",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2059,8 +2059,8 @@
             "index": 34
         },
         {
-            "timestamp": 38.0744,
-            "time": "00:38.074",
+            "timestamp": 36.0744,
+            "time": "00:36.074",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2114,8 +2114,8 @@
             "index": 35
         },
         {
-            "timestamp": 40.3932,
-            "time": "00:40.393",
+            "timestamp": 38.3932,
+            "time": "00:38.393",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2169,8 +2169,8 @@
             "index": 36
         },
         {
-            "timestamp": 40.6077,
-            "time": "00:40.608",
+            "timestamp": 38.6077,
+            "time": "00:38.608",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2224,8 +2224,8 @@
             "index": 37
         },
         {
-            "timestamp": 40.8071,
-            "time": "00:40.807",
+            "timestamp": 38.8071,
+            "time": "00:38.807",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2279,8 +2279,8 @@
             "index": 38
         },
         {
-            "timestamp": 41.9397,
-            "time": "00:41.940",
+            "timestamp": 39.9397,
+            "time": "00:39.940",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2334,8 +2334,8 @@
             "index": 39
         },
         {
-            "timestamp": 43.3192,
-            "time": "00:43.319",
+            "timestamp": 41.3192,
+            "time": "00:41.319",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2389,8 +2389,8 @@
             "index": 40
         },
         {
-            "timestamp": 45.2447,
-            "time": "00:45.245",
+            "timestamp": 43.2447,
+            "time": "00:43.245",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2444,8 +2444,8 @@
             "index": 41
         },
         {
-            "timestamp": 47.0755,
-            "time": "00:47.075",
+            "timestamp": 45.0755,
+            "time": "00:45.075",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2502,8 +2502,8 @@
             "index": 42
         },
         {
-            "timestamp": 47.259,
-            "time": "00:47.259",
+            "timestamp": 45.259,
+            "time": "00:45.259",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2560,8 +2560,8 @@
             "index": 43
         },
         {
-            "timestamp": 47.3583,
-            "time": "00:47.358",
+            "timestamp": 45.3583,
+            "time": "00:45.358",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2624,8 +2624,8 @@
             "index": 44
         },
         {
-            "timestamp": 48.7681,
-            "time": "00:48.768",
+            "timestamp": 46.7681,
+            "time": "00:46.768",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2682,8 +2682,8 @@
             "index": 45
         },
         {
-            "timestamp": 48.9048,
-            "time": "00:48.905",
+            "timestamp": 46.9048,
+            "time": "00:46.905",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2740,8 +2740,8 @@
             "index": 46
         },
         {
-            "timestamp": 49.0183,
-            "time": "00:49.018",
+            "timestamp": 47.0183,
+            "time": "00:47.018",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2804,8 +2804,8 @@
             "index": 47
         },
         {
-            "timestamp": 49.9262,
-            "time": "00:49.926",
+            "timestamp": 47.9262,
+            "time": "00:47.926",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2862,8 +2862,8 @@
             "index": 48
         },
         {
-            "timestamp": 50.0733,
-            "time": "00:50.073",
+            "timestamp": 48.0733,
+            "time": "00:48.073",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2926,8 +2926,8 @@
             "index": 49
         },
         {
-            "timestamp": 51.1716,
-            "time": "00:51.172",
+            "timestamp": 49.1716,
+            "time": "00:49.172",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2984,8 +2984,8 @@
             "index": 50
         },
         {
-            "timestamp": 51.3142,
-            "time": "00:51.314",
+            "timestamp": 49.3142,
+            "time": "00:49.314",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3048,8 +3048,8 @@
             "index": 51
         },
         {
-            "timestamp": 52.0842,
-            "time": "00:52.084",
+            "timestamp": 50.0842,
+            "time": "00:50.084",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3106,8 +3106,8 @@
             "index": 52
         },
         {
-            "timestamp": 52.1984,
-            "time": "00:52.198",
+            "timestamp": 50.1984,
+            "time": "00:50.198",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3170,8 +3170,8 @@
             "index": 53
         },
         {
-            "timestamp": 53.1603,
-            "time": "00:53.160",
+            "timestamp": 51.1603,
+            "time": "00:51.160",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3228,8 +3228,8 @@
             "index": 54
         },
         {
-            "timestamp": 53.2985,
-            "time": "00:53.298",
+            "timestamp": 51.2985,
+            "time": "00:51.298",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3292,8 +3292,8 @@
             "index": 55
         },
         {
-            "timestamp": 54.045,
-            "time": "00:54.045",
+            "timestamp": 52.045,
+            "time": "00:52.045",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3350,8 +3350,8 @@
             "index": 56
         },
         {
-            "timestamp": 54.171,
-            "time": "00:54.171",
+            "timestamp": 52.171,
+            "time": "00:52.171",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3414,8 +3414,8 @@
             "index": 57
         },
         {
-            "timestamp": 54.9852,
-            "time": "00:54.985",
+            "timestamp": 52.9852,
+            "time": "00:52.985",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3472,8 +3472,8 @@
             "index": 58
         },
         {
-            "timestamp": 55.1423,
-            "time": "00:55.142",
+            "timestamp": 53.1423,
+            "time": "00:53.142",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3536,8 +3536,8 @@
             "index": 59
         },
         {
-            "timestamp": 56.1897,
-            "time": "00:56.190",
+            "timestamp": 54.1897,
+            "time": "00:54.190",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3594,8 +3594,8 @@
             "index": 60
         },
         {
-            "timestamp": 56.3289,
-            "time": "00:56.329",
+            "timestamp": 54.3289,
+            "time": "00:54.329",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3658,8 +3658,8 @@
             "index": 61
         },
         {
-            "timestamp": 57.0431,
-            "time": "00:57.043",
+            "timestamp": 55.0431,
+            "time": "00:55.043",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3716,8 +3716,8 @@
             "index": 62
         },
         {
-            "timestamp": 57.155,
-            "time": "00:57.155",
+            "timestamp": 55.155,
+            "time": "00:55.155",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3780,8 +3780,8 @@
             "index": 63
         },
         {
-            "timestamp": 57.586,
-            "time": "00:57.586",
+            "timestamp": 55.586,
+            "time": "00:55.586",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3838,8 +3838,8 @@
             "index": 64
         },
         {
-            "timestamp": 57.7516,
-            "time": "00:57.752",
+            "timestamp": 55.7516,
+            "time": "00:55.752",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3902,8 +3902,8 @@
             "index": 65
         },
         {
-            "timestamp": 58.303,
-            "time": "00:58.303",
+            "timestamp": 56.303,
+            "time": "00:56.303",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3960,8 +3960,8 @@
             "index": 66
         },
         {
-            "timestamp": 58.4069,
-            "time": "00:58.407",
+            "timestamp": 56.4069,
+            "time": "00:56.407",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4024,8 +4024,8 @@
             "index": 67
         },
         {
-            "timestamp": 58.8786,
-            "time": "00:58.879",
+            "timestamp": 56.8786,
+            "time": "00:56.879",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4082,8 +4082,8 @@
             "index": 68
         },
         {
-            "timestamp": 59.0375,
-            "time": "00:59.038",
+            "timestamp": 57.0375,
+            "time": "00:57.038",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4146,8 +4146,8 @@
             "index": 69
         },
         {
-            "timestamp": 59.406,
-            "time": "00:59.406",
+            "timestamp": 57.406,
+            "time": "00:57.406",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4204,8 +4204,8 @@
             "index": 70
         },
         {
-            "timestamp": 59.5286,
-            "time": "00:59.529",
+            "timestamp": 57.5286,
+            "time": "00:57.529",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4268,8 +4268,8 @@
             "index": 71
         },
         {
-            "timestamp": 60.1174,
-            "time": "01:00.117",
+            "timestamp": 58.1174,
+            "time": "00:58.117",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4326,8 +4326,8 @@
             "index": 72
         },
         {
-            "timestamp": 60.2655,
-            "time": "01:00.266",
+            "timestamp": 58.2655,
+            "time": "00:58.266",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4390,8 +4390,8 @@
             "index": 73
         },
         {
-            "timestamp": 61.3215,
-            "time": "01:01.322",
+            "timestamp": 59.3215,
+            "time": "00:59.322",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4448,8 +4448,8 @@
             "index": 74
         },
         {
-            "timestamp": 61.4836,
-            "time": "01:01.484",
+            "timestamp": 59.4836,
+            "time": "00:59.484",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4512,8 +4512,8 @@
             "index": 75
         },
         {
-            "timestamp": 61.6951,
-            "time": "01:01.695",
+            "timestamp": 59.6951,
+            "time": "00:59.695",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4570,8 +4570,8 @@
             "index": 76
         },
         {
-            "timestamp": 61.8104,
-            "time": "01:01.810",
+            "timestamp": 59.8104,
+            "time": "00:59.810",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4634,8 +4634,8 @@
             "index": 77
         },
         {
-            "timestamp": 62.1342,
-            "time": "01:02.134",
+            "timestamp": 60.1342,
+            "time": "01:00.134",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4692,8 +4692,8 @@
             "index": 78
         },
         {
-            "timestamp": 62.2676,
-            "time": "01:02.268",
+            "timestamp": 60.2676,
+            "time": "01:00.268",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4756,8 +4756,8 @@
             "index": 79
         },
         {
-            "timestamp": 62.5051,
-            "time": "01:02.505",
+            "timestamp": 60.5051,
+            "time": "01:00.505",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4814,8 +4814,8 @@
             "index": 80
         },
         {
-            "timestamp": 62.6547,
-            "time": "01:02.655",
+            "timestamp": 60.6547,
+            "time": "01:00.655",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4878,8 +4878,8 @@
             "index": 81
         },
         {
-            "timestamp": 63.6492,
-            "time": "01:03.649",
+            "timestamp": 61.6492,
+            "time": "01:01.649",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4936,8 +4936,8 @@
             "index": 82
         },
         {
-            "timestamp": 63.7979,
-            "time": "01:03.798",
+            "timestamp": 61.7979,
+            "time": "01:01.798",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5000,8 +5000,8 @@
             "index": 83
         },
         {
-            "timestamp": 64.5757,
-            "time": "01:04.576",
+            "timestamp": 62.5757,
+            "time": "01:02.576",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5058,8 +5058,8 @@
             "index": 84
         },
         {
-            "timestamp": 64.7171,
-            "time": "01:04.717",
+            "timestamp": 62.7171,
+            "time": "01:02.717",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5122,8 +5122,8 @@
             "index": 85
         },
         {
-            "timestamp": 65.8169,
-            "time": "01:05.817",
+            "timestamp": 63.8169,
+            "time": "01:03.817",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5180,8 +5180,8 @@
             "index": 86
         },
         {
-            "timestamp": 65.9883,
-            "time": "01:05.988",
+            "timestamp": 63.9883,
+            "time": "01:03.988",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5238,8 +5238,8 @@
             "index": 87
         },
         {
-            "timestamp": 66.0867,
-            "time": "01:06.087",
+            "timestamp": 64.0867,
+            "time": "01:04.087",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5302,8 +5302,8 @@
             "index": 88
         },
         {
-            "timestamp": 66.9393,
-            "time": "01:06.939",
+            "timestamp": 64.9393,
+            "time": "01:04.939",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5360,8 +5360,8 @@
             "index": 89
         },
         {
-            "timestamp": 67.099,
-            "time": "01:07.099",
+            "timestamp": 65.099,
+            "time": "01:05.099",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5424,8 +5424,8 @@
             "index": 90
         },
         {
-            "timestamp": 68.1489,
-            "time": "01:08.149",
+            "timestamp": 66.1489,
+            "time": "01:06.149",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5479,8 +5479,8 @@
             "index": 91
         },
         {
-            "timestamp": 69.9669,
-            "time": "01:09.967",
+            "timestamp": 67.9669,
+            "time": "01:07.967",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5534,8 +5534,8 @@
             "index": 92
         },
         {
-            "timestamp": 70.8185,
-            "time": "01:10.819",
+            "timestamp": 68.8185,
+            "time": "01:08.819",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5589,8 +5589,8 @@
             "index": 93
         },
         {
-            "timestamp": 71.3543,
-            "time": "01:11.354",
+            "timestamp": 69.3543,
+            "time": "01:09.354",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5644,8 +5644,8 @@
             "index": 94
         },
         {
-            "timestamp": 71.6348,
-            "time": "01:11.635",
+            "timestamp": 69.6348,
+            "time": "01:09.635",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5699,8 +5699,8 @@
             "index": 95
         },
         {
-            "timestamp": 71.9916,
-            "time": "01:11.992",
+            "timestamp": 69.9916,
+            "time": "01:09.992",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5754,8 +5754,8 @@
             "index": 96
         },
         {
-            "timestamp": 72.3259,
-            "time": "01:12.326",
+            "timestamp": 70.3259,
+            "time": "01:10.326",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5809,8 +5809,8 @@
             "index": 97
         },
         {
-            "timestamp": 72.6404,
-            "time": "01:12.640",
+            "timestamp": 70.6404,
+            "time": "01:10.640",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5864,8 +5864,8 @@
             "index": 98
         },
         {
-            "timestamp": 72.9542,
-            "time": "01:12.954",
+            "timestamp": 70.9542,
+            "time": "01:10.954",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5919,8 +5919,8 @@
             "index": 99
         },
         {
-            "timestamp": 73.2871,
-            "time": "01:13.287",
+            "timestamp": 71.2871,
+            "time": "01:11.287",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -5974,8 +5974,8 @@
             "index": 100
         },
         {
-            "timestamp": 73.5724,
-            "time": "01:13.572",
+            "timestamp": 71.5724,
+            "time": "01:11.572",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6029,8 +6029,8 @@
             "index": 101
         },
         {
-            "timestamp": 74.0035,
-            "time": "01:14.004",
+            "timestamp": 72.0035,
+            "time": "01:12.004",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6084,8 +6084,8 @@
             "index": 102
         },
         {
-            "timestamp": 74.7487,
-            "time": "01:14.749",
+            "timestamp": 72.7487,
+            "time": "01:12.749",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6139,8 +6139,8 @@
             "index": 103
         },
         {
-            "timestamp": 76.3726,
-            "time": "01:16.373",
+            "timestamp": 74.3726,
+            "time": "01:14.373",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6197,8 +6197,8 @@
             "index": 104
         },
         {
-            "timestamp": 77.6896,
-            "time": "01:17.690",
+            "timestamp": 75.6896,
+            "time": "01:15.690",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6252,8 +6252,8 @@
             "index": 105
         },
         {
-            "timestamp": 79.8168,
-            "time": "01:19.817",
+            "timestamp": 77.8168,
+            "time": "01:17.817",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6307,8 +6307,8 @@
             "index": 106
         },
         {
-            "timestamp": 81.9933,
-            "time": "01:21.993",
+            "timestamp": 79.9933,
+            "time": "01:19.993",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6362,8 +6362,8 @@
             "index": 107
         },
         {
-            "timestamp": 84.0886,
-            "time": "01:24.089",
+            "timestamp": 82.0886,
+            "time": "01:22.089",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6417,8 +6417,8 @@
             "index": 108
         },
         {
-            "timestamp": 85.6671,
-            "time": "01:25.667",
+            "timestamp": 83.6671,
+            "time": "01:23.667",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6472,8 +6472,8 @@
             "index": 109
         },
         {
-            "timestamp": 86.2878,
-            "time": "01:26.288",
+            "timestamp": 84.2878,
+            "time": "01:24.288",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6527,8 +6527,8 @@
             "index": 110
         },
         {
-            "timestamp": 86.4402,
-            "time": "01:26.440",
+            "timestamp": 84.4402,
+            "time": "01:24.440",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6582,8 +6582,8 @@
             "index": 111
         },
         {
-            "timestamp": 87.0899,
-            "time": "01:27.090",
+            "timestamp": 85.0899,
+            "time": "01:25.090",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6637,8 +6637,8 @@
             "index": 112
         },
         {
-            "timestamp": 88.0554,
-            "time": "01:28.055",
+            "timestamp": 86.0554,
+            "time": "01:26.055",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6692,8 +6692,8 @@
             "index": 113
         },
         {
-            "timestamp": 88.988,
-            "time": "01:28.988",
+            "timestamp": 86.988,
+            "time": "01:26.988",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6747,8 +6747,8 @@
             "index": 114
         },
         {
-            "timestamp": 90.0515,
-            "time": "01:30.052",
+            "timestamp": 88.0515,
+            "time": "01:28.052",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6802,8 +6802,8 @@
             "index": 115
         },
         {
-            "timestamp": 91.0543,
-            "time": "01:31.054",
+            "timestamp": 89.0543,
+            "time": "01:29.054",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6857,8 +6857,8 @@
             "index": 116
         },
         {
-            "timestamp": 91.9585,
-            "time": "01:31.959",
+            "timestamp": 89.9585,
+            "time": "01:29.959",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6912,8 +6912,8 @@
             "index": 117
         },
         {
-            "timestamp": 92.5147,
-            "time": "01:32.515",
+            "timestamp": 90.5147,
+            "time": "01:30.515",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -6967,8 +6967,8 @@
             "index": 118
         },
         {
-            "timestamp": 92.7861,
-            "time": "01:32.786",
+            "timestamp": 90.7861,
+            "time": "01:30.786",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7022,8 +7022,8 @@
             "index": 119
         },
         {
-            "timestamp": 93.0125,
-            "time": "01:33.013",
+            "timestamp": 91.0125,
+            "time": "01:31.013",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7077,8 +7077,8 @@
             "index": 120
         },
         {
-            "timestamp": 94.2533,
-            "time": "01:34.253",
+            "timestamp": 92.2533,
+            "time": "01:32.253",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7132,8 +7132,8 @@
             "index": 121
         },
         {
-            "timestamp": 94.6378,
-            "time": "01:34.638",
+            "timestamp": 92.6378,
+            "time": "01:32.638",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7187,8 +7187,8 @@
             "index": 122
         },
         {
-            "timestamp": 94.9609,
-            "time": "01:34.961",
+            "timestamp": 92.9609,
+            "time": "01:32.961",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7242,8 +7242,8 @@
             "index": 123
         },
         {
-            "timestamp": 95.876,
-            "time": "01:35.876",
+            "timestamp": 93.876,
+            "time": "01:33.876",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7300,8 +7300,8 @@
             "index": 124
         },
         {
-            "timestamp": 96.0216,
-            "time": "01:36.022",
+            "timestamp": 94.0216,
+            "time": "01:34.022",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7358,8 +7358,8 @@
             "index": 125
         },
         {
-            "timestamp": 96.1497,
-            "time": "01:36.150",
+            "timestamp": 94.1497,
+            "time": "01:34.150",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7422,8 +7422,8 @@
             "index": 126
         },
         {
-            "timestamp": 97.091,
-            "time": "01:37.091",
+            "timestamp": 95.091,
+            "time": "01:35.091",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7477,8 +7477,8 @@
             "index": 127
         },
         {
-            "timestamp": 98.7042,
-            "time": "01:38.704",
+            "timestamp": 96.7042,
+            "time": "01:36.704",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7532,8 +7532,8 @@
             "index": 128
         },
         {
-            "timestamp": 100.7412,
-            "time": "01:40.741",
+            "timestamp": 98.7412,
+            "time": "01:38.741",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7587,8 +7587,8 @@
             "index": 129
         },
         {
-            "timestamp": 101.8897,
-            "time": "01:41.890",
+            "timestamp": 99.8897,
+            "time": "01:39.890",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7642,8 +7642,8 @@
             "index": 130
         },
         {
-            "timestamp": 103.8725,
-            "time": "01:43.873",
+            "timestamp": 101.8725,
+            "time": "01:41.873",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7697,8 +7697,8 @@
             "index": 131
         },
         {
-            "timestamp": 104.9559,
-            "time": "01:44.956",
+            "timestamp": 102.9559,
+            "time": "01:42.956",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7752,8 +7752,8 @@
             "index": 132
         },
         {
-            "timestamp": 106.0363,
-            "time": "01:46.036",
+            "timestamp": 104.0363,
+            "time": "01:44.036",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7807,8 +7807,8 @@
             "index": 133
         },
         {
-            "timestamp": 107.646,
-            "time": "01:47.646",
+            "timestamp": 105.646,
+            "time": "01:45.646",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7862,8 +7862,8 @@
             "index": 134
         },
         {
-            "timestamp": 108.2549,
-            "time": "01:48.255",
+            "timestamp": 106.2549,
+            "time": "01:46.255",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7917,8 +7917,8 @@
             "index": 135
         },
         {
-            "timestamp": 108.7049,
-            "time": "01:48.705",
+            "timestamp": 106.7049,
+            "time": "01:46.705",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -7972,8 +7972,8 @@
             "index": 136
         },
         {
-            "timestamp": 108.9731,
-            "time": "01:48.973",
+            "timestamp": 106.9731,
+            "time": "01:46.973",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8027,8 +8027,8 @@
             "index": 137
         },
         {
-            "timestamp": 109.291,
-            "time": "01:49.291",
+            "timestamp": 107.291,
+            "time": "01:47.291",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8082,8 +8082,8 @@
             "index": 138
         },
         {
-            "timestamp": 110.3086,
-            "time": "01:50.309",
+            "timestamp": 108.3086,
+            "time": "01:48.309",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8137,8 +8137,8 @@
             "index": 139
         },
         {
-            "timestamp": 111.7154,
-            "time": "01:51.715",
+            "timestamp": 109.7154,
+            "time": "01:49.715",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8192,8 +8192,8 @@
             "index": 140
         },
         {
-            "timestamp": 114.1426,
-            "time": "01:54.143",
+            "timestamp": 112.1426,
+            "time": "01:52.143",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8247,8 +8247,8 @@
             "index": 141
         },
         {
-            "timestamp": 115.4179,
-            "time": "01:55.418",
+            "timestamp": 113.4179,
+            "time": "01:53.418",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8305,8 +8305,8 @@
             "index": 142
         },
         {
-            "timestamp": 115.5825,
-            "time": "01:55.582",
+            "timestamp": 113.5825,
+            "time": "01:53.582",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8363,8 +8363,8 @@
             "index": 143
         },
         {
-            "timestamp": 115.7045,
-            "time": "01:55.704",
+            "timestamp": 113.7045,
+            "time": "01:53.704",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8427,8 +8427,8 @@
             "index": 144
         },
         {
-            "timestamp": 117.3781,
-            "time": "01:57.378",
+            "timestamp": 115.3781,
+            "time": "01:55.378",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8482,8 +8482,8 @@
             "index": 145
         },
         {
-            "timestamp": 117.6131,
-            "time": "01:57.613",
+            "timestamp": 115.6131,
+            "time": "01:55.613",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8537,8 +8537,8 @@
             "index": 146
         },
         {
-            "timestamp": 117.8352,
-            "time": "01:57.835",
+            "timestamp": 115.8352,
+            "time": "01:55.835",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8592,8 +8592,8 @@
             "index": 147
         },
         {
-            "timestamp": 118.4524,
-            "time": "01:58.452",
+            "timestamp": 116.4524,
+            "time": "01:56.452",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8647,8 +8647,8 @@
             "index": 148
         },
         {
-            "timestamp": 118.854,
-            "time": "01:58.854",
+            "timestamp": 116.854,
+            "time": "01:56.854",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8705,8 +8705,8 @@
             "index": 149
         },
         {
-            "timestamp": 118.9983,
-            "time": "01:58.998",
+            "timestamp": 116.9983,
+            "time": "01:56.998",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8763,8 +8763,8 @@
             "index": 150
         },
         {
-            "timestamp": 119.1531,
-            "time": "01:59.153",
+            "timestamp": 117.1531,
+            "time": "01:57.153",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8827,8 +8827,8 @@
             "index": 151
         },
         {
-            "timestamp": 119.2708,
-            "time": "01:59.271",
+            "timestamp": 117.2708,
+            "time": "01:57.271",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8885,8 +8885,8 @@
             "index": 152
         },
         {
-            "timestamp": 119.4191,
-            "time": "01:59.419",
+            "timestamp": 117.4191,
+            "time": "01:57.419",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -8949,8 +8949,8 @@
             "index": 153
         },
         {
-            "timestamp": 120.8319,
-            "time": "02:00.832",
+            "timestamp": 118.8319,
+            "time": "01:58.832",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9004,8 +9004,8 @@
             "index": 154
         },
         {
-            "timestamp": 123.833,
-            "time": "02:03.833",
+            "timestamp": 121.833,
+            "time": "02:01.833",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9062,8 +9062,8 @@
             "index": 155
         },
         {
-            "timestamp": 124.0218,
-            "time": "02:04.022",
+            "timestamp": 122.0218,
+            "time": "02:02.022",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9120,8 +9120,8 @@
             "index": 156
         },
         {
-            "timestamp": 124.1689,
-            "time": "02:04.169",
+            "timestamp": 122.1689,
+            "time": "02:02.169",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9184,8 +9184,8 @@
             "index": 157
         },
         {
-            "timestamp": 124.3039,
-            "time": "02:04.304",
+            "timestamp": 122.3039,
+            "time": "02:02.304",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9239,8 +9239,8 @@
             "index": 158
         },
         {
-            "timestamp": 124.4398,
-            "time": "02:04.440",
+            "timestamp": 122.4398,
+            "time": "02:02.440",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9294,8 +9294,8 @@
             "index": 159
         },
         {
-            "timestamp": 124.5872,
-            "time": "02:04.587",
+            "timestamp": 122.5872,
+            "time": "02:02.587",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9349,8 +9349,8 @@
             "index": 160
         },
         {
-            "timestamp": 125.0915,
-            "time": "02:05.091",
+            "timestamp": 123.0915,
+            "time": "02:03.091",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9407,8 +9407,8 @@
             "index": 161
         },
         {
-            "timestamp": 125.2766,
-            "time": "02:05.277",
+            "timestamp": 123.2766,
+            "time": "02:03.277",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9465,8 +9465,8 @@
             "index": 162
         },
         {
-            "timestamp": 125.4312,
-            "time": "02:05.431",
+            "timestamp": 123.4312,
+            "time": "02:03.431",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9529,8 +9529,8 @@
             "index": 163
         },
         {
-            "timestamp": 125.6063,
-            "time": "02:05.606",
+            "timestamp": 123.6063,
+            "time": "02:03.606",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9584,8 +9584,8 @@
             "index": 164
         },
         {
-            "timestamp": 125.7908,
-            "time": "02:05.791",
+            "timestamp": 123.7908,
+            "time": "02:03.791",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9639,8 +9639,8 @@
             "index": 165
         },
         {
-            "timestamp": 125.9472,
-            "time": "02:05.947",
+            "timestamp": 123.9472,
+            "time": "02:03.947",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9694,8 +9694,8 @@
             "index": 166
         },
         {
-            "timestamp": 126.0699,
-            "time": "02:06.070",
+            "timestamp": 124.0699,
+            "time": "02:04.070",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9749,8 +9749,8 @@
             "index": 167
         },
         {
-            "timestamp": 126.2128,
-            "time": "02:06.213",
+            "timestamp": 124.2128,
+            "time": "02:04.213",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9807,8 +9807,8 @@
             "index": 168
         },
         {
-            "timestamp": 126.5709,
-            "time": "02:06.571",
+            "timestamp": 124.5709,
+            "time": "02:04.571",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9865,8 +9865,8 @@
             "index": 169
         },
         {
-            "timestamp": 126.7168,
-            "time": "02:06.717",
+            "timestamp": 124.7168,
+            "time": "02:04.717",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9929,8 +9929,8 @@
             "index": 170
         },
         {
-            "timestamp": 126.8268,
-            "time": "02:06.827",
+            "timestamp": 124.8268,
+            "time": "02:04.827",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -9984,8 +9984,8 @@
             "index": 171
         },
         {
-            "timestamp": 127.6365,
-            "time": "02:07.636",
+            "timestamp": 125.6365,
+            "time": "02:05.636",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10039,8 +10039,8 @@
             "index": 172
         },
         {
-            "timestamp": 127.8298,
-            "time": "02:07.830",
+            "timestamp": 125.8298,
+            "time": "02:05.830",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10094,8 +10094,8 @@
             "index": 173
         },
         {
-            "timestamp": 129.2809,
-            "time": "02:09.281",
+            "timestamp": 127.2809,
+            "time": "02:07.281",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10149,8 +10149,8 @@
             "index": 174
         },
         {
-            "timestamp": 130.6597,
-            "time": "02:10.660",
+            "timestamp": 128.6597,
+            "time": "02:08.660",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10204,8 +10204,8 @@
             "index": 175
         },
         {
-            "timestamp": 135.3701,
-            "time": "02:15.370",
+            "timestamp": 133.3701,
+            "time": "02:13.370",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10259,8 +10259,8 @@
             "index": 176
         },
         {
-            "timestamp": 137.5619,
-            "time": "02:17.562",
+            "timestamp": 135.5619,
+            "time": "02:15.562",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10314,8 +10314,8 @@
             "index": 177
         },
         {
-            "timestamp": 139.2714,
-            "time": "02:19.271",
+            "timestamp": 137.2714,
+            "time": "02:17.271",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10369,8 +10369,8 @@
             "index": 178
         },
         {
-            "timestamp": 141.1154,
-            "time": "02:21.115",
+            "timestamp": 139.1154,
+            "time": "02:19.115",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10424,8 +10424,8 @@
             "index": 179
         },
         {
-            "timestamp": 142.5382,
-            "time": "02:22.538",
+            "timestamp": 140.5382,
+            "time": "02:20.538",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10479,8 +10479,8 @@
             "index": 180
         },
         {
-            "timestamp": 143.1071,
-            "time": "02:23.107",
+            "timestamp": 141.1071,
+            "time": "02:21.107",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10534,8 +10534,8 @@
             "index": 181
         },
         {
-            "timestamp": 143.6948,
-            "time": "02:23.695",
+            "timestamp": 141.6948,
+            "time": "02:21.695",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10589,8 +10589,8 @@
             "index": 182
         },
         {
-            "timestamp": 144.8476,
-            "time": "02:24.848",
+            "timestamp": 142.8476,
+            "time": "02:22.848",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10644,8 +10644,8 @@
             "index": 183
         },
         {
-            "timestamp": 145.6997,
-            "time": "02:25.700",
+            "timestamp": 143.6997,
+            "time": "02:23.700",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10699,8 +10699,8 @@
             "index": 184
         },
         {
-            "timestamp": 146.577,
-            "time": "02:26.577",
+            "timestamp": 144.577,
+            "time": "02:24.577",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10754,8 +10754,8 @@
             "index": 185
         },
         {
-            "timestamp": 147.6043,
-            "time": "02:27.604",
+            "timestamp": 145.6043,
+            "time": "02:25.604",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10809,8 +10809,8 @@
             "index": 186
         },
         {
-            "timestamp": 153.4969,
-            "time": "02:33.497",
+            "timestamp": 151.4969,
+            "time": "02:31.497",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10864,8 +10864,8 @@
             "index": 187
         },
         {
-            "timestamp": 155.3172,
-            "time": "02:35.317",
+            "timestamp": 153.3172,
+            "time": "02:33.317",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10919,8 +10919,8 @@
             "index": 188
         },
         {
-            "timestamp": 156.6634,
-            "time": "02:36.663",
+            "timestamp": 154.6634,
+            "time": "02:34.663",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -10974,8 +10974,8 @@
             "index": 189
         },
         {
-            "timestamp": 157.6194,
-            "time": "02:37.619",
+            "timestamp": 155.6194,
+            "time": "02:35.619",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11029,8 +11029,8 @@
             "index": 190
         },
         {
-            "timestamp": 158.5088,
-            "time": "02:38.509",
+            "timestamp": 156.5088,
+            "time": "02:36.509",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11084,8 +11084,8 @@
             "index": 191
         },
         {
-            "timestamp": 159.4361,
-            "time": "02:39.436",
+            "timestamp": 157.4361,
+            "time": "02:37.436",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11139,8 +11139,8 @@
             "index": 192
         },
         {
-            "timestamp": 161.6895,
-            "time": "02:41.690",
+            "timestamp": 159.6895,
+            "time": "02:39.690",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11194,8 +11194,8 @@
             "index": 193
         },
         {
-            "timestamp": 174.6472,
-            "time": "02:54.647",
+            "timestamp": 172.6472,
+            "time": "02:52.647",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11252,8 +11252,8 @@
             "index": 194
         },
         {
-            "timestamp": 174.8075,
-            "time": "02:54.808",
+            "timestamp": 172.8075,
+            "time": "02:52.808",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11310,8 +11310,8 @@
             "index": 195
         },
         {
-            "timestamp": 174.9252,
-            "time": "02:54.925",
+            "timestamp": 172.9252,
+            "time": "02:52.925",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11374,8 +11374,8 @@
             "index": 196
         },
         {
-            "timestamp": 175.0572,
-            "time": "02:55.057",
+            "timestamp": 173.0572,
+            "time": "02:53.057",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11432,8 +11432,8 @@
             "index": 197
         },
         {
-            "timestamp": 175.1704,
-            "time": "02:55.170",
+            "timestamp": 173.1704,
+            "time": "02:53.170",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11496,8 +11496,8 @@
             "index": 198
         },
         {
-            "timestamp": 175.2667,
-            "time": "02:55.267",
+            "timestamp": 173.2667,
+            "time": "02:53.267",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11554,8 +11554,8 @@
             "index": 199
         },
         {
-            "timestamp": 175.3762,
-            "time": "02:55.376",
+            "timestamp": 173.3762,
+            "time": "02:53.376",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11618,8 +11618,8 @@
             "index": 200
         },
         {
-            "timestamp": 176.3872,
-            "time": "02:56.387",
+            "timestamp": 174.3872,
+            "time": "02:54.387",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11676,8 +11676,8 @@
             "index": 201
         },
         {
-            "timestamp": 176.5408,
-            "time": "02:56.541",
+            "timestamp": 174.5408,
+            "time": "02:54.541",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11740,8 +11740,8 @@
             "index": 202
         },
         {
-            "timestamp": 177.3914,
-            "time": "02:57.391",
+            "timestamp": 175.3914,
+            "time": "02:55.391",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11798,8 +11798,8 @@
             "index": 203
         },
         {
-            "timestamp": 177.52,
-            "time": "02:57.520",
+            "timestamp": 175.52,
+            "time": "02:55.520",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11862,8 +11862,8 @@
             "index": 204
         },
         {
-            "timestamp": 178.5421,
-            "time": "02:58.542",
+            "timestamp": 176.5421,
+            "time": "02:56.542",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11920,8 +11920,8 @@
             "index": 205
         },
         {
-            "timestamp": 178.7068,
-            "time": "02:58.707",
+            "timestamp": 176.7068,
+            "time": "02:56.707",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -11984,8 +11984,8 @@
             "index": 206
         },
         {
-            "timestamp": 180.2443,
-            "time": "03:00.244",
+            "timestamp": 178.2443,
+            "time": "02:58.244",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12042,8 +12042,8 @@
             "index": 207
         },
         {
-            "timestamp": 180.939,
-            "time": "03:00.939",
+            "timestamp": 178.939,
+            "time": "02:58.939",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12100,8 +12100,8 @@
             "index": 208
         },
         {
-            "timestamp": 183.2574,
-            "time": "03:03.257",
+            "timestamp": 181.2574,
+            "time": "03:01.257",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12158,8 +12158,8 @@
             "index": 209
         },
         {
-            "timestamp": 183.3881,
-            "time": "03:03.388",
+            "timestamp": 181.3881,
+            "time": "03:01.388",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12216,8 +12216,8 @@
             "index": 210
         },
         {
-            "timestamp": 183.4883,
-            "time": "03:03.488",
+            "timestamp": 181.4883,
+            "time": "03:01.488",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12280,8 +12280,8 @@
             "index": 211
         },
         {
-            "timestamp": 184.4557,
-            "time": "03:04.456",
+            "timestamp": 182.4557,
+            "time": "03:02.456",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12338,8 +12338,8 @@
             "index": 212
         },
         {
-            "timestamp": 184.6044,
-            "time": "03:04.604",
+            "timestamp": 182.6044,
+            "time": "03:02.604",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12402,8 +12402,8 @@
             "index": 213
         },
         {
-            "timestamp": 189.2541,
-            "time": "03:09.254",
+            "timestamp": 187.2541,
+            "time": "03:07.254",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12460,8 +12460,8 @@
             "index": 214
         },
         {
-            "timestamp": 189.7615,
-            "time": "03:09.762",
+            "timestamp": 187.7615,
+            "time": "03:07.762",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12518,8 +12518,8 @@
             "index": 215
         },
         {
-            "timestamp": 189.8732,
-            "time": "03:09.873",
+            "timestamp": 187.8732,
+            "time": "03:07.873",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12576,8 +12576,8 @@
             "index": 216
         },
         {
-            "timestamp": 189.9735,
-            "time": "03:09.974",
+            "timestamp": 187.9735,
+            "time": "03:07.974",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12634,8 +12634,8 @@
             "index": 217
         },
         {
-            "timestamp": 190.0819,
-            "time": "03:10.082",
+            "timestamp": 188.0819,
+            "time": "03:08.082",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12692,8 +12692,8 @@
             "index": 218
         },
         {
-            "timestamp": 190.1716,
-            "time": "03:10.172",
+            "timestamp": 188.1716,
+            "time": "03:08.172",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12750,8 +12750,8 @@
             "index": 219
         },
         {
-            "timestamp": 190.2577,
-            "time": "03:10.258",
+            "timestamp": 188.2577,
+            "time": "03:08.258",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12808,8 +12808,8 @@
             "index": 220
         },
         {
-            "timestamp": 190.4032,
-            "time": "03:10.403",
+            "timestamp": 188.4032,
+            "time": "03:08.403",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12866,8 +12866,8 @@
             "index": 221
         },
         {
-            "timestamp": 190.4766,
-            "time": "03:10.477",
+            "timestamp": 188.4766,
+            "time": "03:08.477",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12924,8 +12924,8 @@
             "index": 222
         },
         {
-            "timestamp": 190.5566,
-            "time": "03:10.557",
+            "timestamp": 188.5566,
+            "time": "03:08.557",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -12982,8 +12982,8 @@
             "index": 223
         },
         {
-            "timestamp": 190.6896,
-            "time": "03:10.690",
+            "timestamp": 188.6896,
+            "time": "03:08.690",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13040,8 +13040,8 @@
             "index": 224
         },
         {
-            "timestamp": 190.7715,
-            "time": "03:10.772",
+            "timestamp": 188.7715,
+            "time": "03:08.772",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13098,8 +13098,8 @@
             "index": 225
         },
         {
-            "timestamp": 190.886,
-            "time": "03:10.886",
+            "timestamp": 188.886,
+            "time": "03:08.886",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13156,8 +13156,8 @@
             "index": 226
         },
         {
-            "timestamp": 191.4591,
-            "time": "03:11.459",
+            "timestamp": 189.4591,
+            "time": "03:09.459",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13214,8 +13214,8 @@
             "index": 227
         },
         {
-            "timestamp": 191.5812,
-            "time": "03:11.581",
+            "timestamp": 189.5812,
+            "time": "03:09.581",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13272,8 +13272,8 @@
             "index": 228
         },
         {
-            "timestamp": 192.0336,
-            "time": "03:12.034",
+            "timestamp": 190.0336,
+            "time": "03:10.034",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13330,8 +13330,8 @@
             "index": 229
         },
         {
-            "timestamp": 192.1284,
-            "time": "03:12.128",
+            "timestamp": 190.1284,
+            "time": "03:10.128",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13388,8 +13388,8 @@
             "index": 230
         },
         {
-            "timestamp": 192.2166,
-            "time": "03:12.217",
+            "timestamp": 190.2166,
+            "time": "03:10.217",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13446,8 +13446,8 @@
             "index": 231
         },
         {
-            "timestamp": 192.3137,
-            "time": "03:12.314",
+            "timestamp": 190.3137,
+            "time": "03:10.314",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13504,8 +13504,8 @@
             "index": 232
         },
         {
-            "timestamp": 192.4202,
-            "time": "03:12.420",
+            "timestamp": 190.4202,
+            "time": "03:10.420",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13562,8 +13562,8 @@
             "index": 233
         },
         {
-            "timestamp": 192.509,
-            "time": "03:12.509",
+            "timestamp": 190.509,
+            "time": "03:10.509",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13620,8 +13620,8 @@
             "index": 234
         },
         {
-            "timestamp": 192.6202,
-            "time": "03:12.620",
+            "timestamp": 190.6202,
+            "time": "03:10.620",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13678,8 +13678,8 @@
             "index": 235
         },
         {
-            "timestamp": 192.7357,
-            "time": "03:12.736",
+            "timestamp": 190.7357,
+            "time": "03:10.736",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13742,8 +13742,8 @@
             "index": 236
         },
         {
-            "timestamp": 193.4212,
-            "time": "03:13.421",
+            "timestamp": 191.4212,
+            "time": "03:11.421",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13800,8 +13800,8 @@
             "index": 237
         },
         {
-            "timestamp": 193.5899,
-            "time": "03:13.590",
+            "timestamp": 191.5899,
+            "time": "03:11.590",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13858,8 +13858,8 @@
             "index": 238
         },
         {
-            "timestamp": 193.725,
-            "time": "03:13.725",
+            "timestamp": 191.725,
+            "time": "03:11.725",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13922,8 +13922,8 @@
             "index": 239
         },
         {
-            "timestamp": 195.0684,
-            "time": "03:15.068",
+            "timestamp": 193.0684,
+            "time": "03:13.068",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -13980,8 +13980,8 @@
             "index": 240
         },
         {
-            "timestamp": 195.1814,
-            "time": "03:15.181",
+            "timestamp": 193.1814,
+            "time": "03:13.181",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14044,8 +14044,8 @@
             "index": 241
         },
         {
-            "timestamp": 196.1729,
-            "time": "03:16.173",
+            "timestamp": 194.1729,
+            "time": "03:14.173",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14099,8 +14099,8 @@
             "index": 242
         },
         {
-            "timestamp": 198.9181,
-            "time": "03:18.918",
+            "timestamp": 196.9181,
+            "time": "03:16.918",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14154,8 +14154,8 @@
             "index": 243
         },
         {
-            "timestamp": 201.5441,
-            "time": "03:21.544",
+            "timestamp": 199.5441,
+            "time": "03:19.544",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14209,8 +14209,8 @@
             "index": 244
         },
         {
-            "timestamp": 202.8538,
-            "time": "03:22.854",
+            "timestamp": 200.8538,
+            "time": "03:20.854",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14267,8 +14267,8 @@
             "index": 245
         },
         {
-            "timestamp": 202.9898,
-            "time": "03:22.990",
+            "timestamp": 200.9898,
+            "time": "03:20.990",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -14325,8 +14325,8 @@
             "index": 246
         },
         {
-            "timestamp": 203.2852,
-            "time": "03:23.285",
+            "timestamp": 201.2852,
+            "time": "03:21.285",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14389,8 +14389,8 @@
             "index": 247
         },
         {
-            "timestamp": 204.3984,
-            "time": "03:24.398",
+            "timestamp": 202.3984,
+            "time": "03:22.398",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14444,8 +14444,8 @@
             "index": 248
         },
         {
-            "timestamp": 204.5364,
-            "time": "03:24.536",
+            "timestamp": 202.5364,
+            "time": "03:22.536",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14499,8 +14499,8 @@
             "index": 249
         },
         {
-            "timestamp": 204.6399,
-            "time": "03:24.640",
+            "timestamp": 202.6399,
+            "time": "03:22.640",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14554,8 +14554,8 @@
             "index": 250
         },
         {
-            "timestamp": 204.7351,
-            "time": "03:24.735",
+            "timestamp": 202.7351,
+            "time": "03:22.735",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14609,8 +14609,8 @@
             "index": 251
         },
         {
-            "timestamp": 204.8824,
-            "time": "03:24.882",
+            "timestamp": 202.8824,
+            "time": "03:22.882",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14664,8 +14664,8 @@
             "index": 252
         },
         {
-            "timestamp": 205.0014,
-            "time": "03:25.001",
+            "timestamp": 203.0014,
+            "time": "03:23.001",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14719,8 +14719,8 @@
             "index": 253
         },
         {
-            "timestamp": 205.1072,
-            "time": "03:25.107",
+            "timestamp": 203.1072,
+            "time": "03:23.107",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14774,8 +14774,8 @@
             "index": 254
         },
         {
-            "timestamp": 205.2095,
-            "time": "03:25.209",
+            "timestamp": 203.2095,
+            "time": "03:23.209",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14829,8 +14829,8 @@
             "index": 255
         },
         {
-            "timestamp": 205.3251,
-            "time": "03:25.325",
+            "timestamp": 203.3251,
+            "time": "03:23.325",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14884,8 +14884,8 @@
             "index": 256
         },
         {
-            "timestamp": 205.5201,
-            "time": "03:25.520",
+            "timestamp": 203.5201,
+            "time": "03:23.520",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -14939,8 +14939,8 @@
             "index": 257
         },
         {
-            "timestamp": 206.8436,
-            "time": "03:26.844",
+            "timestamp": 204.8436,
+            "time": "03:24.844",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -14994,8 +14994,8 @@
             "index": 258
         },
         {
-            "timestamp": 210.836,
-            "time": "03:30.836",
+            "timestamp": 208.836,
+            "time": "03:28.836",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15049,8 +15049,8 @@
             "index": 259
         },
         {
-            "timestamp": 211.9017,
-            "time": "03:31.902",
+            "timestamp": 209.9017,
+            "time": "03:29.902",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15104,8 +15104,8 @@
             "index": 260
         },
         {
-            "timestamp": 212.0861,
-            "time": "03:32.086",
+            "timestamp": 210.0861,
+            "time": "03:30.086",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15159,8 +15159,8 @@
             "index": 261
         },
         {
-            "timestamp": 212.288,
-            "time": "03:32.288",
+            "timestamp": 210.288,
+            "time": "03:30.288",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15214,8 +15214,8 @@
             "index": 262
         },
         {
-            "timestamp": 212.4927,
-            "time": "03:32.493",
+            "timestamp": 210.4927,
+            "time": "03:30.493",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15269,8 +15269,8 @@
             "index": 263
         },
         {
-            "timestamp": 213.8891,
-            "time": "03:33.889",
+            "timestamp": 211.8891,
+            "time": "03:31.889",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -15324,8 +15324,8 @@
             "index": 264
         },
         {
-            "timestamp": 216.8097,
-            "time": "03:36.810",
+            "timestamp": 214.8097,
+            "time": "03:34.810",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15379,8 +15379,8 @@
             "index": 265
         },
         {
-            "timestamp": 217.0945,
-            "time": "03:37.095",
+            "timestamp": 215.0945,
+            "time": "03:35.095",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15434,8 +15434,8 @@
             "index": 266
         },
         {
-            "timestamp": 217.8709,
-            "time": "03:37.871",
+            "timestamp": 215.8709,
+            "time": "03:35.871",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15489,8 +15489,8 @@
             "index": 267
         },
         {
-            "timestamp": 218.8877,
-            "time": "03:38.888",
+            "timestamp": 216.8877,
+            "time": "03:36.888",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15547,8 +15547,8 @@
             "index": 268
         },
         {
-            "timestamp": 219.246,
-            "time": "03:39.246",
+            "timestamp": 217.246,
+            "time": "03:37.246",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15605,8 +15605,8 @@
             "index": 269
         },
         {
-            "timestamp": 219.3378,
-            "time": "03:39.338",
+            "timestamp": 217.3378,
+            "time": "03:37.338",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15669,8 +15669,8 @@
             "index": 270
         },
         {
-            "timestamp": 221.2501,
-            "time": "03:41.250",
+            "timestamp": 219.2501,
+            "time": "03:39.250",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15724,8 +15724,8 @@
             "index": 271
         },
         {
-            "timestamp": 222.3088,
-            "time": "03:42.309",
+            "timestamp": 220.3088,
+            "time": "03:40.309",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15782,8 +15782,8 @@
             "index": 272
         },
         {
-            "timestamp": 222.6406,
-            "time": "03:42.641",
+            "timestamp": 220.6406,
+            "time": "03:40.641",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -15840,8 +15840,8 @@
             "index": 273
         },
         {
-            "timestamp": 222.7146,
-            "time": "03:42.715",
+            "timestamp": 220.7146,
+            "time": "03:40.715",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -15904,8 +15904,8 @@
             "index": 274
         },
         {
-            "timestamp": 224.4656,
-            "time": "03:44.466",
+            "timestamp": 222.4656,
+            "time": "03:42.466",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -15962,8 +15962,8 @@
             "index": 275
         },
         {
-            "timestamp": 224.6517,
-            "time": "03:44.652",
+            "timestamp": 222.6517,
+            "time": "03:42.652",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16020,8 +16020,8 @@
             "index": 276
         },
         {
-            "timestamp": 224.7566,
-            "time": "03:44.757",
+            "timestamp": 222.7566,
+            "time": "03:42.757",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16084,8 +16084,8 @@
             "index": 277
         },
         {
-            "timestamp": 227.6961,
-            "time": "03:47.696",
+            "timestamp": 225.6961,
+            "time": "03:45.696",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16142,8 +16142,8 @@
             "index": 278
         },
         {
-            "timestamp": 227.8574,
-            "time": "03:47.857",
+            "timestamp": 225.8574,
+            "time": "03:45.857",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16200,8 +16200,8 @@
             "index": 279
         },
         {
-            "timestamp": 227.9608,
-            "time": "03:47.961",
+            "timestamp": 225.9608,
+            "time": "03:45.961",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16264,8 +16264,8 @@
             "index": 280
         },
         {
-            "timestamp": 228.7262,
-            "time": "03:48.726",
+            "timestamp": 226.7262,
+            "time": "03:46.726",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16319,8 +16319,8 @@
             "index": 281
         },
         {
-            "timestamp": 228.9626,
-            "time": "03:48.963",
+            "timestamp": 226.9626,
+            "time": "03:46.963",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16374,8 +16374,8 @@
             "index": 282
         },
         {
-            "timestamp": 233.5726,
-            "time": "03:53.573",
+            "timestamp": 231.5726,
+            "time": "03:51.573",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16429,8 +16429,8 @@
             "index": 283
         },
         {
-            "timestamp": 234.7477,
-            "time": "03:54.748",
+            "timestamp": 232.7477,
+            "time": "03:52.748",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16487,8 +16487,8 @@
             "index": 284
         },
         {
-            "timestamp": 234.8864,
-            "time": "03:54.886",
+            "timestamp": 232.8864,
+            "time": "03:52.886",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16545,8 +16545,8 @@
             "index": 285
         },
         {
-            "timestamp": 234.9944,
-            "time": "03:54.994",
+            "timestamp": 232.9944,
+            "time": "03:52.994",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16609,8 +16609,8 @@
             "index": 286
         },
         {
-            "timestamp": 237.0625,
-            "time": "03:57.062",
+            "timestamp": 235.0625,
+            "time": "03:55.062",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16667,8 +16667,8 @@
             "index": 287
         },
         {
-            "timestamp": 237.2365,
-            "time": "03:57.237",
+            "timestamp": 235.2365,
+            "time": "03:55.237",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16725,8 +16725,8 @@
             "index": 288
         },
         {
-            "timestamp": 237.3652,
-            "time": "03:57.365",
+            "timestamp": 235.3652,
+            "time": "03:55.365",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16789,8 +16789,8 @@
             "index": 289
         },
         {
-            "timestamp": 238.3933,
-            "time": "03:58.393",
+            "timestamp": 236.3933,
+            "time": "03:56.393",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16847,8 +16847,8 @@
             "index": 290
         },
         {
-            "timestamp": 238.5667,
-            "time": "03:58.567",
+            "timestamp": 236.5667,
+            "time": "03:56.567",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16911,8 +16911,8 @@
             "index": 291
         },
         {
-            "timestamp": 239.4183,
-            "time": "03:59.418",
+            "timestamp": 237.4183,
+            "time": "03:57.418",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -16969,8 +16969,8 @@
             "index": 292
         },
         {
-            "timestamp": 239.5872,
-            "time": "03:59.587",
+            "timestamp": 237.5872,
+            "time": "03:57.587",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17033,8 +17033,8 @@
             "index": 293
         },
         {
-            "timestamp": 242.0028,
-            "time": "04:02.003",
+            "timestamp": 240.0028,
+            "time": "04:00.003",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17088,8 +17088,8 @@
             "index": 294
         },
         {
-            "timestamp": 242.2222,
-            "time": "04:02.222",
+            "timestamp": 240.2222,
+            "time": "04:00.222",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17143,8 +17143,8 @@
             "index": 295
         },
         {
-            "timestamp": 243.2793,
-            "time": "04:03.279",
+            "timestamp": 241.2793,
+            "time": "04:01.279",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17198,8 +17198,8 @@
             "index": 296
         },
         {
-            "timestamp": 244.3725,
-            "time": "04:04.373",
+            "timestamp": 242.3725,
+            "time": "04:02.373",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17253,8 +17253,8 @@
             "index": 297
         },
         {
-            "timestamp": 245.2658,
-            "time": "04:05.266",
+            "timestamp": 243.2658,
+            "time": "04:03.266",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17308,8 +17308,8 @@
             "index": 298
         },
         {
-            "timestamp": 247.3831,
-            "time": "04:07.383",
+            "timestamp": 245.3831,
+            "time": "04:05.383",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17363,8 +17363,8 @@
             "index": 299
         },
         {
-            "timestamp": 249.1369,
-            "time": "04:09.137",
+            "timestamp": 247.1369,
+            "time": "04:07.137",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17418,8 +17418,8 @@
             "index": 300
         },
         {
-            "timestamp": 249.3457,
-            "time": "04:09.346",
+            "timestamp": 247.3457,
+            "time": "04:07.346",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17473,8 +17473,8 @@
             "index": 301
         },
         {
-            "timestamp": 250.6035,
-            "time": "04:10.603",
+            "timestamp": 248.6035,
+            "time": "04:08.603",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17528,8 +17528,8 @@
             "index": 302
         },
         {
-            "timestamp": 251.8371,
-            "time": "04:11.837",
+            "timestamp": 249.8371,
+            "time": "04:09.837",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17583,8 +17583,8 @@
             "index": 303
         },
         {
-            "timestamp": 253.0567,
-            "time": "04:13.057",
+            "timestamp": 251.0567,
+            "time": "04:11.057",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17638,8 +17638,8 @@
             "index": 304
         },
         {
-            "timestamp": 254.5737,
-            "time": "04:14.574",
+            "timestamp": 252.5737,
+            "time": "04:12.574",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17693,8 +17693,8 @@
             "index": 305
         },
         {
-            "timestamp": 255.275,
-            "time": "04:15.275",
+            "timestamp": 253.275,
+            "time": "04:13.275",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17748,8 +17748,8 @@
             "index": 306
         },
         {
-            "timestamp": 255.7579,
-            "time": "04:15.758",
+            "timestamp": 253.7579,
+            "time": "04:13.758",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17803,8 +17803,8 @@
             "index": 307
         },
         {
-            "timestamp": 256.0894,
-            "time": "04:16.089",
+            "timestamp": 254.0894,
+            "time": "04:14.089",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17858,8 +17858,8 @@
             "index": 308
         },
         {
-            "timestamp": 256.9754,
-            "time": "04:16.975",
+            "timestamp": 254.9754,
+            "time": "04:14.975",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17913,8 +17913,8 @@
             "index": 309
         },
         {
-            "timestamp": 257.5011,
-            "time": "04:17.501",
+            "timestamp": 255.5011,
+            "time": "04:15.501",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -17968,8 +17968,8 @@
             "index": 310
         },
         {
-            "timestamp": 258.0476,
-            "time": "04:18.048",
+            "timestamp": 256.0476,
+            "time": "04:16.048",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18023,8 +18023,8 @@
             "index": 311
         },
         {
-            "timestamp": 258.9903,
-            "time": "04:18.990",
+            "timestamp": 256.9903,
+            "time": "04:16.990",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18078,8 +18078,8 @@
             "index": 312
         },
         {
-            "timestamp": 260.0695,
-            "time": "04:20.070",
+            "timestamp": 258.0695,
+            "time": "04:18.070",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18133,8 +18133,8 @@
             "index": 313
         },
         {
-            "timestamp": 260.527,
-            "time": "04:20.527",
+            "timestamp": 258.527,
+            "time": "04:18.527",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18188,8 +18188,8 @@
             "index": 314
         },
         {
-            "timestamp": 260.9438,
-            "time": "04:20.944",
+            "timestamp": 258.9438,
+            "time": "04:18.944",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18243,8 +18243,8 @@
             "index": 315
         },
         {
-            "timestamp": 261.3022,
-            "time": "04:21.302",
+            "timestamp": 259.3022,
+            "time": "04:19.302",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18298,8 +18298,8 @@
             "index": 316
         },
         {
-            "timestamp": 261.7753,
-            "time": "04:21.775",
+            "timestamp": 259.7753,
+            "time": "04:19.775",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18353,8 +18353,8 @@
             "index": 317
         },
         {
-            "timestamp": 262.7391,
-            "time": "04:22.739",
+            "timestamp": 260.7391,
+            "time": "04:20.739",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18408,8 +18408,8 @@
             "index": 318
         },
         {
-            "timestamp": 263.1077,
-            "time": "04:23.108",
+            "timestamp": 261.1077,
+            "time": "04:21.108",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18463,8 +18463,8 @@
             "index": 319
         },
         {
-            "timestamp": 263.6628,
-            "time": "04:23.663",
+            "timestamp": 261.6628,
+            "time": "04:21.663",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18521,8 +18521,8 @@
             "index": 320
         },
         {
-            "timestamp": 270.1096,
-            "time": "04:30.110",
+            "timestamp": 268.1096,
+            "time": "04:28.110",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18576,8 +18576,8 @@
             "index": 321
         },
         {
-            "timestamp": 271.2658,
-            "time": "04:31.266",
+            "timestamp": 269.2658,
+            "time": "04:29.266",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18631,8 +18631,8 @@
             "index": 322
         },
         {
-            "timestamp": 271.4993,
-            "time": "04:31.499",
+            "timestamp": 269.4993,
+            "time": "04:29.499",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18686,8 +18686,8 @@
             "index": 323
         },
         {
-            "timestamp": 273.5371,
-            "time": "04:33.537",
+            "timestamp": 271.5371,
+            "time": "04:31.537",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -18741,8 +18741,8 @@
             "index": 324
         },
         {
-            "timestamp": 273.9838,
-            "time": "04:33.984",
+            "timestamp": 271.9838,
+            "time": "04:31.984",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -18796,8 +18796,8 @@
             "index": 325
         },
         {
-            "timestamp": 274.5889,
-            "time": "04:34.589",
+            "timestamp": 272.5889,
+            "time": "04:32.589",
             "application": "explorer.exe",
             "window_title": "Task 76 - File Explorer",
             "focused_element": {
@@ -18851,8 +18851,8 @@
             "index": 326
         },
         {
-            "timestamp": 288.9892,
-            "time": "04:48.989",
+            "timestamp": 286.9892,
+            "time": "04:46.989",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18906,8 +18906,8 @@
             "index": 327
         },
         {
-            "timestamp": 289.8825,
-            "time": "04:49.882",
+            "timestamp": 287.8825,
+            "time": "04:47.882",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -18961,8 +18961,8 @@
             "index": 328
         },
         {
-            "timestamp": 291.0538,
-            "time": "04:51.054",
+            "timestamp": 289.0538,
+            "time": "04:49.054",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19016,8 +19016,8 @@
             "index": 329
         },
         {
-            "timestamp": 292.2169,
-            "time": "04:52.217",
+            "timestamp": 290.2169,
+            "time": "04:50.217",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19071,8 +19071,8 @@
             "index": 330
         },
         {
-            "timestamp": 295.961,
-            "time": "04:55.961",
+            "timestamp": 293.961,
+            "time": "04:53.961",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19129,8 +19129,8 @@
             "index": 331
         },
         {
-            "timestamp": 297.4379,
-            "time": "04:57.438",
+            "timestamp": 295.4379,
+            "time": "04:55.438",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19184,8 +19184,8 @@
             "index": 332
         },
         {
-            "timestamp": 298.2653,
-            "time": "04:58.265",
+            "timestamp": 296.2653,
+            "time": "04:56.265",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19239,8 +19239,8 @@
             "index": 333
         },
         {
-            "timestamp": 298.684,
-            "time": "04:58.684",
+            "timestamp": 296.684,
+            "time": "04:56.684",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19297,8 +19297,8 @@
             "index": 334
         },
         {
-            "timestamp": 298.8276,
-            "time": "04:58.828",
+            "timestamp": 296.8276,
+            "time": "04:56.828",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19355,8 +19355,8 @@
             "index": 335
         },
         {
-            "timestamp": 298.9411,
-            "time": "04:58.941",
+            "timestamp": 296.9411,
+            "time": "04:56.941",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19419,8 +19419,8 @@
             "index": 336
         },
         {
-            "timestamp": 300.009,
-            "time": "05:00.009",
+            "timestamp": 298.009,
+            "time": "04:58.009",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19474,8 +19474,8 @@
             "index": 337
         },
         {
-            "timestamp": 303.8256,
-            "time": "05:03.826",
+            "timestamp": 301.8256,
+            "time": "05:01.826",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19532,8 +19532,8 @@
             "index": 338
         },
         {
-            "timestamp": 305.718,
-            "time": "05:05.718",
+            "timestamp": 303.718,
+            "time": "05:03.718",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19587,8 +19587,8 @@
             "index": 339
         },
         {
-            "timestamp": 306.7762,
-            "time": "05:06.776",
+            "timestamp": 304.7762,
+            "time": "05:04.776",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19642,8 +19642,8 @@
             "index": 340
         },
         {
-            "timestamp": 311.2736,
-            "time": "05:11.274",
+            "timestamp": 309.2736,
+            "time": "05:09.274",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19697,8 +19697,8 @@
             "index": 341
         },
         {
-            "timestamp": 313.3826,
-            "time": "05:13.383",
+            "timestamp": 311.3826,
+            "time": "05:11.383",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19752,8 +19752,8 @@
             "index": 342
         },
         {
-            "timestamp": 314.4575,
-            "time": "05:14.457",
+            "timestamp": 312.4575,
+            "time": "05:12.457",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19807,8 +19807,8 @@
             "index": 343
         },
         {
-            "timestamp": 315.7516,
-            "time": "05:15.752",
+            "timestamp": 313.7516,
+            "time": "05:13.752",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19862,8 +19862,8 @@
             "index": 344
         },
         {
-            "timestamp": 316.653,
-            "time": "05:16.653",
+            "timestamp": 314.653,
+            "time": "05:14.653",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19920,8 +19920,8 @@
             "index": 345
         },
         {
-            "timestamp": 316.8213,
-            "time": "05:16.821",
+            "timestamp": 314.8213,
+            "time": "05:14.821",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -19978,8 +19978,8 @@
             "index": 346
         },
         {
-            "timestamp": 316.978,
-            "time": "05:16.978",
+            "timestamp": 314.978,
+            "time": "05:14.978",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20042,8 +20042,8 @@
             "index": 347
         },
         {
-            "timestamp": 317.1054,
-            "time": "05:17.105",
+            "timestamp": 315.1054,
+            "time": "05:15.105",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20100,8 +20100,8 @@
             "index": 348
         },
         {
-            "timestamp": 317.2205,
-            "time": "05:17.221",
+            "timestamp": 315.2205,
+            "time": "05:15.221",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20164,8 +20164,8 @@
             "index": 349
         },
         {
-            "timestamp": 319.758,
-            "time": "05:19.758",
+            "timestamp": 317.758,
+            "time": "05:17.758",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20219,8 +20219,8 @@
             "index": 350
         },
         {
-            "timestamp": 321.0736,
-            "time": "05:21.074",
+            "timestamp": 319.0736,
+            "time": "05:19.074",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20277,8 +20277,8 @@
             "index": 351
         },
         {
-            "timestamp": 321.5881,
-            "time": "05:21.588",
+            "timestamp": 319.5881,
+            "time": "05:19.588",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20335,8 +20335,8 @@
             "index": 352
         },
         {
-            "timestamp": 321.7075,
-            "time": "05:21.707",
+            "timestamp": 319.7075,
+            "time": "05:19.707",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20393,8 +20393,8 @@
             "index": 353
         },
         {
-            "timestamp": 321.832,
-            "time": "05:21.832",
+            "timestamp": 319.832,
+            "time": "05:19.832",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20451,8 +20451,8 @@
             "index": 354
         },
         {
-            "timestamp": 321.9236,
-            "time": "05:21.924",
+            "timestamp": 319.9236,
+            "time": "05:19.924",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20509,8 +20509,8 @@
             "index": 355
         },
         {
-            "timestamp": 322.0391,
-            "time": "05:22.039",
+            "timestamp": 320.0391,
+            "time": "05:20.039",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20567,8 +20567,8 @@
             "index": 356
         },
         {
-            "timestamp": 322.1408,
-            "time": "05:22.141",
+            "timestamp": 320.1408,
+            "time": "05:20.141",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20625,8 +20625,8 @@
             "index": 357
         },
         {
-            "timestamp": 322.2589,
-            "time": "05:22.259",
+            "timestamp": 320.2589,
+            "time": "05:20.259",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20683,8 +20683,8 @@
             "index": 358
         },
         {
-            "timestamp": 322.3655,
-            "time": "05:22.365",
+            "timestamp": 320.3655,
+            "time": "05:20.365",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20741,8 +20741,8 @@
             "index": 359
         },
         {
-            "timestamp": 322.4742,
-            "time": "05:22.474",
+            "timestamp": 320.4742,
+            "time": "05:20.474",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20799,8 +20799,8 @@
             "index": 360
         },
         {
-            "timestamp": 322.6082,
-            "time": "05:22.608",
+            "timestamp": 320.6082,
+            "time": "05:20.608",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20857,8 +20857,8 @@
             "index": 361
         },
         {
-            "timestamp": 322.7361,
-            "time": "05:22.736",
+            "timestamp": 320.7361,
+            "time": "05:20.736",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20915,8 +20915,8 @@
             "index": 362
         },
         {
-            "timestamp": 322.8752,
-            "time": "05:22.875",
+            "timestamp": 320.8752,
+            "time": "05:20.875",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -20973,8 +20973,8 @@
             "index": 363
         },
         {
-            "timestamp": 322.9916,
-            "time": "05:22.992",
+            "timestamp": 320.9916,
+            "time": "05:20.992",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21031,8 +21031,8 @@
             "index": 364
         },
         {
-            "timestamp": 323.1004,
-            "time": "05:23.100",
+            "timestamp": 321.1004,
+            "time": "05:21.100",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21089,8 +21089,8 @@
             "index": 365
         },
         {
-            "timestamp": 323.2218,
-            "time": "05:23.222",
+            "timestamp": 321.2218,
+            "time": "05:21.222",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21147,8 +21147,8 @@
             "index": 366
         },
         {
-            "timestamp": 323.3833,
-            "time": "05:23.383",
+            "timestamp": 321.3833,
+            "time": "05:21.383",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21205,8 +21205,8 @@
             "index": 367
         },
         {
-            "timestamp": 323.4973,
-            "time": "05:23.497",
+            "timestamp": 321.4973,
+            "time": "05:21.497",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21263,8 +21263,8 @@
             "index": 368
         },
         {
-            "timestamp": 323.6251,
-            "time": "05:23.625",
+            "timestamp": 321.6251,
+            "time": "05:21.625",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21321,8 +21321,8 @@
             "index": 369
         },
         {
-            "timestamp": 323.7512,
-            "time": "05:23.751",
+            "timestamp": 321.7512,
+            "time": "05:21.751",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21379,8 +21379,8 @@
             "index": 370
         },
         {
-            "timestamp": 323.8753,
-            "time": "05:23.875",
+            "timestamp": 321.8753,
+            "time": "05:21.875",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21443,8 +21443,8 @@
             "index": 371
         },
         {
-            "timestamp": 324.7539,
-            "time": "05:24.754",
+            "timestamp": 322.7539,
+            "time": "05:22.754",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21498,8 +21498,8 @@
             "index": 372
         },
         {
-            "timestamp": 326.8431,
-            "time": "05:26.843",
+            "timestamp": 324.8431,
+            "time": "05:24.843",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21553,8 +21553,8 @@
             "index": 373
         },
         {
-            "timestamp": 328.6211,
-            "time": "05:28.621",
+            "timestamp": 326.6211,
+            "time": "05:26.621",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21608,8 +21608,8 @@
             "index": 374
         },
         {
-            "timestamp": 328.9539,
-            "time": "05:28.954",
+            "timestamp": 326.9539,
+            "time": "05:26.954",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21663,8 +21663,8 @@
             "index": 375
         },
         {
-            "timestamp": 331.3201,
-            "time": "05:31.320",
+            "timestamp": 329.3201,
+            "time": "05:29.320",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21721,8 +21721,8 @@
             "index": 376
         },
         {
-            "timestamp": 331.4873,
-            "time": "05:31.487",
+            "timestamp": 329.4873,
+            "time": "05:29.487",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21779,8 +21779,8 @@
             "index": 377
         },
         {
-            "timestamp": 331.6318,
-            "time": "05:31.632",
+            "timestamp": 329.6318,
+            "time": "05:29.632",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21843,8 +21843,8 @@
             "index": 378
         },
         {
-            "timestamp": 333.731,
-            "time": "05:33.731",
+            "timestamp": 331.731,
+            "time": "05:31.731",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21898,8 +21898,8 @@
             "index": 379
         },
         {
-            "timestamp": 335.7015,
-            "time": "05:35.702",
+            "timestamp": 333.7015,
+            "time": "05:33.702",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -21953,8 +21953,8 @@
             "index": 380
         },
         {
-            "timestamp": 336.8268,
-            "time": "05:36.827",
+            "timestamp": 334.8268,
+            "time": "05:34.827",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22008,8 +22008,8 @@
             "index": 381
         },
         {
-            "timestamp": 338.0269,
-            "time": "05:38.027",
+            "timestamp": 336.0269,
+            "time": "05:36.027",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22063,8 +22063,8 @@
             "index": 382
         },
         {
-            "timestamp": 338.9194,
-            "time": "05:38.919",
+            "timestamp": 336.9194,
+            "time": "05:36.919",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22118,8 +22118,8 @@
             "index": 383
         },
         {
-            "timestamp": 340.1924,
-            "time": "05:40.192",
+            "timestamp": 338.1924,
+            "time": "05:38.192",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22173,8 +22173,8 @@
             "index": 384
         },
         {
-            "timestamp": 341.1177,
-            "time": "05:41.118",
+            "timestamp": 339.1177,
+            "time": "05:39.118",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22228,8 +22228,8 @@
             "index": 385
         },
         {
-            "timestamp": 341.6924,
-            "time": "05:41.692",
+            "timestamp": 339.6924,
+            "time": "05:39.692",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22283,8 +22283,8 @@
             "index": 386
         },
         {
-            "timestamp": 343.9058,
-            "time": "05:43.906",
+            "timestamp": 341.9058,
+            "time": "05:41.906",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22338,8 +22338,8 @@
             "index": 387
         },
         {
-            "timestamp": 345.3727,
-            "time": "05:45.373",
+            "timestamp": 343.3727,
+            "time": "05:43.373",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22393,8 +22393,8 @@
             "index": 388
         },
         {
-            "timestamp": 346.2616,
-            "time": "05:46.262",
+            "timestamp": 344.2616,
+            "time": "05:44.262",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22448,8 +22448,8 @@
             "index": 389
         },
         {
-            "timestamp": 347.6144,
-            "time": "05:47.614",
+            "timestamp": 345.6144,
+            "time": "05:45.614",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -22503,8 +22503,8 @@
             "index": 390
         },
         {
-            "timestamp": 349.788,
-            "time": "05:49.788",
+            "timestamp": 347.788,
+            "time": "05:47.788",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {

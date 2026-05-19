@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756556624.9697423,
+            "started_at": 1756556626.9697423,
             "ended_at": 1756556919.3594606,
             "started_time": "00:00.000",
-            "ended_time": "02:56.821",
+            "ended_time": "02:54.821",
             "duration": 294.39
         },
         "statistics": {
@@ -61,7 +61,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -119,8 +119,8 @@
             "index": 0
         },
         {
-            "timestamp": 16.4756,
-            "time": "00:16.476",
+            "timestamp": 14.4756,
+            "time": "00:14.476",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -174,8 +174,8 @@
             "index": 1
         },
         {
-            "timestamp": 16.595,
-            "time": "00:16.595",
+            "timestamp": 14.595,
+            "time": "00:14.595",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -229,8 +229,8 @@
             "index": 2
         },
         {
-            "timestamp": 16.8495,
-            "time": "00:16.849",
+            "timestamp": 14.8495,
+            "time": "00:14.849",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -284,8 +284,8 @@
             "index": 3
         },
         {
-            "timestamp": 16.949,
-            "time": "00:16.949",
+            "timestamp": 14.949,
+            "time": "00:14.949",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -339,8 +339,8 @@
             "index": 4
         },
         {
-            "timestamp": 17.2175,
-            "time": "00:17.218",
+            "timestamp": 15.2175,
+            "time": "00:15.218",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -394,8 +394,8 @@
             "index": 5
         },
         {
-            "timestamp": 17.3057,
-            "time": "00:17.306",
+            "timestamp": 15.3057,
+            "time": "00:15.306",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -449,8 +449,8 @@
             "index": 6
         },
         {
-            "timestamp": 18.3846,
-            "time": "00:18.385",
+            "timestamp": 16.3846,
+            "time": "00:16.385",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -504,8 +504,8 @@
             "index": 7
         },
         {
-            "timestamp": 18.5113,
-            "time": "00:18.511",
+            "timestamp": 16.5113,
+            "time": "00:16.511",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -559,8 +559,8 @@
             "index": 8
         },
         {
-            "timestamp": 19.058,
-            "time": "00:19.058",
+            "timestamp": 17.058,
+            "time": "00:17.058",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -614,8 +614,8 @@
             "index": 9
         },
         {
-            "timestamp": 19.1604,
-            "time": "00:19.160",
+            "timestamp": 17.1604,
+            "time": "00:17.160",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -669,8 +669,8 @@
             "index": 10
         },
         {
-            "timestamp": 19.3916,
-            "time": "00:19.392",
+            "timestamp": 17.3916,
+            "time": "00:17.392",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -724,8 +724,8 @@
             "index": 11
         },
         {
-            "timestamp": 19.5255,
-            "time": "00:19.526",
+            "timestamp": 17.5255,
+            "time": "00:17.526",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -779,8 +779,8 @@
             "index": 12
         },
         {
-            "timestamp": 19.8869,
-            "time": "00:19.887",
+            "timestamp": 17.8869,
+            "time": "00:17.887",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -834,8 +834,8 @@
             "index": 13
         },
         {
-            "timestamp": 19.9661,
-            "time": "00:19.966",
+            "timestamp": 17.9661,
+            "time": "00:17.966",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -889,8 +889,8 @@
             "index": 14
         },
         {
-            "timestamp": 23.4628,
-            "time": "00:23.463",
+            "timestamp": 21.4628,
+            "time": "00:21.463",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -944,8 +944,8 @@
             "index": 15
         },
         {
-            "timestamp": 23.5779,
-            "time": "00:23.578",
+            "timestamp": 21.5779,
+            "time": "00:21.578",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -999,8 +999,8 @@
             "index": 16
         },
         {
-            "timestamp": 25.2425,
-            "time": "00:25.242",
+            "timestamp": 23.2425,
+            "time": "00:23.242",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -1054,8 +1054,8 @@
             "index": 17
         },
         {
-            "timestamp": 150.5803,
-            "time": "02:30.580",
+            "timestamp": 148.5803,
+            "time": "02:28.580",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1112,8 +1112,8 @@
             "index": 18
         },
         {
-            "timestamp": 151.0668,
-            "time": "02:31.067",
+            "timestamp": 149.0668,
+            "time": "02:29.067",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1170,8 +1170,8 @@
             "index": 19
         },
         {
-            "timestamp": 151.1913,
-            "time": "02:31.191",
+            "timestamp": 149.1913,
+            "time": "02:29.191",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1228,8 +1228,8 @@
             "index": 20
         },
         {
-            "timestamp": 151.2741,
-            "time": "02:31.274",
+            "timestamp": 149.2741,
+            "time": "02:29.274",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1292,8 +1292,8 @@
             "index": 21
         },
         {
-            "timestamp": 153.2931,
-            "time": "02:33.293",
+            "timestamp": 151.2931,
+            "time": "02:31.293",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1350,8 +1350,8 @@
             "index": 22
         },
         {
-            "timestamp": 155.2795,
-            "time": "02:35.280",
+            "timestamp": 153.2795,
+            "time": "02:33.280",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1408,8 +1408,8 @@
             "index": 23
         },
         {
-            "timestamp": 155.4033,
-            "time": "02:35.403",
+            "timestamp": 153.4033,
+            "time": "02:33.403",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1467,8 +1467,8 @@
             "index": 24
         },
         {
-            "timestamp": 155.5212,
-            "time": "02:35.521",
+            "timestamp": 153.5212,
+            "time": "02:33.521",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1526,8 +1526,8 @@
             "index": 25
         },
         {
-            "timestamp": 155.6013,
-            "time": "02:35.601",
+            "timestamp": 153.6013,
+            "time": "02:33.601",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1591,8 +1591,8 @@
             "index": 26
         },
         {
-            "timestamp": 159.7945,
-            "time": "02:39.794",
+            "timestamp": 157.7945,
+            "time": "02:37.794",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1646,8 +1646,8 @@
             "index": 27
         },
         {
-            "timestamp": 162.032,
-            "time": "02:42.032",
+            "timestamp": 160.032,
+            "time": "02:40.032",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1701,8 +1701,8 @@
             "index": 28
         },
         {
-            "timestamp": 162.1457,
-            "time": "02:42.146",
+            "timestamp": 160.1457,
+            "time": "02:40.146",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1756,8 +1756,8 @@
             "index": 29
         },
         {
-            "timestamp": 164.5375,
-            "time": "02:44.537",
+            "timestamp": 162.5375,
+            "time": "02:42.537",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1811,8 +1811,8 @@
             "index": 30
         },
         {
-            "timestamp": 164.6631,
-            "time": "02:44.663",
+            "timestamp": 162.6631,
+            "time": "02:42.663",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1866,8 +1866,8 @@
             "index": 31
         },
         {
-            "timestamp": 165.928,
-            "time": "02:45.928",
+            "timestamp": 163.928,
+            "time": "02:43.928",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1921,8 +1921,8 @@
             "index": 32
         },
         {
-            "timestamp": 166.0469,
-            "time": "02:46.047",
+            "timestamp": 164.0469,
+            "time": "02:44.047",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -1976,8 +1976,8 @@
             "index": 33
         },
         {
-            "timestamp": 167.0075,
-            "time": "02:47.007",
+            "timestamp": 165.0075,
+            "time": "02:45.007",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2031,8 +2031,8 @@
             "index": 34
         },
         {
-            "timestamp": 167.1174,
-            "time": "02:47.117",
+            "timestamp": 165.1174,
+            "time": "02:45.117",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2086,8 +2086,8 @@
             "index": 35
         },
         {
-            "timestamp": 168.0157,
-            "time": "02:48.016",
+            "timestamp": 166.0157,
+            "time": "02:46.016",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2141,8 +2141,8 @@
             "index": 36
         },
         {
-            "timestamp": 168.1355,
-            "time": "02:48.136",
+            "timestamp": 166.1355,
+            "time": "02:46.136",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2196,8 +2196,8 @@
             "index": 37
         },
         {
-            "timestamp": 169.0964,
-            "time": "02:49.096",
+            "timestamp": 167.0964,
+            "time": "02:47.096",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2251,8 +2251,8 @@
             "index": 38
         },
         {
-            "timestamp": 169.2263,
-            "time": "02:49.226",
+            "timestamp": 167.2263,
+            "time": "02:47.226",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2306,8 +2306,8 @@
             "index": 39
         },
         {
-            "timestamp": 170.2336,
-            "time": "02:50.234",
+            "timestamp": 168.2336,
+            "time": "02:48.234",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2361,8 +2361,8 @@
             "index": 40
         },
         {
-            "timestamp": 170.3464,
-            "time": "02:50.346",
+            "timestamp": 168.3464,
+            "time": "02:48.346",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2416,8 +2416,8 @@
             "index": 41
         },
         {
-            "timestamp": 171.2084,
-            "time": "02:51.208",
+            "timestamp": 169.2084,
+            "time": "02:49.208",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2471,8 +2471,8 @@
             "index": 42
         },
         {
-            "timestamp": 171.3066,
-            "time": "02:51.307",
+            "timestamp": 169.3066,
+            "time": "02:49.307",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2526,8 +2526,8 @@
             "index": 43
         },
         {
-            "timestamp": 172.2619,
-            "time": "02:52.262",
+            "timestamp": 170.2619,
+            "time": "02:50.262",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2581,8 +2581,8 @@
             "index": 44
         },
         {
-            "timestamp": 172.3509,
-            "time": "02:52.351",
+            "timestamp": 170.3509,
+            "time": "02:50.351",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2636,8 +2636,8 @@
             "index": 45
         },
         {
-            "timestamp": 173.2479,
-            "time": "02:53.248",
+            "timestamp": 171.2479,
+            "time": "02:51.248",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2691,8 +2691,8 @@
             "index": 46
         },
         {
-            "timestamp": 173.3396,
-            "time": "02:53.340",
+            "timestamp": 171.3396,
+            "time": "02:51.340",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2746,8 +2746,8 @@
             "index": 47
         },
         {
-            "timestamp": 174.3543,
-            "time": "02:54.354",
+            "timestamp": 172.3543,
+            "time": "02:52.354",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2801,8 +2801,8 @@
             "index": 48
         },
         {
-            "timestamp": 174.4812,
-            "time": "02:54.481",
+            "timestamp": 172.4812,
+            "time": "02:52.481",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2856,8 +2856,8 @@
             "index": 49
         },
         {
-            "timestamp": 175.4263,
-            "time": "02:55.426",
+            "timestamp": 173.4263,
+            "time": "02:53.426",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2911,8 +2911,8 @@
             "index": 50
         },
         {
-            "timestamp": 175.5554,
-            "time": "02:55.555",
+            "timestamp": 173.5554,
+            "time": "02:53.555",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {
@@ -2966,8 +2966,8 @@
             "index": 51
         },
         {
-            "timestamp": 176.8205,
-            "time": "02:56.821",
+            "timestamp": 174.8205,
+            "time": "02:54.821",
             "application": "Taskmgr.exe",
             "window_title": "Task Manager",
             "focused_element": {

@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756911649.8413374,
+            "started_at": 1756911651.8413374,
             "ended_at": 1756911735.9644313,
             "started_time": "00:00.000",
-            "ended_time": "01:07.598",
+            "ended_time": "01:05.598",
             "duration": 86.12
         },
         "statistics": {
@@ -57,7 +57,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -115,8 +115,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.5058,
-            "time": "00:00.506",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -173,8 +173,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.5614,
-            "time": "00:00.561",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -231,8 +231,8 @@
             "index": 2
         },
         {
-            "timestamp": 0.6071,
-            "time": "00:00.607",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -289,8 +289,8 @@
             "index": 3
         },
         {
-            "timestamp": 0.6592,
-            "time": "00:00.659",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -347,8 +347,8 @@
             "index": 4
         },
         {
-            "timestamp": 0.815,
-            "time": "00:00.815",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -405,8 +405,8 @@
             "index": 5
         },
         {
-            "timestamp": 1.0821,
-            "time": "00:01.082",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -463,8 +463,8 @@
             "index": 6
         },
         {
-            "timestamp": 1.1774,
-            "time": "00:01.177",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -527,8 +527,8 @@
             "index": 7
         },
         {
-            "timestamp": 1.7062,
-            "time": "00:01.706",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -585,8 +585,8 @@
             "index": 8
         },
         {
-            "timestamp": 1.7855,
-            "time": "00:01.786",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -643,8 +643,8 @@
             "index": 9
         },
         {
-            "timestamp": 1.8432,
-            "time": "00:01.843",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -707,8 +707,8 @@
             "index": 10
         },
         {
-            "timestamp": 1.9244,
-            "time": "00:01.924",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -765,8 +765,8 @@
             "index": 11
         },
         {
-            "timestamp": 1.9984,
-            "time": "00:01.998",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -829,8 +829,8 @@
             "index": 12
         },
         {
-            "timestamp": 2.7785,
-            "time": "00:02.779",
+            "timestamp": 0.7785,
+            "time": "00:00.779",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -884,8 +884,8 @@
             "index": 13
         },
         {
-            "timestamp": 3.8275,
-            "time": "00:03.828",
+            "timestamp": 1.8275,
+            "time": "00:01.828",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -939,8 +939,8 @@
             "index": 14
         },
         {
-            "timestamp": 4.7995,
-            "time": "00:04.800",
+            "timestamp": 2.7995,
+            "time": "00:02.800",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -994,8 +994,8 @@
             "index": 15
         },
         {
-            "timestamp": 5.9477,
-            "time": "00:05.948",
+            "timestamp": 3.9477,
+            "time": "00:03.948",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1049,8 +1049,8 @@
             "index": 16
         },
         {
-            "timestamp": 6.515,
-            "time": "00:06.515",
+            "timestamp": 4.515,
+            "time": "00:04.515",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1104,8 +1104,8 @@
             "index": 17
         },
         {
-            "timestamp": 6.7724,
-            "time": "00:06.772",
+            "timestamp": 4.7724,
+            "time": "00:04.772",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1159,8 +1159,8 @@
             "index": 18
         },
         {
-            "timestamp": 8.9731,
-            "time": "00:08.973",
+            "timestamp": 6.9731,
+            "time": "00:06.973",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1214,8 +1214,8 @@
             "index": 19
         },
         {
-            "timestamp": 10.3233,
-            "time": "00:10.323",
+            "timestamp": 8.3233,
+            "time": "00:08.323",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1269,8 +1269,8 @@
             "index": 20
         },
         {
-            "timestamp": 10.5025,
-            "time": "00:10.502",
+            "timestamp": 8.5025,
+            "time": "00:08.502",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1324,8 +1324,8 @@
             "index": 21
         },
         {
-            "timestamp": 11.7915,
-            "time": "00:11.791",
+            "timestamp": 9.7915,
+            "time": "00:09.791",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1379,8 +1379,8 @@
             "index": 22
         },
         {
-            "timestamp": 13.1327,
-            "time": "00:13.133",
+            "timestamp": 11.1327,
+            "time": "00:11.133",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1434,8 +1434,8 @@
             "index": 23
         },
         {
-            "timestamp": 14.3355,
-            "time": "00:14.335",
+            "timestamp": 12.3355,
+            "time": "00:12.335",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1489,8 +1489,8 @@
             "index": 24
         },
         {
-            "timestamp": 17.4025,
-            "time": "00:17.402",
+            "timestamp": 15.4025,
+            "time": "00:15.402",
             "application": "explorer.exe",
             "window_title": "Task 77 - File Explorer",
             "focused_element": {
@@ -1544,8 +1544,8 @@
             "index": 25
         },
         {
-            "timestamp": 18.0133,
-            "time": "00:18.013",
+            "timestamp": 16.0133,
+            "time": "00:16.013",
             "application": "explorer.exe",
             "window_title": "Task 77 - File Explorer",
             "focused_element": {
@@ -1599,8 +1599,8 @@
             "index": 26
         },
         {
-            "timestamp": 18.5719,
-            "time": "00:18.572",
+            "timestamp": 16.5719,
+            "time": "00:16.572",
             "application": "explorer.exe",
             "window_title": "Task 77 - File Explorer",
             "focused_element": {
@@ -1654,8 +1654,8 @@
             "index": 27
         },
         {
-            "timestamp": 22.3179,
-            "time": "00:22.318",
+            "timestamp": 20.3179,
+            "time": "00:20.318",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1709,8 +1709,8 @@
             "index": 28
         },
         {
-            "timestamp": 23.5687,
-            "time": "00:23.569",
+            "timestamp": 21.5687,
+            "time": "00:21.569",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1764,8 +1764,8 @@
             "index": 29
         },
         {
-            "timestamp": 23.689,
-            "time": "00:23.689",
+            "timestamp": 21.689,
+            "time": "00:21.689",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1819,8 +1819,8 @@
             "index": 30
         },
         {
-            "timestamp": 24.9518,
-            "time": "00:24.952",
+            "timestamp": 22.9518,
+            "time": "00:22.952",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1877,8 +1877,8 @@
             "index": 31
         },
         {
-            "timestamp": 25.0452,
-            "time": "00:25.045",
+            "timestamp": 23.0452,
+            "time": "00:23.045",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1935,8 +1935,8 @@
             "index": 32
         },
         {
-            "timestamp": 25.1299,
-            "time": "00:25.130",
+            "timestamp": 23.1299,
+            "time": "00:23.130",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -1999,8 +1999,8 @@
             "index": 33
         },
         {
-            "timestamp": 26.1266,
-            "time": "00:26.127",
+            "timestamp": 24.1266,
+            "time": "00:24.127",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2054,8 +2054,8 @@
             "index": 34
         },
         {
-            "timestamp": 28.7156,
-            "time": "00:28.716",
+            "timestamp": 26.7156,
+            "time": "00:26.716",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2109,8 +2109,8 @@
             "index": 35
         },
         {
-            "timestamp": 29.9588,
-            "time": "00:29.959",
+            "timestamp": 27.9588,
+            "time": "00:27.959",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2164,8 +2164,8 @@
             "index": 36
         },
         {
-            "timestamp": 32.4352,
-            "time": "00:32.435",
+            "timestamp": 30.4352,
+            "time": "00:30.435",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2219,8 +2219,8 @@
             "index": 37
         },
         {
-            "timestamp": 32.5345,
-            "time": "00:32.535",
+            "timestamp": 30.5345,
+            "time": "00:30.535",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2274,8 +2274,8 @@
             "index": 38
         },
         {
-            "timestamp": 33.7558,
-            "time": "00:33.756",
+            "timestamp": 31.7558,
+            "time": "00:31.756",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2329,8 +2329,8 @@
             "index": 39
         },
         {
-            "timestamp": 33.8417,
-            "time": "00:33.842",
+            "timestamp": 31.8417,
+            "time": "00:31.842",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2384,8 +2384,8 @@
             "index": 40
         },
         {
-            "timestamp": 37.1139,
-            "time": "00:37.114",
+            "timestamp": 35.1139,
+            "time": "00:35.114",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2439,8 +2439,8 @@
             "index": 41
         },
         {
-            "timestamp": 39.3596,
-            "time": "00:39.360",
+            "timestamp": 37.3596,
+            "time": "00:37.360",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2494,8 +2494,8 @@
             "index": 42
         },
         {
-            "timestamp": 41.0184,
-            "time": "00:41.018",
+            "timestamp": 39.0184,
+            "time": "00:39.018",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2549,8 +2549,8 @@
             "index": 43
         },
         {
-            "timestamp": 42.5146,
-            "time": "00:42.515",
+            "timestamp": 40.5146,
+            "time": "00:40.515",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2604,8 +2604,8 @@
             "index": 44
         },
         {
-            "timestamp": 43.1018,
-            "time": "00:43.102",
+            "timestamp": 41.1018,
+            "time": "00:41.102",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2659,8 +2659,8 @@
             "index": 45
         },
         {
-            "timestamp": 44.2843,
-            "time": "00:44.284",
+            "timestamp": 42.2843,
+            "time": "00:42.284",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2714,8 +2714,8 @@
             "index": 46
         },
         {
-            "timestamp": 45.6427,
-            "time": "00:45.643",
+            "timestamp": 43.6427,
+            "time": "00:43.643",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2769,8 +2769,8 @@
             "index": 47
         },
         {
-            "timestamp": 49.8098,
-            "time": "00:49.810",
+            "timestamp": 47.8098,
+            "time": "00:47.810",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2824,8 +2824,8 @@
             "index": 48
         },
         {
-            "timestamp": 50.0367,
-            "time": "00:50.037",
+            "timestamp": 48.0367,
+            "time": "00:48.037",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2879,8 +2879,8 @@
             "index": 49
         },
         {
-            "timestamp": 50.2261,
-            "time": "00:50.226",
+            "timestamp": 48.2261,
+            "time": "00:48.226",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2934,8 +2934,8 @@
             "index": 50
         },
         {
-            "timestamp": 50.4104,
-            "time": "00:50.410",
+            "timestamp": 48.4104,
+            "time": "00:48.410",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -2989,8 +2989,8 @@
             "index": 51
         },
         {
-            "timestamp": 53.0338,
-            "time": "00:53.034",
+            "timestamp": 51.0338,
+            "time": "00:51.034",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3044,8 +3044,8 @@
             "index": 52
         },
         {
-            "timestamp": 55.7129,
-            "time": "00:55.713",
+            "timestamp": 53.7129,
+            "time": "00:53.713",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3099,8 +3099,8 @@
             "index": 53
         },
         {
-            "timestamp": 57.5447,
-            "time": "00:57.545",
+            "timestamp": 55.5447,
+            "time": "00:55.545",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3154,8 +3154,8 @@
             "index": 54
         },
         {
-            "timestamp": 58.5737,
-            "time": "00:58.574",
+            "timestamp": 56.5737,
+            "time": "00:56.574",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3209,8 +3209,8 @@
             "index": 55
         },
         {
-            "timestamp": 60.8183,
-            "time": "01:00.818",
+            "timestamp": 58.8183,
+            "time": "00:58.818",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3264,8 +3264,8 @@
             "index": 56
         },
         {
-            "timestamp": 62.3803,
-            "time": "01:02.380",
+            "timestamp": 60.3803,
+            "time": "01:00.380",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3319,8 +3319,8 @@
             "index": 57
         },
         {
-            "timestamp": 65.1651,
-            "time": "01:05.165",
+            "timestamp": 63.1651,
+            "time": "01:03.165",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {
@@ -3374,8 +3374,8 @@
             "index": 58
         },
         {
-            "timestamp": 67.5984,
-            "time": "01:07.598",
+            "timestamp": 65.5984,
+            "time": "01:05.598",
             "application": "Photos.exe",
             "window_title": "Task 77.jpg",
             "focused_element": {

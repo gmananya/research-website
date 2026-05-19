@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756663303.8028228,
+            "started_at": 1756663305.8028228,
             "ended_at": 1756663422.738993,
             "started_time": "00:00.000",
-            "ended_time": "01:45.492",
+            "ended_time": "01:43.492",
             "duration": 118.94
         },
         "statistics": {
@@ -94,8 +94,8 @@
     },
     "actions": [
         {
-            "timestamp": 1.6821,
-            "time": "00:01.682",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -149,8 +149,8 @@
             "index": 0
         },
         {
-            "timestamp": 2.407,
-            "time": "00:02.407",
+            "timestamp": 0.407,
+            "time": "00:00.407",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -204,8 +204,8 @@
             "index": 1
         },
         {
-            "timestamp": 3.5346,
-            "time": "00:03.535",
+            "timestamp": 1.5346,
+            "time": "00:01.535",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -259,8 +259,8 @@
             "index": 2
         },
         {
-            "timestamp": 4.9237,
-            "time": "00:04.924",
+            "timestamp": 2.9237,
+            "time": "00:02.924",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -314,8 +314,8 @@
             "index": 3
         },
         {
-            "timestamp": 9.1469,
-            "time": "00:09.147",
+            "timestamp": 7.1469,
+            "time": "00:07.147",
             "application": "chrome.exe",
             "window_title": "Restore pages?",
             "focused_element": {
@@ -369,8 +369,8 @@
             "index": 4
         },
         {
-            "timestamp": 13.4717,
-            "time": "00:13.472",
+            "timestamp": 11.4717,
+            "time": "00:11.472",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -424,8 +424,8 @@
             "index": 5
         },
         {
-            "timestamp": 13.9227,
-            "time": "00:13.923",
+            "timestamp": 11.9227,
+            "time": "00:11.923",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -479,8 +479,8 @@
             "index": 6
         },
         {
-            "timestamp": 14.0658,
-            "time": "00:14.066",
+            "timestamp": 12.0658,
+            "time": "00:12.066",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -534,8 +534,8 @@
             "index": 7
         },
         {
-            "timestamp": 14.2167,
-            "time": "00:14.217",
+            "timestamp": 12.2167,
+            "time": "00:12.217",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -589,8 +589,8 @@
             "index": 8
         },
         {
-            "timestamp": 14.3485,
-            "time": "00:14.348",
+            "timestamp": 12.3485,
+            "time": "00:12.348",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -644,8 +644,8 @@
             "index": 9
         },
         {
-            "timestamp": 14.4702,
-            "time": "00:14.470",
+            "timestamp": 12.4702,
+            "time": "00:12.470",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -699,8 +699,8 @@
             "index": 10
         },
         {
-            "timestamp": 14.6317,
-            "time": "00:14.632",
+            "timestamp": 12.6317,
+            "time": "00:12.632",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -754,8 +754,8 @@
             "index": 11
         },
         {
-            "timestamp": 14.7506,
-            "time": "00:14.751",
+            "timestamp": 12.7506,
+            "time": "00:12.751",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -809,8 +809,8 @@
             "index": 12
         },
         {
-            "timestamp": 14.8166,
-            "time": "00:14.817",
+            "timestamp": 12.8166,
+            "time": "00:12.817",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -864,8 +864,8 @@
             "index": 13
         },
         {
-            "timestamp": 14.8917,
-            "time": "00:14.892",
+            "timestamp": 12.8917,
+            "time": "00:12.892",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -919,8 +919,8 @@
             "index": 14
         },
         {
-            "timestamp": 14.9706,
-            "time": "00:14.971",
+            "timestamp": 12.9706,
+            "time": "00:12.971",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -974,8 +974,8 @@
             "index": 15
         },
         {
-            "timestamp": 15.1773,
-            "time": "00:15.177",
+            "timestamp": 13.1773,
+            "time": "00:13.177",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1029,8 +1029,8 @@
             "index": 16
         },
         {
-            "timestamp": 15.3175,
-            "time": "00:15.318",
+            "timestamp": 13.3175,
+            "time": "00:13.318",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1084,8 +1084,8 @@
             "index": 17
         },
         {
-            "timestamp": 15.4465,
-            "time": "00:15.447",
+            "timestamp": 13.4465,
+            "time": "00:13.447",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1139,8 +1139,8 @@
             "index": 18
         },
         {
-            "timestamp": 15.6842,
-            "time": "00:15.684",
+            "timestamp": 13.6842,
+            "time": "00:13.684",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1194,8 +1194,8 @@
             "index": 19
         },
         {
-            "timestamp": 15.8159,
-            "time": "00:15.816",
+            "timestamp": 13.8159,
+            "time": "00:13.816",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1249,8 +1249,8 @@
             "index": 20
         },
         {
-            "timestamp": 15.8888,
-            "time": "00:15.889",
+            "timestamp": 13.8888,
+            "time": "00:13.889",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1304,8 +1304,8 @@
             "index": 21
         },
         {
-            "timestamp": 16.1602,
-            "time": "00:16.160",
+            "timestamp": 14.1602,
+            "time": "00:14.160",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1359,8 +1359,8 @@
             "index": 22
         },
         {
-            "timestamp": 16.3546,
-            "time": "00:16.355",
+            "timestamp": 14.3546,
+            "time": "00:14.355",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1414,8 +1414,8 @@
             "index": 23
         },
         {
-            "timestamp": 18.7831,
-            "time": "00:18.783",
+            "timestamp": 16.7831,
+            "time": "00:16.783",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1469,8 +1469,8 @@
             "index": 24
         },
         {
-            "timestamp": 19.6088,
-            "time": "00:19.609",
+            "timestamp": 17.6088,
+            "time": "00:17.609",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1524,8 +1524,8 @@
             "index": 25
         },
         {
-            "timestamp": 20.1825,
-            "time": "00:20.183",
+            "timestamp": 18.1825,
+            "time": "00:18.183",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1579,8 +1579,8 @@
             "index": 26
         },
         {
-            "timestamp": 21.5266,
-            "time": "00:21.527",
+            "timestamp": 19.5266,
+            "time": "00:19.527",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1634,8 +1634,8 @@
             "index": 27
         },
         {
-            "timestamp": 22.8864,
-            "time": "00:22.886",
+            "timestamp": 20.8864,
+            "time": "00:20.886",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1689,8 +1689,8 @@
             "index": 28
         },
         {
-            "timestamp": 26.7865,
-            "time": "00:26.787",
+            "timestamp": 24.7865,
+            "time": "00:24.787",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1744,8 +1744,8 @@
             "index": 29
         },
         {
-            "timestamp": 28.1657,
-            "time": "00:28.166",
+            "timestamp": 26.1657,
+            "time": "00:26.166",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1802,8 +1802,8 @@
             "index": 30
         },
         {
-            "timestamp": 28.2685,
-            "time": "00:28.268",
+            "timestamp": 26.2685,
+            "time": "00:26.268",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1860,8 +1860,8 @@
             "index": 31
         },
         {
-            "timestamp": 28.3274,
-            "time": "00:28.327",
+            "timestamp": 26.3274,
+            "time": "00:26.327",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1924,8 +1924,8 @@
             "index": 32
         },
         {
-            "timestamp": 29.788,
-            "time": "00:29.788",
+            "timestamp": 27.788,
+            "time": "00:27.788",
             "application": "chrome.exe",
             "window_title": "baby shark lyrics - Google Search - Google Chrome",
             "focused_element": {
@@ -1979,8 +1979,8 @@
             "index": 33
         },
         {
-            "timestamp": 32.7565,
-            "time": "00:32.757",
+            "timestamp": 30.7565,
+            "time": "00:30.757",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2034,8 +2034,8 @@
             "index": 34
         },
         {
-            "timestamp": 33.3725,
-            "time": "00:33.373",
+            "timestamp": 31.3725,
+            "time": "00:31.373",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2089,8 +2089,8 @@
             "index": 35
         },
         {
-            "timestamp": 34.6959,
-            "time": "00:34.696",
+            "timestamp": 32.6959,
+            "time": "00:32.696",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2144,8 +2144,8 @@
             "index": 36
         },
         {
-            "timestamp": 35.6699,
-            "time": "00:35.670",
+            "timestamp": 33.6699,
+            "time": "00:33.670",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2199,8 +2199,8 @@
             "index": 37
         },
         {
-            "timestamp": 35.9602,
-            "time": "00:35.960",
+            "timestamp": 33.9602,
+            "time": "00:33.960",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2254,8 +2254,8 @@
             "index": 38
         },
         {
-            "timestamp": 36.3579,
-            "time": "00:36.358",
+            "timestamp": 34.3579,
+            "time": "00:34.358",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2309,8 +2309,8 @@
             "index": 39
         },
         {
-            "timestamp": 37.2397,
-            "time": "00:37.240",
+            "timestamp": 35.2397,
+            "time": "00:35.240",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2364,8 +2364,8 @@
             "index": 40
         },
         {
-            "timestamp": 38.0704,
-            "time": "00:38.070",
+            "timestamp": 36.0704,
+            "time": "00:36.070",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2419,8 +2419,8 @@
             "index": 41
         },
         {
-            "timestamp": 38.8562,
-            "time": "00:38.856",
+            "timestamp": 36.8562,
+            "time": "00:36.856",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2474,8 +2474,8 @@
             "index": 42
         },
         {
-            "timestamp": 39.0771,
-            "time": "00:39.077",
+            "timestamp": 37.0771,
+            "time": "00:37.077",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2529,8 +2529,8 @@
             "index": 43
         },
         {
-            "timestamp": 39.636,
-            "time": "00:39.636",
+            "timestamp": 37.636,
+            "time": "00:37.636",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2584,8 +2584,8 @@
             "index": 44
         },
         {
-            "timestamp": 39.969,
-            "time": "00:39.969",
+            "timestamp": 37.969,
+            "time": "00:37.969",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2639,8 +2639,8 @@
             "index": 45
         },
         {
-            "timestamp": 40.2826,
-            "time": "00:40.283",
+            "timestamp": 38.2826,
+            "time": "00:38.283",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2694,8 +2694,8 @@
             "index": 46
         },
         {
-            "timestamp": 40.7083,
-            "time": "00:40.708",
+            "timestamp": 38.7083,
+            "time": "00:38.708",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2749,8 +2749,8 @@
             "index": 47
         },
         {
-            "timestamp": 41.0541,
-            "time": "00:41.054",
+            "timestamp": 39.0541,
+            "time": "00:39.054",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2804,8 +2804,8 @@
             "index": 48
         },
         {
-            "timestamp": 41.4376,
-            "time": "00:41.438",
+            "timestamp": 39.4376,
+            "time": "00:39.438",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2859,8 +2859,8 @@
             "index": 49
         },
         {
-            "timestamp": 42.4855,
-            "time": "00:42.486",
+            "timestamp": 40.4855,
+            "time": "00:40.486",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2914,8 +2914,8 @@
             "index": 50
         },
         {
-            "timestamp": 42.6889,
-            "time": "00:42.689",
+            "timestamp": 40.6889,
+            "time": "00:40.689",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -2969,8 +2969,8 @@
             "index": 51
         },
         {
-            "timestamp": 42.8574,
-            "time": "00:42.857",
+            "timestamp": 40.8574,
+            "time": "00:40.857",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3024,8 +3024,8 @@
             "index": 52
         },
         {
-            "timestamp": 44.4537,
-            "time": "00:44.454",
+            "timestamp": 42.4537,
+            "time": "00:42.454",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3079,8 +3079,8 @@
             "index": 53
         },
         {
-            "timestamp": 45.8027,
-            "time": "00:45.803",
+            "timestamp": 43.8027,
+            "time": "00:43.803",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3134,8 +3134,8 @@
             "index": 54
         },
         {
-            "timestamp": 46.7914,
-            "time": "00:46.791",
+            "timestamp": 44.7914,
+            "time": "00:44.791",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3189,8 +3189,8 @@
             "index": 55
         },
         {
-            "timestamp": 47.0462,
-            "time": "00:47.046",
+            "timestamp": 45.0462,
+            "time": "00:45.046",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3244,8 +3244,8 @@
             "index": 56
         },
         {
-            "timestamp": 47.3474,
-            "time": "00:47.347",
+            "timestamp": 45.3474,
+            "time": "00:45.347",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3299,8 +3299,8 @@
             "index": 57
         },
         {
-            "timestamp": 47.8086,
-            "time": "00:47.809",
+            "timestamp": 45.8086,
+            "time": "00:45.809",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3354,8 +3354,8 @@
             "index": 58
         },
         {
-            "timestamp": 48.0895,
-            "time": "00:48.090",
+            "timestamp": 46.0895,
+            "time": "00:46.090",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3409,8 +3409,8 @@
             "index": 59
         },
         {
-            "timestamp": 48.3088,
-            "time": "00:48.309",
+            "timestamp": 46.3088,
+            "time": "00:46.309",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3464,8 +3464,8 @@
             "index": 60
         },
         {
-            "timestamp": 48.502,
-            "time": "00:48.502",
+            "timestamp": 46.502,
+            "time": "00:46.502",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3519,8 +3519,8 @@
             "index": 61
         },
         {
-            "timestamp": 49.0913,
-            "time": "00:49.091",
+            "timestamp": 47.0913,
+            "time": "00:47.091",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3574,8 +3574,8 @@
             "index": 62
         },
         {
-            "timestamp": 49.7264,
-            "time": "00:49.726",
+            "timestamp": 47.7264,
+            "time": "00:47.726",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3629,8 +3629,8 @@
             "index": 63
         },
         {
-            "timestamp": 50.3543,
-            "time": "00:50.354",
+            "timestamp": 48.3543,
+            "time": "00:48.354",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3684,8 +3684,8 @@
             "index": 64
         },
         {
-            "timestamp": 57.5034,
-            "time": "00:57.503",
+            "timestamp": 55.5034,
+            "time": "00:55.503",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3742,8 +3742,8 @@
             "index": 65
         },
         {
-            "timestamp": 57.6369,
-            "time": "00:57.637",
+            "timestamp": 55.6369,
+            "time": "00:55.637",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3800,8 +3800,8 @@
             "index": 66
         },
         {
-            "timestamp": 57.7393,
-            "time": "00:57.739",
+            "timestamp": 55.7393,
+            "time": "00:55.739",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -3864,8 +3864,8 @@
             "index": 67
         },
         {
-            "timestamp": 62.6016,
-            "time": "01:02.602",
+            "timestamp": 60.6016,
+            "time": "01:00.602",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -3919,8 +3919,8 @@
             "index": 68
         },
         {
-            "timestamp": 64.5752,
-            "time": "01:04.575",
+            "timestamp": 62.5752,
+            "time": "01:02.575",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -3974,8 +3974,8 @@
             "index": 69
         },
         {
-            "timestamp": 66.2708,
-            "time": "01:06.271",
+            "timestamp": 64.2708,
+            "time": "01:04.271",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4029,8 +4029,8 @@
             "index": 70
         },
         {
-            "timestamp": 68.3566,
-            "time": "01:08.357",
+            "timestamp": 66.3566,
+            "time": "01:06.357",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4084,8 +4084,8 @@
             "index": 71
         },
         {
-            "timestamp": 69.2031,
-            "time": "01:09.203",
+            "timestamp": 67.2031,
+            "time": "01:07.203",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4139,8 +4139,8 @@
             "index": 72
         },
         {
-            "timestamp": 69.6435,
-            "time": "01:09.644",
+            "timestamp": 67.6435,
+            "time": "01:07.644",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4194,8 +4194,8 @@
             "index": 73
         },
         {
-            "timestamp": 72.12,
-            "time": "01:12.120",
+            "timestamp": 70.12,
+            "time": "01:10.120",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4252,8 +4252,8 @@
             "index": 74
         },
         {
-            "timestamp": 72.2849,
-            "time": "01:12.285",
+            "timestamp": 70.2849,
+            "time": "01:10.285",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4310,8 +4310,8 @@
             "index": 75
         },
         {
-            "timestamp": 72.3718,
-            "time": "01:12.372",
+            "timestamp": 70.3718,
+            "time": "01:10.372",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4374,8 +4374,8 @@
             "index": 76
         },
         {
-            "timestamp": 76.1661,
-            "time": "01:16.166",
+            "timestamp": 74.1661,
+            "time": "01:14.166",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -4429,8 +4429,8 @@
             "index": 77
         },
         {
-            "timestamp": 77.1578,
-            "time": "01:17.158",
+            "timestamp": 75.1578,
+            "time": "01:15.158",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4487,8 +4487,8 @@
             "index": 78
         },
         {
-            "timestamp": 78.9997,
-            "time": "01:19.000",
+            "timestamp": 76.9997,
+            "time": "01:17.000",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4542,8 +4542,8 @@
             "index": 79
         },
         {
-            "timestamp": 79.1347,
-            "time": "01:19.135",
+            "timestamp": 77.1347,
+            "time": "01:17.135",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4597,8 +4597,8 @@
             "index": 80
         },
         {
-            "timestamp": 80.2169,
-            "time": "01:20.217",
+            "timestamp": 78.2169,
+            "time": "01:18.217",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4652,8 +4652,8 @@
             "index": 81
         },
         {
-            "timestamp": 80.4432,
-            "time": "01:20.443",
+            "timestamp": 78.4432,
+            "time": "01:18.443",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4707,8 +4707,8 @@
             "index": 82
         },
         {
-            "timestamp": 80.6587,
-            "time": "01:20.659",
+            "timestamp": 78.6587,
+            "time": "01:18.659",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4762,8 +4762,8 @@
             "index": 83
         },
         {
-            "timestamp": 80.839,
-            "time": "01:20.839",
+            "timestamp": 78.839,
+            "time": "01:18.839",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4817,8 +4817,8 @@
             "index": 84
         },
         {
-            "timestamp": 81.0394,
-            "time": "01:21.039",
+            "timestamp": 79.0394,
+            "time": "01:19.039",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4872,8 +4872,8 @@
             "index": 85
         },
         {
-            "timestamp": 81.2349,
-            "time": "01:21.235",
+            "timestamp": 79.2349,
+            "time": "01:19.235",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4927,8 +4927,8 @@
             "index": 86
         },
         {
-            "timestamp": 81.4402,
-            "time": "01:21.440",
+            "timestamp": 79.4402,
+            "time": "01:19.440",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -4982,8 +4982,8 @@
             "index": 87
         },
         {
-            "timestamp": 81.9041,
-            "time": "01:21.904",
+            "timestamp": 79.9041,
+            "time": "01:19.904",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5037,8 +5037,8 @@
             "index": 88
         },
         {
-            "timestamp": 82.0907,
-            "time": "01:22.091",
+            "timestamp": 80.0907,
+            "time": "01:20.091",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5092,8 +5092,8 @@
             "index": 89
         },
         {
-            "timestamp": 83.6762,
-            "time": "01:23.676",
+            "timestamp": 81.6762,
+            "time": "01:21.676",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5147,8 +5147,8 @@
             "index": 90
         },
         {
-            "timestamp": 85.8361,
-            "time": "01:25.836",
+            "timestamp": 83.8361,
+            "time": "01:23.836",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5202,8 +5202,8 @@
             "index": 91
         },
         {
-            "timestamp": 92.8618,
-            "time": "01:32.862",
+            "timestamp": 90.8618,
+            "time": "01:30.862",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5257,8 +5257,8 @@
             "index": 92
         },
         {
-            "timestamp": 92.9833,
-            "time": "01:32.983",
+            "timestamp": 90.9833,
+            "time": "01:30.983",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5312,8 +5312,8 @@
             "index": 93
         },
         {
-            "timestamp": 93.9918,
-            "time": "01:33.992",
+            "timestamp": 91.9918,
+            "time": "01:31.992",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5370,8 +5370,8 @@
             "index": 94
         },
         {
-            "timestamp": 94.4206,
-            "time": "01:34.421",
+            "timestamp": 92.4206,
+            "time": "01:32.421",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5428,8 +5428,8 @@
             "index": 95
         },
         {
-            "timestamp": 94.4907,
-            "time": "01:34.491",
+            "timestamp": 92.4907,
+            "time": "01:32.491",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5492,8 +5492,8 @@
             "index": 96
         },
         {
-            "timestamp": 94.5803,
-            "time": "01:34.580",
+            "timestamp": 92.5803,
+            "time": "01:32.580",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5550,8 +5550,8 @@
             "index": 97
         },
         {
-            "timestamp": 94.6656,
-            "time": "01:34.666",
+            "timestamp": 92.6656,
+            "time": "01:32.666",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5614,8 +5614,8 @@
             "index": 98
         },
         {
-            "timestamp": 95.5232,
-            "time": "01:35.523",
+            "timestamp": 93.5232,
+            "time": "01:33.523",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5669,8 +5669,8 @@
             "index": 99
         },
         {
-            "timestamp": 101.0654,
-            "time": "01:41.065",
+            "timestamp": 99.0654,
+            "time": "01:39.065",
             "application": "chrome.exe",
             "window_title": "Save As",
             "focused_element": {
@@ -5724,8 +5724,8 @@
             "index": 100
         },
         {
-            "timestamp": 101.2339,
-            "time": "01:41.234",
+            "timestamp": 99.2339,
+            "time": "01:39.234",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {
@@ -5779,8 +5779,8 @@
             "index": 101
         },
         {
-            "timestamp": 105.4919,
-            "time": "01:45.492",
+            "timestamp": 103.4919,
+            "time": "01:43.492",
             "application": "chrome.exe",
             "window_title": "\"Baby Shark\" lyrics - Google Chrome",
             "focused_element": {

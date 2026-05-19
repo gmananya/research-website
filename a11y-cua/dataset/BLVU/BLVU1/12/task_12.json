@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1757161485.3032107,
+            "started_at": 1757161487.3032107,
             "ended_at": 1757161612.6389778,
             "started_time": "00:00.000",
-            "ended_time": "01:52.160",
+            "ended_time": "01:50.160",
             "duration": 127.34
         },
         "statistics": {
@@ -86,7 +86,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -144,8 +144,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.6118,
-            "time": "00:00.612",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -202,8 +202,8 @@
             "index": 1
         },
         {
-            "timestamp": 8.2841,
-            "time": "00:08.284",
+            "timestamp": 6.2841,
+            "time": "00:06.284",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -260,8 +260,8 @@
             "index": 2
         },
         {
-            "timestamp": 10.9006,
-            "time": "00:10.901",
+            "timestamp": 8.9006,
+            "time": "00:08.901",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -315,8 +315,8 @@
             "index": 3
         },
         {
-            "timestamp": 11.0867,
-            "time": "00:11.087",
+            "timestamp": 9.0867,
+            "time": "00:09.087",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -370,8 +370,8 @@
             "index": 4
         },
         {
-            "timestamp": 12.9158,
-            "time": "00:12.916",
+            "timestamp": 10.9158,
+            "time": "00:10.916",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -425,8 +425,8 @@
             "index": 5
         },
         {
-            "timestamp": 13.0616,
-            "time": "00:13.062",
+            "timestamp": 11.0616,
+            "time": "00:11.062",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -480,8 +480,8 @@
             "index": 6
         },
         {
-            "timestamp": 13.6001,
-            "time": "00:13.600",
+            "timestamp": 11.6001,
+            "time": "00:11.600",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -538,8 +538,8 @@
             "index": 7
         },
         {
-            "timestamp": 13.7722,
-            "time": "00:13.772",
+            "timestamp": 11.7722,
+            "time": "00:11.772",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -596,8 +596,8 @@
             "index": 8
         },
         {
-            "timestamp": 13.9011,
-            "time": "00:13.901",
+            "timestamp": 11.9011,
+            "time": "00:11.901",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -660,8 +660,8 @@
             "index": 9
         },
         {
-            "timestamp": 15.9579,
-            "time": "00:15.958",
+            "timestamp": 13.9579,
+            "time": "00:13.958",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -715,8 +715,8 @@
             "index": 10
         },
         {
-            "timestamp": 16.1332,
-            "time": "00:16.133",
+            "timestamp": 14.1332,
+            "time": "00:14.133",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -770,8 +770,8 @@
             "index": 11
         },
         {
-            "timestamp": 17.5692,
-            "time": "00:17.569",
+            "timestamp": 15.5692,
+            "time": "00:15.569",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -828,8 +828,8 @@
             "index": 12
         },
         {
-            "timestamp": 17.8125,
-            "time": "00:17.812",
+            "timestamp": 15.8125,
+            "time": "00:15.812",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -886,8 +886,8 @@
             "index": 13
         },
         {
-            "timestamp": 17.9165,
-            "time": "00:17.916",
+            "timestamp": 15.9165,
+            "time": "00:15.916",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -950,8 +950,8 @@
             "index": 14
         },
         {
-            "timestamp": 18.0349,
-            "time": "00:18.035",
+            "timestamp": 16.0349,
+            "time": "00:16.035",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1008,8 +1008,8 @@
             "index": 15
         },
         {
-            "timestamp": 18.1557,
-            "time": "00:18.156",
+            "timestamp": 16.1557,
+            "time": "00:16.156",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1072,8 +1072,8 @@
             "index": 16
         },
         {
-            "timestamp": 18.9842,
-            "time": "00:18.984",
+            "timestamp": 16.9842,
+            "time": "00:16.984",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1130,8 +1130,8 @@
             "index": 17
         },
         {
-            "timestamp": 20.1074,
-            "time": "00:20.107",
+            "timestamp": 18.1074,
+            "time": "00:18.107",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1185,8 +1185,8 @@
             "index": 18
         },
         {
-            "timestamp": 20.2542,
-            "time": "00:20.254",
+            "timestamp": 18.2542,
+            "time": "00:18.254",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1240,8 +1240,8 @@
             "index": 19
         },
         {
-            "timestamp": 22.8996,
-            "time": "00:22.900",
+            "timestamp": 20.8996,
+            "time": "00:20.900",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1295,8 +1295,8 @@
             "index": 20
         },
         {
-            "timestamp": 23.0538,
-            "time": "00:23.054",
+            "timestamp": 21.0538,
+            "time": "00:21.054",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1350,8 +1350,8 @@
             "index": 21
         },
         {
-            "timestamp": 24.0041,
-            "time": "00:24.004",
+            "timestamp": 22.0041,
+            "time": "00:22.004",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1408,8 +1408,8 @@
             "index": 22
         },
         {
-            "timestamp": 24.2469,
-            "time": "00:24.247",
+            "timestamp": 22.2469,
+            "time": "00:22.247",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1466,8 +1466,8 @@
             "index": 23
         },
         {
-            "timestamp": 24.3625,
-            "time": "00:24.363",
+            "timestamp": 22.3625,
+            "time": "00:22.363",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1530,8 +1530,8 @@
             "index": 24
         },
         {
-            "timestamp": 26.0858,
-            "time": "00:26.086",
+            "timestamp": 24.0858,
+            "time": "00:24.086",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1585,8 +1585,8 @@
             "index": 25
         },
         {
-            "timestamp": 26.2849,
-            "time": "00:26.285",
+            "timestamp": 24.2849,
+            "time": "00:24.285",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1640,8 +1640,8 @@
             "index": 26
         },
         {
-            "timestamp": 26.3851,
-            "time": "00:26.385",
+            "timestamp": 24.3851,
+            "time": "00:24.385",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1695,8 +1695,8 @@
             "index": 27
         },
         {
-            "timestamp": 26.5049,
-            "time": "00:26.505",
+            "timestamp": 24.5049,
+            "time": "00:24.505",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1750,8 +1750,8 @@
             "index": 28
         },
         {
-            "timestamp": 26.6227,
-            "time": "00:26.623",
+            "timestamp": 24.6227,
+            "time": "00:24.623",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1805,8 +1805,8 @@
             "index": 29
         },
         {
-            "timestamp": 26.7491,
-            "time": "00:26.749",
+            "timestamp": 24.7491,
+            "time": "00:24.749",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1860,8 +1860,8 @@
             "index": 30
         },
         {
-            "timestamp": 26.8648,
-            "time": "00:26.865",
+            "timestamp": 24.8648,
+            "time": "00:24.865",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1915,8 +1915,8 @@
             "index": 31
         },
         {
-            "timestamp": 26.9755,
-            "time": "00:26.976",
+            "timestamp": 24.9755,
+            "time": "00:24.976",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -1970,8 +1970,8 @@
             "index": 32
         },
         {
-            "timestamp": 27.094,
-            "time": "00:27.094",
+            "timestamp": 25.094,
+            "time": "00:25.094",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2025,8 +2025,8 @@
             "index": 33
         },
         {
-            "timestamp": 27.2465,
-            "time": "00:27.247",
+            "timestamp": 25.2465,
+            "time": "00:25.247",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2080,8 +2080,8 @@
             "index": 34
         },
         {
-            "timestamp": 27.6378,
-            "time": "00:27.638",
+            "timestamp": 25.6378,
+            "time": "00:25.638",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2135,8 +2135,8 @@
             "index": 35
         },
         {
-            "timestamp": 27.9645,
-            "time": "00:27.965",
+            "timestamp": 25.9645,
+            "time": "00:25.965",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2190,8 +2190,8 @@
             "index": 36
         },
         {
-            "timestamp": 28.176,
-            "time": "00:28.176",
+            "timestamp": 26.176,
+            "time": "00:26.176",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2245,8 +2245,8 @@
             "index": 37
         },
         {
-            "timestamp": 28.5607,
-            "time": "00:28.561",
+            "timestamp": 26.5607,
+            "time": "00:26.561",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2300,8 +2300,8 @@
             "index": 38
         },
         {
-            "timestamp": 28.8305,
-            "time": "00:28.831",
+            "timestamp": 26.8305,
+            "time": "00:26.831",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -2355,8 +2355,8 @@
             "index": 39
         },
         {
-            "timestamp": 29.0813,
-            "time": "00:29.081",
+            "timestamp": 27.0813,
+            "time": "00:27.081",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2410,8 +2410,8 @@
             "index": 40
         },
         {
-            "timestamp": 30.3029,
-            "time": "00:30.303",
+            "timestamp": 28.3029,
+            "time": "00:28.303",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2468,8 +2468,8 @@
             "index": 41
         },
         {
-            "timestamp": 30.7072,
-            "time": "00:30.707",
+            "timestamp": 28.7072,
+            "time": "00:28.707",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2526,8 +2526,8 @@
             "index": 42
         },
         {
-            "timestamp": 30.8203,
-            "time": "00:30.820",
+            "timestamp": 28.8203,
+            "time": "00:28.820",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2584,8 +2584,8 @@
             "index": 43
         },
         {
-            "timestamp": 30.9684,
-            "time": "00:30.968",
+            "timestamp": 28.9684,
+            "time": "00:28.968",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2642,8 +2642,8 @@
             "index": 44
         },
         {
-            "timestamp": 31.3564,
-            "time": "00:31.356",
+            "timestamp": 29.3564,
+            "time": "00:29.356",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2700,8 +2700,8 @@
             "index": 45
         },
         {
-            "timestamp": 32.0055,
-            "time": "00:32.005",
+            "timestamp": 30.0055,
+            "time": "00:30.005",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2758,8 +2758,8 @@
             "index": 46
         },
         {
-            "timestamp": 33.6346,
-            "time": "00:33.635",
+            "timestamp": 31.6346,
+            "time": "00:31.635",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2816,8 +2816,8 @@
             "index": 47
         },
         {
-            "timestamp": 34.2108,
-            "time": "00:34.211",
+            "timestamp": 32.2108,
+            "time": "00:32.211",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2871,8 +2871,8 @@
             "index": 48
         },
         {
-            "timestamp": 34.3139,
-            "time": "00:34.314",
+            "timestamp": 32.3139,
+            "time": "00:32.314",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2926,8 +2926,8 @@
             "index": 49
         },
         {
-            "timestamp": 34.4213,
-            "time": "00:34.421",
+            "timestamp": 32.4213,
+            "time": "00:32.421",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -2981,8 +2981,8 @@
             "index": 50
         },
         {
-            "timestamp": 36.456,
-            "time": "00:36.456",
+            "timestamp": 34.456,
+            "time": "00:34.456",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -3036,8 +3036,8 @@
             "index": 51
         },
         {
-            "timestamp": 36.5805,
-            "time": "00:36.581",
+            "timestamp": 34.5805,
+            "time": "00:34.581",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -3091,8 +3091,8 @@
             "index": 52
         },
         {
-            "timestamp": 37.6771,
-            "time": "00:37.677",
+            "timestamp": 35.6771,
+            "time": "00:35.677",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -3146,8 +3146,8 @@
             "index": 53
         },
         {
-            "timestamp": 37.8143,
-            "time": "00:37.814",
+            "timestamp": 35.8143,
+            "time": "00:35.814",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -3201,8 +3201,8 @@
             "index": 54
         },
         {
-            "timestamp": 40.0336,
-            "time": "00:40.034",
+            "timestamp": 38.0336,
+            "time": "00:38.034",
             "application": "chrome.exe",
             "window_title": "hello - Google Search - Google Chrome",
             "focused_element": {
@@ -3256,8 +3256,8 @@
             "index": 55
         },
         {
-            "timestamp": 41.5851,
-            "time": "00:41.585",
+            "timestamp": 39.5851,
+            "time": "00:39.585",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3314,8 +3314,8 @@
             "index": 56
         },
         {
-            "timestamp": 45.1015,
-            "time": "00:45.102",
+            "timestamp": 43.1015,
+            "time": "00:43.102",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3372,8 +3372,8 @@
             "index": 57
         },
         {
-            "timestamp": 45.7662,
-            "time": "00:45.766",
+            "timestamp": 43.7662,
+            "time": "00:43.766",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3430,8 +3430,8 @@
             "index": 58
         },
         {
-            "timestamp": 45.8634,
-            "time": "00:45.863",
+            "timestamp": 43.8634,
+            "time": "00:43.863",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3488,8 +3488,8 @@
             "index": 59
         },
         {
-            "timestamp": 45.944,
-            "time": "00:45.944",
+            "timestamp": 43.944,
+            "time": "00:43.944",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3552,8 +3552,8 @@
             "index": 60
         },
         {
-            "timestamp": 49.9395,
-            "time": "00:49.940",
+            "timestamp": 47.9395,
+            "time": "00:47.940",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3607,8 +3607,8 @@
             "index": 61
         },
         {
-            "timestamp": 50.0964,
-            "time": "00:50.096",
+            "timestamp": 48.0964,
+            "time": "00:48.096",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3662,8 +3662,8 @@
             "index": 62
         },
         {
-            "timestamp": 50.2145,
-            "time": "00:50.215",
+            "timestamp": 48.2145,
+            "time": "00:48.215",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3717,8 +3717,8 @@
             "index": 63
         },
         {
-            "timestamp": 50.3213,
-            "time": "00:50.321",
+            "timestamp": 48.3213,
+            "time": "00:48.321",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3772,8 +3772,8 @@
             "index": 64
         },
         {
-            "timestamp": 50.4604,
-            "time": "00:50.460",
+            "timestamp": 48.4604,
+            "time": "00:48.460",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3827,8 +3827,8 @@
             "index": 65
         },
         {
-            "timestamp": 50.5881,
-            "time": "00:50.588",
+            "timestamp": 48.5881,
+            "time": "00:48.588",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3882,8 +3882,8 @@
             "index": 66
         },
         {
-            "timestamp": 50.7572,
-            "time": "00:50.757",
+            "timestamp": 48.7572,
+            "time": "00:48.757",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3937,8 +3937,8 @@
             "index": 67
         },
         {
-            "timestamp": 51.8288,
-            "time": "00:51.829",
+            "timestamp": 49.8288,
+            "time": "00:49.829",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -3992,8 +3992,8 @@
             "index": 68
         },
         {
-            "timestamp": 51.9811,
-            "time": "00:51.981",
+            "timestamp": 49.9811,
+            "time": "00:49.981",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4047,8 +4047,8 @@
             "index": 69
         },
         {
-            "timestamp": 53.2905,
-            "time": "00:53.291",
+            "timestamp": 51.2905,
+            "time": "00:51.291",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4102,8 +4102,8 @@
             "index": 70
         },
         {
-            "timestamp": 53.9997,
-            "time": "00:54.000",
+            "timestamp": 51.9997,
+            "time": "00:52.000",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4157,8 +4157,8 @@
             "index": 71
         },
         {
-            "timestamp": 55.2781,
-            "time": "00:55.278",
+            "timestamp": 53.2781,
+            "time": "00:53.278",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4212,8 +4212,8 @@
             "index": 72
         },
         {
-            "timestamp": 56.5294,
-            "time": "00:56.529",
+            "timestamp": 54.5294,
+            "time": "00:54.529",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4267,8 +4267,8 @@
             "index": 73
         },
         {
-            "timestamp": 57.7201,
-            "time": "00:57.720",
+            "timestamp": 55.7201,
+            "time": "00:55.720",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4325,8 +4325,8 @@
             "index": 74
         },
         {
-            "timestamp": 57.8327,
-            "time": "00:57.833",
+            "timestamp": 55.8327,
+            "time": "00:55.833",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4383,8 +4383,8 @@
             "index": 75
         },
         {
-            "timestamp": 57.9369,
-            "time": "00:57.937",
+            "timestamp": 55.9369,
+            "time": "00:55.937",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4447,8 +4447,8 @@
             "index": 76
         },
         {
-            "timestamp": 58.3942,
-            "time": "00:58.394",
+            "timestamp": 56.3942,
+            "time": "00:56.394",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4505,8 +4505,8 @@
             "index": 77
         },
         {
-            "timestamp": 58.4978,
-            "time": "00:58.498",
+            "timestamp": 56.4978,
+            "time": "00:56.498",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4569,8 +4569,8 @@
             "index": 78
         },
         {
-            "timestamp": 58.9716,
-            "time": "00:58.972",
+            "timestamp": 56.9716,
+            "time": "00:56.972",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4624,8 +4624,8 @@
             "index": 79
         },
         {
-            "timestamp": 59.8241,
-            "time": "00:59.824",
+            "timestamp": 57.8241,
+            "time": "00:57.824",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4679,8 +4679,8 @@
             "index": 80
         },
         {
-            "timestamp": 61.1317,
-            "time": "01:01.132",
+            "timestamp": 59.1317,
+            "time": "00:59.132",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4734,8 +4734,8 @@
             "index": 81
         },
         {
-            "timestamp": 62.2521,
-            "time": "01:02.252",
+            "timestamp": 60.2521,
+            "time": "01:00.252",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4789,8 +4789,8 @@
             "index": 82
         },
         {
-            "timestamp": 63.2895,
-            "time": "01:03.289",
+            "timestamp": 61.2895,
+            "time": "01:01.289",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4844,8 +4844,8 @@
             "index": 83
         },
         {
-            "timestamp": 64.4221,
-            "time": "01:04.422",
+            "timestamp": 62.4221,
+            "time": "01:02.422",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4899,8 +4899,8 @@
             "index": 84
         },
         {
-            "timestamp": 65.861,
-            "time": "01:05.861",
+            "timestamp": 63.861,
+            "time": "01:03.861",
             "application": "chrome.exe",
             "window_title": "Settings - Google Chrome",
             "focused_element": {
@@ -4954,8 +4954,8 @@
             "index": 85
         },
         {
-            "timestamp": 68.9464,
-            "time": "01:08.946",
+            "timestamp": 66.9464,
+            "time": "01:06.946",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5009,8 +5009,8 @@
             "index": 86
         },
         {
-            "timestamp": 69.9839,
-            "time": "01:09.984",
+            "timestamp": 67.9839,
+            "time": "01:07.984",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5064,8 +5064,8 @@
             "index": 87
         },
         {
-            "timestamp": 70.0988,
-            "time": "01:10.099",
+            "timestamp": 68.0988,
+            "time": "01:08.099",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5119,8 +5119,8 @@
             "index": 88
         },
         {
-            "timestamp": 72.1515,
-            "time": "01:12.151",
+            "timestamp": 70.1515,
+            "time": "01:10.151",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5174,8 +5174,8 @@
             "index": 89
         },
         {
-            "timestamp": 73.1605,
-            "time": "01:13.160",
+            "timestamp": 71.1605,
+            "time": "01:11.160",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5229,8 +5229,8 @@
             "index": 90
         },
         {
-            "timestamp": 74.8231,
-            "time": "01:14.823",
+            "timestamp": 72.8231,
+            "time": "01:12.823",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5284,8 +5284,8 @@
             "index": 91
         },
         {
-            "timestamp": 77.7611,
-            "time": "01:17.761",
+            "timestamp": 75.7611,
+            "time": "01:15.761",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5339,8 +5339,8 @@
             "index": 92
         },
         {
-            "timestamp": 78.896,
-            "time": "01:18.896",
+            "timestamp": 76.896,
+            "time": "01:16.896",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5394,8 +5394,8 @@
             "index": 93
         },
         {
-            "timestamp": 80.1497,
-            "time": "01:20.150",
+            "timestamp": 78.1497,
+            "time": "01:18.150",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5449,8 +5449,8 @@
             "index": 94
         },
         {
-            "timestamp": 81.3495,
-            "time": "01:21.350",
+            "timestamp": 79.3495,
+            "time": "01:19.350",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5504,8 +5504,8 @@
             "index": 95
         },
         {
-            "timestamp": 82.3521,
-            "time": "01:22.352",
+            "timestamp": 80.3521,
+            "time": "01:20.352",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5559,8 +5559,8 @@
             "index": 96
         },
         {
-            "timestamp": 83.3314,
-            "time": "01:23.331",
+            "timestamp": 81.3314,
+            "time": "01:21.331",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5614,8 +5614,8 @@
             "index": 97
         },
         {
-            "timestamp": 84.6858,
-            "time": "01:24.686",
+            "timestamp": 82.6858,
+            "time": "01:22.686",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5669,8 +5669,8 @@
             "index": 98
         },
         {
-            "timestamp": 86.4894,
-            "time": "01:26.489",
+            "timestamp": 84.4894,
+            "time": "01:24.489",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5724,8 +5724,8 @@
             "index": 99
         },
         {
-            "timestamp": 87.4015,
-            "time": "01:27.401",
+            "timestamp": 85.4015,
+            "time": "01:25.401",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5779,8 +5779,8 @@
             "index": 100
         },
         {
-            "timestamp": 89.7463,
-            "time": "01:29.746",
+            "timestamp": 87.7463,
+            "time": "01:27.746",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5834,8 +5834,8 @@
             "index": 101
         },
         {
-            "timestamp": 91.1152,
-            "time": "01:31.115",
+            "timestamp": 89.1152,
+            "time": "01:29.115",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5892,8 +5892,8 @@
             "index": 102
         },
         {
-            "timestamp": 91.2573,
-            "time": "01:31.257",
+            "timestamp": 89.2573,
+            "time": "01:29.257",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -5950,8 +5950,8 @@
             "index": 103
         },
         {
-            "timestamp": 91.32,
-            "time": "01:31.320",
+            "timestamp": 89.32,
+            "time": "01:29.320",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6014,8 +6014,8 @@
             "index": 104
         },
         {
-            "timestamp": 91.4362,
-            "time": "01:31.436",
+            "timestamp": 89.4362,
+            "time": "01:29.436",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6072,8 +6072,8 @@
             "index": 105
         },
         {
-            "timestamp": 91.5326,
-            "time": "01:31.533",
+            "timestamp": 89.5326,
+            "time": "01:29.533",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6136,8 +6136,8 @@
             "index": 106
         },
         {
-            "timestamp": 92.6525,
-            "time": "01:32.653",
+            "timestamp": 90.6525,
+            "time": "01:30.653",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6194,8 +6194,8 @@
             "index": 107
         },
         {
-            "timestamp": 92.7874,
-            "time": "01:32.787",
+            "timestamp": 90.7874,
+            "time": "01:30.787",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6252,8 +6252,8 @@
             "index": 108
         },
         {
-            "timestamp": 92.907,
-            "time": "01:32.907",
+            "timestamp": 90.907,
+            "time": "01:30.907",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6316,8 +6316,8 @@
             "index": 109
         },
         {
-            "timestamp": 93.0142,
-            "time": "01:33.014",
+            "timestamp": 91.0142,
+            "time": "01:31.014",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6374,8 +6374,8 @@
             "index": 110
         },
         {
-            "timestamp": 93.0941,
-            "time": "01:33.094",
+            "timestamp": 91.0941,
+            "time": "01:31.094",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6438,8 +6438,8 @@
             "index": 111
         },
         {
-            "timestamp": 94.4503,
-            "time": "01:34.450",
+            "timestamp": 92.4503,
+            "time": "01:32.450",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6493,8 +6493,8 @@
             "index": 112
         },
         {
-            "timestamp": 94.6961,
-            "time": "01:34.696",
+            "timestamp": 92.6961,
+            "time": "01:32.696",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6548,8 +6548,8 @@
             "index": 113
         },
         {
-            "timestamp": 97.1324,
-            "time": "01:37.132",
+            "timestamp": 95.1324,
+            "time": "01:35.132",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6603,8 +6603,8 @@
             "index": 114
         },
         {
-            "timestamp": 97.2817,
-            "time": "01:37.282",
+            "timestamp": 95.2817,
+            "time": "01:35.282",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6658,8 +6658,8 @@
             "index": 115
         },
         {
-            "timestamp": 98.1048,
-            "time": "01:38.105",
+            "timestamp": 96.1048,
+            "time": "01:36.105",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6713,8 +6713,8 @@
             "index": 116
         },
         {
-            "timestamp": 98.2146,
-            "time": "01:38.215",
+            "timestamp": 96.2146,
+            "time": "01:36.215",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6768,8 +6768,8 @@
             "index": 117
         },
         {
-            "timestamp": 99.2362,
-            "time": "01:39.236",
+            "timestamp": 97.2362,
+            "time": "01:37.236",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6823,8 +6823,8 @@
             "index": 118
         },
         {
-            "timestamp": 99.388,
-            "time": "01:39.388",
+            "timestamp": 97.388,
+            "time": "01:37.388",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6878,8 +6878,8 @@
             "index": 119
         },
         {
-            "timestamp": 101.4857,
-            "time": "01:41.486",
+            "timestamp": 99.4857,
+            "time": "01:39.486",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6933,8 +6933,8 @@
             "index": 120
         },
         {
-            "timestamp": 103.157,
-            "time": "01:43.157",
+            "timestamp": 101.157,
+            "time": "01:41.157",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -6991,8 +6991,8 @@
             "index": 121
         },
         {
-            "timestamp": 103.2934,
-            "time": "01:43.293",
+            "timestamp": 101.2934,
+            "time": "01:41.293",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7049,8 +7049,8 @@
             "index": 122
         },
         {
-            "timestamp": 103.3857,
-            "time": "01:43.386",
+            "timestamp": 101.3857,
+            "time": "01:41.386",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7113,8 +7113,8 @@
             "index": 123
         },
         {
-            "timestamp": 104.5457,
-            "time": "01:44.546",
+            "timestamp": 102.5457,
+            "time": "01:42.546",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7168,8 +7168,8 @@
             "index": 124
         },
         {
-            "timestamp": 104.6888,
-            "time": "01:44.689",
+            "timestamp": 102.6888,
+            "time": "01:42.689",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7223,8 +7223,8 @@
             "index": 125
         },
         {
-            "timestamp": 105.9407,
-            "time": "01:45.941",
+            "timestamp": 103.9407,
+            "time": "01:43.941",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7278,8 +7278,8 @@
             "index": 126
         },
         {
-            "timestamp": 107.3682,
-            "time": "01:47.368",
+            "timestamp": 105.3682,
+            "time": "01:45.368",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7333,8 +7333,8 @@
             "index": 127
         },
         {
-            "timestamp": 108.3504,
-            "time": "01:48.350",
+            "timestamp": 106.3504,
+            "time": "01:46.350",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {
@@ -7388,8 +7388,8 @@
             "index": 128
         },
         {
-            "timestamp": 112.1605,
-            "time": "01:52.160",
+            "timestamp": 110.1605,
+            "time": "01:50.160",
             "application": "chrome.exe",
             "window_title": "Settings - Search engine - Google Chrome",
             "focused_element": {

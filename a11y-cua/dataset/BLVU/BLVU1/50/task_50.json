@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756903662.9791636,
+            "started_at": 1756903664.9791636,
             "ended_at": 1756903727.779551,
             "started_time": "00:00.000",
-            "ended_time": "00:48.300",
+            "ended_time": "00:46.300",
             "duration": 64.8
         },
         "statistics": {
@@ -55,7 +55,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
@@ -110,8 +110,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.8846,
-            "time": "00:00.885",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -165,8 +165,8 @@
             "index": 1
         },
         {
-            "timestamp": 1.4536,
-            "time": "00:01.454",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -220,8 +220,8 @@
             "index": 2
         },
         {
-            "timestamp": 3.0237,
-            "time": "00:03.024",
+            "timestamp": 1.0237,
+            "time": "00:01.024",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -275,8 +275,8 @@
             "index": 3
         },
         {
-            "timestamp": 3.1444,
-            "time": "00:03.144",
+            "timestamp": 1.1444,
+            "time": "00:01.144",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -330,8 +330,8 @@
             "index": 4
         },
         {
-            "timestamp": 3.9708,
-            "time": "00:03.971",
+            "timestamp": 1.9708,
+            "time": "00:01.971",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -385,8 +385,8 @@
             "index": 5
         },
         {
-            "timestamp": 4.0516,
-            "time": "00:04.052",
+            "timestamp": 2.0516,
+            "time": "00:02.052",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -440,8 +440,8 @@
             "index": 6
         },
         {
-            "timestamp": 4.6332,
-            "time": "00:04.633",
+            "timestamp": 2.6332,
+            "time": "00:02.633",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -495,8 +495,8 @@
             "index": 7
         },
         {
-            "timestamp": 4.718,
-            "time": "00:04.718",
+            "timestamp": 2.718,
+            "time": "00:02.718",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -550,8 +550,8 @@
             "index": 8
         },
         {
-            "timestamp": 5.5693,
-            "time": "00:05.569",
+            "timestamp": 3.5693,
+            "time": "00:03.569",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -605,8 +605,8 @@
             "index": 9
         },
         {
-            "timestamp": 6.9964,
-            "time": "00:06.996",
+            "timestamp": 4.9964,
+            "time": "00:04.996",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -660,8 +660,8 @@
             "index": 10
         },
         {
-            "timestamp": 7.1035,
-            "time": "00:07.104",
+            "timestamp": 5.1035,
+            "time": "00:05.104",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -715,8 +715,8 @@
             "index": 11
         },
         {
-            "timestamp": 7.3463,
-            "time": "00:07.346",
+            "timestamp": 5.3463,
+            "time": "00:05.346",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -770,8 +770,8 @@
             "index": 12
         },
         {
-            "timestamp": 7.4226,
-            "time": "00:07.423",
+            "timestamp": 5.4226,
+            "time": "00:05.423",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -825,8 +825,8 @@
             "index": 13
         },
         {
-            "timestamp": 7.6027,
-            "time": "00:07.603",
+            "timestamp": 5.6027,
+            "time": "00:05.603",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -880,8 +880,8 @@
             "index": 14
         },
         {
-            "timestamp": 7.686,
-            "time": "00:07.686",
+            "timestamp": 5.686,
+            "time": "00:05.686",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -935,8 +935,8 @@
             "index": 15
         },
         {
-            "timestamp": 9.4959,
-            "time": "00:09.496",
+            "timestamp": 7.4959,
+            "time": "00:07.496",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -990,8 +990,8 @@
             "index": 16
         },
         {
-            "timestamp": 9.5994,
-            "time": "00:09.599",
+            "timestamp": 7.5994,
+            "time": "00:07.599",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1045,8 +1045,8 @@
             "index": 17
         },
         {
-            "timestamp": 9.694,
-            "time": "00:09.694",
+            "timestamp": 7.694,
+            "time": "00:07.694",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1100,8 +1100,8 @@
             "index": 18
         },
         {
-            "timestamp": 9.7563,
-            "time": "00:09.756",
+            "timestamp": 7.7563,
+            "time": "00:07.756",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1155,8 +1155,8 @@
             "index": 19
         },
         {
-            "timestamp": 9.8488,
-            "time": "00:09.849",
+            "timestamp": 7.8488,
+            "time": "00:07.849",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1210,8 +1210,8 @@
             "index": 20
         },
         {
-            "timestamp": 9.9201,
-            "time": "00:09.920",
+            "timestamp": 7.9201,
+            "time": "00:07.920",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1265,8 +1265,8 @@
             "index": 21
         },
         {
-            "timestamp": 9.9983,
-            "time": "00:09.998",
+            "timestamp": 7.9983,
+            "time": "00:07.998",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1320,8 +1320,8 @@
             "index": 22
         },
         {
-            "timestamp": 10.0775,
-            "time": "00:10.078",
+            "timestamp": 8.0775,
+            "time": "00:08.078",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1375,8 +1375,8 @@
             "index": 23
         },
         {
-            "timestamp": 11.5171,
-            "time": "00:11.517",
+            "timestamp": 9.5171,
+            "time": "00:09.517",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1430,8 +1430,8 @@
             "index": 24
         },
         {
-            "timestamp": 11.6234,
-            "time": "00:11.623",
+            "timestamp": 9.6234,
+            "time": "00:09.623",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1485,8 +1485,8 @@
             "index": 25
         },
         {
-            "timestamp": 12.6522,
-            "time": "00:12.652",
+            "timestamp": 10.6522,
+            "time": "00:10.652",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1540,8 +1540,8 @@
             "index": 26
         },
         {
-            "timestamp": 12.7551,
-            "time": "00:12.755",
+            "timestamp": 10.7551,
+            "time": "00:10.755",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1595,8 +1595,8 @@
             "index": 27
         },
         {
-            "timestamp": 13.5098,
-            "time": "00:13.510",
+            "timestamp": 11.5098,
+            "time": "00:11.510",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1650,8 +1650,8 @@
             "index": 28
         },
         {
-            "timestamp": 14.6279,
-            "time": "00:14.628",
+            "timestamp": 12.6279,
+            "time": "00:12.628",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1705,8 +1705,8 @@
             "index": 29
         },
         {
-            "timestamp": 14.7419,
-            "time": "00:14.742",
+            "timestamp": 12.7419,
+            "time": "00:12.742",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1760,8 +1760,8 @@
             "index": 30
         },
         {
-            "timestamp": 16.32,
-            "time": "00:16.320",
+            "timestamp": 14.32,
+            "time": "00:14.320",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1815,8 +1815,8 @@
             "index": 31
         },
         {
-            "timestamp": 17.15,
-            "time": "00:17.150",
+            "timestamp": 15.15,
+            "time": "00:15.150",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1870,8 +1870,8 @@
             "index": 32
         },
         {
-            "timestamp": 17.229,
-            "time": "00:17.229",
+            "timestamp": 15.229,
+            "time": "00:15.229",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1925,8 +1925,8 @@
             "index": 33
         },
         {
-            "timestamp": 17.4702,
-            "time": "00:17.470",
+            "timestamp": 15.4702,
+            "time": "00:15.470",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -1980,8 +1980,8 @@
             "index": 34
         },
         {
-            "timestamp": 17.6117,
-            "time": "00:17.612",
+            "timestamp": 15.6117,
+            "time": "00:15.612",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2035,8 +2035,8 @@
             "index": 35
         },
         {
-            "timestamp": 18.1025,
-            "time": "00:18.102",
+            "timestamp": 16.1025,
+            "time": "00:16.102",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2090,8 +2090,8 @@
             "index": 36
         },
         {
-            "timestamp": 18.1965,
-            "time": "00:18.197",
+            "timestamp": 16.1965,
+            "time": "00:16.197",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2145,8 +2145,8 @@
             "index": 37
         },
         {
-            "timestamp": 18.8534,
-            "time": "00:18.853",
+            "timestamp": 16.8534,
+            "time": "00:16.853",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2200,8 +2200,8 @@
             "index": 38
         },
         {
-            "timestamp": 18.9662,
-            "time": "00:18.966",
+            "timestamp": 16.9662,
+            "time": "00:16.966",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2255,8 +2255,8 @@
             "index": 39
         },
         {
-            "timestamp": 19.7631,
-            "time": "00:19.763",
+            "timestamp": 17.7631,
+            "time": "00:17.763",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2310,8 +2310,8 @@
             "index": 40
         },
         {
-            "timestamp": 19.844,
-            "time": "00:19.844",
+            "timestamp": 17.844,
+            "time": "00:17.844",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2365,8 +2365,8 @@
             "index": 41
         },
         {
-            "timestamp": 20.9076,
-            "time": "00:20.908",
+            "timestamp": 18.9076,
+            "time": "00:18.908",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2420,8 +2420,8 @@
             "index": 42
         },
         {
-            "timestamp": 21.0201,
-            "time": "00:21.020",
+            "timestamp": 19.0201,
+            "time": "00:19.020",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2475,8 +2475,8 @@
             "index": 43
         },
         {
-            "timestamp": 22.0714,
-            "time": "00:22.071",
+            "timestamp": 20.0714,
+            "time": "00:20.071",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2530,8 +2530,8 @@
             "index": 44
         },
         {
-            "timestamp": 22.187,
-            "time": "00:22.187",
+            "timestamp": 20.187,
+            "time": "00:20.187",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2585,8 +2585,8 @@
             "index": 45
         },
         {
-            "timestamp": 23.3645,
-            "time": "00:23.364",
+            "timestamp": 21.3645,
+            "time": "00:21.364",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2640,8 +2640,8 @@
             "index": 46
         },
         {
-            "timestamp": 23.4662,
-            "time": "00:23.466",
+            "timestamp": 21.4662,
+            "time": "00:21.466",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2695,8 +2695,8 @@
             "index": 47
         },
         {
-            "timestamp": 24.7853,
-            "time": "00:24.785",
+            "timestamp": 22.7853,
+            "time": "00:22.785",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2753,8 +2753,8 @@
             "index": 48
         },
         {
-            "timestamp": 25.0253,
-            "time": "00:25.025",
+            "timestamp": 23.0253,
+            "time": "00:23.025",
             "application": "explorer.exe",
             "window_title": "Task 75 - File Explorer",
             "focused_element": {
@@ -2808,8 +2808,8 @@
             "index": 49
         },
         {
-            "timestamp": 30.5157,
-            "time": "00:30.516",
+            "timestamp": 28.5157,
+            "time": "00:28.516",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2863,8 +2863,8 @@
             "index": 50
         },
         {
-            "timestamp": 31.58,
-            "time": "00:31.580",
+            "timestamp": 29.58,
+            "time": "00:29.580",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2918,8 +2918,8 @@
             "index": 51
         },
         {
-            "timestamp": 31.6972,
-            "time": "00:31.697",
+            "timestamp": 29.6972,
+            "time": "00:29.697",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -2973,8 +2973,8 @@
             "index": 52
         },
         {
-            "timestamp": 32.5378,
-            "time": "00:32.538",
+            "timestamp": 30.5378,
+            "time": "00:30.538",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3028,8 +3028,8 @@
             "index": 53
         },
         {
-            "timestamp": 32.6204,
-            "time": "00:32.620",
+            "timestamp": 30.6204,
+            "time": "00:30.620",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3083,8 +3083,8 @@
             "index": 54
         },
         {
-            "timestamp": 33.2447,
-            "time": "00:33.245",
+            "timestamp": 31.2447,
+            "time": "00:31.245",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3138,8 +3138,8 @@
             "index": 55
         },
         {
-            "timestamp": 33.3208,
-            "time": "00:33.321",
+            "timestamp": 31.3208,
+            "time": "00:31.321",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3193,8 +3193,8 @@
             "index": 56
         },
         {
-            "timestamp": 34.4878,
-            "time": "00:34.488",
+            "timestamp": 32.4878,
+            "time": "00:32.488",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3248,8 +3248,8 @@
             "index": 57
         },
         {
-            "timestamp": 34.5841,
-            "time": "00:34.584",
+            "timestamp": 32.5841,
+            "time": "00:32.584",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3303,8 +3303,8 @@
             "index": 58
         },
         {
-            "timestamp": 35.5592,
-            "time": "00:35.559",
+            "timestamp": 33.5592,
+            "time": "00:33.559",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3358,8 +3358,8 @@
             "index": 59
         },
         {
-            "timestamp": 35.6706,
-            "time": "00:35.671",
+            "timestamp": 33.6706,
+            "time": "00:33.671",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3413,8 +3413,8 @@
             "index": 60
         },
         {
-            "timestamp": 36.754,
-            "time": "00:36.754",
+            "timestamp": 34.754,
+            "time": "00:34.754",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3468,8 +3468,8 @@
             "index": 61
         },
         {
-            "timestamp": 37.0066,
-            "time": "00:37.007",
+            "timestamp": 35.0066,
+            "time": "00:35.007",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3523,8 +3523,8 @@
             "index": 62
         },
         {
-            "timestamp": 37.7583,
-            "time": "00:37.758",
+            "timestamp": 35.7583,
+            "time": "00:35.758",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3578,8 +3578,8 @@
             "index": 63
         },
         {
-            "timestamp": 37.8776,
-            "time": "00:37.878",
+            "timestamp": 35.8776,
+            "time": "00:35.878",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3633,8 +3633,8 @@
             "index": 64
         },
         {
-            "timestamp": 38.3654,
-            "time": "00:38.365",
+            "timestamp": 36.3654,
+            "time": "00:36.365",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3688,8 +3688,8 @@
             "index": 65
         },
         {
-            "timestamp": 38.4557,
-            "time": "00:38.456",
+            "timestamp": 36.4557,
+            "time": "00:36.456",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3743,8 +3743,8 @@
             "index": 66
         },
         {
-            "timestamp": 39.6635,
-            "time": "00:39.663",
+            "timestamp": 37.6635,
+            "time": "00:37.663",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3798,8 +3798,8 @@
             "index": 67
         },
         {
-            "timestamp": 39.7646,
-            "time": "00:39.765",
+            "timestamp": 37.7646,
+            "time": "00:37.765",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3853,8 +3853,8 @@
             "index": 68
         },
         {
-            "timestamp": 40.5807,
-            "time": "00:40.581",
+            "timestamp": 38.5807,
+            "time": "00:38.581",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3908,8 +3908,8 @@
             "index": 69
         },
         {
-            "timestamp": 40.6507,
-            "time": "00:40.651",
+            "timestamp": 38.6507,
+            "time": "00:38.651",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -3963,8 +3963,8 @@
             "index": 70
         },
         {
-            "timestamp": 41.0259,
-            "time": "00:41.026",
+            "timestamp": 39.0259,
+            "time": "00:39.026",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4018,8 +4018,8 @@
             "index": 71
         },
         {
-            "timestamp": 41.14,
-            "time": "00:41.140",
+            "timestamp": 39.14,
+            "time": "00:39.140",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4073,8 +4073,8 @@
             "index": 72
         },
         {
-            "timestamp": 41.2626,
-            "time": "00:41.263",
+            "timestamp": 39.2626,
+            "time": "00:39.263",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4128,8 +4128,8 @@
             "index": 73
         },
         {
-            "timestamp": 41.3381,
-            "time": "00:41.338",
+            "timestamp": 39.3381,
+            "time": "00:39.338",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4183,8 +4183,8 @@
             "index": 74
         },
         {
-            "timestamp": 43.4731,
-            "time": "00:43.473",
+            "timestamp": 41.4731,
+            "time": "00:41.473",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4238,8 +4238,8 @@
             "index": 75
         },
         {
-            "timestamp": 44.8605,
-            "time": "00:44.861",
+            "timestamp": 42.8605,
+            "time": "00:42.861",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {
@@ -4293,8 +4293,8 @@
             "index": 76
         },
         {
-            "timestamp": 48.2997,
-            "time": "00:48.300",
+            "timestamp": 46.2997,
+            "time": "00:46.300",
             "application": "ApplicationFrameHost.exe",
             "window_title": "Media Player",
             "focused_element": {

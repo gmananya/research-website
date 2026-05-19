@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756743650.415326,
+            "started_at": 1756743652.415326,
             "ended_at": 1756743743.638003,
             "started_time": "00:00.000",
-            "ended_time": "01:11.740",
+            "ended_time": "01:09.740",
             "duration": 93.22
         },
         "statistics": {
@@ -56,7 +56,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Task Switching",
@@ -114,8 +114,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.142,
-            "time": "00:00.142",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -178,8 +178,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.3991,
-            "time": "00:00.399",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -236,8 +236,8 @@
             "index": 2
         },
         {
-            "timestamp": 7.5386,
-            "time": "00:07.539",
+            "timestamp": 5.5386,
+            "time": "00:05.539",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -294,8 +294,8 @@
             "index": 3
         },
         {
-            "timestamp": 7.841,
-            "time": "00:07.841",
+            "timestamp": 5.841,
+            "time": "00:05.841",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -352,8 +352,8 @@
             "index": 4
         },
         {
-            "timestamp": 8.1382,
-            "time": "00:08.138",
+            "timestamp": 6.1382,
+            "time": "00:06.138",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -416,8 +416,8 @@
             "index": 5
         },
         {
-            "timestamp": 9.4053,
-            "time": "00:09.405",
+            "timestamp": 7.4053,
+            "time": "00:07.405",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -474,8 +474,8 @@
             "index": 6
         },
         {
-            "timestamp": 9.519,
-            "time": "00:09.519",
+            "timestamp": 7.519,
+            "time": "00:07.519",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -532,8 +532,8 @@
             "index": 7
         },
         {
-            "timestamp": 9.5928,
-            "time": "00:09.593",
+            "timestamp": 7.5928,
+            "time": "00:07.593",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -596,8 +596,8 @@
             "index": 8
         },
         {
-            "timestamp": 9.6763,
-            "time": "00:09.676",
+            "timestamp": 7.6763,
+            "time": "00:07.676",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -654,8 +654,8 @@
             "index": 9
         },
         {
-            "timestamp": 9.737,
-            "time": "00:09.737",
+            "timestamp": 7.737,
+            "time": "00:07.737",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -718,8 +718,8 @@
             "index": 10
         },
         {
-            "timestamp": 10.4403,
-            "time": "00:10.440",
+            "timestamp": 8.4403,
+            "time": "00:08.440",
             "application": "explorer.exe",
             "window_title": "Run",
             "focused_element": {
@@ -773,8 +773,8 @@
             "index": 11
         },
         {
-            "timestamp": 11.1235,
-            "time": "00:11.123",
+            "timestamp": 9.1235,
+            "time": "00:09.123",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -828,8 +828,8 @@
             "index": 12
         },
         {
-            "timestamp": 13.5541,
-            "time": "00:13.554",
+            "timestamp": 11.5541,
+            "time": "00:11.554",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -883,8 +883,8 @@
             "index": 13
         },
         {
-            "timestamp": 13.7221,
-            "time": "00:13.722",
+            "timestamp": 11.7221,
+            "time": "00:11.722",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -938,8 +938,8 @@
             "index": 14
         },
         {
-            "timestamp": 13.9147,
-            "time": "00:13.915",
+            "timestamp": 11.9147,
+            "time": "00:11.915",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -993,8 +993,8 @@
             "index": 15
         },
         {
-            "timestamp": 14.0867,
-            "time": "00:14.087",
+            "timestamp": 12.0867,
+            "time": "00:12.087",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1048,8 +1048,8 @@
             "index": 16
         },
         {
-            "timestamp": 14.4454,
-            "time": "00:14.445",
+            "timestamp": 12.4454,
+            "time": "00:12.445",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1103,8 +1103,8 @@
             "index": 17
         },
         {
-            "timestamp": 14.5291,
-            "time": "00:14.529",
+            "timestamp": 12.5291,
+            "time": "00:12.529",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1158,8 +1158,8 @@
             "index": 18
         },
         {
-            "timestamp": 14.6263,
-            "time": "00:14.626",
+            "timestamp": 12.6263,
+            "time": "00:12.626",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1213,8 +1213,8 @@
             "index": 19
         },
         {
-            "timestamp": 14.7822,
-            "time": "00:14.782",
+            "timestamp": 12.7822,
+            "time": "00:12.782",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1268,8 +1268,8 @@
             "index": 20
         },
         {
-            "timestamp": 14.9145,
-            "time": "00:14.915",
+            "timestamp": 12.9145,
+            "time": "00:12.915",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1323,8 +1323,8 @@
             "index": 21
         },
         {
-            "timestamp": 16.3375,
-            "time": "00:16.337",
+            "timestamp": 14.3375,
+            "time": "00:14.337",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1378,8 +1378,8 @@
             "index": 22
         },
         {
-            "timestamp": 17.7515,
-            "time": "00:17.752",
+            "timestamp": 15.7515,
+            "time": "00:15.752",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1433,8 +1433,8 @@
             "index": 23
         },
         {
-            "timestamp": 18.81,
-            "time": "00:18.810",
+            "timestamp": 16.81,
+            "time": "00:16.810",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1488,8 +1488,8 @@
             "index": 24
         },
         {
-            "timestamp": 20.2722,
-            "time": "00:20.272",
+            "timestamp": 18.2722,
+            "time": "00:18.272",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1543,8 +1543,8 @@
             "index": 25
         },
         {
-            "timestamp": 20.743,
-            "time": "00:20.743",
+            "timestamp": 18.743,
+            "time": "00:18.743",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1598,8 +1598,8 @@
             "index": 26
         },
         {
-            "timestamp": 21.456,
-            "time": "00:21.456",
+            "timestamp": 19.456,
+            "time": "00:19.456",
             "application": "explorer.exe",
             "window_title": "Task 41 - File Explorer",
             "focused_element": {
@@ -1653,8 +1653,8 @@
             "index": 27
         },
         {
-            "timestamp": 32.7017,
-            "time": "00:32.702",
+            "timestamp": 30.7017,
+            "time": "00:30.702",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -1708,8 +1708,8 @@
             "index": 28
         },
         {
-            "timestamp": 35.5123,
-            "time": "00:35.512",
+            "timestamp": 33.5123,
+            "time": "00:33.512",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -1763,8 +1763,8 @@
             "index": 29
         },
         {
-            "timestamp": 36.7761,
-            "time": "00:36.776",
+            "timestamp": 34.7761,
+            "time": "00:34.776",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41  -  Protected View - PowerPoint",
             "focused_element": {
@@ -1818,8 +1818,8 @@
             "index": 30
         },
         {
-            "timestamp": 43.2447,
-            "time": "00:43.245",
+            "timestamp": 41.2447,
+            "time": "00:41.245",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -1876,8 +1876,8 @@
             "index": 31
         },
         {
-            "timestamp": 46.3998,
-            "time": "00:46.400",
+            "timestamp": 44.3998,
+            "time": "00:44.400",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -1931,8 +1931,8 @@
             "index": 32
         },
         {
-            "timestamp": 46.9492,
-            "time": "00:46.949",
+            "timestamp": 44.9492,
+            "time": "00:44.949",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -1986,8 +1986,8 @@
             "index": 33
         },
         {
-            "timestamp": 47.0664,
-            "time": "00:47.066",
+            "timestamp": 45.0664,
+            "time": "00:45.066",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -2041,8 +2041,8 @@
             "index": 34
         },
         {
-            "timestamp": 48.4154,
-            "time": "00:48.415",
+            "timestamp": 46.4154,
+            "time": "00:46.415",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -2096,8 +2096,8 @@
             "index": 35
         },
         {
-            "timestamp": 53.0888,
-            "time": "00:53.089",
+            "timestamp": 51.0888,
+            "time": "00:51.089",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -2151,8 +2151,8 @@
             "index": 36
         },
         {
-            "timestamp": 55.2131,
-            "time": "00:55.213",
+            "timestamp": 53.2131,
+            "time": "00:53.213",
             "application": "POWERPNT.EXE",
             "window_title": "Task ID 41 - PowerPoint",
             "focused_element": {
@@ -2206,8 +2206,8 @@
             "index": 37
         },
         {
-            "timestamp": 59.6038,
-            "time": "00:59.604",
+            "timestamp": 57.6038,
+            "time": "00:57.604",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -2261,8 +2261,8 @@
             "index": 38
         },
         {
-            "timestamp": 63.7628,
-            "time": "01:03.763",
+            "timestamp": 61.7628,
+            "time": "01:01.763",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -2316,8 +2316,8 @@
             "index": 39
         },
         {
-            "timestamp": 67.8021,
-            "time": "01:07.802",
+            "timestamp": 65.8021,
+            "time": "01:05.802",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {
@@ -2371,8 +2371,8 @@
             "index": 40
         },
         {
-            "timestamp": 71.74,
-            "time": "01:11.740",
+            "timestamp": 69.74,
+            "time": "01:09.740",
             "application": "POWERPNT.EXE",
             "window_title": "",
             "focused_element": {

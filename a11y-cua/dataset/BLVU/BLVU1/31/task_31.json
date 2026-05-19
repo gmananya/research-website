@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756560945.8072433,
+            "started_at": 1756560947.8072433,
             "ended_at": 1756561071.6849415,
             "started_time": "00:00.000",
-            "ended_time": "01:33.729",
+            "ended_time": "01:31.729",
             "duration": 125.88
         },
         "statistics": {
@@ -109,7 +109,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
@@ -164,8 +164,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.483,
-            "time": "00:00.483",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -219,8 +219,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.5728,
-            "time": "00:00.573",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -274,8 +274,8 @@
             "index": 2
         },
         {
-            "timestamp": 0.6801,
-            "time": "00:00.680",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -329,8 +329,8 @@
             "index": 3
         },
         {
-            "timestamp": 0.8176,
-            "time": "00:00.818",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -384,8 +384,8 @@
             "index": 4
         },
         {
-            "timestamp": 0.9798,
-            "time": "00:00.980",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -439,8 +439,8 @@
             "index": 5
         },
         {
-            "timestamp": 1.2858,
-            "time": "00:01.286",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -494,8 +494,8 @@
             "index": 6
         },
         {
-            "timestamp": 1.5678,
-            "time": "00:01.568",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -549,8 +549,8 @@
             "index": 7
         },
         {
-            "timestamp": 1.7325,
-            "time": "00:01.732",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -604,8 +604,8 @@
             "index": 8
         },
         {
-            "timestamp": 1.8538,
-            "time": "00:01.854",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -659,8 +659,8 @@
             "index": 9
         },
         {
-            "timestamp": 1.9665,
-            "time": "00:01.966",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -714,8 +714,8 @@
             "index": 10
         },
         {
-            "timestamp": 2.1664,
-            "time": "00:02.166",
+            "timestamp": 0.1664,
+            "time": "00:00.166",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -769,8 +769,8 @@
             "index": 11
         },
         {
-            "timestamp": 2.3059,
-            "time": "00:02.306",
+            "timestamp": 0.3059,
+            "time": "00:00.306",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -824,8 +824,8 @@
             "index": 12
         },
         {
-            "timestamp": 2.4921,
-            "time": "00:02.492",
+            "timestamp": 0.4921,
+            "time": "00:00.492",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -879,8 +879,8 @@
             "index": 13
         },
         {
-            "timestamp": 2.7108,
-            "time": "00:02.711",
+            "timestamp": 0.7108,
+            "time": "00:00.711",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -934,8 +934,8 @@
             "index": 14
         },
         {
-            "timestamp": 2.9148,
-            "time": "00:02.915",
+            "timestamp": 0.9148,
+            "time": "00:00.915",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -989,8 +989,8 @@
             "index": 15
         },
         {
-            "timestamp": 3.049,
-            "time": "00:03.049",
+            "timestamp": 1.049,
+            "time": "00:01.049",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1044,8 +1044,8 @@
             "index": 16
         },
         {
-            "timestamp": 3.2524,
-            "time": "00:03.252",
+            "timestamp": 1.2524,
+            "time": "00:01.252",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1099,8 +1099,8 @@
             "index": 17
         },
         {
-            "timestamp": 3.441,
-            "time": "00:03.441",
+            "timestamp": 1.441,
+            "time": "00:01.441",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1154,8 +1154,8 @@
             "index": 18
         },
         {
-            "timestamp": 3.6966,
-            "time": "00:03.697",
+            "timestamp": 1.6966,
+            "time": "00:01.697",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1209,8 +1209,8 @@
             "index": 19
         },
         {
-            "timestamp": 4.9631,
-            "time": "00:04.963",
+            "timestamp": 2.9631,
+            "time": "00:02.963",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1267,8 +1267,8 @@
             "index": 20
         },
         {
-            "timestamp": 5.0697,
-            "time": "00:05.070",
+            "timestamp": 3.0697,
+            "time": "00:03.070",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1322,8 +1322,8 @@
             "index": 21
         },
         {
-            "timestamp": 5.6208,
-            "time": "00:05.621",
+            "timestamp": 3.6208,
+            "time": "00:03.621",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1377,8 +1377,8 @@
             "index": 22
         },
         {
-            "timestamp": 5.8835,
-            "time": "00:05.883",
+            "timestamp": 3.8835,
+            "time": "00:03.883",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1432,8 +1432,8 @@
             "index": 23
         },
         {
-            "timestamp": 6.1745,
-            "time": "00:06.175",
+            "timestamp": 4.1745,
+            "time": "00:04.175",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1487,8 +1487,8 @@
             "index": 24
         },
         {
-            "timestamp": 6.4962,
-            "time": "00:06.496",
+            "timestamp": 4.4962,
+            "time": "00:04.496",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1542,8 +1542,8 @@
             "index": 25
         },
         {
-            "timestamp": 7.0981,
-            "time": "00:07.098",
+            "timestamp": 5.0981,
+            "time": "00:05.098",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1597,8 +1597,8 @@
             "index": 26
         },
         {
-            "timestamp": 7.8179,
-            "time": "00:07.818",
+            "timestamp": 5.8179,
+            "time": "00:05.818",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1652,8 +1652,8 @@
             "index": 27
         },
         {
-            "timestamp": 8.0624,
-            "time": "00:08.062",
+            "timestamp": 6.0624,
+            "time": "00:06.062",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1707,8 +1707,8 @@
             "index": 28
         },
         {
-            "timestamp": 10.5319,
-            "time": "00:10.532",
+            "timestamp": 8.5319,
+            "time": "00:08.532",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1765,8 +1765,8 @@
             "index": 29
         },
         {
-            "timestamp": 10.6869,
-            "time": "00:10.687",
+            "timestamp": 8.6869,
+            "time": "00:08.687",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1823,8 +1823,8 @@
             "index": 30
         },
         {
-            "timestamp": 10.7705,
-            "time": "00:10.771",
+            "timestamp": 8.7705,
+            "time": "00:08.771",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1887,8 +1887,8 @@
             "index": 31
         },
         {
-            "timestamp": 11.2166,
-            "time": "00:11.217",
+            "timestamp": 9.2166,
+            "time": "00:09.217",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -1945,8 +1945,8 @@
             "index": 32
         },
         {
-            "timestamp": 11.325,
-            "time": "00:11.325",
+            "timestamp": 9.325,
+            "time": "00:09.325",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2009,8 +2009,8 @@
             "index": 33
         },
         {
-            "timestamp": 11.5029,
-            "time": "00:11.503",
+            "timestamp": 9.5029,
+            "time": "00:09.503",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2067,8 +2067,8 @@
             "index": 34
         },
         {
-            "timestamp": 11.5811,
-            "time": "00:11.581",
+            "timestamp": 9.5811,
+            "time": "00:09.581",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2131,8 +2131,8 @@
             "index": 35
         },
         {
-            "timestamp": 11.7382,
-            "time": "00:11.738",
+            "timestamp": 9.7382,
+            "time": "00:09.738",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2189,8 +2189,8 @@
             "index": 36
         },
         {
-            "timestamp": 11.8315,
-            "time": "00:11.832",
+            "timestamp": 9.8315,
+            "time": "00:09.832",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2253,8 +2253,8 @@
             "index": 37
         },
         {
-            "timestamp": 12.0662,
-            "time": "00:12.066",
+            "timestamp": 10.0662,
+            "time": "00:10.066",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2311,8 +2311,8 @@
             "index": 38
         },
         {
-            "timestamp": 12.1669,
-            "time": "00:12.167",
+            "timestamp": 10.1669,
+            "time": "00:10.167",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2375,8 +2375,8 @@
             "index": 39
         },
         {
-            "timestamp": 12.3498,
-            "time": "00:12.350",
+            "timestamp": 10.3498,
+            "time": "00:10.350",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2433,8 +2433,8 @@
             "index": 40
         },
         {
-            "timestamp": 12.4391,
-            "time": "00:12.439",
+            "timestamp": 10.4391,
+            "time": "00:10.439",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2497,8 +2497,8 @@
             "index": 41
         },
         {
-            "timestamp": 12.616,
-            "time": "00:12.616",
+            "timestamp": 10.616,
+            "time": "00:10.616",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2555,8 +2555,8 @@
             "index": 42
         },
         {
-            "timestamp": 12.7318,
-            "time": "00:12.732",
+            "timestamp": 10.7318,
+            "time": "00:10.732",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2619,8 +2619,8 @@
             "index": 43
         },
         {
-            "timestamp": 12.9313,
-            "time": "00:12.931",
+            "timestamp": 10.9313,
+            "time": "00:10.931",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2677,8 +2677,8 @@
             "index": 44
         },
         {
-            "timestamp": 13.0225,
-            "time": "00:13.023",
+            "timestamp": 11.0225,
+            "time": "00:11.023",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2741,8 +2741,8 @@
             "index": 45
         },
         {
-            "timestamp": 13.2508,
-            "time": "00:13.251",
+            "timestamp": 11.2508,
+            "time": "00:11.251",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2799,8 +2799,8 @@
             "index": 46
         },
         {
-            "timestamp": 13.3562,
-            "time": "00:13.356",
+            "timestamp": 11.3562,
+            "time": "00:11.356",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2863,8 +2863,8 @@
             "index": 47
         },
         {
-            "timestamp": 13.8294,
-            "time": "00:13.829",
+            "timestamp": 11.8294,
+            "time": "00:11.829",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2921,8 +2921,8 @@
             "index": 48
         },
         {
-            "timestamp": 13.9696,
-            "time": "00:13.970",
+            "timestamp": 11.9696,
+            "time": "00:11.970",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -2985,8 +2985,8 @@
             "index": 49
         },
         {
-            "timestamp": 14.163,
-            "time": "00:14.163",
+            "timestamp": 12.163,
+            "time": "00:12.163",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3043,8 +3043,8 @@
             "index": 50
         },
         {
-            "timestamp": 14.2752,
-            "time": "00:14.275",
+            "timestamp": 12.2752,
+            "time": "00:12.275",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3107,8 +3107,8 @@
             "index": 51
         },
         {
-            "timestamp": 14.6895,
-            "time": "00:14.690",
+            "timestamp": 12.6895,
+            "time": "00:12.690",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3165,8 +3165,8 @@
             "index": 52
         },
         {
-            "timestamp": 14.7984,
-            "time": "00:14.798",
+            "timestamp": 12.7984,
+            "time": "00:12.798",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3229,8 +3229,8 @@
             "index": 53
         },
         {
-            "timestamp": 15.8283,
-            "time": "00:15.828",
+            "timestamp": 13.8283,
+            "time": "00:13.828",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3287,8 +3287,8 @@
             "index": 54
         },
         {
-            "timestamp": 15.9717,
-            "time": "00:15.972",
+            "timestamp": 13.9717,
+            "time": "00:13.972",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3351,8 +3351,8 @@
             "index": 55
         },
         {
-            "timestamp": 18.5164,
-            "time": "00:18.516",
+            "timestamp": 16.5164,
+            "time": "00:16.516",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3409,8 +3409,8 @@
             "index": 56
         },
         {
-            "timestamp": 18.6953,
-            "time": "00:18.695",
+            "timestamp": 16.6953,
+            "time": "00:16.695",
             "application": "chrome.exe",
             "window_title": "excel function mean - Google Search - Google Chrome",
             "focused_element": {
@@ -3467,8 +3467,8 @@
             "index": 57
         },
         {
-            "timestamp": 19.1681,
-            "time": "00:19.168",
+            "timestamp": 17.1681,
+            "time": "00:17.168",
             "application": "explorer.exe",
             "window_title": "File Explorer",
             "focused_element": {
@@ -3531,8 +3531,8 @@
             "index": 58
         },
         {
-            "timestamp": 21.5477,
-            "time": "00:21.548",
+            "timestamp": 19.5477,
+            "time": "00:19.548",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -3586,8 +3586,8 @@
             "index": 59
         },
         {
-            "timestamp": 22.4738,
-            "time": "00:22.474",
+            "timestamp": 20.4738,
+            "time": "00:20.474",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -3641,8 +3641,8 @@
             "index": 60
         },
         {
-            "timestamp": 24.3968,
-            "time": "00:24.397",
+            "timestamp": 22.3968,
+            "time": "00:22.397",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -3696,8 +3696,8 @@
             "index": 61
         },
         {
-            "timestamp": 25.7068,
-            "time": "00:25.707",
+            "timestamp": 23.7068,
+            "time": "00:23.707",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -3751,8 +3751,8 @@
             "index": 62
         },
         {
-            "timestamp": 26.8813,
-            "time": "00:26.881",
+            "timestamp": 24.8813,
+            "time": "00:24.881",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -3806,8 +3806,8 @@
             "index": 63
         },
         {
-            "timestamp": 28.9011,
-            "time": "00:28.901",
+            "timestamp": 26.9011,
+            "time": "00:26.901",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -3861,8 +3861,8 @@
             "index": 64
         },
         {
-            "timestamp": 29.0207,
-            "time": "00:29.021",
+            "timestamp": 27.0207,
+            "time": "00:27.021",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -3916,8 +3916,8 @@
             "index": 65
         },
         {
-            "timestamp": 29.8372,
-            "time": "00:29.837",
+            "timestamp": 27.8372,
+            "time": "00:27.837",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -3971,8 +3971,8 @@
             "index": 66
         },
         {
-            "timestamp": 29.9017,
-            "time": "00:29.902",
+            "timestamp": 27.9017,
+            "time": "00:27.902",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4026,8 +4026,8 @@
             "index": 67
         },
         {
-            "timestamp": 30.2494,
-            "time": "00:30.249",
+            "timestamp": 28.2494,
+            "time": "00:28.249",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4081,8 +4081,8 @@
             "index": 68
         },
         {
-            "timestamp": 30.316,
-            "time": "00:30.316",
+            "timestamp": 28.316,
+            "time": "00:28.316",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4136,8 +4136,8 @@
             "index": 69
         },
         {
-            "timestamp": 30.442,
-            "time": "00:30.442",
+            "timestamp": 28.442,
+            "time": "00:28.442",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4191,8 +4191,8 @@
             "index": 70
         },
         {
-            "timestamp": 30.5395,
-            "time": "00:30.540",
+            "timestamp": 28.5395,
+            "time": "00:28.540",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4246,8 +4246,8 @@
             "index": 71
         },
         {
-            "timestamp": 32.216,
-            "time": "00:32.216",
+            "timestamp": 30.216,
+            "time": "00:30.216",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4301,8 +4301,8 @@
             "index": 72
         },
         {
-            "timestamp": 32.341,
-            "time": "00:32.341",
+            "timestamp": 30.341,
+            "time": "00:30.341",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4356,8 +4356,8 @@
             "index": 73
         },
         {
-            "timestamp": 33.8417,
-            "time": "00:33.842",
+            "timestamp": 31.8417,
+            "time": "00:31.842",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -4411,8 +4411,8 @@
             "index": 74
         },
         {
-            "timestamp": 35.0196,
-            "time": "00:35.020",
+            "timestamp": 33.0196,
+            "time": "00:33.020",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4466,8 +4466,8 @@
             "index": 75
         },
         {
-            "timestamp": 35.141,
-            "time": "00:35.141",
+            "timestamp": 33.141,
+            "time": "00:33.141",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4521,8 +4521,8 @@
             "index": 76
         },
         {
-            "timestamp": 35.9502,
-            "time": "00:35.950",
+            "timestamp": 33.9502,
+            "time": "00:33.950",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4576,8 +4576,8 @@
             "index": 77
         },
         {
-            "timestamp": 36.0289,
-            "time": "00:36.029",
+            "timestamp": 34.0289,
+            "time": "00:34.029",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4631,8 +4631,8 @@
             "index": 78
         },
         {
-            "timestamp": 36.5142,
-            "time": "00:36.514",
+            "timestamp": 34.5142,
+            "time": "00:34.514",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4686,8 +4686,8 @@
             "index": 79
         },
         {
-            "timestamp": 36.5977,
-            "time": "00:36.598",
+            "timestamp": 34.5977,
+            "time": "00:34.598",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4741,8 +4741,8 @@
             "index": 80
         },
         {
-            "timestamp": 37.8426,
-            "time": "00:37.843",
+            "timestamp": 35.8426,
+            "time": "00:35.843",
             "application": "explorer.exe",
             "window_title": "Task 44 - File Explorer",
             "focused_element": {
@@ -4796,8 +4796,8 @@
             "index": 81
         },
         {
-            "timestamp": 43.78,
-            "time": "00:43.780",
+            "timestamp": 41.78,
+            "time": "00:41.780",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -4851,8 +4851,8 @@
             "index": 82
         },
         {
-            "timestamp": 44.4971,
-            "time": "00:44.497",
+            "timestamp": 42.4971,
+            "time": "00:42.497",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -4906,8 +4906,8 @@
             "index": 83
         },
         {
-            "timestamp": 44.752,
-            "time": "00:44.752",
+            "timestamp": 42.752,
+            "time": "00:42.752",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -4964,8 +4964,8 @@
             "index": 84
         },
         {
-            "timestamp": 44.9483,
-            "time": "00:44.948",
+            "timestamp": 42.9483,
+            "time": "00:42.948",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5022,8 +5022,8 @@
             "index": 85
         },
         {
-            "timestamp": 45.1683,
-            "time": "00:45.168",
+            "timestamp": 43.1683,
+            "time": "00:43.168",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -5086,8 +5086,8 @@
             "index": 86
         },
         {
-            "timestamp": 45.9449,
-            "time": "00:45.945",
+            "timestamp": 43.9449,
+            "time": "00:43.945",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -5141,8 +5141,8 @@
             "index": 87
         },
         {
-            "timestamp": 46.0887,
-            "time": "00:46.089",
+            "timestamp": 44.0887,
+            "time": "00:44.089",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5196,8 +5196,8 @@
             "index": 88
         },
         {
-            "timestamp": 47.7511,
-            "time": "00:47.751",
+            "timestamp": 45.7511,
+            "time": "00:45.751",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5254,8 +5254,8 @@
             "index": 89
         },
         {
-            "timestamp": 47.874,
-            "time": "00:47.874",
+            "timestamp": 45.874,
+            "time": "00:45.874",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5312,8 +5312,8 @@
             "index": 90
         },
         {
-            "timestamp": 47.9481,
-            "time": "00:47.948",
+            "timestamp": 45.9481,
+            "time": "00:45.948",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5376,8 +5376,8 @@
             "index": 91
         },
         {
-            "timestamp": 48.0337,
-            "time": "00:48.034",
+            "timestamp": 46.0337,
+            "time": "00:46.034",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5434,8 +5434,8 @@
             "index": 92
         },
         {
-            "timestamp": 48.117,
-            "time": "00:48.117",
+            "timestamp": 46.117,
+            "time": "00:46.117",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5498,8 +5498,8 @@
             "index": 93
         },
         {
-            "timestamp": 48.172,
-            "time": "00:48.172",
+            "timestamp": 46.172,
+            "time": "00:46.172",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5556,8 +5556,8 @@
             "index": 94
         },
         {
-            "timestamp": 48.2579,
-            "time": "00:48.258",
+            "timestamp": 46.2579,
+            "time": "00:46.258",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5620,8 +5620,8 @@
             "index": 95
         },
         {
-            "timestamp": 48.8164,
-            "time": "00:48.816",
+            "timestamp": 46.8164,
+            "time": "00:46.816",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5675,8 +5675,8 @@
             "index": 96
         },
         {
-            "timestamp": 48.9505,
-            "time": "00:48.950",
+            "timestamp": 46.9505,
+            "time": "00:46.950",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5730,8 +5730,8 @@
             "index": 97
         },
         {
-            "timestamp": 49.3923,
-            "time": "00:49.392",
+            "timestamp": 47.3923,
+            "time": "00:47.392",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5785,8 +5785,8 @@
             "index": 98
         },
         {
-            "timestamp": 49.4798,
-            "time": "00:49.480",
+            "timestamp": 47.4798,
+            "time": "00:47.480",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5840,8 +5840,8 @@
             "index": 99
         },
         {
-            "timestamp": 51.6531,
-            "time": "00:51.653",
+            "timestamp": 49.6531,
+            "time": "00:49.653",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5895,8 +5895,8 @@
             "index": 100
         },
         {
-            "timestamp": 51.7721,
-            "time": "00:51.772",
+            "timestamp": 49.7721,
+            "time": "00:49.772",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -5950,8 +5950,8 @@
             "index": 101
         },
         {
-            "timestamp": 53.9832,
-            "time": "00:53.983",
+            "timestamp": 51.9832,
+            "time": "00:51.983",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6005,8 +6005,8 @@
             "index": 102
         },
         {
-            "timestamp": 54.1236,
-            "time": "00:54.124",
+            "timestamp": 52.1236,
+            "time": "00:52.124",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6060,8 +6060,8 @@
             "index": 103
         },
         {
-            "timestamp": 54.6227,
-            "time": "00:54.623",
+            "timestamp": 52.6227,
+            "time": "00:52.623",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6115,8 +6115,8 @@
             "index": 104
         },
         {
-            "timestamp": 54.7316,
-            "time": "00:54.732",
+            "timestamp": 52.7316,
+            "time": "00:52.732",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6170,8 +6170,8 @@
             "index": 105
         },
         {
-            "timestamp": 57.9363,
-            "time": "00:57.936",
+            "timestamp": 55.9363,
+            "time": "00:55.936",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6228,8 +6228,8 @@
             "index": 106
         },
         {
-            "timestamp": 58.089,
-            "time": "00:58.089",
+            "timestamp": 56.089,
+            "time": "00:56.089",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6286,8 +6286,8 @@
             "index": 107
         },
         {
-            "timestamp": 58.1526,
-            "time": "00:58.153",
+            "timestamp": 56.1526,
+            "time": "00:56.153",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6350,8 +6350,8 @@
             "index": 108
         },
         {
-            "timestamp": 59.8322,
-            "time": "00:59.832",
+            "timestamp": 57.8322,
+            "time": "00:57.832",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6405,8 +6405,8 @@
             "index": 109
         },
         {
-            "timestamp": 59.9682,
-            "time": "00:59.968",
+            "timestamp": 57.9682,
+            "time": "00:57.968",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6460,8 +6460,8 @@
             "index": 110
         },
         {
-            "timestamp": 61.0241,
-            "time": "01:01.024",
+            "timestamp": 59.0241,
+            "time": "00:59.024",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6515,8 +6515,8 @@
             "index": 111
         },
         {
-            "timestamp": 61.1337,
-            "time": "01:01.134",
+            "timestamp": 59.1337,
+            "time": "00:59.134",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6570,8 +6570,8 @@
             "index": 112
         },
         {
-            "timestamp": 62.0625,
-            "time": "01:02.062",
+            "timestamp": 60.0625,
+            "time": "01:00.062",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6628,8 +6628,8 @@
             "index": 113
         },
         {
-            "timestamp": 62.277,
-            "time": "01:02.277",
+            "timestamp": 60.277,
+            "time": "01:00.277",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6686,8 +6686,8 @@
             "index": 114
         },
         {
-            "timestamp": 62.4534,
-            "time": "01:02.453",
+            "timestamp": 60.4534,
+            "time": "01:00.453",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -6750,8 +6750,8 @@
             "index": 115
         },
         {
-            "timestamp": 63.5838,
-            "time": "01:03.584",
+            "timestamp": 61.5838,
+            "time": "01:01.584",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -6805,8 +6805,8 @@
             "index": 116
         },
         {
-            "timestamp": 63.714,
-            "time": "01:03.714",
+            "timestamp": 61.714,
+            "time": "01:01.714",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -6860,8 +6860,8 @@
             "index": 117
         },
         {
-            "timestamp": 64.727,
-            "time": "01:04.727",
+            "timestamp": 62.727,
+            "time": "01:02.727",
             "application": "EXCEL.EXE",
             "window_title": "Microsoft Excel",
             "focused_element": {
@@ -6915,8 +6915,8 @@
             "index": 118
         },
         {
-            "timestamp": 64.8846,
-            "time": "01:04.885",
+            "timestamp": 62.8846,
+            "time": "01:02.885",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -6970,8 +6970,8 @@
             "index": 119
         },
         {
-            "timestamp": 68.0788,
-            "time": "01:08.079",
+            "timestamp": 66.0788,
+            "time": "01:06.079",
             "application": "EXCEL.EXE",
             "window_title": "Task ID  -  Protected View - Excel",
             "focused_element": {
@@ -7028,8 +7028,8 @@
             "index": 120
         },
         {
-            "timestamp": 68.8636,
-            "time": "01:08.864",
+            "timestamp": 66.8636,
+            "time": "01:06.864",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7086,8 +7086,8 @@
             "index": 121
         },
         {
-            "timestamp": 71.2028,
-            "time": "01:11.203",
+            "timestamp": 69.2028,
+            "time": "01:09.203",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7150,8 +7150,8 @@
             "index": 122
         },
         {
-            "timestamp": 71.3014,
-            "time": "01:11.301",
+            "timestamp": 69.3014,
+            "time": "01:09.301",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7208,8 +7208,8 @@
             "index": 123
         },
         {
-            "timestamp": 71.3834,
-            "time": "01:11.383",
+            "timestamp": 69.3834,
+            "time": "01:09.383",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7272,8 +7272,8 @@
             "index": 124
         },
         {
-            "timestamp": 71.4696,
-            "time": "01:11.470",
+            "timestamp": 69.4696,
+            "time": "01:09.470",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7330,8 +7330,8 @@
             "index": 125
         },
         {
-            "timestamp": 71.5454,
-            "time": "01:11.545",
+            "timestamp": 69.5454,
+            "time": "01:09.545",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7388,8 +7388,8 @@
             "index": 126
         },
         {
-            "timestamp": 71.6296,
-            "time": "01:11.630",
+            "timestamp": 69.6296,
+            "time": "01:09.630",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7452,8 +7452,8 @@
             "index": 127
         },
         {
-            "timestamp": 71.7334,
-            "time": "01:11.733",
+            "timestamp": 69.7334,
+            "time": "01:09.733",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7507,8 +7507,8 @@
             "index": 128
         },
         {
-            "timestamp": 71.8273,
-            "time": "01:11.827",
+            "timestamp": 69.8273,
+            "time": "01:09.827",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7562,8 +7562,8 @@
             "index": 129
         },
         {
-            "timestamp": 72.0093,
-            "time": "01:12.009",
+            "timestamp": 70.0093,
+            "time": "01:10.009",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7617,8 +7617,8 @@
             "index": 130
         },
         {
-            "timestamp": 72.1008,
-            "time": "01:12.101",
+            "timestamp": 70.1008,
+            "time": "01:10.101",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7672,8 +7672,8 @@
             "index": 131
         },
         {
-            "timestamp": 73.0191,
-            "time": "01:13.019",
+            "timestamp": 71.0191,
+            "time": "01:11.019",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7727,8 +7727,8 @@
             "index": 132
         },
         {
-            "timestamp": 73.1425,
-            "time": "01:13.142",
+            "timestamp": 71.1425,
+            "time": "01:11.142",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7782,8 +7782,8 @@
             "index": 133
         },
         {
-            "timestamp": 74.7774,
-            "time": "01:14.777",
+            "timestamp": 72.7774,
+            "time": "01:12.777",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7840,8 +7840,8 @@
             "index": 134
         },
         {
-            "timestamp": 74.9364,
-            "time": "01:14.936",
+            "timestamp": 72.9364,
+            "time": "01:12.936",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7898,8 +7898,8 @@
             "index": 135
         },
         {
-            "timestamp": 75.0241,
-            "time": "01:15.024",
+            "timestamp": 73.0241,
+            "time": "01:13.024",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -7962,8 +7962,8 @@
             "index": 136
         },
         {
-            "timestamp": 75.1152,
-            "time": "01:15.115",
+            "timestamp": 73.1152,
+            "time": "01:13.115",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8020,8 +8020,8 @@
             "index": 137
         },
         {
-            "timestamp": 75.2128,
-            "time": "01:15.213",
+            "timestamp": 73.2128,
+            "time": "01:13.213",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8084,8 +8084,8 @@
             "index": 138
         },
         {
-            "timestamp": 76.2388,
-            "time": "01:16.239",
+            "timestamp": 74.2388,
+            "time": "01:14.239",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8139,8 +8139,8 @@
             "index": 139
         },
         {
-            "timestamp": 76.3574,
-            "time": "01:16.357",
+            "timestamp": 74.3574,
+            "time": "01:14.357",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8194,8 +8194,8 @@
             "index": 140
         },
         {
-            "timestamp": 77.2843,
-            "time": "01:17.284",
+            "timestamp": 75.2843,
+            "time": "01:15.284",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8249,8 +8249,8 @@
             "index": 141
         },
         {
-            "timestamp": 77.3978,
-            "time": "01:17.398",
+            "timestamp": 75.3978,
+            "time": "01:15.398",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8304,8 +8304,8 @@
             "index": 142
         },
         {
-            "timestamp": 77.9527,
-            "time": "01:17.953",
+            "timestamp": 75.9527,
+            "time": "01:15.953",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8359,8 +8359,8 @@
             "index": 143
         },
         {
-            "timestamp": 78.0622,
-            "time": "01:18.062",
+            "timestamp": 76.0622,
+            "time": "01:16.062",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8414,8 +8414,8 @@
             "index": 144
         },
         {
-            "timestamp": 78.8043,
-            "time": "01:18.804",
+            "timestamp": 76.8043,
+            "time": "01:16.804",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8469,8 +8469,8 @@
             "index": 145
         },
         {
-            "timestamp": 78.9358,
-            "time": "01:18.936",
+            "timestamp": 76.9358,
+            "time": "01:16.936",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8524,8 +8524,8 @@
             "index": 146
         },
         {
-            "timestamp": 80.0653,
-            "time": "01:20.065",
+            "timestamp": 78.0653,
+            "time": "01:18.065",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8582,8 +8582,8 @@
             "index": 147
         },
         {
-            "timestamp": 80.3068,
-            "time": "01:20.307",
+            "timestamp": 78.3068,
+            "time": "01:18.307",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8640,8 +8640,8 @@
             "index": 148
         },
         {
-            "timestamp": 80.4419,
-            "time": "01:20.442",
+            "timestamp": 78.4419,
+            "time": "01:18.442",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8704,8 +8704,8 @@
             "index": 149
         },
         {
-            "timestamp": 80.5384,
-            "time": "01:20.538",
+            "timestamp": 78.5384,
+            "time": "01:18.538",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8759,8 +8759,8 @@
             "index": 150
         },
         {
-            "timestamp": 80.6419,
-            "time": "01:20.642",
+            "timestamp": 78.6419,
+            "time": "01:18.642",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8814,8 +8814,8 @@
             "index": 151
         },
         {
-            "timestamp": 80.7538,
-            "time": "01:20.754",
+            "timestamp": 78.7538,
+            "time": "01:18.754",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8869,8 +8869,8 @@
             "index": 152
         },
         {
-            "timestamp": 80.8528,
-            "time": "01:20.853",
+            "timestamp": 78.8528,
+            "time": "01:18.853",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8924,8 +8924,8 @@
             "index": 153
         },
         {
-            "timestamp": 80.9816,
-            "time": "01:20.982",
+            "timestamp": 78.9816,
+            "time": "01:18.982",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -8979,8 +8979,8 @@
             "index": 154
         },
         {
-            "timestamp": 81.0819,
-            "time": "01:21.082",
+            "timestamp": 79.0819,
+            "time": "01:19.082",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9034,8 +9034,8 @@
             "index": 155
         },
         {
-            "timestamp": 81.2055,
-            "time": "01:21.206",
+            "timestamp": 79.2055,
+            "time": "01:19.206",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9089,8 +9089,8 @@
             "index": 156
         },
         {
-            "timestamp": 81.3257,
-            "time": "01:21.326",
+            "timestamp": 79.3257,
+            "time": "01:19.326",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9147,8 +9147,8 @@
             "index": 157
         },
         {
-            "timestamp": 81.4205,
-            "time": "01:21.421",
+            "timestamp": 79.4205,
+            "time": "01:19.421",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9205,8 +9205,8 @@
             "index": 158
         },
         {
-            "timestamp": 81.5173,
-            "time": "01:21.517",
+            "timestamp": 79.5173,
+            "time": "01:19.517",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9269,8 +9269,8 @@
             "index": 159
         },
         {
-            "timestamp": 81.6051,
-            "time": "01:21.605",
+            "timestamp": 79.6051,
+            "time": "01:19.605",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9324,8 +9324,8 @@
             "index": 160
         },
         {
-            "timestamp": 81.6849,
-            "time": "01:21.685",
+            "timestamp": 79.6849,
+            "time": "01:19.685",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9379,8 +9379,8 @@
             "index": 161
         },
         {
-            "timestamp": 81.8005,
-            "time": "01:21.800",
+            "timestamp": 79.8005,
+            "time": "01:19.800",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9434,8 +9434,8 @@
             "index": 162
         },
         {
-            "timestamp": 81.9351,
-            "time": "01:21.935",
+            "timestamp": 79.9351,
+            "time": "01:19.935",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9489,8 +9489,8 @@
             "index": 163
         },
         {
-            "timestamp": 82.8328,
-            "time": "01:22.833",
+            "timestamp": 80.8328,
+            "time": "01:20.833",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9544,8 +9544,8 @@
             "index": 164
         },
         {
-            "timestamp": 83.0032,
-            "time": "01:23.003",
+            "timestamp": 81.0032,
+            "time": "01:21.003",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9599,8 +9599,8 @@
             "index": 165
         },
         {
-            "timestamp": 83.1281,
-            "time": "01:23.128",
+            "timestamp": 81.1281,
+            "time": "01:21.128",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9654,8 +9654,8 @@
             "index": 166
         },
         {
-            "timestamp": 83.2905,
-            "time": "01:23.290",
+            "timestamp": 81.2905,
+            "time": "01:21.290",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9712,8 +9712,8 @@
             "index": 167
         },
         {
-            "timestamp": 83.4418,
-            "time": "01:23.442",
+            "timestamp": 81.4418,
+            "time": "01:21.442",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9770,8 +9770,8 @@
             "index": 168
         },
         {
-            "timestamp": 83.5318,
-            "time": "01:23.532",
+            "timestamp": 81.5318,
+            "time": "01:21.532",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9834,8 +9834,8 @@
             "index": 169
         },
         {
-            "timestamp": 83.6506,
-            "time": "01:23.651",
+            "timestamp": 81.6506,
+            "time": "01:21.651",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9889,8 +9889,8 @@
             "index": 170
         },
         {
-            "timestamp": 83.7659,
-            "time": "01:23.766",
+            "timestamp": 81.7659,
+            "time": "01:21.766",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9944,8 +9944,8 @@
             "index": 171
         },
         {
-            "timestamp": 83.8927,
-            "time": "01:23.893",
+            "timestamp": 81.8927,
+            "time": "01:21.893",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -9999,8 +9999,8 @@
             "index": 172
         },
         {
-            "timestamp": 84.0384,
-            "time": "01:24.038",
+            "timestamp": 82.0384,
+            "time": "01:22.038",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10054,8 +10054,8 @@
             "index": 173
         },
         {
-            "timestamp": 84.2503,
-            "time": "01:24.250",
+            "timestamp": 82.2503,
+            "time": "01:22.250",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10109,8 +10109,8 @@
             "index": 174
         },
         {
-            "timestamp": 84.3421,
-            "time": "01:24.342",
+            "timestamp": 82.3421,
+            "time": "01:22.342",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10164,8 +10164,8 @@
             "index": 175
         },
         {
-            "timestamp": 84.5017,
-            "time": "01:24.502",
+            "timestamp": 82.5017,
+            "time": "01:22.502",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10219,8 +10219,8 @@
             "index": 176
         },
         {
-            "timestamp": 86.1464,
-            "time": "01:26.146",
+            "timestamp": 84.1464,
+            "time": "01:24.146",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10274,8 +10274,8 @@
             "index": 177
         },
         {
-            "timestamp": 86.3306,
-            "time": "01:26.331",
+            "timestamp": 84.3306,
+            "time": "01:24.331",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10329,8 +10329,8 @@
             "index": 178
         },
         {
-            "timestamp": 87.3873,
-            "time": "01:27.387",
+            "timestamp": 85.3873,
+            "time": "01:25.387",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10384,8 +10384,8 @@
             "index": 179
         },
         {
-            "timestamp": 87.6982,
-            "time": "01:27.698",
+            "timestamp": 85.6982,
+            "time": "01:25.698",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10439,8 +10439,8 @@
             "index": 180
         },
         {
-            "timestamp": 87.879,
-            "time": "01:27.879",
+            "timestamp": 85.879,
+            "time": "01:25.879",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10494,8 +10494,8 @@
             "index": 181
         },
         {
-            "timestamp": 88.0167,
-            "time": "01:28.017",
+            "timestamp": 86.0167,
+            "time": "01:26.017",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10549,8 +10549,8 @@
             "index": 182
         },
         {
-            "timestamp": 88.1677,
-            "time": "01:28.168",
+            "timestamp": 86.1677,
+            "time": "01:26.168",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10604,8 +10604,8 @@
             "index": 183
         },
         {
-            "timestamp": 88.2775,
-            "time": "01:28.278",
+            "timestamp": 86.2775,
+            "time": "01:26.278",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10659,8 +10659,8 @@
             "index": 184
         },
         {
-            "timestamp": 88.4538,
-            "time": "01:28.454",
+            "timestamp": 86.4538,
+            "time": "01:26.454",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10714,8 +10714,8 @@
             "index": 185
         },
         {
-            "timestamp": 88.579,
-            "time": "01:28.579",
+            "timestamp": 86.579,
+            "time": "01:26.579",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10772,8 +10772,8 @@
             "index": 186
         },
         {
-            "timestamp": 88.672,
-            "time": "01:28.672",
+            "timestamp": 86.672,
+            "time": "01:26.672",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10830,8 +10830,8 @@
             "index": 187
         },
         {
-            "timestamp": 88.7669,
-            "time": "01:28.767",
+            "timestamp": 86.7669,
+            "time": "01:26.767",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10894,8 +10894,8 @@
             "index": 188
         },
         {
-            "timestamp": 89.0522,
-            "time": "01:29.052",
+            "timestamp": 87.0522,
+            "time": "01:27.052",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -10949,8 +10949,8 @@
             "index": 189
         },
         {
-            "timestamp": 89.5687,
-            "time": "01:29.569",
+            "timestamp": 87.5687,
+            "time": "01:27.569",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11007,8 +11007,8 @@
             "index": 190
         },
         {
-            "timestamp": 89.7626,
-            "time": "01:29.763",
+            "timestamp": 87.7626,
+            "time": "01:27.763",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11065,8 +11065,8 @@
             "index": 191
         },
         {
-            "timestamp": 89.865,
-            "time": "01:29.865",
+            "timestamp": 87.865,
+            "time": "01:27.865",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11129,8 +11129,8 @@
             "index": 192
         },
         {
-            "timestamp": 90.6855,
-            "time": "01:30.686",
+            "timestamp": 88.6855,
+            "time": "01:28.686",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11184,8 +11184,8 @@
             "index": 193
         },
         {
-            "timestamp": 91.4726,
-            "time": "01:31.473",
+            "timestamp": 89.4726,
+            "time": "01:29.473",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11242,8 +11242,8 @@
             "index": 194
         },
         {
-            "timestamp": 91.6296,
-            "time": "01:31.630",
+            "timestamp": 89.6296,
+            "time": "01:29.630",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11300,8 +11300,8 @@
             "index": 195
         },
         {
-            "timestamp": 91.7349,
-            "time": "01:31.735",
+            "timestamp": 89.7349,
+            "time": "01:29.735",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11364,8 +11364,8 @@
             "index": 196
         },
         {
-            "timestamp": 92.6358,
-            "time": "01:32.636",
+            "timestamp": 90.6358,
+            "time": "01:30.636",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11419,8 +11419,8 @@
             "index": 197
         },
         {
-            "timestamp": 92.7436,
-            "time": "01:32.744",
+            "timestamp": 90.7436,
+            "time": "01:30.744",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11474,8 +11474,8 @@
             "index": 198
         },
         {
-            "timestamp": 93.6055,
-            "time": "01:33.606",
+            "timestamp": 91.6055,
+            "time": "01:31.606",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {
@@ -11529,8 +11529,8 @@
             "index": 199
         },
         {
-            "timestamp": 93.7292,
-            "time": "01:33.729",
+            "timestamp": 91.7292,
+            "time": "01:31.729",
             "application": "EXCEL.EXE",
             "window_title": "Task ID - Excel",
             "focused_element": {

@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1757162455.5933197,
+            "started_at": 1757162457.5933197,
             "ended_at": 1757162550.7019649,
             "started_time": "00:00.000",
-            "ended_time": "01:16.690",
+            "ended_time": "01:14.690",
             "duration": 95.11
         },
         "statistics": {
@@ -115,7 +115,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
@@ -173,8 +173,8 @@
             "index": 0
         },
         {
-            "timestamp": 0.1409,
-            "time": "00:00.141",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Program Manager",
             "focused_element": {
@@ -231,8 +231,8 @@
             "index": 1
         },
         {
-            "timestamp": 0.2247,
-            "time": "00:00.225",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Task Switching",
             "focused_element": {
@@ -295,8 +295,8 @@
             "index": 2
         },
         {
-            "timestamp": 8.8618,
-            "time": "00:08.862",
+            "timestamp": 6.8618,
+            "time": "00:06.862",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -350,8 +350,8 @@
             "index": 3
         },
         {
-            "timestamp": 9.1063,
-            "time": "00:09.106",
+            "timestamp": 7.1063,
+            "time": "00:07.106",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -405,8 +405,8 @@
             "index": 4
         },
         {
-            "timestamp": 9.236,
-            "time": "00:09.236",
+            "timestamp": 7.236,
+            "time": "00:07.236",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -460,8 +460,8 @@
             "index": 5
         },
         {
-            "timestamp": 9.9687,
-            "time": "00:09.969",
+            "timestamp": 7.9687,
+            "time": "00:07.969",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -515,8 +515,8 @@
             "index": 6
         },
         {
-            "timestamp": 10.2706,
-            "time": "00:10.271",
+            "timestamp": 8.2706,
+            "time": "00:08.271",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -570,8 +570,8 @@
             "index": 7
         },
         {
-            "timestamp": 10.4112,
-            "time": "00:10.411",
+            "timestamp": 8.4112,
+            "time": "00:08.411",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -625,8 +625,8 @@
             "index": 8
         },
         {
-            "timestamp": 10.5101,
-            "time": "00:10.510",
+            "timestamp": 8.5101,
+            "time": "00:08.510",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -680,8 +680,8 @@
             "index": 9
         },
         {
-            "timestamp": 10.6238,
-            "time": "00:10.624",
+            "timestamp": 8.6238,
+            "time": "00:08.624",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -735,8 +735,8 @@
             "index": 10
         },
         {
-            "timestamp": 10.7558,
-            "time": "00:10.756",
+            "timestamp": 8.7558,
+            "time": "00:08.756",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -790,8 +790,8 @@
             "index": 11
         },
         {
-            "timestamp": 10.9052,
-            "time": "00:10.905",
+            "timestamp": 8.9052,
+            "time": "00:08.905",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -845,8 +845,8 @@
             "index": 12
         },
         {
-            "timestamp": 10.993,
-            "time": "00:10.993",
+            "timestamp": 8.993,
+            "time": "00:08.993",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -900,8 +900,8 @@
             "index": 13
         },
         {
-            "timestamp": 11.2222,
-            "time": "00:11.222",
+            "timestamp": 9.2222,
+            "time": "00:09.222",
             "application": "chrome.exe",
             "window_title": "New Tab - Google Chrome",
             "focused_element": {
@@ -955,8 +955,8 @@
             "index": 14
         },
         {
-            "timestamp": 13.7002,
-            "time": "00:13.700",
+            "timestamp": 11.7002,
+            "time": "00:11.700",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1013,8 +1013,8 @@
             "index": 15
         },
         {
-            "timestamp": 13.9788,
-            "time": "00:13.979",
+            "timestamp": 11.9788,
+            "time": "00:11.979",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1068,8 +1068,8 @@
             "index": 16
         },
         {
-            "timestamp": 14.9112,
-            "time": "00:14.911",
+            "timestamp": 12.9112,
+            "time": "00:12.911",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1126,8 +1126,8 @@
             "index": 17
         },
         {
-            "timestamp": 15.3342,
-            "time": "00:15.334",
+            "timestamp": 13.3342,
+            "time": "00:13.334",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1181,8 +1181,8 @@
             "index": 18
         },
         {
-            "timestamp": 16.6198,
-            "time": "00:16.620",
+            "timestamp": 14.6198,
+            "time": "00:14.620",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1236,8 +1236,8 @@
             "index": 19
         },
         {
-            "timestamp": 17.317,
-            "time": "00:17.317",
+            "timestamp": 15.317,
+            "time": "00:15.317",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1291,8 +1291,8 @@
             "index": 20
         },
         {
-            "timestamp": 18.7527,
-            "time": "00:18.753",
+            "timestamp": 16.7527,
+            "time": "00:16.753",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1349,8 +1349,8 @@
             "index": 21
         },
         {
-            "timestamp": 20.8815,
-            "time": "00:20.881",
+            "timestamp": 18.8815,
+            "time": "00:18.881",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1404,8 +1404,8 @@
             "index": 22
         },
         {
-            "timestamp": 21.0313,
-            "time": "00:21.031",
+            "timestamp": 19.0313,
+            "time": "00:19.031",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1459,8 +1459,8 @@
             "index": 23
         },
         {
-            "timestamp": 21.2586,
-            "time": "00:21.259",
+            "timestamp": 19.2586,
+            "time": "00:19.259",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1514,8 +1514,8 @@
             "index": 24
         },
         {
-            "timestamp": 21.4729,
-            "time": "00:21.473",
+            "timestamp": 19.4729,
+            "time": "00:19.473",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1569,8 +1569,8 @@
             "index": 25
         },
         {
-            "timestamp": 21.5725,
-            "time": "00:21.573",
+            "timestamp": 19.5725,
+            "time": "00:19.573",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1624,8 +1624,8 @@
             "index": 26
         },
         {
-            "timestamp": 21.6885,
-            "time": "00:21.689",
+            "timestamp": 19.6885,
+            "time": "00:19.689",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1679,8 +1679,8 @@
             "index": 27
         },
         {
-            "timestamp": 21.8352,
-            "time": "00:21.835",
+            "timestamp": 19.8352,
+            "time": "00:19.835",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1734,8 +1734,8 @@
             "index": 28
         },
         {
-            "timestamp": 21.9932,
-            "time": "00:21.993",
+            "timestamp": 19.9932,
+            "time": "00:19.993",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1789,8 +1789,8 @@
             "index": 29
         },
         {
-            "timestamp": 22.2564,
-            "time": "00:22.256",
+            "timestamp": 20.2564,
+            "time": "00:20.256",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1844,8 +1844,8 @@
             "index": 30
         },
         {
-            "timestamp": 22.4342,
-            "time": "00:22.434",
+            "timestamp": 20.4342,
+            "time": "00:20.434",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1899,8 +1899,8 @@
             "index": 31
         },
         {
-            "timestamp": 22.5585,
-            "time": "00:22.558",
+            "timestamp": 20.5585,
+            "time": "00:20.558",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -1954,8 +1954,8 @@
             "index": 32
         },
         {
-            "timestamp": 22.6754,
-            "time": "00:22.675",
+            "timestamp": 20.6754,
+            "time": "00:20.675",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2009,8 +2009,8 @@
             "index": 33
         },
         {
-            "timestamp": 22.9235,
-            "time": "00:22.924",
+            "timestamp": 20.9235,
+            "time": "00:20.924",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2064,8 +2064,8 @@
             "index": 34
         },
         {
-            "timestamp": 23.3531,
-            "time": "00:23.353",
+            "timestamp": 21.3531,
+            "time": "00:21.353",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2122,8 +2122,8 @@
             "index": 35
         },
         {
-            "timestamp": 23.5602,
-            "time": "00:23.560",
+            "timestamp": 21.5602,
+            "time": "00:21.560",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2180,8 +2180,8 @@
             "index": 36
         },
         {
-            "timestamp": 23.6503,
-            "time": "00:23.650",
+            "timestamp": 21.6503,
+            "time": "00:21.650",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2244,8 +2244,8 @@
             "index": 37
         },
         {
-            "timestamp": 23.9383,
-            "time": "00:23.938",
+            "timestamp": 21.9383,
+            "time": "00:21.938",
             "application": "chrome.exe",
             "window_title": "Walmart | Save Money. Live better. - Google Chrome",
             "focused_element": {
@@ -2299,8 +2299,8 @@
             "index": 38
         },
         {
-            "timestamp": 25.9174,
-            "time": "00:25.917",
+            "timestamp": 23.9174,
+            "time": "00:23.917",
             "application": "chrome.exe",
             "window_title": "walmart.com/search?q=frying+pan+10\" - Google Chrome",
             "focused_element": {
@@ -2354,8 +2354,8 @@
             "index": 39
         },
         {
-            "timestamp": 28.5698,
-            "time": "00:28.570",
+            "timestamp": 26.5698,
+            "time": "00:26.570",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2409,8 +2409,8 @@
             "index": 40
         },
         {
-            "timestamp": 30.4822,
-            "time": "00:30.482",
+            "timestamp": 28.4822,
+            "time": "00:28.482",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2464,8 +2464,8 @@
             "index": 41
         },
         {
-            "timestamp": 31.5017,
-            "time": "00:31.502",
+            "timestamp": 29.5017,
+            "time": "00:29.502",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2519,8 +2519,8 @@
             "index": 42
         },
         {
-            "timestamp": 32.3969,
-            "time": "00:32.397",
+            "timestamp": 30.3969,
+            "time": "00:30.397",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2574,8 +2574,8 @@
             "index": 43
         },
         {
-            "timestamp": 33.0781,
-            "time": "00:33.078",
+            "timestamp": 31.0781,
+            "time": "00:31.078",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2629,8 +2629,8 @@
             "index": 44
         },
         {
-            "timestamp": 34.1241,
-            "time": "00:34.124",
+            "timestamp": 32.1241,
+            "time": "00:32.124",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2684,8 +2684,8 @@
             "index": 45
         },
         {
-            "timestamp": 35.053,
-            "time": "00:35.053",
+            "timestamp": 33.053,
+            "time": "00:33.053",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2739,8 +2739,8 @@
             "index": 46
         },
         {
-            "timestamp": 35.4265,
-            "time": "00:35.426",
+            "timestamp": 33.4265,
+            "time": "00:33.426",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2794,8 +2794,8 @@
             "index": 47
         },
         {
-            "timestamp": 36.0386,
-            "time": "00:36.039",
+            "timestamp": 34.0386,
+            "time": "00:34.039",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2849,8 +2849,8 @@
             "index": 48
         },
         {
-            "timestamp": 36.589,
-            "time": "00:36.589",
+            "timestamp": 34.589,
+            "time": "00:34.589",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2904,8 +2904,8 @@
             "index": 49
         },
         {
-            "timestamp": 37.2158,
-            "time": "00:37.216",
+            "timestamp": 35.2158,
+            "time": "00:35.216",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -2959,8 +2959,8 @@
             "index": 50
         },
         {
-            "timestamp": 37.6827,
-            "time": "00:37.683",
+            "timestamp": 35.6827,
+            "time": "00:35.683",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3014,8 +3014,8 @@
             "index": 51
         },
         {
-            "timestamp": 38.6901,
-            "time": "00:38.690",
+            "timestamp": 36.6901,
+            "time": "00:36.690",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3069,8 +3069,8 @@
             "index": 52
         },
         {
-            "timestamp": 39.6531,
-            "time": "00:39.653",
+            "timestamp": 37.6531,
+            "time": "00:37.653",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3124,8 +3124,8 @@
             "index": 53
         },
         {
-            "timestamp": 41.7129,
-            "time": "00:41.713",
+            "timestamp": 39.7129,
+            "time": "00:39.713",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3179,8 +3179,8 @@
             "index": 54
         },
         {
-            "timestamp": 42.7365,
-            "time": "00:42.736",
+            "timestamp": 40.7365,
+            "time": "00:40.736",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3234,8 +3234,8 @@
             "index": 55
         },
         {
-            "timestamp": 43.9573,
-            "time": "00:43.957",
+            "timestamp": 41.9573,
+            "time": "00:41.957",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3289,8 +3289,8 @@
             "index": 56
         },
         {
-            "timestamp": 46.3172,
-            "time": "00:46.317",
+            "timestamp": 44.3172,
+            "time": "00:44.317",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3347,8 +3347,8 @@
             "index": 57
         },
         {
-            "timestamp": 46.4636,
-            "time": "00:46.464",
+            "timestamp": 44.4636,
+            "time": "00:44.464",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3405,8 +3405,8 @@
             "index": 58
         },
         {
-            "timestamp": 46.5693,
-            "time": "00:46.569",
+            "timestamp": 44.5693,
+            "time": "00:44.569",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3469,8 +3469,8 @@
             "index": 59
         },
         {
-            "timestamp": 47.403,
-            "time": "00:47.403",
+            "timestamp": 45.403,
+            "time": "00:45.403",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3524,8 +3524,8 @@
             "index": 60
         },
         {
-            "timestamp": 48.2552,
-            "time": "00:48.255",
+            "timestamp": 46.2552,
+            "time": "00:46.255",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3579,8 +3579,8 @@
             "index": 61
         },
         {
-            "timestamp": 50.5736,
-            "time": "00:50.574",
+            "timestamp": 48.5736,
+            "time": "00:48.574",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3634,8 +3634,8 @@
             "index": 62
         },
         {
-            "timestamp": 51.3181,
-            "time": "00:51.318",
+            "timestamp": 49.3181,
+            "time": "00:49.318",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3689,8 +3689,8 @@
             "index": 63
         },
         {
-            "timestamp": 53.1771,
-            "time": "00:53.177",
+            "timestamp": 51.1771,
+            "time": "00:51.177",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3747,8 +3747,8 @@
             "index": 64
         },
         {
-            "timestamp": 53.3049,
-            "time": "00:53.305",
+            "timestamp": 51.3049,
+            "time": "00:51.305",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3805,8 +3805,8 @@
             "index": 65
         },
         {
-            "timestamp": 53.4034,
-            "time": "00:53.403",
+            "timestamp": 51.4034,
+            "time": "00:51.403",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3869,8 +3869,8 @@
             "index": 66
         },
         {
-            "timestamp": 54.1511,
-            "time": "00:54.151",
+            "timestamp": 52.1511,
+            "time": "00:52.151",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3927,8 +3927,8 @@
             "index": 67
         },
         {
-            "timestamp": 54.2708,
-            "time": "00:54.271",
+            "timestamp": 52.2708,
+            "time": "00:52.271",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -3991,8 +3991,8 @@
             "index": 68
         },
         {
-            "timestamp": 54.8461,
-            "time": "00:54.846",
+            "timestamp": 52.8461,
+            "time": "00:52.846",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4049,8 +4049,8 @@
             "index": 69
         },
         {
-            "timestamp": 54.9553,
-            "time": "00:54.955",
+            "timestamp": 52.9553,
+            "time": "00:52.955",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4113,8 +4113,8 @@
             "index": 70
         },
         {
-            "timestamp": 55.7101,
-            "time": "00:55.710",
+            "timestamp": 53.7101,
+            "time": "00:53.710",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4171,8 +4171,8 @@
             "index": 71
         },
         {
-            "timestamp": 55.8505,
-            "time": "00:55.850",
+            "timestamp": 53.8505,
+            "time": "00:53.850",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4235,8 +4235,8 @@
             "index": 72
         },
         {
-            "timestamp": 56.9016,
-            "time": "00:56.902",
+            "timestamp": 54.9016,
+            "time": "00:54.902",
             "application": "chrome.exe",
             "window_title": "frying pan 10\" - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4290,8 +4290,8 @@
             "index": 73
         },
         {
-            "timestamp": 59.8799,
-            "time": "00:59.880",
+            "timestamp": 57.8799,
+            "time": "00:57.880",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4348,8 +4348,8 @@
             "index": 74
         },
         {
-            "timestamp": 60.2085,
-            "time": "01:00.209",
+            "timestamp": 58.2085,
+            "time": "00:58.209",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4406,8 +4406,8 @@
             "index": 75
         },
         {
-            "timestamp": 60.4875,
-            "time": "01:00.487",
+            "timestamp": 58.4875,
+            "time": "00:58.487",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4470,8 +4470,8 @@
             "index": 76
         },
         {
-            "timestamp": 60.7196,
-            "time": "01:00.720",
+            "timestamp": 58.7196,
+            "time": "00:58.720",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4528,8 +4528,8 @@
             "index": 77
         },
         {
-            "timestamp": 60.8647,
-            "time": "01:00.865",
+            "timestamp": 58.8647,
+            "time": "00:58.865",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4592,8 +4592,8 @@
             "index": 78
         },
         {
-            "timestamp": 62.1538,
-            "time": "01:02.154",
+            "timestamp": 60.1538,
+            "time": "01:00.154",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4647,8 +4647,8 @@
             "index": 79
         },
         {
-            "timestamp": 63.6375,
-            "time": "01:03.638",
+            "timestamp": 61.6375,
+            "time": "01:01.638",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4702,8 +4702,8 @@
             "index": 80
         },
         {
-            "timestamp": 64.6629,
-            "time": "01:04.663",
+            "timestamp": 62.6629,
+            "time": "01:02.663",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4757,8 +4757,8 @@
             "index": 81
         },
         {
-            "timestamp": 65.8052,
-            "time": "01:05.805",
+            "timestamp": 63.8052,
+            "time": "01:03.805",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4812,8 +4812,8 @@
             "index": 82
         },
         {
-            "timestamp": 66.874,
-            "time": "01:06.874",
+            "timestamp": 64.874,
+            "time": "01:04.874",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4867,8 +4867,8 @@
             "index": 83
         },
         {
-            "timestamp": 67.8984,
-            "time": "01:07.898",
+            "timestamp": 65.8984,
+            "time": "01:05.898",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4925,8 +4925,8 @@
             "index": 84
         },
         {
-            "timestamp": 68.4763,
-            "time": "01:08.476",
+            "timestamp": 66.4763,
+            "time": "01:06.476",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -4980,8 +4980,8 @@
             "index": 85
         },
         {
-            "timestamp": 69.7667,
-            "time": "01:09.767",
+            "timestamp": 67.7667,
+            "time": "01:07.767",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -5035,8 +5035,8 @@
             "index": 86
         },
         {
-            "timestamp": 70.8605,
-            "time": "01:10.861",
+            "timestamp": 68.8605,
+            "time": "01:08.861",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -5090,8 +5090,8 @@
             "index": 87
         },
         {
-            "timestamp": 71.9907,
-            "time": "01:11.991",
+            "timestamp": 69.9907,
+            "time": "01:09.991",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -5145,8 +5145,8 @@
             "index": 88
         },
         {
-            "timestamp": 73.049,
-            "time": "01:13.049",
+            "timestamp": 71.049,
+            "time": "01:11.049",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -5200,8 +5200,8 @@
             "index": 89
         },
         {
-            "timestamp": 74.1291,
-            "time": "01:14.129",
+            "timestamp": 72.1291,
+            "time": "01:12.129",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {
@@ -5255,8 +5255,8 @@
             "index": 90
         },
         {
-            "timestamp": 76.6901,
-            "time": "01:16.690",
+            "timestamp": 74.6901,
+            "time": "01:14.690",
             "application": "chrome.exe",
             "window_title": "Farberware Easy Clean 10 Inch Ceramic Nonstick Frying Pan / Skillet, Dishwasher Safe, Blue - Walmart.com - Google Chrome",
             "focused_element": {

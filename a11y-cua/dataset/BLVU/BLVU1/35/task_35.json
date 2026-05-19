@@ -13,10 +13,10 @@
             "condition": "blind"
         },
         "session": {
-            "started_at": 1756557953.181326,
+            "started_at": 1756557955.181326,
             "ended_at": 1756558138.9313512,
             "started_time": "00:00.000",
-            "ended_time": "02:42.076",
+            "ended_time": "02:40.076",
             "duration": 185.75
         },
         "statistics": {
@@ -67,7 +67,7 @@
     },
     "actions": [
         {
-            "timestamp": 0,
+            "timestamp": 0.0,
             "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
@@ -122,8 +122,8 @@
             "index": 0
         },
         {
-            "timestamp": 1.0099,
-            "time": "00:01.010",
+            "timestamp": 0.0,
+            "time": "00:00.000",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -177,8 +177,8 @@
             "index": 1
         },
         {
-            "timestamp": 2.4674,
-            "time": "00:02.467",
+            "timestamp": 0.4674,
+            "time": "00:00.467",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -232,8 +232,8 @@
             "index": 2
         },
         {
-            "timestamp": 3.5775,
-            "time": "00:03.578",
+            "timestamp": 1.5775,
+            "time": "00:01.578",
             "application": "explorer.exe",
             "window_title": "Home - File Explorer",
             "focused_element": {
@@ -287,8 +287,8 @@
             "index": 3
         },
         {
-            "timestamp": 5.3211,
-            "time": "00:05.321",
+            "timestamp": 3.3211,
+            "time": "00:03.321",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -342,8 +342,8 @@
             "index": 4
         },
         {
-            "timestamp": 5.4313,
-            "time": "00:05.431",
+            "timestamp": 3.4313,
+            "time": "00:03.431",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -397,8 +397,8 @@
             "index": 5
         },
         {
-            "timestamp": 6.3145,
-            "time": "00:06.314",
+            "timestamp": 4.3145,
+            "time": "00:04.314",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -455,8 +455,8 @@
             "index": 6
         },
         {
-            "timestamp": 6.4729,
-            "time": "00:06.473",
+            "timestamp": 4.4729,
+            "time": "00:04.473",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -513,8 +513,8 @@
             "index": 7
         },
         {
-            "timestamp": 6.5692,
-            "time": "00:06.569",
+            "timestamp": 4.5692,
+            "time": "00:04.569",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -577,8 +577,8 @@
             "index": 8
         },
         {
-            "timestamp": 6.6272,
-            "time": "00:06.627",
+            "timestamp": 4.6272,
+            "time": "00:04.627",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -635,8 +635,8 @@
             "index": 9
         },
         {
-            "timestamp": 6.7024,
-            "time": "00:06.702",
+            "timestamp": 4.7024,
+            "time": "00:04.702",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -699,8 +699,8 @@
             "index": 10
         },
         {
-            "timestamp": 6.7823,
-            "time": "00:06.782",
+            "timestamp": 4.7823,
+            "time": "00:04.782",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -757,8 +757,8 @@
             "index": 11
         },
         {
-            "timestamp": 6.8597,
-            "time": "00:06.860",
+            "timestamp": 4.8597,
+            "time": "00:04.860",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -821,8 +821,8 @@
             "index": 12
         },
         {
-            "timestamp": 7.814,
-            "time": "00:07.814",
+            "timestamp": 5.814,
+            "time": "00:05.814",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -876,8 +876,8 @@
             "index": 13
         },
         {
-            "timestamp": 7.9186,
-            "time": "00:07.919",
+            "timestamp": 5.9186,
+            "time": "00:05.919",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -931,8 +931,8 @@
             "index": 14
         },
         {
-            "timestamp": 8.9467,
-            "time": "00:08.947",
+            "timestamp": 6.9467,
+            "time": "00:06.947",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -986,8 +986,8 @@
             "index": 15
         },
         {
-            "timestamp": 9.0602,
-            "time": "00:09.060",
+            "timestamp": 7.0602,
+            "time": "00:07.060",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1041,8 +1041,8 @@
             "index": 16
         },
         {
-            "timestamp": 10.4517,
-            "time": "00:10.452",
+            "timestamp": 8.4517,
+            "time": "00:08.452",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1096,8 +1096,8 @@
             "index": 17
         },
         {
-            "timestamp": 10.5535,
-            "time": "00:10.553",
+            "timestamp": 8.5535,
+            "time": "00:08.553",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1151,8 +1151,8 @@
             "index": 18
         },
         {
-            "timestamp": 11.3522,
-            "time": "00:11.352",
+            "timestamp": 9.3522,
+            "time": "00:09.352",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1206,8 +1206,8 @@
             "index": 19
         },
         {
-            "timestamp": 11.4439,
-            "time": "00:11.444",
+            "timestamp": 9.4439,
+            "time": "00:09.444",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1261,8 +1261,8 @@
             "index": 20
         },
         {
-            "timestamp": 12.6441,
-            "time": "00:12.644",
+            "timestamp": 10.6441,
+            "time": "00:10.644",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1316,8 +1316,8 @@
             "index": 21
         },
         {
-            "timestamp": 12.7667,
-            "time": "00:12.767",
+            "timestamp": 10.7667,
+            "time": "00:10.767",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1371,8 +1371,8 @@
             "index": 22
         },
         {
-            "timestamp": 13.8825,
-            "time": "00:13.883",
+            "timestamp": 11.8825,
+            "time": "00:11.883",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1426,8 +1426,8 @@
             "index": 23
         },
         {
-            "timestamp": 13.9934,
-            "time": "00:13.993",
+            "timestamp": 11.9934,
+            "time": "00:11.993",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1481,8 +1481,8 @@
             "index": 24
         },
         {
-            "timestamp": 15.0393,
-            "time": "00:15.039",
+            "timestamp": 13.0393,
+            "time": "00:13.039",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1536,8 +1536,8 @@
             "index": 25
         },
         {
-            "timestamp": 15.1579,
-            "time": "00:15.158",
+            "timestamp": 13.1579,
+            "time": "00:13.158",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1591,8 +1591,8 @@
             "index": 26
         },
         {
-            "timestamp": 16.1619,
-            "time": "00:16.162",
+            "timestamp": 14.1619,
+            "time": "00:14.162",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1646,8 +1646,8 @@
             "index": 27
         },
         {
-            "timestamp": 16.2758,
-            "time": "00:16.276",
+            "timestamp": 14.2758,
+            "time": "00:14.276",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1701,8 +1701,8 @@
             "index": 28
         },
         {
-            "timestamp": 17.2937,
-            "time": "00:17.294",
+            "timestamp": 15.2937,
+            "time": "00:15.294",
             "application": "explorer.exe",
             "window_title": "Documents - File Explorer",
             "focused_element": {
@@ -1756,8 +1756,8 @@
             "index": 29
         },
         {
-            "timestamp": 18.6936,
-            "time": "00:18.694",
+            "timestamp": 16.6936,
+            "time": "00:16.694",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -1811,8 +1811,8 @@
             "index": 30
         },
         {
-            "timestamp": 18.8111,
-            "time": "00:18.811",
+            "timestamp": 16.8111,
+            "time": "00:16.811",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -1866,8 +1866,8 @@
             "index": 31
         },
         {
-            "timestamp": 19.9949,
-            "time": "00:19.995",
+            "timestamp": 17.9949,
+            "time": "00:17.995",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -1921,8 +1921,8 @@
             "index": 32
         },
         {
-            "timestamp": 20.1137,
-            "time": "00:20.114",
+            "timestamp": 18.1137,
+            "time": "00:18.114",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -1976,8 +1976,8 @@
             "index": 33
         },
         {
-            "timestamp": 21.0001,
-            "time": "00:21.000",
+            "timestamp": 19.0001,
+            "time": "00:19.000",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -2031,8 +2031,8 @@
             "index": 34
         },
         {
-            "timestamp": 21.127,
-            "time": "00:21.127",
+            "timestamp": 19.127,
+            "time": "00:19.127",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -2086,8 +2086,8 @@
             "index": 35
         },
         {
-            "timestamp": 22.1861,
-            "time": "00:22.186",
+            "timestamp": 20.1861,
+            "time": "00:20.186",
             "application": "explorer.exe",
             "window_title": "Task 50 - File Explorer",
             "focused_element": {
@@ -2141,8 +2141,8 @@
             "index": 36
         },
         {
-            "timestamp": 28.8013,
-            "time": "00:28.801",
+            "timestamp": 26.8013,
+            "time": "00:26.801",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -2195,8 +2195,8 @@
             "index": 37
         },
         {
-            "timestamp": 28.8909,
-            "time": "00:28.891",
+            "timestamp": 26.8909,
+            "time": "00:26.891",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50  -  Protected View - Word",
             "focused_element": {
@@ -2250,8 +2250,8 @@
             "index": 38
         },
         {
-            "timestamp": 30.2654,
-            "time": "00:30.265",
+            "timestamp": 28.2654,
+            "time": "00:28.265",
             "application": "WINWORD.EXE",
             "window_title": "Microsoft Word",
             "focused_element": {
@@ -2305,8 +2305,8 @@
             "index": 39
         },
         {
-            "timestamp": 31.6475,
-            "time": "00:31.648",
+            "timestamp": 29.6475,
+            "time": "00:29.648",
             "application": "WINWORD.EXE",
             "window_title": "Microsoft Word",
             "focused_element": {
@@ -2360,8 +2360,8 @@
             "index": 40
         },
         {
-            "timestamp": 31.7456,
-            "time": "00:31.746",
+            "timestamp": 29.7456,
+            "time": "00:29.746",
             "application": "WINWORD.EXE",
             "window_title": "Microsoft Word",
             "focused_element": {
@@ -2415,8 +2415,8 @@
             "index": 41
         },
         {
-            "timestamp": 33.0868,
-            "time": "00:33.087",
+            "timestamp": 31.0868,
+            "time": "00:31.087",
             "application": "WINWORD.EXE",
             "window_title": "Microsoft Word",
             "focused_element": {
@@ -2470,8 +2470,8 @@
             "index": 42
         },
         {
-            "timestamp": 35.3961,
-            "time": "00:35.396",
+            "timestamp": 33.3961,
+            "time": "00:33.396",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50  -  Protected View - Word",
             "focused_element": {
@@ -2525,8 +2525,8 @@
             "index": 43
         },
         {
-            "timestamp": 36.8711,
-            "time": "00:36.871",
+            "timestamp": 34.8711,
+            "time": "00:34.871",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2583,8 +2583,8 @@
             "index": 44
         },
         {
-            "timestamp": 37.5678,
-            "time": "00:37.568",
+            "timestamp": 35.5678,
+            "time": "00:35.568",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2641,8 +2641,8 @@
             "index": 45
         },
         {
-            "timestamp": 37.6641,
-            "time": "00:37.664",
+            "timestamp": 35.6641,
+            "time": "00:35.664",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2705,8 +2705,8 @@
             "index": 46
         },
         {
-            "timestamp": 37.7397,
-            "time": "00:37.740",
+            "timestamp": 35.7397,
+            "time": "00:35.740",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2763,8 +2763,8 @@
             "index": 47
         },
         {
-            "timestamp": 37.8246,
-            "time": "00:37.825",
+            "timestamp": 35.8246,
+            "time": "00:35.825",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2827,8 +2827,8 @@
             "index": 48
         },
         {
-            "timestamp": 37.9102,
-            "time": "00:37.910",
+            "timestamp": 35.9102,
+            "time": "00:35.910",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2885,8 +2885,8 @@
             "index": 49
         },
         {
-            "timestamp": 38.0272,
-            "time": "00:38.027",
+            "timestamp": 36.0272,
+            "time": "00:36.027",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -2949,8 +2949,8 @@
             "index": 50
         },
         {
-            "timestamp": 38.1512,
-            "time": "00:38.151",
+            "timestamp": 36.1512,
+            "time": "00:36.151",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3004,8 +3004,8 @@
             "index": 51
         },
         {
-            "timestamp": 38.244,
-            "time": "00:38.244",
+            "timestamp": 36.244,
+            "time": "00:36.244",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3059,8 +3059,8 @@
             "index": 52
         },
         {
-            "timestamp": 39.4349,
-            "time": "00:39.435",
+            "timestamp": 37.4349,
+            "time": "00:37.435",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3114,8 +3114,8 @@
             "index": 53
         },
         {
-            "timestamp": 39.5535,
-            "time": "00:39.553",
+            "timestamp": 37.5535,
+            "time": "00:37.553",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3169,8 +3169,8 @@
             "index": 54
         },
         {
-            "timestamp": 41.0638,
-            "time": "00:41.064",
+            "timestamp": 39.0638,
+            "time": "00:39.064",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3224,8 +3224,8 @@
             "index": 55
         },
         {
-            "timestamp": 41.1909,
-            "time": "00:41.191",
+            "timestamp": 39.1909,
+            "time": "00:39.191",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3279,8 +3279,8 @@
             "index": 56
         },
         {
-            "timestamp": 47.0847,
-            "time": "00:47.085",
+            "timestamp": 45.0847,
+            "time": "00:45.085",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3337,8 +3337,8 @@
             "index": 57
         },
         {
-            "timestamp": 47.2411,
-            "time": "00:47.241",
+            "timestamp": 45.2411,
+            "time": "00:45.241",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3395,8 +3395,8 @@
             "index": 58
         },
         {
-            "timestamp": 47.3204,
-            "time": "00:47.320",
+            "timestamp": 45.3204,
+            "time": "00:45.320",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3459,8 +3459,8 @@
             "index": 59
         },
         {
-            "timestamp": 47.4129,
-            "time": "00:47.413",
+            "timestamp": 45.4129,
+            "time": "00:45.413",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3517,8 +3517,8 @@
             "index": 60
         },
         {
-            "timestamp": 47.4931,
-            "time": "00:47.493",
+            "timestamp": 45.4931,
+            "time": "00:45.493",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3581,8 +3581,8 @@
             "index": 61
         },
         {
-            "timestamp": 48.2296,
-            "time": "00:48.230",
+            "timestamp": 46.2296,
+            "time": "00:46.230",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3636,8 +3636,8 @@
             "index": 62
         },
         {
-            "timestamp": 48.3589,
-            "time": "00:48.359",
+            "timestamp": 46.3589,
+            "time": "00:46.359",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3691,8 +3691,8 @@
             "index": 63
         },
         {
-            "timestamp": 49.1686,
-            "time": "00:49.169",
+            "timestamp": 47.1686,
+            "time": "00:47.169",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3746,8 +3746,8 @@
             "index": 64
         },
         {
-            "timestamp": 49.246,
-            "time": "00:49.246",
+            "timestamp": 47.246,
+            "time": "00:47.246",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3801,8 +3801,8 @@
             "index": 65
         },
         {
-            "timestamp": 49.6402,
-            "time": "00:49.640",
+            "timestamp": 47.6402,
+            "time": "00:47.640",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3859,8 +3859,8 @@
             "index": 66
         },
         {
-            "timestamp": 49.7442,
-            "time": "00:49.744",
+            "timestamp": 47.7442,
+            "time": "00:47.744",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3917,8 +3917,8 @@
             "index": 67
         },
         {
-            "timestamp": 49.8292,
-            "time": "00:49.829",
+            "timestamp": 47.8292,
+            "time": "00:47.829",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -3981,8 +3981,8 @@
             "index": 68
         },
         {
-            "timestamp": 49.9036,
-            "time": "00:49.904",
+            "timestamp": 47.9036,
+            "time": "00:47.904",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4039,8 +4039,8 @@
             "index": 69
         },
         {
-            "timestamp": 49.9866,
-            "time": "00:49.987",
+            "timestamp": 47.9866,
+            "time": "00:47.987",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4103,8 +4103,8 @@
             "index": 70
         },
         {
-            "timestamp": 50.2603,
-            "time": "00:50.260",
+            "timestamp": 48.2603,
+            "time": "00:48.260",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4161,8 +4161,8 @@
             "index": 71
         },
         {
-            "timestamp": 50.3902,
-            "time": "00:50.390",
+            "timestamp": 48.3902,
+            "time": "00:48.390",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4225,8 +4225,8 @@
             "index": 72
         },
         {
-            "timestamp": 50.4603,
-            "time": "00:50.460",
+            "timestamp": 48.4603,
+            "time": "00:48.460",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4283,8 +4283,8 @@
             "index": 73
         },
         {
-            "timestamp": 50.5382,
-            "time": "00:50.538",
+            "timestamp": 48.5382,
+            "time": "00:48.538",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4347,8 +4347,8 @@
             "index": 74
         },
         {
-            "timestamp": 51.3753,
-            "time": "00:51.375",
+            "timestamp": 49.3753,
+            "time": "00:49.375",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4405,8 +4405,8 @@
             "index": 75
         },
         {
-            "timestamp": 51.4991,
-            "time": "00:51.499",
+            "timestamp": 49.4991,
+            "time": "00:49.499",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4463,8 +4463,8 @@
             "index": 76
         },
         {
-            "timestamp": 51.5774,
-            "time": "00:51.577",
+            "timestamp": 49.5774,
+            "time": "00:49.577",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4527,8 +4527,8 @@
             "index": 77
         },
         {
-            "timestamp": 51.6496,
-            "time": "00:51.650",
+            "timestamp": 49.6496,
+            "time": "00:49.650",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4585,8 +4585,8 @@
             "index": 78
         },
         {
-            "timestamp": 51.7315,
-            "time": "00:51.731",
+            "timestamp": 49.7315,
+            "time": "00:49.731",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4649,8 +4649,8 @@
             "index": 79
         },
         {
-            "timestamp": 52.1605,
-            "time": "00:52.160",
+            "timestamp": 50.1605,
+            "time": "00:50.160",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4704,8 +4704,8 @@
             "index": 80
         },
         {
-            "timestamp": 52.2518,
-            "time": "00:52.252",
+            "timestamp": 50.2518,
+            "time": "00:50.252",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4759,8 +4759,8 @@
             "index": 81
         },
         {
-            "timestamp": 53.0676,
-            "time": "00:53.068",
+            "timestamp": 51.0676,
+            "time": "00:51.068",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4814,8 +4814,8 @@
             "index": 82
         },
         {
-            "timestamp": 53.2122,
-            "time": "00:53.212",
+            "timestamp": 51.2122,
+            "time": "00:51.212",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4869,8 +4869,8 @@
             "index": 83
         },
         {
-            "timestamp": 54.0198,
-            "time": "00:54.020",
+            "timestamp": 52.0198,
+            "time": "00:52.020",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4924,8 +4924,8 @@
             "index": 84
         },
         {
-            "timestamp": 54.1169,
-            "time": "00:54.117",
+            "timestamp": 52.1169,
+            "time": "00:52.117",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -4979,8 +4979,8 @@
             "index": 85
         },
         {
-            "timestamp": 54.8707,
-            "time": "00:54.871",
+            "timestamp": 52.8707,
+            "time": "00:52.871",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5034,8 +5034,8 @@
             "index": 86
         },
         {
-            "timestamp": 54.9412,
-            "time": "00:54.941",
+            "timestamp": 52.9412,
+            "time": "00:52.941",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5089,8 +5089,8 @@
             "index": 87
         },
         {
-            "timestamp": 55.7412,
-            "time": "00:55.741",
+            "timestamp": 53.7412,
+            "time": "00:53.741",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5147,8 +5147,8 @@
             "index": 88
         },
         {
-            "timestamp": 55.8614,
-            "time": "00:55.861",
+            "timestamp": 53.8614,
+            "time": "00:53.861",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5205,8 +5205,8 @@
             "index": 89
         },
         {
-            "timestamp": 55.9433,
-            "time": "00:55.943",
+            "timestamp": 53.9433,
+            "time": "00:53.943",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5269,8 +5269,8 @@
             "index": 90
         },
         {
-            "timestamp": 56.6928,
-            "time": "00:56.693",
+            "timestamp": 54.6928,
+            "time": "00:54.693",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5327,8 +5327,8 @@
             "index": 91
         },
         {
-            "timestamp": 56.7991,
-            "time": "00:56.799",
+            "timestamp": 54.7991,
+            "time": "00:54.799",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5385,8 +5385,8 @@
             "index": 92
         },
         {
-            "timestamp": 56.9072,
-            "time": "00:56.907",
+            "timestamp": 54.9072,
+            "time": "00:54.907",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5449,8 +5449,8 @@
             "index": 93
         },
         {
-            "timestamp": 56.9931,
-            "time": "00:56.993",
+            "timestamp": 54.9931,
+            "time": "00:54.993",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5507,8 +5507,8 @@
             "index": 94
         },
         {
-            "timestamp": 57.0739,
-            "time": "00:57.074",
+            "timestamp": 55.0739,
+            "time": "00:55.074",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5571,8 +5571,8 @@
             "index": 95
         },
         {
-            "timestamp": 57.65,
-            "time": "00:57.650",
+            "timestamp": 55.65,
+            "time": "00:55.650",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5629,8 +5629,8 @@
             "index": 96
         },
         {
-            "timestamp": 57.7291,
-            "time": "00:57.729",
+            "timestamp": 55.7291,
+            "time": "00:55.729",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5693,8 +5693,8 @@
             "index": 97
         },
         {
-            "timestamp": 57.8116,
-            "time": "00:57.812",
+            "timestamp": 55.8116,
+            "time": "00:55.812",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5751,8 +5751,8 @@
             "index": 98
         },
         {
-            "timestamp": 57.9077,
-            "time": "00:57.908",
+            "timestamp": 55.9077,
+            "time": "00:55.908",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5815,8 +5815,8 @@
             "index": 99
         },
         {
-            "timestamp": 58.2002,
-            "time": "00:58.200",
+            "timestamp": 56.2002,
+            "time": "00:56.200",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5873,8 +5873,8 @@
             "index": 100
         },
         {
-            "timestamp": 58.2955,
-            "time": "00:58.295",
+            "timestamp": 56.2955,
+            "time": "00:56.295",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5937,8 +5937,8 @@
             "index": 101
         },
         {
-            "timestamp": 58.376,
-            "time": "00:58.376",
+            "timestamp": 56.376,
+            "time": "00:56.376",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -5995,8 +5995,8 @@
             "index": 102
         },
         {
-            "timestamp": 58.4614,
-            "time": "00:58.461",
+            "timestamp": 56.4614,
+            "time": "00:56.461",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6059,8 +6059,8 @@
             "index": 103
         },
         {
-            "timestamp": 59.0746,
-            "time": "00:59.075",
+            "timestamp": 57.0746,
+            "time": "00:57.075",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6117,8 +6117,8 @@
             "index": 104
         },
         {
-            "timestamp": 59.2129,
-            "time": "00:59.213",
+            "timestamp": 57.2129,
+            "time": "00:57.213",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6175,8 +6175,8 @@
             "index": 105
         },
         {
-            "timestamp": 59.3131,
-            "time": "00:59.313",
+            "timestamp": 57.3131,
+            "time": "00:57.313",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6239,8 +6239,8 @@
             "index": 106
         },
         {
-            "timestamp": 59.4106,
-            "time": "00:59.411",
+            "timestamp": 57.4106,
+            "time": "00:57.411",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6297,8 +6297,8 @@
             "index": 107
         },
         {
-            "timestamp": 59.4959,
-            "time": "00:59.496",
+            "timestamp": 57.4959,
+            "time": "00:57.496",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6361,8 +6361,8 @@
             "index": 108
         },
         {
-            "timestamp": 60.1486,
-            "time": "01:00.149",
+            "timestamp": 58.1486,
+            "time": "00:58.149",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6416,8 +6416,8 @@
             "index": 109
         },
         {
-            "timestamp": 60.2672,
-            "time": "01:00.267",
+            "timestamp": 58.2672,
+            "time": "00:58.267",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6471,8 +6471,8 @@
             "index": 110
         },
         {
-            "timestamp": 61.132,
-            "time": "01:01.132",
+            "timestamp": 59.132,
+            "time": "00:59.132",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6526,8 +6526,8 @@
             "index": 111
         },
         {
-            "timestamp": 61.2173,
-            "time": "01:01.217",
+            "timestamp": 59.2173,
+            "time": "00:59.217",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6581,8 +6581,8 @@
             "index": 112
         },
         {
-            "timestamp": 62.0425,
-            "time": "01:02.042",
+            "timestamp": 60.0425,
+            "time": "01:00.042",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6639,8 +6639,8 @@
             "index": 113
         },
         {
-            "timestamp": 62.1579,
-            "time": "01:02.158",
+            "timestamp": 60.1579,
+            "time": "01:00.158",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6697,8 +6697,8 @@
             "index": 114
         },
         {
-            "timestamp": 62.2479,
-            "time": "01:02.248",
+            "timestamp": 60.2479,
+            "time": "01:00.248",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6761,8 +6761,8 @@
             "index": 115
         },
         {
-            "timestamp": 62.9804,
-            "time": "01:02.980",
+            "timestamp": 60.9804,
+            "time": "01:00.980",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6819,8 +6819,8 @@
             "index": 116
         },
         {
-            "timestamp": 63.0881,
-            "time": "01:03.088",
+            "timestamp": 61.0881,
+            "time": "01:01.088",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6877,8 +6877,8 @@
             "index": 117
         },
         {
-            "timestamp": 63.1645,
-            "time": "01:03.164",
+            "timestamp": 61.1645,
+            "time": "01:01.164",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6941,8 +6941,8 @@
             "index": 118
         },
         {
-            "timestamp": 63.2456,
-            "time": "01:03.246",
+            "timestamp": 61.2456,
+            "time": "01:01.246",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -6999,8 +6999,8 @@
             "index": 119
         },
         {
-            "timestamp": 63.3357,
-            "time": "01:03.336",
+            "timestamp": 61.3357,
+            "time": "01:01.336",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7063,8 +7063,8 @@
             "index": 120
         },
         {
-            "timestamp": 63.9842,
-            "time": "01:03.984",
+            "timestamp": 61.9842,
+            "time": "01:01.984",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7118,8 +7118,8 @@
             "index": 121
         },
         {
-            "timestamp": 64.1033,
-            "time": "01:04.103",
+            "timestamp": 62.1033,
+            "time": "01:02.103",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7173,8 +7173,8 @@
             "index": 122
         },
         {
-            "timestamp": 64.7767,
-            "time": "01:04.777",
+            "timestamp": 62.7767,
+            "time": "01:02.777",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7228,8 +7228,8 @@
             "index": 123
         },
         {
-            "timestamp": 64.9089,
-            "time": "01:04.909",
+            "timestamp": 62.9089,
+            "time": "01:02.909",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7283,8 +7283,8 @@
             "index": 124
         },
         {
-            "timestamp": 65.5143,
-            "time": "01:05.514",
+            "timestamp": 63.5143,
+            "time": "01:03.514",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7341,8 +7341,8 @@
             "index": 125
         },
         {
-            "timestamp": 65.6342,
-            "time": "01:05.634",
+            "timestamp": 63.6342,
+            "time": "01:03.634",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7399,8 +7399,8 @@
             "index": 126
         },
         {
-            "timestamp": 65.7422,
-            "time": "01:05.742",
+            "timestamp": 63.7422,
+            "time": "01:03.742",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7463,8 +7463,8 @@
             "index": 127
         },
         {
-            "timestamp": 66.4405,
-            "time": "01:06.441",
+            "timestamp": 64.4405,
+            "time": "01:04.441",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7521,8 +7521,8 @@
             "index": 128
         },
         {
-            "timestamp": 66.5876,
-            "time": "01:06.588",
+            "timestamp": 64.5876,
+            "time": "01:04.588",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7579,8 +7579,8 @@
             "index": 129
         },
         {
-            "timestamp": 66.6689,
-            "time": "01:06.669",
+            "timestamp": 64.6689,
+            "time": "01:04.669",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7643,8 +7643,8 @@
             "index": 130
         },
         {
-            "timestamp": 66.7594,
-            "time": "01:06.759",
+            "timestamp": 64.7594,
+            "time": "01:04.759",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7701,8 +7701,8 @@
             "index": 131
         },
         {
-            "timestamp": 66.8439,
-            "time": "01:06.844",
+            "timestamp": 64.8439,
+            "time": "01:04.844",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7765,8 +7765,8 @@
             "index": 132
         },
         {
-            "timestamp": 67.3993,
-            "time": "01:07.399",
+            "timestamp": 65.3993,
+            "time": "01:05.399",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7823,8 +7823,8 @@
             "index": 133
         },
         {
-            "timestamp": 67.5088,
-            "time": "01:07.509",
+            "timestamp": 65.5088,
+            "time": "01:05.509",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7887,8 +7887,8 @@
             "index": 134
         },
         {
-            "timestamp": 67.6295,
-            "time": "01:07.629",
+            "timestamp": 65.6295,
+            "time": "01:05.629",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -7945,8 +7945,8 @@
             "index": 135
         },
         {
-            "timestamp": 67.7283,
-            "time": "01:07.728",
+            "timestamp": 65.7283,
+            "time": "01:05.728",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8009,8 +8009,8 @@
             "index": 136
         },
         {
-            "timestamp": 68.2492,
-            "time": "01:08.249",
+            "timestamp": 66.2492,
+            "time": "01:06.249",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8064,8 +8064,8 @@
             "index": 137
         },
         {
-            "timestamp": 68.3458,
-            "time": "01:08.346",
+            "timestamp": 66.3458,
+            "time": "01:06.346",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8119,8 +8119,8 @@
             "index": 138
         },
         {
-            "timestamp": 69.085,
-            "time": "01:09.085",
+            "timestamp": 67.085,
+            "time": "01:07.085",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8174,8 +8174,8 @@
             "index": 139
         },
         {
-            "timestamp": 69.2061,
-            "time": "01:09.206",
+            "timestamp": 67.2061,
+            "time": "01:07.206",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8229,8 +8229,8 @@
             "index": 140
         },
         {
-            "timestamp": 69.9712,
-            "time": "01:09.971",
+            "timestamp": 67.9712,
+            "time": "01:07.971",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8287,8 +8287,8 @@
             "index": 141
         },
         {
-            "timestamp": 70.0809,
-            "time": "01:10.081",
+            "timestamp": 68.0809,
+            "time": "01:08.081",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8345,8 +8345,8 @@
             "index": 142
         },
         {
-            "timestamp": 70.1912,
-            "time": "01:10.191",
+            "timestamp": 68.1912,
+            "time": "01:08.191",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8409,8 +8409,8 @@
             "index": 143
         },
         {
-            "timestamp": 71.0414,
-            "time": "01:11.041",
+            "timestamp": 69.0414,
+            "time": "01:09.041",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8464,8 +8464,8 @@
             "index": 144
         },
         {
-            "timestamp": 71.1343,
-            "time": "01:11.134",
+            "timestamp": 69.1343,
+            "time": "01:09.134",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8519,8 +8519,8 @@
             "index": 145
         },
         {
-            "timestamp": 71.9599,
-            "time": "01:11.960",
+            "timestamp": 69.9599,
+            "time": "01:09.960",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8574,8 +8574,8 @@
             "index": 146
         },
         {
-            "timestamp": 72.1121,
-            "time": "01:12.112",
+            "timestamp": 70.1121,
+            "time": "01:10.112",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8629,8 +8629,8 @@
             "index": 147
         },
         {
-            "timestamp": 74.0063,
-            "time": "01:14.006",
+            "timestamp": 72.0063,
+            "time": "01:12.006",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8684,8 +8684,8 @@
             "index": 148
         },
         {
-            "timestamp": 74.1421,
-            "time": "01:14.142",
+            "timestamp": 72.1421,
+            "time": "01:12.142",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8739,8 +8739,8 @@
             "index": 149
         },
         {
-            "timestamp": 75.8237,
-            "time": "01:15.824",
+            "timestamp": 73.8237,
+            "time": "01:13.824",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8797,8 +8797,8 @@
             "index": 150
         },
         {
-            "timestamp": 76.0227,
-            "time": "01:16.023",
+            "timestamp": 74.0227,
+            "time": "01:14.023",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8855,8 +8855,8 @@
             "index": 151
         },
         {
-            "timestamp": 76.2413,
-            "time": "01:16.241",
+            "timestamp": 74.2413,
+            "time": "01:14.241",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8919,8 +8919,8 @@
             "index": 152
         },
         {
-            "timestamp": 78.6156,
-            "time": "01:18.616",
+            "timestamp": 76.6156,
+            "time": "01:16.616",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -8977,8 +8977,8 @@
             "index": 153
         },
         {
-            "timestamp": 80.5472,
-            "time": "01:20.547",
+            "timestamp": 78.5472,
+            "time": "01:18.547",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9032,8 +9032,8 @@
             "index": 154
         },
         {
-            "timestamp": 80.6683,
-            "time": "01:20.668",
+            "timestamp": 78.6683,
+            "time": "01:18.668",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9087,8 +9087,8 @@
             "index": 155
         },
         {
-            "timestamp": 81.5646,
-            "time": "01:21.565",
+            "timestamp": 79.5646,
+            "time": "01:19.565",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9142,8 +9142,8 @@
             "index": 156
         },
         {
-            "timestamp": 81.8233,
-            "time": "01:21.823",
+            "timestamp": 79.8233,
+            "time": "01:19.823",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9197,8 +9197,8 @@
             "index": 157
         },
         {
-            "timestamp": 82.4908,
-            "time": "01:22.491",
+            "timestamp": 80.4908,
+            "time": "01:20.491",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9252,8 +9252,8 @@
             "index": 158
         },
         {
-            "timestamp": 82.5933,
-            "time": "01:22.593",
+            "timestamp": 80.5933,
+            "time": "01:20.593",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9307,8 +9307,8 @@
             "index": 159
         },
         {
-            "timestamp": 83.4852,
-            "time": "01:23.485",
+            "timestamp": 81.4852,
+            "time": "01:21.485",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9362,8 +9362,8 @@
             "index": 160
         },
         {
-            "timestamp": 83.587,
-            "time": "01:23.587",
+            "timestamp": 81.587,
+            "time": "01:21.587",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9417,8 +9417,8 @@
             "index": 161
         },
         {
-            "timestamp": 86.7576,
-            "time": "01:26.758",
+            "timestamp": 84.7576,
+            "time": "01:24.758",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9472,8 +9472,8 @@
             "index": 162
         },
         {
-            "timestamp": 86.9032,
-            "time": "01:26.903",
+            "timestamp": 84.9032,
+            "time": "01:24.903",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9527,8 +9527,8 @@
             "index": 163
         },
         {
-            "timestamp": 88.2737,
-            "time": "01:28.274",
+            "timestamp": 86.2737,
+            "time": "01:26.274",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9582,8 +9582,8 @@
             "index": 164
         },
         {
-            "timestamp": 88.3979,
-            "time": "01:28.398",
+            "timestamp": 86.3979,
+            "time": "01:26.398",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9637,8 +9637,8 @@
             "index": 165
         },
         {
-            "timestamp": 89.5999,
-            "time": "01:29.600",
+            "timestamp": 87.5999,
+            "time": "01:27.600",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9692,8 +9692,8 @@
             "index": 166
         },
         {
-            "timestamp": 89.7467,
-            "time": "01:29.747",
+            "timestamp": 87.7467,
+            "time": "01:27.747",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9747,8 +9747,8 @@
             "index": 167
         },
         {
-            "timestamp": 91.413,
-            "time": "01:31.413",
+            "timestamp": 89.413,
+            "time": "01:29.413",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9802,8 +9802,8 @@
             "index": 168
         },
         {
-            "timestamp": 91.5249,
-            "time": "01:31.525",
+            "timestamp": 89.5249,
+            "time": "01:29.525",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9857,8 +9857,8 @@
             "index": 169
         },
         {
-            "timestamp": 92.8523,
-            "time": "01:32.852",
+            "timestamp": 90.8523,
+            "time": "01:30.852",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9912,8 +9912,8 @@
             "index": 170
         },
         {
-            "timestamp": 92.9935,
-            "time": "01:32.993",
+            "timestamp": 90.9935,
+            "time": "01:30.993",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -9967,8 +9967,8 @@
             "index": 171
         },
         {
-            "timestamp": 94.0787,
-            "time": "01:34.079",
+            "timestamp": 92.0787,
+            "time": "01:32.079",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10022,8 +10022,8 @@
             "index": 172
         },
         {
-            "timestamp": 94.2297,
-            "time": "01:34.230",
+            "timestamp": 92.2297,
+            "time": "01:32.230",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10077,8 +10077,8 @@
             "index": 173
         },
         {
-            "timestamp": 95.4749,
-            "time": "01:35.475",
+            "timestamp": 93.4749,
+            "time": "01:33.475",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10132,8 +10132,8 @@
             "index": 174
         },
         {
-            "timestamp": 95.6135,
-            "time": "01:35.614",
+            "timestamp": 93.6135,
+            "time": "01:33.614",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10187,8 +10187,8 @@
             "index": 175
         },
         {
-            "timestamp": 96.6942,
-            "time": "01:36.694",
+            "timestamp": 94.6942,
+            "time": "01:34.694",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10242,8 +10242,8 @@
             "index": 176
         },
         {
-            "timestamp": 96.8367,
-            "time": "01:36.837",
+            "timestamp": 94.8367,
+            "time": "01:34.837",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10297,8 +10297,8 @@
             "index": 177
         },
         {
-            "timestamp": 98.2658,
-            "time": "01:38.266",
+            "timestamp": 96.2658,
+            "time": "01:36.266",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10352,8 +10352,8 @@
             "index": 178
         },
         {
-            "timestamp": 98.3862,
-            "time": "01:38.386",
+            "timestamp": 96.3862,
+            "time": "01:36.386",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10407,8 +10407,8 @@
             "index": 179
         },
         {
-            "timestamp": 99.4194,
-            "time": "01:39.419",
+            "timestamp": 97.4194,
+            "time": "01:37.419",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10462,8 +10462,8 @@
             "index": 180
         },
         {
-            "timestamp": 99.5773,
-            "time": "01:39.577",
+            "timestamp": 97.5773,
+            "time": "01:37.577",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10517,8 +10517,8 @@
             "index": 181
         },
         {
-            "timestamp": 101.1415,
-            "time": "01:41.141",
+            "timestamp": 99.1415,
+            "time": "01:39.141",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10572,8 +10572,8 @@
             "index": 182
         },
         {
-            "timestamp": 101.2569,
-            "time": "01:41.257",
+            "timestamp": 99.2569,
+            "time": "01:39.257",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10627,8 +10627,8 @@
             "index": 183
         },
         {
-            "timestamp": 103.0297,
-            "time": "01:43.030",
+            "timestamp": 101.0297,
+            "time": "01:41.030",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10682,8 +10682,8 @@
             "index": 184
         },
         {
-            "timestamp": 103.1679,
-            "time": "01:43.168",
+            "timestamp": 101.1679,
+            "time": "01:41.168",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10737,8 +10737,8 @@
             "index": 185
         },
         {
-            "timestamp": 104.2096,
-            "time": "01:44.210",
+            "timestamp": 102.2096,
+            "time": "01:42.210",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10792,8 +10792,8 @@
             "index": 186
         },
         {
-            "timestamp": 104.3457,
-            "time": "01:44.346",
+            "timestamp": 102.3457,
+            "time": "01:42.346",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10847,8 +10847,8 @@
             "index": 187
         },
         {
-            "timestamp": 105.7327,
-            "time": "01:45.733",
+            "timestamp": 103.7327,
+            "time": "01:43.733",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10902,8 +10902,8 @@
             "index": 188
         },
         {
-            "timestamp": 105.8868,
-            "time": "01:45.887",
+            "timestamp": 103.8868,
+            "time": "01:43.887",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -10957,8 +10957,8 @@
             "index": 189
         },
         {
-            "timestamp": 106.9488,
-            "time": "01:46.949",
+            "timestamp": 104.9488,
+            "time": "01:44.949",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11012,8 +11012,8 @@
             "index": 190
         },
         {
-            "timestamp": 107.0976,
-            "time": "01:47.098",
+            "timestamp": 105.0976,
+            "time": "01:45.098",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11067,8 +11067,8 @@
             "index": 191
         },
         {
-            "timestamp": 108.2098,
-            "time": "01:48.210",
+            "timestamp": 106.2098,
+            "time": "01:46.210",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11122,8 +11122,8 @@
             "index": 192
         },
         {
-            "timestamp": 108.3427,
-            "time": "01:48.343",
+            "timestamp": 106.3427,
+            "time": "01:46.343",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11177,8 +11177,8 @@
             "index": 193
         },
         {
-            "timestamp": 109.9986,
-            "time": "01:49.999",
+            "timestamp": 107.9986,
+            "time": "01:47.999",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11232,8 +11232,8 @@
             "index": 194
         },
         {
-            "timestamp": 110.1484,
-            "time": "01:50.148",
+            "timestamp": 108.1484,
+            "time": "01:48.148",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11287,8 +11287,8 @@
             "index": 195
         },
         {
-            "timestamp": 113.6536,
-            "time": "01:53.654",
+            "timestamp": 111.6536,
+            "time": "01:51.654",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11342,8 +11342,8 @@
             "index": 196
         },
         {
-            "timestamp": 113.7908,
-            "time": "01:53.791",
+            "timestamp": 111.7908,
+            "time": "01:51.791",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11397,8 +11397,8 @@
             "index": 197
         },
         {
-            "timestamp": 116.6093,
-            "time": "01:56.609",
+            "timestamp": 114.6093,
+            "time": "01:54.609",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11452,8 +11452,8 @@
             "index": 198
         },
         {
-            "timestamp": 116.7421,
-            "time": "01:56.742",
+            "timestamp": 114.7421,
+            "time": "01:54.742",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11507,8 +11507,8 @@
             "index": 199
         },
         {
-            "timestamp": 119.098,
-            "time": "01:59.098",
+            "timestamp": 117.098,
+            "time": "01:57.098",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11562,8 +11562,8 @@
             "index": 200
         },
         {
-            "timestamp": 119.2467,
-            "time": "01:59.247",
+            "timestamp": 117.2467,
+            "time": "01:57.247",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11617,8 +11617,8 @@
             "index": 201
         },
         {
-            "timestamp": 121.1451,
-            "time": "02:01.145",
+            "timestamp": 119.1451,
+            "time": "01:59.145",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11672,8 +11672,8 @@
             "index": 202
         },
         {
-            "timestamp": 121.2674,
-            "time": "02:01.267",
+            "timestamp": 119.2674,
+            "time": "01:59.267",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11727,8 +11727,8 @@
             "index": 203
         },
         {
-            "timestamp": 124.0385,
-            "time": "02:04.038",
+            "timestamp": 122.0385,
+            "time": "02:02.038",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11782,8 +11782,8 @@
             "index": 204
         },
         {
-            "timestamp": 124.1655,
-            "time": "02:04.165",
+            "timestamp": 122.1655,
+            "time": "02:02.165",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11837,8 +11837,8 @@
             "index": 205
         },
         {
-            "timestamp": 125.1463,
-            "time": "02:05.146",
+            "timestamp": 123.1463,
+            "time": "02:03.146",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11892,8 +11892,8 @@
             "index": 206
         },
         {
-            "timestamp": 125.2729,
-            "time": "02:05.273",
+            "timestamp": 123.2729,
+            "time": "02:03.273",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -11947,8 +11947,8 @@
             "index": 207
         },
         {
-            "timestamp": 126.8844,
-            "time": "02:06.884",
+            "timestamp": 124.8844,
+            "time": "02:04.884",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
@@ -12002,8 +12002,8 @@
             "index": 208
         },
         {
-            "timestamp": 127.0321,
-            "time": "02:07.032",
+            "timestamp": 125.0321,
+            "time": "02:05.032",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12057,8 +12057,8 @@
             "index": 209
         },
         {
-            "timestamp": 130.3847,
-            "time": "02:10.385",
+            "timestamp": 128.3847,
+            "time": "02:08.385",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12112,8 +12112,8 @@
             "index": 210
         },
         {
-            "timestamp": 130.5244,
-            "time": "02:10.524",
+            "timestamp": 128.5244,
+            "time": "02:08.524",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12167,8 +12167,8 @@
             "index": 211
         },
         {
-            "timestamp": 133.6118,
-            "time": "02:13.612",
+            "timestamp": 131.6118,
+            "time": "02:11.612",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12225,8 +12225,8 @@
             "index": 212
         },
         {
-            "timestamp": 133.7282,
-            "time": "02:13.728",
+            "timestamp": 131.7282,
+            "time": "02:11.728",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12283,8 +12283,8 @@
             "index": 213
         },
         {
-            "timestamp": 133.8117,
-            "time": "02:13.812",
+            "timestamp": 131.8117,
+            "time": "02:11.812",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12347,8 +12347,8 @@
             "index": 214
         },
         {
-            "timestamp": 133.9133,
-            "time": "02:13.913",
+            "timestamp": 131.9133,
+            "time": "02:11.913",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12405,8 +12405,8 @@
             "index": 215
         },
         {
-            "timestamp": 134.0198,
-            "time": "02:14.020",
+            "timestamp": 132.0198,
+            "time": "02:12.020",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12469,8 +12469,8 @@
             "index": 216
         },
         {
-            "timestamp": 135.5517,
-            "time": "02:15.552",
+            "timestamp": 133.5517,
+            "time": "02:13.552",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12524,8 +12524,8 @@
             "index": 217
         },
         {
-            "timestamp": 135.6811,
-            "time": "02:15.681",
+            "timestamp": 133.6811,
+            "time": "02:13.681",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12579,8 +12579,8 @@
             "index": 218
         },
         {
-            "timestamp": 138.1847,
-            "time": "02:18.185",
+            "timestamp": 136.1847,
+            "time": "02:16.185",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12634,8 +12634,8 @@
             "index": 219
         },
         {
-            "timestamp": 138.2915,
-            "time": "02:18.292",
+            "timestamp": 136.2915,
+            "time": "02:16.292",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12689,8 +12689,8 @@
             "index": 220
         },
         {
-            "timestamp": 139.6906,
-            "time": "02:19.691",
+            "timestamp": 137.6906,
+            "time": "02:17.691",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12744,8 +12744,8 @@
             "index": 221
         },
         {
-            "timestamp": 139.8232,
-            "time": "02:19.823",
+            "timestamp": 137.8232,
+            "time": "02:17.823",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12799,8 +12799,8 @@
             "index": 222
         },
         {
-            "timestamp": 140.9317,
-            "time": "02:20.932",
+            "timestamp": 138.9317,
+            "time": "02:18.932",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12854,8 +12854,8 @@
             "index": 223
         },
         {
-            "timestamp": 141.0761,
-            "time": "02:21.076",
+            "timestamp": 139.0761,
+            "time": "02:19.076",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12909,8 +12909,8 @@
             "index": 224
         },
         {
-            "timestamp": 142.749,
-            "time": "02:22.749",
+            "timestamp": 140.749,
+            "time": "02:20.749",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -12967,8 +12967,8 @@
             "index": 225
         },
         {
-            "timestamp": 142.8876,
-            "time": "02:22.888",
+            "timestamp": 140.8876,
+            "time": "02:20.888",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13025,8 +13025,8 @@
             "index": 226
         },
         {
-            "timestamp": 142.9946,
-            "time": "02:22.995",
+            "timestamp": 140.9946,
+            "time": "02:20.995",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13089,8 +13089,8 @@
             "index": 227
         },
         {
-            "timestamp": 143.1085,
-            "time": "02:23.108",
+            "timestamp": 141.1085,
+            "time": "02:21.108",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13147,8 +13147,8 @@
             "index": 228
         },
         {
-            "timestamp": 143.2103,
-            "time": "02:23.210",
+            "timestamp": 141.2103,
+            "time": "02:21.210",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13211,8 +13211,8 @@
             "index": 229
         },
         {
-            "timestamp": 144.244,
-            "time": "02:24.244",
+            "timestamp": 142.244,
+            "time": "02:22.244",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13266,8 +13266,8 @@
             "index": 230
         },
         {
-            "timestamp": 144.3944,
-            "time": "02:24.394",
+            "timestamp": 142.3944,
+            "time": "02:22.394",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13321,8 +13321,8 @@
             "index": 231
         },
         {
-            "timestamp": 147.5064,
-            "time": "02:27.506",
+            "timestamp": 145.5064,
+            "time": "02:25.506",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13376,8 +13376,8 @@
             "index": 232
         },
         {
-            "timestamp": 147.7798,
-            "time": "02:27.780",
+            "timestamp": 145.7798,
+            "time": "02:25.780",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13431,8 +13431,8 @@
             "index": 233
         },
         {
-            "timestamp": 147.9003,
-            "time": "02:27.900",
+            "timestamp": 145.9003,
+            "time": "02:25.900",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13486,8 +13486,8 @@
             "index": 234
         },
         {
-            "timestamp": 148.0257,
-            "time": "02:28.026",
+            "timestamp": 146.0257,
+            "time": "02:26.026",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13541,8 +13541,8 @@
             "index": 235
         },
         {
-            "timestamp": 148.2619,
-            "time": "02:28.262",
+            "timestamp": 146.2619,
+            "time": "02:26.262",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13596,8 +13596,8 @@
             "index": 236
         },
         {
-            "timestamp": 148.3487,
-            "time": "02:28.349",
+            "timestamp": 146.3487,
+            "time": "02:26.349",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13651,8 +13651,8 @@
             "index": 237
         },
         {
-            "timestamp": 150.0875,
-            "time": "02:30.088",
+            "timestamp": 148.0875,
+            "time": "02:28.088",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13706,8 +13706,8 @@
             "index": 238
         },
         {
-            "timestamp": 150.2142,
-            "time": "02:30.214",
+            "timestamp": 148.2142,
+            "time": "02:28.214",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13761,8 +13761,8 @@
             "index": 239
         },
         {
-            "timestamp": 151.1867,
-            "time": "02:31.187",
+            "timestamp": 149.1867,
+            "time": "02:29.187",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13819,8 +13819,8 @@
             "index": 240
         },
         {
-            "timestamp": 151.3983,
-            "time": "02:31.398",
+            "timestamp": 149.3983,
+            "time": "02:29.398",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13877,8 +13877,8 @@
             "index": 241
         },
         {
-            "timestamp": 151.5047,
-            "time": "02:31.505",
+            "timestamp": 149.5047,
+            "time": "02:29.505",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13941,8 +13941,8 @@
             "index": 242
         },
         {
-            "timestamp": 151.6007,
-            "time": "02:31.601",
+            "timestamp": 149.6007,
+            "time": "02:29.601",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -13999,8 +13999,8 @@
             "index": 243
         },
         {
-            "timestamp": 151.7016,
-            "time": "02:31.702",
+            "timestamp": 149.7016,
+            "time": "02:29.702",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14063,8 +14063,8 @@
             "index": 244
         },
         {
-            "timestamp": 153.3706,
-            "time": "02:33.371",
+            "timestamp": 151.3706,
+            "time": "02:31.371",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14121,8 +14121,8 @@
             "index": 245
         },
         {
-            "timestamp": 153.5225,
-            "time": "02:33.523",
+            "timestamp": 151.5225,
+            "time": "02:31.523",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14179,8 +14179,8 @@
             "index": 246
         },
         {
-            "timestamp": 153.6083,
-            "time": "02:33.608",
+            "timestamp": 151.6083,
+            "time": "02:31.608",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14243,8 +14243,8 @@
             "index": 247
         },
         {
-            "timestamp": 153.715,
-            "time": "02:33.715",
+            "timestamp": 151.715,
+            "time": "02:31.715",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14301,8 +14301,8 @@
             "index": 248
         },
         {
-            "timestamp": 153.807,
-            "time": "02:33.807",
+            "timestamp": 151.807,
+            "time": "02:31.807",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14365,8 +14365,8 @@
             "index": 249
         },
         {
-            "timestamp": 154.5633,
-            "time": "02:34.563",
+            "timestamp": 152.5633,
+            "time": "02:32.563",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14420,8 +14420,8 @@
             "index": 250
         },
         {
-            "timestamp": 154.6969,
-            "time": "02:34.697",
+            "timestamp": 152.6969,
+            "time": "02:32.697",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14475,8 +14475,8 @@
             "index": 251
         },
         {
-            "timestamp": 156.2079,
-            "time": "02:36.208",
+            "timestamp": 154.2079,
+            "time": "02:34.208",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14530,8 +14530,8 @@
             "index": 252
         },
         {
-            "timestamp": 156.3294,
-            "time": "02:36.329",
+            "timestamp": 154.3294,
+            "time": "02:34.329",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14585,8 +14585,8 @@
             "index": 253
         },
         {
-            "timestamp": 158.799,
-            "time": "02:38.799",
+            "timestamp": 156.799,
+            "time": "02:36.799",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14640,8 +14640,8 @@
             "index": 254
         },
         {
-            "timestamp": 158.9433,
-            "time": "02:38.943",
+            "timestamp": 156.9433,
+            "time": "02:36.943",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14695,8 +14695,8 @@
             "index": 255
         },
         {
-            "timestamp": 161.8967,
-            "time": "02:41.897",
+            "timestamp": 159.8967,
+            "time": "02:39.897",
             "application": "WINWORD.EXE",
             "window_title": "",
             "focused_element": {
@@ -14750,8 +14750,8 @@
             "index": 256
         },
         {
-            "timestamp": 162.0762,
-            "time": "02:42.076",
+            "timestamp": 160.0762,
+            "time": "02:40.076",
             "application": "WINWORD.EXE",
             "window_title": "Task ID 50 - Word",
             "focused_element": {
