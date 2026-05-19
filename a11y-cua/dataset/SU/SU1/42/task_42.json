@@ -16,8 +16,7 @@
             "started_at": 1755563209.272851,
             "ended_at": 1755563260.4389699,
             "started_time": "00:00.000",
-            "ended_time": "00:41.981",
-            "duration": 51.166119
+            "ended_time": "00:41.981"
         },
         "statistics": {
             "total_events": 77,
